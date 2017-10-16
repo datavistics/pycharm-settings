@@ -5,6 +5,7 @@
       <mapping ext="ipynb-meta" type="Markdown" />
       <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="Your Brain's API" type="PLAIN_TEXT" />
       <mapping pattern="2017-09-15--23-57-42" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
