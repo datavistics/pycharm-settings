@@ -9,18 +9,23 @@
       <file name="/Python Console" timestamp="1510643658143">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510646509487">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="5" />
+        <mark key="." line="23" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1510643666178">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510644029975">
-        <mark key="'" line="41" column="45" />
-        <mark key="[" line="41" column="63" />
-        <mark key="]" line="42" column="68" />
-        <mark key="." line="42" column="68" />
-        <mark key="^" line="42" column="68" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510646556589">
+        <mark key="'" line="51" column="69" />
+        <mark key="[" line="54" column="53" />
+        <mark key="]" line="54" column="60" />
+        <mark key="^" line="54" column="60" />
+        <mark key="." line="54" column="60" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1510644298350">
         <mark key="[" line="11" column="41" />
@@ -32,34 +37,63 @@
     <jumps>
       <jump line="41" column="45" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="42" column="68" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="51" column="69" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1hcCBqaiA8RXNjPgo=</text>
+      <register name="&quot;" type="4">
+        <text>reactions</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1hcCBqaiA8RXNjPgo=</text>
+      <register name="-" type="4">
+        <text>reactions</text>
+      </register>
+      <register name="/" type="4">
+        <text>fk_com</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciByZWFjdGlvbiBpbiBwb3N0WydyZWFjdGlvbnMnXVsnZGF0YSddOgogICAgICAgICAgICAgICAgICAgIHJlYWN0aW9uX25hbWUgPSBOYW1lKGlkPXJlYWN0aW9uWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb21fbmFtZT1yZWFjdGlvblsnaWQnXSkKICAgICAgICAgICAgICAgICAgICBwb3N0X3JlYWN0aW9uID0gUFJlYWN0aW9uKGlkPXJlYWN0aW9uWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhY3Rpb249cmVhY3Rpb25bJ3R5cGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZrX3ByZWFjdGlvbl9wb3N0PXBvc3RbJ2lkJ10pCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHJlYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBwb3N0X2dyb3VwIGluIGRhdGE6CiAgICAgICAgZm9yIHBvc3QgaW4gcG9zdF9ncm91cDoK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZrX2NvbW1lbnRfcG9zdCA9IENvbHVtbihTdHJpbmcoMzIpLCBGb3JlaWduS2V5KCdwb3N0LmlkJyksIG51bGxhYmxlPUZhbHNlKQogICAgY29tX2NvbW1lbnQgPSByZWxhdGlvbnNoaXAoQ29tQ29tbWVudCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZyb21faWQgPSBDb2x1bW4oU3RyaW5nKDE3KSwgRm9yZWlnbktleSgnbmFtZS5pZCcpLCBudWxsYWJsZT1GYWxzZSkKICAgIG1lc3NhZ2UgPSBDb2x1bW4oU3RyaW5nKDEwMDApLCBudWxsYWJsZT1GYWxzZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKFN0cmluZygzMiksIHByaW1hcnlfa2V5PVRydWUsIG51bGxhYmxlPUZhbHNlKQogICAgY3JlYXRlZF90aW1lID0gQ29sdW1uKERhdGVUaW1lKCksIG51bGxhYmxlPUZhbHNlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgQ29tbWVudChCYXNlKToKICAgIF9fdGFibGVuYW1lX18gPSAnY29tbWVudCcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc3RfdHlwZT1jb21tZW50Wyd0eXBlJ10sCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb21faWQ9Y29tbWVudFsnZnJvbSddWydpZCddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Replace</text>
       </register>
-      <register name="/" type="4">
-        <text>key</text>
-      </register>
     </registers>
     <search>
-      <last-search>key</last-search>
+      <last-search>fk_com</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
+      <last-pattern>fk_com</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>key</entry>
+        <entry>fk_com</entry>
       </history-search>
       <history-cmd>
         <entry>open ~/.ideavimrc</entry>
@@ -83,6 +117,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
