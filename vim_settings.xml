@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510647910375">
-        <mark key="'" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1510659874000">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="/code.py" timestamp="1510643648186">
         <mark key="[" line="0" column="0" />
@@ -28,35 +28,34 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510657584034">
-        <mark key="'" line="122" column="68" />
-        <mark key="[" line="79" column="78" />
-        <mark key="]" line="79" column="78" />
-        <mark key="^" line="79" column="78" />
-        <mark key="." line="79" column="78" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510659555807">
+        <mark key="'" line="70" column="72" />
+        <mark key="[" line="79" column="74" />
+        <mark key="]" line="80" column="49" />
+        <mark key="^" line="80" column="49" />
+        <mark key="." line="80" column="49" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1510649746306">
         <mark key="'" line="55" column="20" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1510657899617">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1510657990701">
+        <mark key="'" line="2" column="14" />
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+        <mark key="." line="2" column="13" />
       </file>
     </filemarks>
     <jumps>
       <jump line="41" column="45" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="42" column="68" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="51" column="69" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="31" column="40" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="2" column="13" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="55" column="72" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="0" column="11" filename="/Dummy.txt" />
       <jump line="19" column="42" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
       <jump line="21" column="44" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
       <jump line="31" column="51" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
@@ -75,60 +74,67 @@
       <jump line="52" column="17" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="54" column="122" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="68" column="41" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="70" column="68" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="59" column="10" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="122" column="68" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="106" column="78" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="2" column="14" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="79" column="83" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="91" column="94" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="113" column="89" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="60" column="63" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="70" column="72" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2V0IHN1cnJvdW5kCg==</text>
+        <text encoding="base64">VXBkYXRlcyBpbiBvcmRlcmluZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>reac</text>
+        <text>get_or</text>
       </register>
       <register name="0" type="4">
-        <text>, gn: {group_num}</text>
+        <text>(group_num, post_num, post['id'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0IHN1cnJvdW5kCg==</text>
+        <text encoding="base64">VXBkYXRlcyBpbiBvcmRlcmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">VXBkYXRlcyB0byByZW1vdmUgcGx1cmFsaXR5IGluIG5hbWluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBvc3RbJ3R5cGUnXSA9PSAncGhvdG8nOgogICAgICAgICAgICAgICAgICAgIHBvc3RbJ21lc3NhZ2UnXSA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnX2RbKGNvbV9yZWFjdGlvblsnaWQnXSxwb3N0KV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHBvc3QuZ2V0KCdmcm9tJywgRmFsc2UpOgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidObyBuYW1lIGZvciBwb3N0IHdpdGggcG9zdF9pZDoge3Bvc3RbImlkIl19JykK</text>
+        <text encoding="base64">c2V0IHN1cnJvdW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGF0dHIgaW4gWydjcmVhdGVkX3RpbWUnLCBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHBvc3QuZ2V0KCdpZCcsIEZhbHNlKSwgbG9nZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBvc3RbJ3R5cGUnXSA9PSAncGhvdG8nOgogICAgICAgICAgICAgICAgICAgIHBvc3RbJ21lc3NhZ2UnXSA9ICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnRXZhbHVhdGluZyB7ZmlsZW5hbWV9JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHBvc3QuZ2V0KCdmcm9tJywgRmFsc2UpOgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidObyBuYW1lIGZvciBwb3N0IHdpdGggcG9zdF9pZDoge3Bvc3RbImlkIl19JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlucHV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGF0dHIgaW4gWydjcmVhdGVkX3RpbWUnLCBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUFJlYWN0aW9uKEJhc2UpOgogICAgX190YWJsZW5hbWVfXyA9ICdwX3JlYWN0aW9uJwogICAgaWQgPSBDb2x1bW4oU3RyaW5nKDE3KSwgRm9yZWlnbktleSgnbmFtZS5pZCcpLCBwcmltYXJ5X2tleT1UcnVlKQogICAgcmVhY3Rpb24gPSBDb2x1bW4oU3RyaW5nKDUpLCBudWxsYWJsZT1GYWxzZSkKICAgIGZrX3ByZWFjdGlvbl9wb3N0ID0gQ29sdW1uKFN0cmluZygzMiksIEZvcmVpZ25LZXkoJ3Bvc3QuaWQnKSwgcHJpbWFyeV9rZXk9VHJ1ZSkKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHBvc3QuZ2V0KCdpZCcsIEZhbHNlKSwgbG9nZwo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
       </register>
     </registers>
     <search>
-      <last-search>reac</last-search>
+      <last-search>get_or</last-search>
       <last-offset />
-      <last-pattern>reac</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>get_or</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -147,6 +153,8 @@
         <entry>CReac</entry>
         <entry>for</entry>
         <entry>reac</entry>
+        <entry>debug</entry>
+        <entry>get_or</entry>
       </history-search>
       <history-cmd>
         <entry>open ~/.ideavimrc</entry>
