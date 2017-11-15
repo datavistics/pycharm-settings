@@ -47,6 +47,9 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="/dummy.sql" timestamp="1510749191844">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="41" column="45" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -127,7 +130,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHBvc3QuZ2V0KCdpZCcsIEZhbHNlKSwgbG9nZwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set surround</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -159,13 +162,15 @@
       <history-cmd>
         <entry>open ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry>action Find</entry>
-        <entry>action Replace</entry>
         <entry>w</entry>
         <entry>edit ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
+        <entry>action Find</entry>
+        <entry>action Replace</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
