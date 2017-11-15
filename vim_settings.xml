@@ -15,8 +15,8 @@
       <file name="/Python Console" timestamp="1510656152887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510657360847">
-        <mark key="'" line="14" column="51" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510757434716">
+        <mark key="'" line="30" column="31" />
         <mark key="[" line="74" column="11" />
         <mark key="]" line="74" column="11" />
         <mark key="." line="74" column="11" />
@@ -28,9 +28,9 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510659555807">
-        <mark key="'" line="71" column="72" />
-        <mark key="[" line="82" column="74" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510757680474">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="28" column="51" />
         <mark key="]" line="83" column="49" />
         <mark key="^" line="83" column="49" />
         <mark key="." line="83" column="49" />
@@ -47,7 +47,7 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/dummy.sql" timestamp="1510750996384">
+      <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -88,6 +88,8 @@
       <jump line="60" column="63" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="70" column="72" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="30" column="31" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -161,13 +163,13 @@
       </history-search>
       <history-cmd>
         <entry>open ~/.ideavimrc</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>w</entry>
         <entry>edit ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -199,6 +201,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
