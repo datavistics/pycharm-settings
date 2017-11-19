@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/leetcode/p0020.py" timestamp="1511094127599">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1511083495027">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,13 +166,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/leetcode/p0005.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/leetcode/p0015.py" />
       <jump line="11" column="42" filename="$USER_HOME$/projects/leetcode/p0015.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/projects/leetcode/p0020.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d.get(-1*(i + j), False)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgcmV0dXJuIHN0YWNrID09IFtdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>sel</text>
@@ -175,31 +182,31 @@
         <text>d.get(-1*(i + j), False)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCBqLCAtMSooaStqKSkK</text>
+        <text encoding="base64">ICAgcmV0dXJuIHN0YWNrID09IFtdCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dnN0YWNrID0gW10KICAgIGQgPSB7J3snOiAnfScsICcoJzogJyknLCAnWyc6ICddJ30KICAgIHN5bWJvbHMgPSBzZXQoKCcoJywgJ1snLCAneycpKQogICAgZm9yIGxldHRlciBpbiBzOgogICAgICAgIGlmIGxldHRlciBpbiBzeW1ib2xzOgogICAgICAgICAgICBzdGFjay5hcHBlbmQobGV0dGVyKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGlmIHN0YWNrOgogICAgICAgICAgICAgICAgaWYgbGV0dGVyICE9IGRbc3RhY2sucG9wKCldOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQog</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGQgPSBkZWZhdWx0ZGljdChpbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXR0ZXIgaW4gZDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgd2hpbGUgaGlnaCAhPSBsb3c6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpLCBqLCAtMSooaStqKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIGhpZ2ggIT0gbG93Ogo=</text>
+        <text encoding="base64">ICAgIGZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobWF4QXJlYShbMSwgMywgNiwgNCwgMiwgNV0pKQo=</text>
+        <text encoding="base64">ICAgIGQgPSBkZWZhdWx0ZGljdChpbnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICMgd2hpbGUgaGlnaCAhPSBsb3c6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXJnZXN0ID0gbWF4KCkK</text>
+        <text encoding="base64">ICAgIHdoaWxlIGhpZ2ggIT0gbG93Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgPSBtaW4oaGVpZ2h0WzFdLCBoZWlnaHRbMF0pCg==</text>
+        <text encoding="base64">cHJpbnQobWF4QXJlYShbMSwgMywgNiwgNCwgMiwgNV0pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
