@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/datavistics/PolitiTweet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/datavistics/EqualAreaCartogram.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Derek-T\Projects" />
+    <option name="cloneParentDir" value="C:\Users\DT-Laptop\projects" />
   </component>
 </application>
