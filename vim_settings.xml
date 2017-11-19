@@ -69,12 +69,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0011.py" timestamp="1511086466260">
+      <file name="$USER_HOME$/projects/leetcode/p0011.py" timestamp="1511086676658">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1510657990701">
         <mark key="'" line="2" column="14" />
@@ -149,10 +149,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
