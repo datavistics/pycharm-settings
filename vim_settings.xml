@@ -3,25 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1511080059029">
-        <mark key="'" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1511083495027">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511079543572">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
+      <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
+        <mark key="'" line="8" column="39" />
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="68" />
         <mark key="^" line="58" column="0" />
-        <mark key="." line="164" column="0" />
+        <mark key="." line="25" column="68" />
       </file>
       <file name="/code.py" timestamp="1510830643474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1511079053306">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/chorogrid.py" timestamp="1511083331474" />
       <file name="$USER_HOME$/projects/leetcode/p005.py" timestamp="1511073175288">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="7" />
@@ -36,12 +31,12 @@
         <mark key="." line="74" column="11" />
         <mark key="^" line="16" column="93" />
       </file>
-      <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511079294406">
-        <mark key="'" line="39" column="90" />
-        <mark key="[" line="39" column="71" />
-        <mark key="]" line="39" column="91" />
-        <mark key="." line="39" column="71" />
-        <mark key="^" line="48" column="23" />
+      <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511081723430">
+        <mark key="'" line="50" column="30" />
+        <mark key="[" line="172" column="48" />
+        <mark key="]" line="172" column="48" />
+        <mark key="." line="172" column="48" />
+        <mark key="^" line="172" column="47" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/requirements.txt" timestamp="1511078860145">
         <mark key="[" line="2" column="6" />
@@ -73,6 +68,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
@@ -123,55 +124,61 @@
       <jump line="165" column="16" filename="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" />
       <jump line="162" column="16" filename="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" />
       <jump line="39" column="90" filename="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" />
+      <jump line="10" column="47" filename="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" />
+      <jump line="0" column="54" filename="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" />
+      <jump line="8" column="39" filename="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" />
+      <jump line="49" column="28" filename="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" />
+      <jump line="50" column="30" filename="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" />
+      <jump line="8" column="39" filename="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bW92ZWQgZnVuY3Rpb24gcmVhZF9maWxlIHRvIGJlIGEgbWV0aG9kCg==</text>
+        <text encoding="base64">QWRkZWQgbWV0aG9kIGNhbGwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IFRydWU=</text>
+        <text>, csv_path</text>
       </register>
       <register name="/" type="4">
-        <text>this_color</text>
+        <text>csv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIHJlYWRfZmlsZShmbmFtZSk6CiAgICBpZiBmbmFtZS5lbmRzd2l0aCgiLmNzdiIpOgogICAgICAgIHNlbGYuZGYgPSBwZC5yZWFkX2NzdihmbmFtZSkKICAgIGVsaWYgZm5hbWUuZW5kc3dpdGgoIi54bHMiKSBvciBmbmFtZS5lbmRzd2l0aCgiLnhsc3giKToKICAgICAgICBkZiA9IHBkLnJlYWRfZXhjZWwoZm5hbWUpCiAgICBlbHNlOgogICAgICAgIHRyeToKICAgICAgICAgICAgZGYgPSBncGQucmVhZF9maWxlKGZuYW1lKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW92ZWQgZnVuY3Rpb24gcmVhZF9maWxlIHRvIGJlIGEgbWV0aG9kCg==</text>
+        <text encoding="base64">QWRkZWQgbWV0aG9kIGNhbGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNfY29sb3IgPSBzcGFjaW5nX2RpY3RbJ21pc3NpbmdfY29sb3InXQo=</text>
+        <text encoding="base64">Rml4ZWQgaW5kZW50YXRpb24vd2hpdGVzcGFjZSB0byBiZSBwZXA4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNfY29sb3IgPSBzZWxmLmNvbG9yc1tzZWxmLmlkcy5pbmRleChpZF8pXQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Tm9uZSB5ZXQuIFdoeSBub3QgYmUgdGhlIGZpcnN0Pwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHJlYWRfZmlsZShmbmFtZSk6CiAgICBpZiBmbmFtZS5lbmRzd2l0aCgiLmNzdiIpOgogICAgICAgIHNlbGYuZGYgPSBwZC5yZWFkX2NzdihmbmFtZSkKICAgIGVsaWYgZm5hbWUuZW5kc3dpdGgoIi54bHMiKSBvciBmbmFtZS5lbmRzd2l0aCgiLnhsc3giKToKICAgICAgICBkZiA9IHBkLnJlYWRfZXhjZWwoZm5hbWUpCiAgICBlbHNlOgogICAgICAgIHRyeToKICAgICAgICAgICAgZGYgPSBncGQucmVhZF9maWxlKGZuYW1lKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGUpCiAgICByZXR1cm4gZGYK</text>
+        <text encoding="base64">KiBEZXJlayBUaG9tYXMgPGRhdGF2aXN0aWNzQGdtYWlsLmNvbT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgU29sdXRpb246Cg==</text>
+        <text encoding="base64">bW92ZWQgZnVuY3Rpb24gcmVhZF9maWxlIHRvIGJlIGEgbWV0aG9kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VXBkYXRlcyBpbiBvcmRlcmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNfY29sb3IgPSBzcGFjaW5nX2RpY3RbJ21pc3NpbmdfY29sb3InXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VXBkYXRlcyB0byByZW1vdmUgcGx1cmFsaXR5IGluIG5hbWluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNfY29sb3IgPSBzZWxmLmNvbG9yc1tzZWxmLmlkcy5pbmRleChpZF8pXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnX2RbKGNvbV9yZWFjdGlvblsnaWQnXSxwb3N0KV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this_color</last-search>
+      <last-search>csv</last-search>
       <last-offset />
-      <last-pattern>this_color</last-pattern>
+      <last-pattern>csv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -195,6 +202,7 @@
         <entry>get_or</entry>
         <entry>sel</entry>
         <entry>this_color</entry>
+        <entry>csv</entry>
       </history-search>
       <history-cmd>
         <entry>open ~/.ideavimrc</entry>
