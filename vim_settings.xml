@@ -88,6 +88,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/datavizrequests/.gitignore" timestamp="1511339313919">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1510643666178">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -226,7 +231,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TW9yZSBtb2R1bGFyIHdheSBvZiBnZXR0aW5nIGRhdGEuCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>Better location for sharing data.</text>
@@ -238,31 +243,31 @@
         <text encoding="base64">ICAgIGRhdGFfZnJhbWVfcGF0aCA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCBvcy5wYXJkaXIsICdkYXRhJywgJ3VzX3N0cmlrZXMuZmVhdGhlcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TW9yZSBtb2R1bGFyIHdheSBvZiBnZXR0aW5nIGRhdGEuCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TGF0ZXN0IHJlc3VsdHMhCg==</text>
+        <text encoding="base64">TW9yZSBtb2R1bGFyIHdheSBvZiBnZXR0aW5nIGRhdGEuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RERBRERFRCBGRUFUSEVSIEZPUiBPRkZMSU5FIFdPUksgQU5EIFRPIFVTRSBXSVRIIFIuCg==</text>
+        <text encoding="base64">TGF0ZXN0IHJlc3VsdHMhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YV9mcmFtZV9wYXRoID0gb3MucGF0aC5qb2luKG9zLnBhcmRpciwgJ2RhdGEnLCAndXNfc3RyaWtlcy5mZWF0aGVyJykK</text>
+        <text encoding="base64">RERBRERFRCBGRUFUSEVSIEZPUiBPRkZMSU5FIFdPUksgQU5EIFRPIFVTRSBXSVRIIFIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2V0X2RhdGEuY3JlYXRlX2RhdGFfZnJhbWUoKQo=</text>
+        <text encoding="base64">ZGF0YV9mcmFtZV9wYXRoID0gb3MucGF0aC5qb2luKG9zLnBhcmRpciwgJ2RhdGEnLCAndXNfc3RyaWtlcy5mZWF0aGVyJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2V0X2RhdGEuY3JlYXRlX2RhdGFfZnJhbWUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IGxydV9jYWNoZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGlvCmltcG9ydCBqc29uCg==</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IGxydV9jYWNoZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgcmVxdWVzdHMK</text>
+        <text encoding="base64">aW1wb3J0IGlvCmltcG9ydCBqc29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
