@@ -16,7 +16,7 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511207515450">
+      <file name="/Dummy.txt" timestamp="1511525680635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,6 +65,12 @@
         <mark key="." line="74" column="11" />
         <mark key="^" line="16" column="93" />
       </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/dvr_facebook_group_analysis_and_visualization.ipynb-meta" timestamp="1511526131896">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511081723430">
         <mark key="'" line="50" column="30" />
         <mark key="[" line="172" column="48" />
@@ -88,16 +94,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavizrequests/.gitignore" timestamp="1511339313919">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1510643666178">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511525910294">
+        <mark key="[" line="11" column="211" />
+        <mark key="]" line="11" column="211" />
+        <mark key="^" line="11" column="211" />
+        <mark key="." line="11" column="211" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
@@ -230,44 +231,44 @@
       <jump line="52" column="9" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Next steps for mapping the choropleth for /u/adubyouu</text>
       </register>
       <register name="-" type="4">
-        <text>Better location for sharing data.</text>
+        <text>Next steps for mapping the choropleth for /u/adubyouu</text>
       </register>
       <register name="/" type="4">
         <text>att</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGFfZnJhbWVfcGF0aCA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCBvcy5wYXJkaXIsICdkYXRhJywgJ3VzX3N0cmlrZXMuZmVhdGhlcicpCg==</text>
+        <text encoding="base64">ICAgICgnaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGF2aXN0aWNzL2RhdGF2aXpyZXF1ZXN0cy9tYXN0ZXIvQ29tbXVuaXR5JTIwSW1wYWN0JTIwYW5kJTIwT3Bwb3J0dW5pdHkvZGF0YS9vdXRwdXQuaHRtbCcsIFsndXBsb2FkcycsICcyMDE3JywgJzExJywgJ2NvbW11bml0eV9pbXBhY3RfYW5kX29wcG9ydHVuaXR5X21hcC5odG1sJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">U2x1ZzogZHZyX2ZhY2Vib29rX2dyb3VwX2FuYWx5c2lzX2FuZF92aXN1YWxpemF0aW9uLmlweW5iY29tbXVuaXR5LWltcGFjdC1hbmQtb3Bwb3J0dW5pdHktbWFwcGluZwpEYXRlOiAyMDE3LTExLTEyIDAwOjAyClRhZ3M6IGRhdGF2aXpyZXF1ZXN0cwphdXRob3I6IERlcmVrIFRob21hcwpTdW1tYXJ5OiBOZXh0IHN0ZXBzIGZvciBtYXBwaW5nIHRoZSBjaG9yb3BsZXRoIGZvciAvdS9hZHVieW91dQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">TW9yZSBtb2R1bGFyIHdheSBvZiBnZXR0aW5nIGRhdGEuCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci5pZGVhLwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9kYXRhL291dHB1dC5nZW9qc29uLwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9kYXRhL291dHB1dC5rbWwvCkNvbW11bml0eSBJbXBhY3QgYW5kIE9wcG9ydHVuaXR5L2RhdGEvb3V0cHV0LwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9zcmMvLlJEYXRhCkNvbW11bml0eSBJbXBhY3QgYW5kIE9wcG9ydHVuaXR5L3NyYy8uUmhpc3RvcnkKQ29tbXVuaXR5IEltcGFjdCBhbmQgT3Bwb3J0dW5pdHkvc3JjLy5pcHluYl9jaGVja3BvaW50cy8KRmFjZWJvb2sgVmlzdWFsaXphdGlvbi9kYXRhLwpGYWNlYm9vayBWaXN1YWxpemF0aW9uL3NyYy8uaXB5bmJfY2hlY2twb2ludHMvCkZhY2Vib29rIFZpc3VhbGl6YXRpb24vc3JjL0FuYWx5c2lzIGFuZCBWaXN1YWxpemF0aW9uLmlweW5iCkludGVybmV0IFNwZWVkIFRlcw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TGF0ZXN0IHJlc3VsdHMhCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RERBRERFRCBGRUFUSEVSIEZPUiBPRkZMSU5FIFdPUksgQU5EIFRPIFVTRSBXSVRIIFIuCg==</text>
+        <text encoding="base64">TW9yZSBtb2R1bGFyIHdheSBvZiBnZXR0aW5nIGRhdGEuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YV9mcmFtZV9wYXRoID0gb3MucGF0aC5qb2luKG9zLnBhcmRpciwgJ2RhdGEnLCAndXNfc3RyaWtlcy5mZWF0aGVyJykK</text>
+        <text encoding="base64">TGF0ZXN0IHJlc3VsdHMhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2V0X2RhdGEuY3JlYXRlX2RhdGFfZnJhbWUoKQo=</text>
+        <text encoding="base64">RERBRERFRCBGRUFUSEVSIEZPUiBPRkZMSU5FIFdPUksgQU5EIFRPIFVTRSBXSVRIIFIuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YV9mcmFtZV9wYXRoID0gb3MucGF0aC5qb2luKG9zLnBhcmRpciwgJ2RhdGEnLCAndXNfc3RyaWtlcy5mZWF0aGVyJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IGxydV9jYWNoZQo=</text>
+        <text encoding="base64">Z2V0X2RhdGEuY3JlYXRlX2RhdGFfZnJhbWUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvCmltcG9ydCBqc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
