@@ -21,10 +21,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1511502185767">
+      <file name="/code.py" timestamp="1511679892519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1511202141626">
+      <file name="/Python Console" timestamp="1511679895736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -94,11 +94,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511525910294">
-        <mark key="[" line="11" column="211" />
-        <mark key="]" line="11" column="211" />
-        <mark key="^" line="11" column="211" />
-        <mark key="." line="11" column="211" />
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511679885233">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
@@ -232,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Next steps for mapping the choropleth for /u/adubyouu</text>
+        <text>ISO-8859-1</text>
       </register>
       <register name="-" type="4">
-        <text>Next steps for mapping the choropleth for /u/adubyouu</text>
+        <text>ISO-8859-1</text>
       </register>
       <register name="/" type="4">
         <text>att</text>
@@ -311,12 +311,12 @@
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action Find</entry>
-        <entry>action ParameterInfo</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>q</entry>
         <entry>action $Paste</entry>
         <entry>action Replace</entry>
+        <entry>action ParameterInfo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
