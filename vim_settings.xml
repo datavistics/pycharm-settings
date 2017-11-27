@@ -16,7 +16,7 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1511679895736">
+      <file name="/Python Console" timestamp="1511799400563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -106,12 +106,12 @@
         <mark key="^" line="124" column="72" />
         <mark key="." line="105" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511796009983">
+      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511799454415">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510757434716">
         <mark key="'" line="30" column="31" />
@@ -235,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>, os.pardir</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, os.pardir</text>
       </register>
       <register name="/" type="4">
         <text>att</text>
