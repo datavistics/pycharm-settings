@@ -106,11 +106,12 @@
         <mark key="^" line="124" column="72" />
         <mark key="." line="105" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511786182704">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
+      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511796009983">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510757434716">
         <mark key="'" line="30" column="31" />
@@ -230,13 +231,14 @@
       <jump line="40" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
       <jump line="103" column="43" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
       <jump line="52" column="9" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2xlYW5lZCB0aGUgZGF0YSBpbiBSLgo=</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>ISO-8859-1</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>att</text>
