@@ -131,11 +131,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511679885233">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511797581650">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -235,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>att</text>
