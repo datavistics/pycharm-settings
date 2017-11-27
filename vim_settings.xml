@@ -16,11 +16,11 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1511799400563">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="/Python Console" timestamp="1511801178835">
+        <mark key="[" line="0" column="109" />
+        <mark key="]" line="0" column="110" />
+        <mark key="^" line="0" column="109" />
+        <mark key="." line="0" column="109" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0695.py" timestamp="1511091218724">
         <mark key="[" line="11" column="0" />
@@ -106,12 +106,12 @@
         <mark key="^" line="124" column="72" />
         <mark key="." line="105" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511799454415">
+      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511801189174">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="5" column="38" />
+        <mark key="[" line="20" column="129" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510757434716">
         <mark key="'" line="30" column="31" />
@@ -234,47 +234,47 @@
       <jump line="4" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, os.pardir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGZbJ0NpdHknXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnU3RhdGUnXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnQ291bnRyeSddLmFzdHlwZShzdHIpLnJlcGxhY2UoJ25hbiwgJywgJycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, os.pardir</text>
+        <text encoding="base64">Tm9taW5hdGltLCA=</text>
       </register>
       <register name="/" type="4">
         <text>att</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICgnaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdGF2aXN0aWNzL2RhdGF2aXpyZXF1ZXN0cy9tYXN0ZXIvQ29tbXVuaXR5JTIwSW1wYWN0JTIwYW5kJTIwT3Bwb3J0dW5pdHkvZGF0YS9vdXRwdXQuaHRtbCcsIFsndXBsb2FkcycsICcyMDE3JywgJzExJywgJ2NvbW11bml0eV9pbXBhY3RfYW5kX29wcG9ydHVuaXR5X21hcC5odG1sJ10pCg==</text>
+        <text encoding="base64">ZGZbJ0NpdHknXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnU3RhdGUnXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnQ291bnRyeSddLmFzdHlwZShzdHIpLnJlcGxhY2UoJ25hbiwgJywgJycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2xlYW5lZCB0aGUgZGF0YSBpbiBSLgo=</text>
+        <text encoding="base64">ZGZbJ0FyZWFfTmFtZSddID1wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2x1ZzogZHZyX2ZhY2Vib29rX2dyb3VwX2FuYWx5c2lzX2FuZF92aXN1YWxpemF0aW9uLmlweW5iY29tbXVuaXR5LWltcGFjdC1hbmQtb3Bwb3J0dW5pdHktbWFwcGluZwpEYXRlOiAyMDE3LTExLTEyIDAwOjAyClRhZ3M6IGRhdGF2aXpyZXF1ZXN0cwphdXRob3I6IERlcmVrIFRob21hcwpTdW1tYXJ5OiBOZXh0IHN0ZXBzIGZvciBtYXBwaW5nIHRoZSBjaG9yb3BsZXRoIGZvciAvdS9hZHVieW91dQo=</text>
+        <text encoding="base64">Z2VvbG9jYXRvciA9IE5vbWluYXRpbSgpCiMgZ2VvbG9jYXRvciA9IEdvb2dsZVYzKCkKIyB1bmNvbW1lbnQgdGhlIGdlb2xvY2F0b3IgeW91IHdhbnQgdG8gdXNlCgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci5pZGVhLwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9kYXRhL291dHB1dC5nZW9qc29uLwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9kYXRhL291dHB1dC5rbWwvCkNvbW11bml0eSBJbXBhY3QgYW5kIE9wcG9ydHVuaXR5L2RhdGEvb3V0cHV0LwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9zcmMvLlJEYXRhCkNvbW11bml0eSBJbXBhY3QgYW5kIE9wcG9ydHVuaXR5L3NyYy8uUmhpc3RvcnkKQ29tbXVuaXR5IEltcGFjdCBhbmQgT3Bwb3J0dW5pdHkvc3JjLy5pcHluYl9jaGVja3BvaW50cy8KRmFjZWJvb2sgVmlzdWFsaXphdGlvbi9kYXRhLwpGYWNlYm9vayBWaXN1YWxpemF0aW9uL3NyYy8uaXB5bmJfY2hlY2twb2ludHMvCkZhY2Vib29rIFZpc3VhbGl6YXRpb24vc3JjL0FuYWx5c2lzIGFuZCBWaXN1YWxpemF0aW9uLmlweW5iCkludGVybmV0IFNwZWVkIFRlcw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Q2xlYW5lZCB0aGUgZGF0YSBpbiBSLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">U2x1ZzogZHZyX2ZhY2Vib29rX2dyb3VwX2FuYWx5c2lzX2FuZF92aXN1YWxpemF0aW9uLmlweW5iY29tbXVuaXR5LWltcGFjdC1hbmQtb3Bwb3J0dW5pdHktbWFwcGluZwpEYXRlOiAyMDE3LTExLTEyIDAwOjAyClRhZ3M6IGRhdGF2aXpyZXF1ZXN0cwphdXRob3I6IERlcmVrIFRob21hcwpTdW1tYXJ5OiBOZXh0IHN0ZXBzIGZvciBtYXBwaW5nIHRoZSBjaG9yb3BsZXRoIGZvciAvdS9hZHVieW91dQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">TW9yZSBtb2R1bGFyIHdheSBvZiBnZXR0aW5nIGRhdGEuCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ci5pZGVhLwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9kYXRhL291dHB1dC5nZW9qc29uLwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9kYXRhL291dHB1dC5rbWwvCkNvbW11bml0eSBJbXBhY3QgYW5kIE9wcG9ydHVuaXR5L2RhdGEvb3V0cHV0LwpDb21tdW5pdHkgSW1wYWN0IGFuZCBPcHBvcnR1bml0eS9zcmMvLlJEYXRhCkNvbW11bml0eSBJbXBhY3QgYW5kIE9wcG9ydHVuaXR5L3NyYy8uUmhpc3RvcnkKQ29tbXVuaXR5IEltcGFjdCBhbmQgT3Bwb3J0dW5pdHkvc3JjLy5pcHluYl9jaGVja3BvaW50cy8KRmFjZWJvb2sgVmlzdWFsaXphdGlvbi9kYXRhLwpGYWNlYm9vayBWaXN1YWxpemF0aW9uL3NyYy8uaXB5bmJfY2hlY2twb2ludHMvCkZhY2Vib29rIFZpc3VhbGl6YXRpb24vc3JjL0FuYWx5c2lzIGFuZCBWaXN1YWxpemF0aW9uLmlweW5iCkludGVybmV0IFNwZWVkIFRlcw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TGF0ZXN0IHJlc3VsdHMhCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RERBRERFRCBGRUFUSEVSIEZPUiBPRkZMSU5FIFdPUksgQU5EIFRPIFVTRSBXSVRIIFIuCg==</text>
+        <text encoding="base64">TW9yZSBtb2R1bGFyIHdheSBvZiBnZXR0aW5nIGRhdGEuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YV9mcmFtZV9wYXRoID0gb3MucGF0aC5qb2luKG9zLnBhcmRpciwgJ2RhdGEnLCAndXNfc3RyaWtlcy5mZWF0aGVyJykK</text>
+        <text encoding="base64">TGF0ZXN0IHJlc3VsdHMhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0X2RhdGEuY3JlYXRlX2RhdGFfZnJhbWUoKQo=</text>
+        <text encoding="base64">RERBRERFRCBGRUFUSEVSIEZPUiBPRkZMSU5FIFdPUksgQU5EIFRPIFVTRSBXSVRIIFIuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -317,10 +317,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>q</entry>
-        <entry>action $Paste</entry>
-        <entry>action Replace</entry>
         <entry>action ParameterInfo</entry>
         <entry>w</entry>
+        <entry>action $Paste</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -361,6 +361,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
