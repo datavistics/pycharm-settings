@@ -16,14 +16,6 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511690219014">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1511679892519">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1511679895736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -37,40 +29,6 @@
       <file name="/a.dummy" timestamp="1511086293841">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0015.py" timestamp="1511092308269">
-        <mark key="'" line="13" column="42" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/leetcode/p005.py" timestamp="1511086090629">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/US-Bombings/Python/get_data.py" timestamp="1511202791605">
-        <mark key="'" line="54" column="9" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="102" />
-        <mark key="^" line="124" column="72" />
-        <mark key="." line="105" column="85" />
-      </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510757434716">
-        <mark key="'" line="30" column="31" />
-        <mark key="[" line="74" column="11" />
-        <mark key="]" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="^" line="16" column="93" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/dvr_facebook_group_analysis_and_visualization.ipynb-meta" timestamp="1511526131896">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-        <mark key="^" line="5" column="45" />
-      </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511081723430">
         <mark key="'" line="50" column="30" />
         <mark key="[" line="172" column="48" />
@@ -78,27 +36,11 @@
         <mark key="." line="172" column="48" />
         <mark key="^" line="172" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/EqualAreaCartogram/requirements.txt" timestamp="1511078860145">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/leetcode/p0005.py" timestamp="1511090750494">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511679885233">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
@@ -134,6 +76,65 @@
       </file>
       <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1511690219014">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1511679892519">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/leetcode/p0015.py" timestamp="1511092308269">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/leetcode/p005.py" timestamp="1511086090629">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/Python/get_data.py" timestamp="1511202791605">
+        <mark key="'" line="54" column="9" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="102" />
+        <mark key="^" line="124" column="72" />
+        <mark key="." line="105" column="85" />
+      </file>
+      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511786182704">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510757434716">
+        <mark key="'" line="30" column="31" />
+        <mark key="[" line="74" column="11" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="16" column="93" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/dvr_facebook_group_analysis_and_visualization.ipynb-meta" timestamp="1511526131896">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/leetcode/p0005.py" timestamp="1511090750494">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511679885233">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
       </file>
     </filemarks>
     <jumps>
