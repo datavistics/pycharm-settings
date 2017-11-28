@@ -108,11 +108,11 @@
         <mark key="^" line="124" column="72" />
         <mark key="." line="105" column="85" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511871702069">
+      <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511874376525">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="59" column="41" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/data/ZeeMap-2787497.csv" timestamp="1511808126869">
         <mark key="[" line="8" column="91" />
@@ -255,7 +255,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdGhlci53cml0ZV9kYXRhZnJhbWUoZGYsIGNzdl9vdXRfcGF0aCkK</text>
+        <text encoding="base64">ZGYudG9fago=</text>
       </register>
       <register name="-" type="4">
         <text>feather_path</text>
@@ -267,31 +267,31 @@
         <text encoding="base64">ZmVhdGhlcl9wYXRoID0gb3MucGF0aC5qb2luKHByb2plY3RfZGlyLCAnZGF0YScsICdnZW9jb2RlZF9kZi5mZWF0aGVyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdGhlci53cml0ZV9kYXRhZnJhbWUoZGYsIGNzdl9vdXRfcGF0aCkK</text>
+        <text encoding="base64">ZGYudG9fago=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZmVhdGhlci53cml0ZV9kYXRhZnJhbWUoZGYsIGNzdl9vdXRfcGF0aCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICMgZGljdC5nZXQgd2lsbCBydW4gZGVmYXVsdCB2YWx1ZSBpZiBhIGZ1bmN0aW9uLCByZWdhcmRsZXNzIG9mIGV4aXN0YW5jZSBvZiBrZXkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgCiAgICByZXR1cm4gZ2VvZGljdC5nZXQobG9jLA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50KGxvYykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29vcmRzID0gbmFtZWR0dXBsZSgnY29vcmRzJywgJ2xhdGl0dWRlLCBsb25naXR1ZGUnKQoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29vcmRzID0gbmFtZWR0dXBsZSgnY29vcmRzJywgJ2xhdGl0dWRlLCBsb25naXR1ZGUnKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGYgPSBkZi5sb2NbOixbJ05hbWUnLCAnbGF0aXR1ZGUnLCAnbG9uZ2l0dWRlJywgJ0Rlc2NyaXB0aW9uJ11dCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGZbJ0FyZWFfTmFtZSddID0gZGZbJ0NpdHknXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnU3RhdGUnXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnQ291bnRyeSddLmFzdHlwZShzdHIpLnJlcGxhY2UoCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGdlb2RpY3RfcGF0aCwgJwo=</text>
+        <text encoding="base64">ZGZbJ0FyZWFfTmFtZSddID0gZGZbJ0NpdHknXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnU3RhdGUnXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnQ291bnRyeSddLmFzdHlwZShzdHIpLnJlcGxhY2UoCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Replace</text>
