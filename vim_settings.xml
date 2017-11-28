@@ -26,6 +26,13 @@
       <file name="/a.dummy" timestamp="1511086293841">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/TravellersMap/map/map.html" timestamp="1511886293262">
+        <mark key="'" line="35" column="134" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="57" column="4" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511081723430">
         <mark key="'" line="50" column="30" />
         <mark key="[" line="172" column="48" />
@@ -38,6 +45,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/TravellersMap/data/travel_locations.geojson" timestamp="1511882947734">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
@@ -58,9 +72,9 @@
         <mark key="]" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1510657990701">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1511884675303">
         <mark key="'" line="2" column="14" />
-        <mark key="[" line="2" column="4" />
+        <mark key="[" line="23" column="31" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="13" />
@@ -74,12 +88,10 @@
       <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511872497936">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="4" />
+      <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511690219014">
+      <file name="/Dummy.txt" timestamp="1511885772143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -133,35 +145,20 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0005.py" timestamp="1511090750494">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511848893525">
         <mark key="[" line="11" column="139" />
         <mark key="]" line="11" column="140" />
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511861255384">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="28" />
+      <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="42" />
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="28" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="49" column="51" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="51" column="66" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="56" column="28" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="67" column="28" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="14" column="51" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="55" column="20" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
-      <jump line="9" column="7" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="37" column="21" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="65" column="36" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="52" column="17" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="54" column="122" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -252,64 +249,70 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="46" column="39" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
+      <jump line="14" column="2" filename="$USER_HOME$/projects/TravellersMap/data/travel_locations.geojson" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/TravellersMap/data/travel_locations.geojson" />
+      <jump line="9" column="6" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
+      <jump line="10" column="21" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
+      <jump line="19" column="73" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
+      <jump line="29" column="9" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
+      <jump line="37" column="23" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
+      <jump line="25" column="8" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
+      <jump line="34" column="8" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
+      <jump line="35" column="134" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGYudG9fago=</text>
+        <text encoding="base64">CiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>feather_path</text>
+        <text>Thunderforest_Pioneer</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>Esr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmVhdGhlcl9wYXRoID0gb3MucGF0aC5qb2luKHByb2plY3RfZGlyLCAnZGF0YScsICdnZW9jb2RlZF9kZi5mZWF0aGVyJykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">TC5NYXB6ZW4uYXBpS2V5ID0gJ21hcHplbi16RWN3MXY2JzsKCnZhciBtYXAgPSBMLk1hcHplbi5tYXAoJ21hcCcsIHsKICB0YW5ncmFtT3B0aW9uczogewogICAgc2NlbmU6IEwuTWFwemVuLkJhc2VtYXBTdHlsZXMuWmluYwogIH0KCn0pOwoKdmFyIGxvY2F0b3IgPSBMLk1hcHplbi5sb2NhdG9yKCk7CmxvY2F0b3IuYWRkVG8obWFwKTsKCnZhciBjb250cm9sID0gTC5Sb3V0aW5nLmNvbnRyb2woewogIHdheXBvaW50czogWwogICAgTC5sYXRMbmcoMzcuNzUyLCAtMTIyLjQxOCksCiAgICBMLmxhdExuZygzNy43NzksIC0xMjIuMzkxKQogIF0sCiAgLy8gWW91IGNhbiBnZXQgeW91ciBvd24gTWFwemVuIHR1cm4tYnktdHVybiAmIHNlYXJjaCBBUEkga2V5IGZyb20gdGhlIE1hcHplbiBkZXZlbG9wZXIgcG9ydGFsIChodHRwczovL21hcHplbi5jb20vZGV2ZWxvcGVycy8pCiAgZ2VvY29kZXI6IEwuQ29udHJvbC5HZW9jb2Rlci5tYXB6ZW4oJ3NlYXJjaC1SSDhwVkx2JyksCiAgZml0U2VsZWN0ZWRSb3V0ZXM6IHRydWUsCiAgcmV2ZXJzZVdheXBvaW50czogdHJ1ZSwKICByb3V0ZXI6IEwuUm91dGluZy5tYXB6ZW4oJ3ZhbGhhbGxhLVBWQTRZOGcnLCB7Y29zdGluZzogJ2F1dG8nfSksCiAgZm9ybWF0dGVyOiBuZXcgTC5Sb3V0aW5nLm1hcHplbkZvcm1hdHRlcigpLAogIHN1bW1hcnlUZW1wbGF0ZTonPGRpdiBjbGFzcz0icm91dGUtaW5mbyB7Y29zdGluZ30iPntkaXN0YW5jZX0sIHt0aW1lfTwvZGl2PicKfSkuYWRkVG8obWFwKTsKCgoKTC5Sb3V0aW5nLmVycm9yQ29udHJvbChjb250cm9sKS5hZGRUbyhtYXApOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYudG9fago=</text>
+        <text encoding="base64">CiAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmVhdGhlci53cml0ZV9kYXRhZnJhbWUoZGYsIGNzdl9vdXRfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBzY2VuZTogTC5NYXB6ZW4uQmFzZW1hcFN0eWxlcy5aaW5jCiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZGljdC5nZXQgd2lsbCBydW4gZGVmYXVsdCB2YWx1ZSBpZiBhIGZ1bmN0aW9uLCByZWdhcmRsZXNzIG9mIGV4aXN0YW5jZSBvZiBrZXkK</text>
+        <text encoding="base64">ICAgIHZhciBtYXAgPSBMLk1hcHplbi5tYXAoJ21hcCcsIHsKICAgICAgdGFuZ3JhbU9wdGlvbnM6IHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICByZXR1cm4gZ2VvZGljdC5nZXQobG9jLA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciB0cmF2ZWxUaWxlcyA9IEwudGlsZUxheWVyKCdodHRwOi8vYS50aWxlcy5tYXBib3guY29tL3YzL2x5emlkaWFtb25kLm1hcC1pZXRiNnNyYi97en0ve3h9L3t5fS5wbmcnLCB7CiAgICAgICAgbWF4Wm9vbTogMTgKICAgIH0pOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxvYykK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29vcmRzID0gbmFtZWR0dXBsZSgnY29vcmRzJywgJ2xhdGl0dWRlLCBsb25naXR1ZGUnKQoK</text>
+        <text encoding="base64">ICAgIHZhciBFc3JpX09jZWFuQmFzZW1hcCA9IEwudGlsZUxheWVyKCdodHRwczovL3NlcnZlci5hcmNnaXNvbmxpbmUuY29tL0FyY0dJUy9yZXN0L3NlcnZpY2VzL09jZWFuX0Jhc2VtYXAvTWFwU2VydmVyL3RpbGUve3p9L3t5fS97eH0nLCB7CiAgICAgICAgYXR0cmlidXRpb246ICdUaWxlcyAmY29weTsgRXNyaSAmbWRhc2g7IFNvdXJjZXM6IEdFQkNPLCBOT0FBLCBDSFMsIE9TVSwgVU5ILCBDU1VNQiwgTmF0aW9uYWwgR2VvZ3JhcGhpYywgRGVMb3JtZSwgTkFWVEVRLCBhbmQgRXNyaScsCiAgICAgICAgbWF4Wm9vbTogMTMKICAgIH0pOwogICAgdmFyIHRyYXZlbFRpbGVzID0gTC50aWxlTGF5ZXIoJ2h0dHA6Ly9hLnRpbGVzLm1hcGJveC5jb20vdjMvbHl6aWRpYW1vbmQubWFwLWlldGI2c3JiL3t6fS97eH0ve3l9LnBuZycsIHsKICAgICAgICBtYXhab29tOiAxOAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29vcmRzID0gbmFtZWR0dXBsZSgnY29vcmRzJywgJ2xhdGl0dWRlLCBsb25naXR1ZGUnKQo=</text>
+        <text encoding="base64">ICAgIHtsYXQ6IDI0LjE2NjgwMjA4NTMwMzI0LCBsbmc6IDYuNTAzOTA2MjV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYgPSBkZi5sb2NbOixbJ05hbWUnLCAnbGF0aXR1ZGUnLCAnbG9uZ2l0dWRlJywgJ0Rlc2NyaXB0aW9uJ11dCg==</text>
+        <text encoding="base64">ICAgIGRhdGEvdHJhdmVsX2xvY2F0aW9ucy5nZW9qc29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGZbJ0FyZWFfTmFtZSddID0gZGZbJ0NpdHknXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnU3RhdGUnXS5hc3R5cGUoc3RyKSArICcsICcgKyBkZlsnQ291bnRyeSddLmFzdHlwZShzdHIpLnJlcGxhY2UoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>Esr</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>Esr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CReac</entry>
-        <entry>for</entry>
-        <entry>reac</entry>
-        <entry>debug</entry>
         <entry>get_or</entry>
         <entry>this_color</entry>
         <entry>csv</entry>
@@ -326,22 +329,28 @@
         <entry>Nom</entry>
         <entry>coords</entry>
         <entry>json</entry>
+        <entry>mime</entry>
+        <entry>zoom</entry>
+        <entry>travelTiles</entry>
+        <entry>Esr</entry>
       </history-search>
       <history-cmd>
         <entry>open ~/.ideavimrc</entry>
         <entry>edit ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>q</entry>
         <entry>action ParameterInfo</entry>
-        <entry>action $Paste</entry>
         <entry>W</entry>
-        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action Replace</entry>
+        <entry>open ~/.vimrc</entry>
+        <entry>$Paste</entry>
+        <entry>action Find</entry>
+        <entry>action $Paste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
