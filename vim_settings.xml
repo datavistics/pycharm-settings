@@ -136,6 +136,12 @@
       <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511861255384">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="28" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
@@ -241,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://raw.githubusercontent.com/datavistics/datavizrequests/master/Facebook%20Visualization/src/Analysis%20and%20Visualization.ipynb'</text>
+        <text>search-RH8pVLv</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>search-RH8pVLv</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
