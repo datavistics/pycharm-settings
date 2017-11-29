@@ -59,6 +59,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/TravellersMap/data/test.txt" timestamp="1511949085092">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510763893789">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="11" column="0" />
@@ -261,8 +266,8 @@
       <jump line="62" column="4" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://camo.githubusercontent.com/c7f5cf1f57ace8ec7ffe00b295077150a035b41f/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f616972706f72742d7365742d312f3531322f382d3531322e706e6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>https://camo.githubusercontent.com/c7f5cf1f57ace8ec7ffe00b295077150a035b41f/68747470733a2f2f63646e312e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f616972706f72742d7365742d312f3531322f382d3531322e706e6</text>
@@ -274,31 +279,31 @@
         <text>55.7522200, 37.6155600</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBtYXJrZXIgb2JqZWN0LCBwYXNzIGN1c3RvbSBpY29uIGFzIG9wdGlvbiwgYWRkIHRvIG1hcAogICAgdmFyIG1hcmtlciA9IEwubWFya2VyKFs0My42NDcwMSwgLTc5LjM5NDI1XSwge2ljb246IGFpcnBvcnRJY29ufSkuYWRkVG8obWFwKTsKCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">RSBOCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBtYXJrZXIgb2JqZWN0LCBwYXNzIGN1c3RvbSBpY29uIGFzIG9wdGlvbiwgYWRkIHRvIG1hcCAgICAgICAgIAogICAgdmFyIG1hcmtlciA9IEwubWFya2VyKFs0My42NDcwMSwgLTc5LjM5NDI1XSwge2ljb246IGFpcnBvcnRJY29ufSkuYWRkVG8obWFwKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBtYXJrZXIgb2JqZWN0LCBwYXNzIGN1c3RvbSBpY29uIGFzIG9wdGlvbiwgYWRkIHRvIG1hcAogICAgdmFyIG1hcmtlciA9IEwubWFya2VyKFs0My42NDcwMSwgLTc5LjM5NDI1XSwge2ljb246IGFpcnBvcnRJY29ufSkuYWRkVG8obWFwKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEwuTWFwemVuLmFwaUtleSA9ICdtYXB6ZW4tekVjdzF2Nic7CgoKICAgIHZhciBsb2NhdG9yID0gTC5NYXB6ZW4ubG9jYXRvcigpOwogICAgbG9jYXRvci5hZGRUbyhtYXApOwoKICAgIHZhciBjb250cm9sID0gTC5Sb3V0aW5nLmNvbnRyb2woewogICAgICB3YXlwb2ludHM6IFsKICAgICAgICBMLmxhdExuZygzNy43NTIsIC0xMjIuNDE4KSwKICAgICAgICBMLmxhdExuZygzNy43NzksIC0xMjIuMzkxKQogICAgICBdLAogICAgICAvLyBZb3UgY2FuIGdldCB5b3VyIG93biBNYXB6ZW4gdHVybi1ieS10dXJuICYgc2VhcmNoIEFQSSBrZXkgZnJvbSB0aGUgTWFwemVuIGRldmVsb3BlciBwb3J0YWwgKGh0dHBzOi8vbWFwemVuLmNvbS9kZXZlbG9wZXJzLykKICAgICAgZ2VvY29kZXI6IEwuQ29udHJvbC5HZW9jb2Rlci5tYXB6ZW4oJ3NlYXJjaC1SSDhwVkx2JyksCiAgICAgIGZpdFNlbGVjdGVkUm91dGVzOiB0cnVlLAogICAgICByZXZlcnNlV2F5cG9pbnRzOiB0cnVlLAogICAgICByb3V0ZXI6IEwuUm91dGluZy5tYXB6ZW4oJ3ZhbGhhbGxhLVBWQTRZOGcnLCB7Y29zdGluZzogJ2F1dG8nfSksCiAgICAgIGZvcm1hdHRlcjogbmV3IEwuUm91dGluZy5tYXB6ZW5Gb3JtYXR0ZXIoKSwKICAgICAgc3VtbWFyeVRlbXBsYXRlOic8ZGl2IGNsYXNzPSJyb3V0ZS1pbmZvIHtjb3N0aW5nfSI+e2Rpc3RhbmNlfSwge3RpbWV9PC9kaXY+JwogICAgfSkuYWRkVG8obWFwKTsKCgoKICAgIEwuUm91dGluZy5lcnJvckNvbnRyb2woY29udHJvbCkuYWRkVG8obWFwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">RWN3MXY2JzsKCgogICAgdmFyIGxvY2F0b3IgPSBMLk1hcHplbi5sb2NhdG9yKCk7CiAgICBsb2NhdG9yLmFkZFRvKG1hcCk7CgogICAgdmFyIGNvbnRyb2wgPSBMLlJvdXRpbmcuY29udHJvbCh7CiAgICAgIHdheXBvaW50czogWwogICAgICAgIEwubGF0TG5nKDM3Ljc1MiwgLTEyMi40MTgpLAogICAgICAgIEwubGF0TG5nKDM3Ljc3OSwgLTEyMi4zOTEpCiAgICAgIF0sCiAgICAgIC8vIFlvdSBjYW4gZ2V0IHlvdXIgb3duIE1hcHplbiB0dXJuLWJ5LXR1cm4gJiBzZWFyY2ggQVBJIGtleSBmcm9tIHRoZSBNYXB6ZW4gZGV2ZWxvcGVyIHBvcnRhbCAoaHR0cHM6Ly9tYXB6ZW4uY29tL2RldmVsb3BlcnMvKQogICAgICBnZW9jb2RlcjogTC5Db250cm9sLkdlb2NvZGVyLm1hcHplbignc2VhcmNoLVJIOHBWTHYnKSwKICAgICAgZml0U2VsZWN0ZWRSb3V0ZXM6IHRydWUsCiAgICAgIHJldmVyc2VXYXlwb2ludHM6IHRydWUsCiAgICAgIHJvdXRlcjogTC5Sb3V0aW5nLm1hcHplbigndmFsaGFsbGEtUFZBNFk4ZycsIHtjb3N0aW5nOiAnYXV0byd9KSwKICAgICAgZm9ybWF0dGVyOiBuZXcgTC5Sb3V0aW5nLm1hcHplbkZvcm1hdHRlcigpLAogICAgICBzdW1tYXJ5VGVtcGxhdGU6JzxkaXYgY2xhc3M9InJvdXRlLWluZm8ge2Nvc3Rpbmd9Ij57ZGlzdGFuY2V9LCB7dGltZX08L2Rpdj4nCiAgICB9KS5hZGRUbyhtYXApOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBtYXJrZXIgb2JqZWN0LCBwYXNzIGN1c3RvbSBpY29uIGFzIG9wdGlvbiwgYWRkIHRvIG1hcCAgICAgICAgIAogICAgdmFyIG1hcmtlciA9IEwubWFya2VyKFs0My42NDcwMSwgLTc5LjM5NDI1XSwge2ljb246IGFpcnBvcnRJY29ufSkuYWRkVG8obWFwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIEwuTWFwemVuLmFwaUtleSA9ICdtYXB6ZW4tekVjdzF2Nic7CgoKICAgIHZhciBsb2NhdG9yID0gTC5NYXB6ZW4ubG9jYXRvcigpOwogICAgbG9jYXRvci5hZGRUbyhtYXApOwoKICAgIHZhciBjb250cm9sID0gTC5Sb3V0aW5nLmNvbnRyb2woewogICAgICB3YXlwb2ludHM6IFsKICAgICAgICBMLmxhdExuZygzNy43NTIsIC0xMjIuNDE4KSwKICAgICAgICBMLmxhdExuZygzNy43NzksIC0xMjIuMzkxKQogICAgICBdLAogICAgICAvLyBZb3UgY2FuIGdldCB5b3VyIG93biBNYXB6ZW4gdHVybi1ieS10dXJuICYgc2VhcmNoIEFQSSBrZXkgZnJvbSB0aGUgTWFwemVuIGRldmVsb3BlciBwb3J0YWwgKGh0dHBzOi8vbWFwemVuLmNvbS9kZXZlbG9wZXJzLykKICAgICAgZ2VvY29kZXI6IEwuQ29udHJvbC5HZW9jb2Rlci5tYXB6ZW4oJ3NlYXJjaC1SSDhwVkx2JyksCiAgICAgIGZpdFNlbGVjdGVkUm91dGVzOiB0cnVlLAogICAgICByZXZlcnNlV2F5cG9pbnRzOiB0cnVlLAogICAgICByb3V0ZXI6IEwuUm91dGluZy5tYXB6ZW4oJ3ZhbGhhbGxhLVBWQTRZOGcnLCB7Y29zdGluZzogJ2F1dG8nfSksCiAgICAgIGZvcm1hdHRlcjogbmV3IEwuUm91dGluZy5tYXB6ZW5Gb3JtYXR0ZXIoKSwKICAgICAgc3VtbWFyeVRlbXBsYXRlOic8ZGl2IGNsYXNzPSJyb3V0ZS1pbmZvIHtjb3N0aW5nfSI+e2Rpc3RhbmNlfSwge3RpbWV9PC9kaXY+JwogICAgfSkuYWRkVG8obWFwKTsKCgoKICAgIEwuUm91dGluZy5lcnJvckNvbnRyb2woY29udHJvbCkuYWRkVG8obWFwKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY2VuZTogTC5NYXB6ZW4uQmFzZW1hcFN0eWxlcy5aaW5jCiAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">RWN3MXY2JzsKCgogICAgdmFyIGxvY2F0b3IgPSBMLk1hcHplbi5sb2NhdG9yKCk7CiAgICBsb2NhdG9yLmFkZFRvKG1hcCk7CgogICAgdmFyIGNvbnRyb2wgPSBMLlJvdXRpbmcuY29udHJvbCh7CiAgICAgIHdheXBvaW50czogWwogICAgICAgIEwubGF0TG5nKDM3Ljc1MiwgLTEyMi40MTgpLAogICAgICAgIEwubGF0TG5nKDM3Ljc3OSwgLTEyMi4zOTEpCiAgICAgIF0sCiAgICAgIC8vIFlvdSBjYW4gZ2V0IHlvdXIgb3duIE1hcHplbiB0dXJuLWJ5LXR1cm4gJiBzZWFyY2ggQVBJIGtleSBmcm9tIHRoZSBNYXB6ZW4gZGV2ZWxvcGVyIHBvcnRhbCAoaHR0cHM6Ly9tYXB6ZW4uY29tL2RldmVsb3BlcnMvKQogICAgICBnZW9jb2RlcjogTC5Db250cm9sLkdlb2NvZGVyLm1hcHplbignc2VhcmNoLVJIOHBWTHYnKSwKICAgICAgZml0U2VsZWN0ZWRSb3V0ZXM6IHRydWUsCiAgICAgIHJldmVyc2VXYXlwb2ludHM6IHRydWUsCiAgICAgIHJvdXRlcjogTC5Sb3V0aW5nLm1hcHplbigndmFsaGFsbGEtUFZBNFk4ZycsIHtjb3N0aW5nOiAnYXV0byd9KSwKICAgICAgZm9ybWF0dGVyOiBuZXcgTC5Sb3V0aW5nLm1hcHplbkZvcm1hdHRlcigpLAogICAgICBzdW1tYXJ5VGVtcGxhdGU6JzxkaXYgY2xhc3M9InJvdXRlLWluZm8ge2Nvc3Rpbmd9Ij57ZGlzdGFuY2V9LCB7dGltZX08L2Rpdj4nCiAgICB9KS5hZGRUbyhtYXApOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBtYXAgPSBMLk1hcHplbi5tYXAoJ21hcCcsIHsKICAgICAgdGFuZ3JhbU9wdGlvbnM6IHsK</text>
+        <text encoding="base64">CiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0cmF2ZWxUaWxlcyA9IEwudGlsZUxheWVyKCdodHRwOi8vYS50aWxlcy5tYXBib3guY29tL3YzL2x5emlkaWFtb25kLm1hcC1pZXRiNnNyYi97en0ve3h9L3t5fS5wbmcnLCB7CiAgICAgICAgbWF4Wm9vbTogMTgKICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICBzY2VuZTogTC5NYXB6ZW4uQmFzZW1hcFN0eWxlcy5aaW5jCiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -339,7 +344,6 @@
         <entry>edit ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>q</entry>
         <entry>action ParameterInfo</entry>
         <entry>W</entry>
@@ -349,8 +353,9 @@
         <entry>$Paste</entry>
         <entry>action Find</entry>
         <entry>action $Paste</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
