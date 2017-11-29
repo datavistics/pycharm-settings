@@ -103,10 +103,10 @@
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511984132768">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1511985329881">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/projects/TravelersMap/README.md" timestamp="1511975176623">
         <mark key="'" line="11" column="22" />
@@ -297,11 +297,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/test" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Jy0gJyA9IE5BLAogJy1cbicgPSBOQSwKICciRm9yZWlnbiByZWJlbHMiJyA9ICdPdGhlcicsCiAnIlJlYmVscyInID0gJ090aGVyJywKICdhbCBRYWVkYSAnID0gJ090aGVyJywKICdBUScgPSAnT3RoZXInLAogJ0FyYWJzIG1ha2luZyBib21icyBmb3IgVGFsaWJhbicgPSAnVGFsaWJhbicsCiAnRnJpZW5kbHkgRmlyZScgPSAnT3RoZXInLAogJ0ZyaWVuZGx5IGZpcmUgJyA9ICdPdGhlcicsCiAnSGFxcWFuaScgPSAnT3RoZXInLAogJ0luc3VyZ2VudHMnID0gJ090aGVyJywKICdJUycgPSAnSVNJUycsCiAnSVMtSycgPSAnSVNJUycsCiAnSVMvVFRQJyA9ICdJU0lTJywKICdJU0lTJyA9ICdJU0lTJywKICdMYXNoa2FyIGUgSXNsYW0sIFRUUCBhbmQgQWJkdWxsYWggQXphbSBCcmlnYWRlJyA9ICdUYWxpYmFuJywKICdSZXBvcnRlZGx5IFRhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4gJyA9ICdUYWxpYmFuJywKICdUYWxpYmFuIC0gS2hvcmFzYW4gR3JvdXAgLyBJU0lTJyA9ICdJU0lTJywKICdUYWxpYmFuIC8gSVNJUycgPSAnVGFsaWJhbicsCiAnVGFsaWJhbiBhbmQgSXNpcycgPSAnSVNJUycsCiAnVGFsaWJhbi9zbXVnZ2xlcnMnID0gJ1RhbGliYW4nLAogJ1RUUCcgPSAnVGFsaWJhbicsCg==</text>
+      <register name="&quot;" type="4">
+        <text>y'd reported_target_type column</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>y'd reported_target_type column</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
@@ -371,7 +371,6 @@
         <entry>route</entry>
       </history-search>
       <history-cmd>
-        <entry>open ~/.ideavimrc</entry>
         <entry>edit ~/.ideavimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
@@ -391,6 +390,7 @@
         <entry>action Replace</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
