@@ -33,12 +33,12 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" timestamp="1511956069281">
+      <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" timestamp="1511957752302">
         <mark key="'" line="96" column="45" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
+        <mark key="[" line="102" column="36" />
+        <mark key="]" line="102" column="36" />
         <mark key="^" line="136" column="24" />
-        <mark key="." line="200" column="0" />
+        <mark key="." line="102" column="36" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511081723430">
         <mark key="'" line="50" column="30" />
@@ -273,11 +273,11 @@
       <jump line="94" column="45" filename="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVydGljZXM6IDIwMAogICAgICAgIH0pLmFkZFRvKG1hcCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aHR0cHM6Ly9rb3JvbmEuZ2VvZy51bmktaGVpZGVsYmVyZy5kZS90aWxlcy9yb2Fkc2cveD17eH0meT17eX0mej17en0=</text>
       </register>
       <register name="-" type="4">
-        <text>http://a.tile.stamen.com/toner/{z}/{x}/{y}.png</text>
+        <text encoding="base64">aHR0cHM6Ly9rb3JvbmEuZ2VvZy51bmktaGVpZGVsYmVyZy5kZS90aWxlcy9yb2Fkc2cveD17eH0meT17eX0mej17en0=</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
@@ -358,12 +358,12 @@
         <entry>$Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
-        <entry>action Find</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>W</entry>
+        <entry>action Find</entry>
+        <entry>action $Paste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
