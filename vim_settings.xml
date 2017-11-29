@@ -103,7 +103,7 @@
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511975191990">
+      <file name="/Dummy.txt" timestamp="1511982342128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -291,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VG8gd2hvbSBpdCBtYXkgY29uY2VybjoKCkltIGhhdmluZyBzb21lIHJlYWxseSBkaWZmaWN1bHQgaXNzdWVzIHdpdGggZ2V0dGluZyBhIHdvcmtpbmcgSW5zdGFudCBQb3QgKElQKS4gU29tZSBvZiB0aGUgaXNzdWVzIEkgbm93IGtub3cgYXJlIG15IG1pc3Rha2UsIGJ1dCBzb21lIGFyZSBub3QuCgpJIGxvdmUgbXkgSVAuIEkgZmlyc3QgZ290IG15IGJhY2sgaW4gbWlkIDIwMTUgb3Igc28uIEl0IHdhcyBiZWZvcmUgdGhlIGh1Z2Ugc3VyZ2Ugb2YgdXNlcnMgam9pbmluZyB0aGUgRmFjZWJvb2sgZ3JvdXAgd2hlbiBpdCB3YXMgYSBiaXQgbW9yZSBuaWNoZS4gRnVuIGZhY3QsIHRoZSBmaXJzdCBJUCBGYWNlYm9vayBwb3N0IHdhcyBoZXJlLCBhbHRob3VnaCB0aGUgd2VsY29tZSBwb3N0IHdhcyBsYXRlciB0aGF0IGRheSBoZXJlLiBXaHkgZG8gSSBrbm93IHRoaXM/IEltIGFjdHVhbGx5IHdvcmtpbmcgb24gYSBkYXRhIHNjaWVuY2UgcHJvamVjdCBvbiB0aGUgYW1hemluZyBJUCBncm91cCBhbmQgaXRzIG1ldGVvcmljIHJpc2UgKHdlbGwgb3ZlciA3MDBrIG1lbWJlcnMgbm93KSBpbiBzdWNoIGEgc2hvcnQgdGltZS4KCkFueXdheSwgSSBsb3ZlZCBteSBJUCBhbmQgdXNlZCBpdCByZWd1bGFybHkgYW5kIHRvbGQgbXkgZnJpZW5kcywgYW5kIGxvb2tlZCBkb3duIHVwb24gY3JvY2twb3QgdXNlcnMgKGp1c3Qga2lkZGluZywgd2VsbCBraW5kIG9mKS4gQW5kIGxpZmUgd2FzIGdvb2QuIEJ1dCB0aGVuIG15IGdmIG1vdmVkIGF3YXksIGFuZCBsaWZlIGdvdCBkaWZmaWN1bHQuIEkgZGVjaWRlZCB0byBxdWl0IG15IGpvYiwgc2VsbCBteSBjYXIsIGFuZCBtb3ZlIHRvIHdoZXJlIHNoZSB3YXMsIHdoaWNoIHdhcyBoYWxmIHdheSBhY3Jvc3MgdGhlIHdvcmxkIChJb3dhIHRvIHRoZSBVQUUgLSBBYnUgRGhhYmkpLiBJIGhhZCB0byBsZWF2ZSBteSBpbnN0YW50IHBvdCBiZWhpbmQsIGJ1dCBJIGZpZ3VyZWQgSSB3b3VsZCBqdXN0IGJ1eSBvbmUgd2hlbiBJIGdvdCB0aGVyZS4KCkl0IHR1cm5zIG91dCBpdHMgaGFyZCB0byBidXkgaGVyZS4gVGhleSBoYXZlIGEgbG90IG9mIGNoZWFwZXIgcHJlc3N1cmUgY29va2VycyBrbm9jayA/b2Zmcy4gU28gbm8gYmlnIGRlYWwgcmlnaHQsIEkganVzdCBnZXQgYSBrbm9jayBvZmYgYW5kIHdoZW4gSSBnZXQgYmFjayB0byB0aGUgc3RhdGVzIEkgY2FuIGdvIGJhY2sgdG8gSVAgYmxpc3M/IE5vLCBJUHMgYXJlIFRIRSB3YXkgdG8gZ28uIFNvIEkgYm91Z2h0IG9uZSBvbiBBbWF6b24gYW5kIGhhZCBpdCBzaGlwcGVkIG92ZXIuIDU2JCBmb3Igc2hpcHBpbmcgaXMgc3RlZXAgYnV0IGl0cyBhIG9uZSB0aW1lIGNvc3QsIGFuZCBJUHMgYXJlIHByaWN5LCBidXQsIElsbCBzYXZlIG1vbmV5IGJ5IHVzaW5nIGl0IGEgbG90IHNvIGl0IGFsbCB3b3JrcyBvdXQuCgpJIHdhaXQgYW54aW91c2x5IGFuZCBpdCBmaW5hbGx5IGdldHMgaGVyZS4gSSB1c2UgdGhlIGFkYXB0ZXJzIHRoZXkgaGF2ZSBoZXJlLCBhbmQgcGx1ZyBpdCBpbiwgaXQgc2VlbXMgdG8gd29yayBmaW5lLi4uIGdldHMgYSBsaXR0bGUgaG90IG9uIHNhdXRlIG1vZGUuIE5vIGJpZyBkZWFsLCBJbGwganVzdCB1c2UgdGhlIHNldHRpbmdzIHRvIGEgbG93ZXIgaGVhdC4gV3JvbmcuIEl0IHR1cm5zIG91dCB0aGF0IHRoaXMgd2FzbnQgYSBxdWlyayBidXQgYSByZXN1bHQgb2Ygc29tZSBwb3dlciBpbmNvbXBhdGliaWxpdGllcywgSWQgbmVlZCBhIGJldHRlciBhZGFwdGVyLiBJIGRpZG50IGtub3cgdGhpcyB0aWwgbGF0ZXIgdGhvdWdoLiBJIHRob3VnaHQgdGhlIElQIHdhcyBicm9rZS4gSSBjYWxsIGFtYXpvbiwgd2hvc2UgYW1hemluZyBjdXN0b21lciBzZXJ2aWNlIGdhdmUgbWUgYSByZWZ1bmQgYW5kIGEgbGl0dGxlIGZvciB0aGUgZXhwZW5zaXZlIHNoaXBwaW5nLgoKSSBidXkgYW4gZXhwZW5zaXZlIGNvbnZlcnRlciAoNjUkKSBhbmQgYW5vdGhlciBJUCAoODUkIHdoZW4gSSBnb3QgaXQpIGFuZCBwYXkgZm9yIHRoZSBzaGlwcGluZy4uIHdoaWNoIGFwcGFyZW50bHkgd2FzIGluY29ycmVjdGx5IG1hcmtlZCBiZWZvcmUgYW5kIHdhcyBub3cg</text>
+        <text encoding="base64">RURBIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cHM6Ly9rb3JvbmEuZ2VvZy51bmktaGVpZGVsYmVyZy5kZS90aWxlcy9yb2Fkc2cveD17eH0meT17eX0mej17en0=</text>
+        <text encoding="base64">RURBIA==</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
