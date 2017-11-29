@@ -324,7 +324,7 @@
         <text encoding="base64">RSBOCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $SelectAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -375,9 +375,9 @@
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
         <entry>w</entry>
         <entry>action $SelectAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
