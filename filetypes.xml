@@ -5,6 +5,7 @@
       <mapping pattern="Good Models vs Good Results.md" type="Markdown" />
       <mapping ext="ipynb-meta" type="Markdown" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Your Brain's API" type="PLAIN_TEXT" />
       <mapping pattern="2017-09-15--23-57-42" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />

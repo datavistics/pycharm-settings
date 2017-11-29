@@ -118,6 +118,13 @@
       <file name="/code.py" timestamp="1511932348596">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/US-Bombings/Python/test" timestamp="1511983260556">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/leetcode/p0015.py" timestamp="1511092308269">
         <mark key="'" line="13" column="42" />
         <mark key="[" line="11" column="14" />
@@ -188,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="10" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="122" column="68" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="106" column="78" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="2" column="14" filename="$USER_HOME$/.ideavimrc" />
       <jump line="79" column="83" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -288,19 +293,21 @@
       <jump line="94" column="45" filename="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" />
       <jump line="11" column="22" filename="$USER_HOME$/projects/TravelersMap/README.md" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/datavistics.github.io/scripts/temp" />
+      <jump line="23" column="16" filename="$USER_HOME$/projects/US-Bombings/Python/test" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/test" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RURBIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Jy0gJyA9IE5BLAogJy1cbicgPSBOQSwKICciRm9yZWlnbiByZWJlbHMiJyA9ICdPdGhlcicsCiAnIlJlYmVscyInID0gJ090aGVyJywKICdhbCBRYWVkYSAnID0gJ090aGVyJywKICdBUScgPSAnT3RoZXInLAogJ0FyYWJzIG1ha2luZyBib21icyBmb3IgVGFsaWJhbicgPSAnVGFsaWJhbicsCiAnRnJpZW5kbHkgRmlyZScgPSAnT3RoZXInLAogJ0ZyaWVuZGx5IGZpcmUgJyA9ICdPdGhlcicsCiAnSGFxcWFuaScgPSAnT3RoZXInLAogJ0luc3VyZ2VudHMnID0gJ090aGVyJywKICdJUycgPSAnSVNJUycsCiAnSVMtSycgPSAnSVNJUycsCiAnSVMvVFRQJyA9ICdJU0lTJywKICdJU0lTJyA9ICdJU0lTJywKICdMYXNoa2FyIGUgSXNsYW0sIFRUUCBhbmQgQWJkdWxsYWggQXphbSBCcmlnYWRlJyA9ICdUYWxpYmFuJywKICdSZXBvcnRlZGx5IFRhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4gJyA9ICdUYWxpYmFuJywKICdUYWxpYmFuIC0gS2hvcmFzYW4gR3JvdXAgLyBJU0lTJyA9ICdJU0lTJywKICdUYWxpYmFuIC8gSVNJUycgPSAnVGFsaWJhbicsCiAnVGFsaWJhbiBhbmQgSXNpcycgPSAnSVNJUycsCiAnVGFsaWJhbi9zbXVnZ2xlcnMnID0gJ1RhbGliYW4nLAogJ1RUUCcgPSAnVGFsaWJhbicsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RURBIA==</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
       </register>
-      <register name="0" type="4">
-        <text>826223557471634_829589703801686</text>
+      <register name="0" type="2">
+        <text encoding="base64">Jy0gJyA9IE5BLAogJy1cbicgPSBOQSwKICciRm9yZWlnbiByZWJlbHMiJyA9ICdPdGhlcicsCiAnIlJlYmVscyInID0gJ090aGVyJywKICdhbCBRYWVkYSAnID0gJ090aGVyJywKICdBUScgPSAnT3RoZXInLAogJ0FyYWJzIG1ha2luZyBib21icyBmb3IgVGFsaWJhbicgPSAnVGFsaWJhbicsCiAnRnJpZW5kbHkgRmlyZScgPSAnT3RoZXInLAogJ0ZyaWVuZGx5IGZpcmUgJyA9ICdPdGhlcicsCiAnSGFxcWFuaScgPSAnT3RoZXInLAogJ0luc3VyZ2VudHMnID0gJ090aGVyJywKICdJUycgPSAnSVNJUycsCiAnSVMtSycgPSAnSVNJUycsCiAnSVMvVFRQJyA9ICdJU0lTJywKICdJU0lTJyA9ICdJU0lTJywKICdMYXNoa2FyIGUgSXNsYW0sIFRUUCBhbmQgQWJkdWxsYWggQXphbSBCcmlnYWRlJyA9ICdUYWxpYmFuJywKICdSZXBvcnRlZGx5IFRhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4gJyA9ICdUYWxpYmFuJywKICdUYWxpYmFuIC0gS2hvcmFzYW4gR3JvdXAgLyBJU0lTJyA9ICdJU0lTJywKICdUYWxpYmFuIC8gSVNJUycgPSAnVGFsaWJhbicsCiAnVGFsaWJhbiBhbmQgSXNpcycgPSAnSVNJUycsCiAnVGFsaWJhbi9zbXVnZ2xlcnMnID0gJ1RhbGliYW4nLAogJ1RUUCcgPSAnVGFsaWJhbicsCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">VG8gd2hvbSBpdCBtYXkgY29uY2VybjoKCkltIGhhdmluZyBzb21lIHJlYWxseSBkaWZmaWN1bHQgaXNzdWVzIHdpdGggZ2V0dGluZyBhIHdvcmtpbmcgSW5zdGFudCBQb3QgKElQKS4gU29tZSBvZiB0aGUgaXNzdWVzIEkgbm93IGtub3cgYXJlIG15IG1pc3Rha2UsIGJ1dCBzb21lIGFyZSBub3QuCgpJIGxvdmUgbXkgSVAuIEkgZmlyc3QgZ290IG15IGJhY2sgaW4gbWlkIDIwMTUgb3Igc28uIEl0IHdhcyBiZWZvcmUgdGhlIGh1Z2Ugc3VyZ2Ugb2YgdXNlcnMgam9pbmluZyB0aGUgRmFjZWJvb2sgZ3JvdXAgd2hlbiBpdCB3YXMgYSBiaXQgbW9yZSBuaWNoZS4gRnVuIGZhY3QsIHRoZSBmaXJzdCBJUCBGYWNlYm9vayBwb3N0IHdhcyBoZXJlLCBhbHRob3VnaCB0aGUgd2VsY29tZSBwb3N0IHdhcyBsYXRlciB0aGF0IGRheSBoZXJlLiBXaHkgZG8gSSBrbm93IHRoaXM/IEltIGFjdHVhbGx5IHdvcmtpbmcgb24gYSBkYXRhIHNjaWVuY2UgcHJvamVjdCBvbiB0aGUgYW1hemluZyBJUCBncm91cCBhbmQgaXRzIG1ldGVvcmljIHJpc2UgKHdlbGwgb3ZlciA3MDBrIG1lbWJlcnMgbm93KSBpbiBzdWNoIGEgc2hvcnQgdGltZS4KCkFueXdheSwgSSBsb3ZlZCBteSBJUCBhbmQgdXNlZCBpdCByZWd1bGFybHkgYW5kIHRvbGQgbXkgZnJpZW5kcywgYW5kIGxvb2tlZCBkb3duIHVwb24gY3JvY2twb3QgdXNlcnMgKGp1c3Qga2lkZGluZywgd2VsbCBraW5kIG9mKS4gQW5kIGxpZmUgd2FzIGdvb2QuIEJ1dCB0aGVuIG15IGdmIG1vdmVkIGF3YXksIGFuZCBsaWZlIGdvdCBkaWZmaWN1bHQuIEkgZGVjaWRlZCB0byBxdWl0IG15IGpvYiwgc2VsbCBteSBjYXIsIGFuZCBtb3ZlIHRvIHdoZXJlIHNoZSB3YXMsIHdoaWNoIHdhcyBoYWxmIHdheSBhY3Jvc3MgdGhlIHdvcmxkIChJb3dhIHRvIHRoZSBVQUUgLSBBYnUgRGhhYmkpLiBJIGhhZCB0byBsZWF2ZSBteSBpbnN0YW50IHBvdCBiZWhpbmQsIGJ1dCBJIGZpZ3VyZWQgSSB3b3VsZCBqdXN0IGJ1eSBvbmUgd2hlbiBJIGdvdCB0aGVyZS4KCkl0IHR1cm5zIG91dCBpdHMgaGFyZCB0byBidXkgaGVyZS4gVGhleSBoYXZlIGEgbG90IG9mIGNoZWFwZXIgcHJlc3N1cmUgY29va2VycyBrbm9jayA/b2Zmcy4gU28gbm8gYmlnIGRlYWwgcmlnaHQsIEkganVzdCBnZXQgYSBrbm9jayBvZmYgYW5kIHdoZW4gSSBnZXQgYmFjayB0byB0aGUgc3RhdGVzIEkgY2FuIGdvIGJhY2sgdG8gSVAgYmxpc3M/IE5vLCBJUHMgYXJlIFRIRSB3YXkgdG8gZ28uIFNvIEkgYm91Z2h0IG9uZSBvbiBBbWF6b24gYW5kIGhhZCBpdCBzaGlwcGVkIG92ZXIuIDU2JCBmb3Igc2hpcHBpbmcgaXMgc3RlZXAgYnV0IGl0cyBhIG9uZSB0aW1lIGNvc3QsIGFuZCBJUHMgYXJlIHByaWN5LCBidXQsIElsbCBzYXZlIG1vbmV5IGJ5IHVzaW5nIGl0IGEgbG90IHNvIGl0IGFsbCB3b3JrcyBvdXQuCgpJIHdhaXQgYW54aW91c2x5IGFuZCBpdCBmaW5hbGx5IGdldHMgaGVyZS4gSSB1c2UgdGhlIGFkYXB0ZXJzIHRoZXkgaGF2ZSBoZXJlLCBhbmQgcGx1ZyBpdCBpbiwgaXQgc2VlbXMgdG8gd29yayBmaW5lLi4uIGdldHMgYSBsaXR0bGUgaG90IG9uIHNhdXRlIG1vZGUuIE5vIGJpZyBkZWFsLCBJbGwganVzdCB1c2UgdGhlIHNldHRpbmdzIHRvIGEgbG93ZXIgaGVhdC4gV3JvbmcuIEl0IHR1cm5zIG91dCB0aGF0IHRoaXMgd2FzbnQgYSBxdWlyayBidXQgYSByZXN1bHQgb2Ygc29tZSBwb3dlciBpbmNvbXBhdGliaWxpdGllcywgSWQgbmVlZCBhIGJldHRlciBhZGFwdGVyLiBJIGRpZG50IGtub3cgdGhpcyB0aWwgbGF0ZXIgdGhvdWdoLiBJIHRob3VnaHQgdGhlIElQIHdhcyBicm9rZS4gSSBjYWxsIGFtYXpvbiwgd2hvc2UgYW1hemluZyBjdXN0b21lciBzZXJ2aWNlIGdhdmUgbWUgYSByZWZ1bmQgYW5kIGEgbGl0dGxlIGZvciB0aGUgZXhwZW5zaXZlIHNoaXBwaW5nLgoKSSBidXkgYW4gZXhwZW5zaXZlIGNvbnZlcnRlciAoNjUkKSBhbmQgYW5vdGhlciBJUCAoODUkIHdoZW4gSSBnb3QgaXQpIGFuZCBwYXkgZm9yIHRoZSBzaGlwcGluZy4uIHdoaWNoIGFwcGFyZW50bHkgd2FzIGluY29ycmVjdGx5IG1hcmtlZCBiZWZvcmUgYW5kIHdhcyBub3cg</text>
@@ -330,7 +337,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -373,17 +380,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>open ~/.vimrc</entry>
         <entry>$Paste</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>W</entry>
-        <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
-        <entry>w</entry>
         <entry>action $SelectAll</entry>
         <entry>action $Paste</entry>
+        <entry>action Replace</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
