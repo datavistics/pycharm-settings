@@ -360,10 +360,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>action Replace</entry>
         <entry>W</entry>
         <entry>action Find</entry>
         <entry>action $Paste</entry>
+        <entry>action Replace</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
