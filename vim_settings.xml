@@ -103,10 +103,10 @@
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511985329881">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1512068597609">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravelersMap/README.md" timestamp="1511975176623">
         <mark key="'" line="11" column="22" />
@@ -115,7 +115,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="/code.py" timestamp="1511932348596">
+      <file name="/code.py" timestamp="1512066014539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/test" timestamp="1511983260556">
@@ -298,10 +298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y'd reported_target_type column</text>
+        <text>Added Conclusion</text>
       </register>
       <register name="-" type="4">
-        <text>y'd reported_target_type column</text>
+        <text>Added Conclusion</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
