@@ -16,10 +16,14 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" timestamp="1512588102239">
-        <mark key="'" line="3848" column="9" />
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" timestamp="1512590614791">
+        <mark key="'" line="2" column="35" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="104" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1511871787895">
+      <file name="/Python Console" timestamp="1512590736108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-15_21_02_983000/index.html" timestamp="1511954646458">
@@ -35,6 +39,13 @@
         <mark key="]" line="38" column="147" />
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512591307478">
+        <mark key="'" line="414" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" timestamp="1511957752302">
         <mark key="'" line="96" column="45" />
@@ -62,6 +73,13 @@
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojsonp" timestamp="1512592088090">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
@@ -198,13 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="39" filename="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/leetcode/p005.py" />
-      <jump line="4" column="7" filename="$USER_HOME$/projects/leetcode/p0011.py" />
-      <jump line="15" column="23" filename="$USER_HOME$/projects/leetcode/p0011.py" />
-      <jump line="6" column="33" filename="$USER_HOME$/projects/leetcode/p0011.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/leetcode/p0005.py" />
-      <jump line="17" column="33" filename="$USER_HOME$/projects/leetcode/p0011.py" />
       <jump line="10" column="24" filename="$USER_HOME$/projects/leetcode/p0011.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/leetcode/p0005.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/leetcode/p0015.py" />
@@ -298,40 +309,47 @@
       <jump line="3841" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3845" column="70" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3848" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
+      <jump line="117" column="24" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
+      <jump line="3" column="35" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
+      <jump line="3" column="110" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
+      <jump line="414" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
+      <jump line="0" column="15" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojsonp" />
+      <jump line="414" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojsonp" />
+      <jump line="3" column="19" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojsonp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Added Conclusion</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>Added Conclusion</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>skea</text>
+        <text>prop</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Jy0gJyA9IE5BLAogJy1cbicgPSBOQSwKICciRm9yZWlnbiByZWJlbHMiJyA9ICdPdGhlcicsCiAnIlJlYmVscyInID0gJ090aGVyJywKICdhbCBRYWVkYSAnID0gJ090aGVyJywKICdBUScgPSAnT3RoZXInLAogJ0FyYWJzIG1ha2luZyBib21icyBmb3IgVGFsaWJhbicgPSAnVGFsaWJhbicsCiAnRnJpZW5kbHkgRmlyZScgPSAnT3RoZXInLAogJ0ZyaWVuZGx5IGZpcmUgJyA9ICdPdGhlcicsCiAnSGFxcWFuaScgPSAnT3RoZXInLAogJ0luc3VyZ2VudHMnID0gJ090aGVyJywKICdJUycgPSAnSVNJUycsCiAnSVMtSycgPSAnSVNJUycsCiAnSVMvVFRQJyA9ICdJU0lTJywKICdJU0lTJyA9ICdJU0lTJywKICdMYXNoa2FyIGUgSXNsYW0sIFRUUCBhbmQgQWJkdWxsYWggQXphbSBCcmlnYWRlJyA9ICdUYWxpYmFuJywKICdSZXBvcnRlZGx5IFRhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4nID0gJ1RhbGliYW4nLAogJ1RhbGliYW4gJyA9ICdUYWxpYmFuJywKICdUYWxpYmFuIC0gS2hvcmFzYW4gR3JvdXAgLyBJU0lTJyA9ICdJU0lTJywKICdUYWxpYmFuIC8gSVNJUycgPSAnVGFsaWJhbicsCiAnVGFsaWJhbiBhbmQgSXNpcycgPSAnSVNJUycsCiAnVGFsaWJhbi9zbXVnZ2xlcnMnID0gJ1RhbGliYW4nLAogJ1RUUCcgPSAnVGFsaWJhbicsCg==</text>
+      <register name="0" type="4">
+        <text>reported_target_group</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">VG8gd2hvbSBpdCBtYXkgY29uY2VybjoKCkltIGhhdmluZyBzb21lIHJlYWxseSBkaWZmaWN1bHQgaXNzdWVzIHdpdGggZ2V0dGluZyBhIHdvcmtpbmcgSW5zdGFudCBQb3QgKElQKS4gU29tZSBvZiB0aGUgaXNzdWVzIEkgbm93IGtub3cgYXJlIG15IG1pc3Rha2UsIGJ1dCBzb21lIGFyZSBub3QuCgpJIGxvdmUgbXkgSVAuIEkgZmlyc3QgZ290IG15IGJhY2sgaW4gbWlkIDIwMTUgb3Igc28uIEl0IHdhcyBiZWZvcmUgdGhlIGh1Z2Ugc3VyZ2Ugb2YgdXNlcnMgam9pbmluZyB0aGUgRmFjZWJvb2sgZ3JvdXAgd2hlbiBpdCB3YXMgYSBiaXQgbW9yZSBuaWNoZS4gRnVuIGZhY3QsIHRoZSBmaXJzdCBJUCBGYWNlYm9vayBwb3N0IHdhcyBoZXJlLCBhbHRob3VnaCB0aGUgd2VsY29tZSBwb3N0IHdhcyBsYXRlciB0aGF0IGRheSBoZXJlLiBXaHkgZG8gSSBrbm93IHRoaXM/IEltIGFjdHVhbGx5IHdvcmtpbmcgb24gYSBkYXRhIHNjaWVuY2UgcHJvamVjdCBvbiB0aGUgYW1hemluZyBJUCBncm91cCBhbmQgaXRzIG1ldGVvcmljIHJpc2UgKHdlbGwgb3ZlciA3MDBrIG1lbWJlcnMgbm93KSBpbiBzdWNoIGEgc2hvcnQgdGltZS4KCkFueXdheSwgSSBsb3ZlZCBteSBJUCBhbmQgdXNlZCBpdCByZWd1bGFybHkgYW5kIHRvbGQgbXkgZnJpZW5kcywgYW5kIGxvb2tlZCBkb3duIHVwb24gY3JvY2twb3QgdXNlcnMgKGp1c3Qga2lkZGluZywgd2VsbCBraW5kIG9mKS4gQW5kIGxpZmUgd2FzIGdvb2QuIEJ1dCB0aGVuIG15IGdmIG1vdmVkIGF3YXksIGFuZCBsaWZlIGdvdCBkaWZmaWN1bHQuIEkgZGVjaWRlZCB0byBxdWl0IG15IGpvYiwgc2VsbCBteSBjYXIsIGFuZCBtb3ZlIHRvIHdoZXJlIHNoZSB3YXMsIHdoaWNoIHdhcyBoYWxmIHdheSBhY3Jvc3MgdGhlIHdvcmxkIChJb3dhIHRvIHRoZSBVQUUgLSBBYnUgRGhhYmkpLiBJIGhhZCB0byBsZWF2ZSBteSBpbnN0YW50IHBvdCBiZWhpbmQsIGJ1dCBJIGZpZ3VyZWQgSSB3b3VsZCBqdXN0IGJ1eSBvbmUgd2hlbiBJIGdvdCB0aGVyZS4KCkl0IHR1cm5zIG91dCBpdHMgaGFyZCB0byBidXkgaGVyZS4gVGhleSBoYXZlIGEgbG90IG9mIGNoZWFwZXIgcHJlc3N1cmUgY29va2VycyBrbm9jayA/b2Zmcy4gU28gbm8gYmlnIGRlYWwgcmlnaHQsIEkganVzdCBnZXQgYSBrbm9jayBvZmYgYW5kIHdoZW4gSSBnZXQgYmFjayB0byB0aGUgc3RhdGVzIEkgY2FuIGdvIGJhY2sgdG8gSVAgYmxpc3M/IE5vLCBJUHMgYXJlIFRIRSB3YXkgdG8gZ28uIFNvIEkgYm91Z2h0IG9uZSBvbiBBbWF6b24gYW5kIGhhZCBpdCBzaGlwcGVkIG92ZXIuIDU2JCBmb3Igc2hpcHBpbmcgaXMgc3RlZXAgYnV0IGl0cyBhIG9uZSB0aW1lIGNvc3QsIGFuZCBJUHMgYXJlIHByaWN5LCBidXQsIElsbCBzYXZlIG1vbmV5IGJ5IHVzaW5nIGl0IGEgbG90IHNvIGl0IGFsbCB3b3JrcyBvdXQuCgpJIHdhaXQgYW54aW91c2x5IGFuZCBpdCBmaW5hbGx5IGdldHMgaGVyZS4gSSB1c2UgdGhlIGFkYXB0ZXJzIHRoZXkgaGF2ZSBoZXJlLCBhbmQgcGx1ZyBpdCBpbiwgaXQgc2VlbXMgdG8gd29yayBmaW5lLi4uIGdldHMgYSBsaXR0bGUgaG90IG9uIHNhdXRlIG1vZGUuIE5vIGJpZyBkZWFsLCBJbGwganVzdCB1c2UgdGhlIHNldHRpbmdzIHRvIGEgbG93ZXIgaGVhdC4gV3JvbmcuIEl0IHR1cm5zIG91dCB0aGF0IHRoaXMgd2FzbnQgYSBxdWlyayBidXQgYSByZXN1bHQgb2Ygc29tZSBwb3dlciBpbmNvbXBhdGliaWxpdGllcywgSWQgbmVlZCBhIGJldHRlciBhZGFwdGVyLiBJIGRpZG50IGtub3cgdGhpcyB0aWwgbGF0ZXIgdGhvdWdoLiBJIHRob3VnaHQgdGhlIElQIHdhcyBicm9rZS4gSSBjYWxsIGFtYXpvbiwgd2hvc2UgYW1hemluZyBjdXN0b21lciBzZXJ2aWNlIGdhdmUgbWUgYSByZWZ1bmQgYW5kIGEgbGl0dGxlIGZvciB0aGUgZXhwZW5zaXZlIHNoaXBwaW5nLgoKSSBidXkgYW4gZXhwZW5zaXZlIGNvbnZlcnRlciAoNjUkKSBhbmQgYW5vdGhlciBJUCAoODUkIHdoZW4gSSBnb3QgaXQpIGFuZCBwYXkgZm9yIHRoZSBzaGlwcGluZy4uIHdoaWNoIGFwcGFyZW50bHkgd2FzIGluY29ycmVjdGx5IG1hcmtlZCBiZWZvcmUgYW5kIHdhcyBub3cg</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmVydGljZXM6IDIwMAogICAgICAgIH0pLmFkZFRvKG1hcCk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBMLlBvbHlsaW5lLkFyYyhsaW1hLCBDaGljYWdvLCB7CiAgICAgICAgICAgIGNvbG9yOiAnYmx1ZScsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9KS5hZGRUbyhtYXApOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgTC5Qb2x5bGluZS5BcmMobGltYSwgQ2hpY2FnbywgewogICAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgICAgICB2ZXJ0aWNlczogMjAw</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMLlBvbHlsaW5lLkFyYyhbNTkuNTY2NjcsIDE1MC44MDAwMF0sIFs2Ny41MDAwMCwgNjQuMDMzMzNdLCB7CiAgICAgICAgICAgIGNvbG9yOiAncmVkJywKICAgICAgICAgICAgdmVydGljZXM6IDIwMAogICAgICAgIH0pLmFkZFRvKG1hcCk7CgoK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMLlBvbHlsaW5lLkFyYyhbNTkuNTY2NjcsIDE1MC44MDAwMF0sIFs2Ny41MDAwMCwgNjQuMDMzMzNdLCB7CiAgICAgICAgICAgIGNvbG9yOiAncmVkJywKICAgICAgICAgICAgdmVydGljZXM6IDIwMAogICAgICAgIH0pLmFkZFRvKG1hcCk7CgoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -340,19 +358,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skea</last-search>
+      <last-search>prop</last-search>
       <last-offset />
-      <last-pattern>skea</last-pattern>
+      <last-pattern>prop</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>att</entry>
         <entry>Nom</entry>
         <entry>coords</entry>
         <entry>json</entry>
@@ -372,6 +389,7 @@
         <entry>hsl</entry>
         <entry>bomb</entry>
         <entry>skea</entry>
+        <entry>prop</entry>
       </history-search>
       <history-cmd>
         <entry>edit ~/.ideavimrc</entry>
@@ -387,13 +405,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>W</entry>
         <entry>action SaveAll</entry>
-        <entry>action $SelectAll</entry>
-        <entry>action $Paste</entry>
         <entry>action Replace</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action Find</entry>
+        <entry>action $SelectAll</entry>
+        <entry>action $Paste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
