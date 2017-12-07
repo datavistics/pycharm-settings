@@ -26,10 +26,6 @@
       <file name="/Python Console" timestamp="1512590736108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-15_21_02_983000/index.html" timestamp="1511954646458">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="278" column="38" />
-      </file>
       <file name="/a.dummy" timestamp="1511086293841">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,6 +136,13 @@
       <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512659068837">
+        <mark key="'" line="73" column="15" />
+        <mark key="[" line="186" column="27" />
+        <mark key="]" line="186" column="27" />
+        <mark key="." line="186" column="27" />
+        <mark key="^" line="186" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="4" column="0" />
@@ -156,7 +159,7 @@
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512657634048">
+      <file name="/Dummy.txt" timestamp="1512658766788">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravelersMap/README.md" timestamp="1511975176623">
@@ -234,18 +237,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512656906337">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="21" />
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512658741518">
+        <mark key="[" line="14" column="63" />
+        <mark key="]" line="14" column="63" />
         <mark key="^" line="24" column="21" />
-        <mark key="." line="24" column="21" />
+        <mark key="." line="14" column="63" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" timestamp="1512646231091">
         <mark key="'" line="244" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/InstantPot/data/raw/Facebook/2015_05_04.json" timestamp="1511976076060">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
         <mark key="[" line="0" column="0" />
@@ -255,10 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/TravellersMap/data/travel_locations.geojson" />
-      <jump line="9" column="6" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
-      <jump line="10" column="21" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
-      <jump line="19" column="73" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
       <jump line="29" column="9" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
       <jump line="37" column="23" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
       <jump line="25" column="8" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
@@ -355,16 +350,20 @@
       <jump line="74" column="12" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="4" column="16" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" />
+      <jump line="175" column="12" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
+      <jump line="181" column="14" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
+      <jump line="183" column="10" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
+      <jump line="73" column="15" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>'us</text>
+        <text>date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICgnaHR0cHM6Ly9yYXdnaXQuY29tL2RhdGF2aXN0aWNzL1VTLUJvbWJpbmdzL21hc3Rlci9tYXAvYm9tYi5nZW9qc29uJywgWyd1cGxvYWRzJywgJzIwMTcnLCAnMTInLCAnYm9tYi5nZW9qc29uJ10pLAo=</text>
@@ -401,15 +400,14 @@
       </register>
     </registers>
     <search>
-      <last-search>'us</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>'us</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>{x}</entry>
         <entry>route</entry>
         <entry>total_people</entry>
         <entry>total_people_killed</entry>
@@ -429,6 +427,7 @@
         <entry>display</entry>
         <entry>ent</entry>
         <entry>'us</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
