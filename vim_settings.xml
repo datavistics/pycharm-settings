@@ -140,12 +140,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512644473675">
-        <mark key="'" line="113" column="8" />
-        <mark key="[" line="107" column="11" />
-        <mark key="]" line="109" column="7" />
-        <mark key="." line="109" column="7" />
-        <mark key="^" line="109" column="7" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512649282281">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="131" column="35" />
+        <mark key="]" line="131" column="35" />
+        <mark key="." line="131" column="35" />
+        <mark key="^" line="131" column="33" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
@@ -219,11 +219,20 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/US-Bombings/map/table.css" timestamp="1512647219558">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511848893525">
         <mark key="[" line="11" column="139" />
         <mark key="]" line="11" column="140" />
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" timestamp="1512646231091">
+        <mark key="'" line="244" column="11" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/data/raw/Facebook/2015_05_04.json" timestamp="1511976076060">
         <mark key="[" line="0" column="9" />
@@ -237,23 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="35" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="94" column="32" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="92" column="96" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="66" column="10" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="103" column="43" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="52" column="9" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="2" column="28" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="37" column="7" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="36" column="4" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
@@ -327,72 +319,87 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="118" column="17" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="599" column="10" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="415" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
       <jump line="418" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
       <jump line="416" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
       <jump line="115" column="11" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
-      <jump line="109" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="110" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="113" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="90" column="30" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="109" column="12" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="121" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="122" column="37" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="123" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="124" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="127" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="2" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="7" column="79" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="39" column="44" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="73" column="24" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="74" column="24" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="244" column="11" filename="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" />
+      <jump line="103" column="12" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="111" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="86" column="0" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="65" column="4" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="81" column="0" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0aD5Pbmx5IFVTPC90aD4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>bombing.feature.properties</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>marker</text>
+        <text>timelineControl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGkuaW5uZXJIVE1MID0gYEhlbGxvOiAke2JvbWJpbmcuZmVhdHVyZS5wcm9wZXJ0aWVzLmxvY19zdHJpbmd9YDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvcnRlciA9IGJvbWJpbmcuZmVhdHVyZS5wcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx0aD5Pbmx5IFVTPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuY29uZmlybWVkX3VzfTwvdGQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0ZD4ke3Nob3J0ZXIub25seV91c308L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuYXZlcmFnZV9jaXZpbGlhbnNfcmVwb3J0ZWRfa2lsbGVkfTwvdGQ+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Clx0KkRyb25lP1x0JHtib21iaW5nLmZlYXR1cmUucHJvcGVydGllcy5pc19kcm9uZX1gOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiR7c2hvcnRlci5zdHJpa2VfbGlua30iPiR7c2hvcnRlci5sb2Nfc3RyaW5nfTwvYT48YnI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGkuaW5uZXJIVE1MID0gYEhlbGxvOiAke2pgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmUtb3JnYW5pemluZyBjb2RlIGZvciBiZXR0ZXIgc3RydWN0dXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ym9tYmluZ19zaG93KCkKYm9tYmluZ19zaG93KCkK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ0YWJsZS5jc3MiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">KQopCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90YWJsZT4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSk7CmJvbWJpbmdfc2hvdyhib21iaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90YWJsZT5gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>marker</last-search>
+      <last-search>timelineControl</last-search>
       <last-offset />
-      <last-pattern>marker</last-pattern>
+      <last-pattern>timelineControl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>coords</entry>
-        <entry>json</entry>
         <entry>mime</entry>
         <entry>zoom</entry>
         <entry>travelTiles</entry>
@@ -402,7 +409,6 @@
         <entry>route</entry>
         <entry>total_people</entry>
         <entry>total_people_killed</entry>
-        <entry>timeline</entry>
         <entry>hsl\(</entry>
         <entry>hsl</entry>
         <entry>bomb</entry>
@@ -411,6 +417,9 @@
         <entry>end</entry>
         <entry>start</entry>
         <entry>marker</entry>
+        <entry>timeline</entry>
+        <entry>duration</entry>
+        <entry>timelineControl</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -429,10 +438,10 @@
         <entry>action $SelectAll</entry>
         <entry>action $Copy</entry>
         <entry>action Replace</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
