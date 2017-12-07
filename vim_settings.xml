@@ -140,12 +140,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512642638413">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="90" column="25" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512644473675">
+        <mark key="'" line="113" column="8" />
+        <mark key="[" line="107" column="11" />
+        <mark key="]" line="109" column="7" />
+        <mark key="." line="109" column="7" />
+        <mark key="^" line="109" column="7" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
@@ -237,10 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
-      <jump line="88" column="24" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
       <jump line="93" column="35" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
       <jump line="94" column="32" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
       <jump line="92" column="96" filename="$USER_HOME$/projects/US-Bombings/Python/get_data.py" />
@@ -337,6 +333,10 @@
       <jump line="418" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
       <jump line="416" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
+      <jump line="115" column="11" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="109" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="110" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="113" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -346,7 +346,7 @@
         <text>bombing.feature.properties</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>marker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGkuaW5uZXJIVE1MID0gYEhlbGxvOiAke2JvbWJpbmcuZmVhdHVyZS5wcm9wZXJ0aWVzLmxvY19zdHJpbmd9YDsK</text>
@@ -379,19 +379,18 @@
         <text encoding="base64">fSk7CmJvbWJpbmdfc2hvdyhib21iaW5nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>marker</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>marker</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Nom</entry>
         <entry>coords</entry>
         <entry>json</entry>
         <entry>mime</entry>
@@ -411,6 +410,7 @@
         <entry>prop</entry>
         <entry>end</entry>
         <entry>start</entry>
+        <entry>marker</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -431,8 +431,8 @@
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>w</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
