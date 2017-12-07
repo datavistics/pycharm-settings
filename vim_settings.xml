@@ -140,12 +140,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512649282281">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="131" column="35" />
-        <mark key="]" line="131" column="35" />
-        <mark key="." line="131" column="35" />
-        <mark key="^" line="131" column="33" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512651832418">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="128" column="30" />
+        <mark key="]" line="128" column="31" />
+        <mark key="." line="128" column="31" />
+        <mark key="^" line="58" column="3" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
@@ -246,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
       <jump line="14" column="58" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
@@ -346,61 +344,62 @@
       <jump line="65" column="4" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="81" column="0" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="62" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="63" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>timelineControl</text>
+        <text>osm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2hvcnRlciA9IGJvbWJpbmcuZmVhdHVyZS5wcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuY29uZmlybWVkX3VzfTwvdGQ+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuYXZlcmFnZV9jaXZpbGlhbnNfcmVwb3J0ZWRfa2lsbGVkfTwvdGQ+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiR7c2hvcnRlci5zdHJpa2VfbGlua30iPiR7c2hvcnRlci5sb2Nfc3RyaW5nfTwvYT48YnI+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ0YWJsZS5jc3MiPjwvc2NyaXB0Pgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">JmNvcHk7IDxhIGhyZWY9Imh0dHA6Ly9vcGVuc3RyZWV0bWFwLm9yZy9jb3B5cmlnaHQiPicgKwogICAgICAgICdPcGVuU3RyZWV0TWFwPC9hPiBjb250cmlidXRvcnM=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90YWJsZT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGlvbjogJ1RpbGVzICZjb3B5OyBFc3JpICZtZGFzaDsgTmF0aW9uYWwgR2VvZ3JhcGhpYywgRXNyaSwgRGVMb3JtZSwgTkFWVEVRLCBVTkVQLVdDTUMsIFVTR1MsIE5BU0EsIEVTQSwgTUVUSSwgTlJDQU4sIEdFQkNPLCBOT0FBLCBpUEMnLAogICAgICAgIG1heFpvb206IDE2CiAgICB9KTsgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuY29uZmlybWVkX3VzfTwvdGQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuYXZlcmFnZV9jaXZpbGlhbnNfcmVwb3J0ZWRfa2lsbGVkfTwvdGQ+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiR7c2hvcnRlci5zdHJpa2VfbGlua30iPiR7c2hvcnRlci5sb2Nfc3RyaW5nfTwvYT48YnI+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90YWJsZT5gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>timelineControl</last-search>
+      <last-search>osm</last-search>
       <last-offset />
-      <last-pattern>timelineControl</last-pattern>
+      <last-pattern>osm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mime</entry>
         <entry>zoom</entry>
         <entry>travelTiles</entry>
         <entry>Esr</entry>
@@ -420,6 +419,7 @@
         <entry>timeline</entry>
         <entry>duration</entry>
         <entry>timelineControl</entry>
+        <entry>osm</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -439,8 +439,8 @@
         <entry>action $Copy</entry>
         <entry>action Replace</entry>
         <entry>w</entry>
-        <entry>action $Paste</entry>
         <entry>action Find</entry>
+        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
