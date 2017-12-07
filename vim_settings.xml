@@ -40,6 +40,12 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512658004881">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -140,14 +146,17 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512651832418">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="128" column="30" />
-        <mark key="]" line="128" column="31" />
-        <mark key="." line="128" column="31" />
-        <mark key="^" line="58" column="3" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512656140091">
+        <mark key="'" line="74" column="12" />
+        <mark key="[" line="141" column="49" />
+        <mark key="]" line="141" column="51" />
+        <mark key="." line="141" column="51" />
+        <mark key="^" line="141" column="51" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512657634048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravelersMap/README.md" timestamp="1511975176623">
@@ -157,7 +166,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="/code.py" timestamp="1512066014539">
+      <file name="/code.py" timestamp="1512656267766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/test" timestamp="1511983260556">
@@ -225,11 +234,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1511848893525">
-        <mark key="[" line="11" column="139" />
-        <mark key="]" line="11" column="140" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="25" />
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512656906337">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" timestamp="1512646231091">
         <mark key="'" line="244" column="11" />
@@ -246,19 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="14" column="58" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="0" column="13" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="46" column="39" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/TravellersMap/src/data_prep.py" />
-      <jump line="14" column="2" filename="$USER_HOME$/projects/TravellersMap/data/travel_locations.geojson" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/TravellersMap/data/travel_locations.geojson" />
       <jump line="9" column="6" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
       <jump line="10" column="21" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
@@ -330,13 +326,11 @@
       <jump line="121" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="122" column="37" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="123" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
-      <jump line="124" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="127" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="2" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="7" column="79" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="39" column="44" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="73" column="24" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
-      <jump line="74" column="24" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="244" column="11" filename="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" />
       <jump line="103" column="12" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="111" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -346,64 +340,75 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="63" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="105" column="35" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="124" column="49" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="143" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="147" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="150" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="154" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="164" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="175" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="53" column="5" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="75" column="44" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="77" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="52" column="12" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="74" column="12" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
+      <jump line="4" column="16" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
-        <text>osm</text>
+        <text>'us</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvcnRlciA9IGJvbWJpbmcuZmVhdHVyZS5wcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">ICAgICgnaHR0cHM6Ly9yYXdnaXQuY29tL2RhdGF2aXN0aWNzL1VTLUJvbWJpbmdzL21hc3Rlci9tYXAvYm9tYi5nZW9qc29uJywgWyd1cGxvYWRzJywgJzIwMTcnLCAnMTInLCAnYm9tYi5nZW9qc29uJ10pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JmNvcHk7IDxhIGhyZWY9Imh0dHA6Ly9vcGVuc3RyZWV0bWFwLm9yZy9jb3B5cmlnaHQiPicgKwogICAgICAgICdPcGVuU3RyZWV0TWFwPC9hPiBjb250cmlidXRvcnM=</text>
+      <register name="2" type="2">
+        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGlvbjogJ1RpbGVzICZjb3B5OyBFc3JpICZtZGFzaDsgTmF0aW9uYWwgR2VvZ3JhcGhpYywgRXNyaSwgRGVMb3JtZSwgTkFWVEVRLCBVTkVQLVdDTUMsIFVTR1MsIE5BU0EsIEVTQSwgTUVUSSwgTlJDQU4sIEdFQkNPLCBOT0FBLCBpUEMnLAogICAgICAgIG1heFpvb206IDE2CiAgICB9KTsgCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgdzMtaW5jbHVkZS1odG1sPSJ1c19hZmdoYW5fYm9tYmluZ3MuaHRtbCI+PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuY29uZmlybWVkX3VzfTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImNhdGVnb3J5IiBjb250ZW50PSJ5ZWFoIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4ke3Nob3J0ZXIuYXZlcmFnZV9jaXZpbGlhbnNfcmVwb3J0ZWRfa2lsbGVkfTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Im1vZGlmaWVkIiBjb250ZW50PSIyMDEyLTA3LTEwIDIwOjE0IiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiR7c2hvcnRlci5zdHJpa2VfbGlua30iPiR7c2hvcnRlci5sb2Nfc3RyaW5nfTwvYT48YnI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PGJvZHk+ClRoaXMgaXMgdGhlIGNvbnRlbnQgb2YgbXkgc3VwZXIgYmxvZyBwb3N0Lgo8L2JvZHk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPgo=</text>
+        <text encoding="base64">PGJvZHk+ClRoaXMgaXMgdGhlIGNvbnRlbnQgb2YgbXkgc3VwZXIgYmxvZyBwb3N0Lgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>osm</last-search>
+      <last-search>'us</last-search>
       <last-offset />
-      <last-pattern>osm</last-pattern>
+      <last-pattern>'us</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>zoom</entry>
-        <entry>travelTiles</entry>
-        <entry>Esr</entry>
-        <entry>htt</entry>
         <entry>{x}</entry>
         <entry>route</entry>
         <entry>total_people</entry>
@@ -420,6 +425,10 @@
         <entry>duration</entry>
         <entry>timelineControl</entry>
         <entry>osm</entry>
+        <entry>tr</entry>
+        <entry>display</entry>
+        <entry>ent</entry>
+        <entry>'us</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -437,8 +446,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action $SelectAll</entry>
         <entry>action $Copy</entry>
-        <entry>action Replace</entry>
         <entry>w</entry>
+        <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
