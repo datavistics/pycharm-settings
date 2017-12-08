@@ -88,8 +88,8 @@
         <mark key="]" line="414" column="1" />
         <mark key="." line="414" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" timestamp="1512640502922">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" timestamp="1512734858440">
+        <mark key="'" line="15589" column="0" />
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -99,6 +99,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/map/bomb.js" timestamp="1512737283927">
+        <mark key="'" line="13127" column="0" />
+        <mark key="[" line="28296" column="1" />
+        <mark key="]" line="28296" column="1" />
+        <mark key="." line="28296" column="1" />
+        <mark key="^" line="28296" column="1" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1510763893789">
         <mark key="'" line="141" column="0" />
@@ -135,11 +142,11 @@
       <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512734135894">
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
         <mark key="'" line="186" column="0" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="112" />
-        <mark key="." line="186" column="102" />
+        <mark key="[" line="186" column="12" />
+        <mark key="]" line="186" column="79" />
+        <mark key="." line="186" column="12" />
         <mark key="^" line="186" column="100" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
@@ -158,7 +165,7 @@
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512733960575">
+      <file name="/Dummy.txt" timestamp="1512737569230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravelersMap/README.md" timestamp="1511975176623">
@@ -236,18 +243,19 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" timestamp="1512734146976">
-        <mark key="'" line="63" column="30" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" timestamp="1512737768862">
+        <mark key="'" line="114" column="34" />
+        <mark key="[" line="186" column="21" />
+        <mark key="]" line="186" column="21" />
+        <mark key="." line="186" column="21" />
+        <mark key="^" line="187" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512734034699">
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512736082583">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="13" column="66" />
-        <mark key="^" line="13" column="66" />
-        <mark key="." line="13" column="66" />
+        <mark key="[" line="13" column="102" />
+        <mark key="]" line="13" column="103" />
+        <mark key="^" line="13" column="103" />
+        <mark key="." line="13" column="103" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" timestamp="1512646231091">
         <mark key="'" line="244" column="11" />
@@ -260,14 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
-      <jump line="35" column="134" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
-      <jump line="62" column="4" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
-      <jump line="94" column="45" filename="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" />
-      <jump line="11" column="22" filename="$USER_HOME$/projects/TravelersMap/README.md" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/datavistics.github.io/scripts/temp" />
-      <jump line="23" column="16" filename="$USER_HOME$/projects/US-Bombings/Python/test" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/Python/test" />
       <jump line="1088" column="16" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3161" column="45" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3175" column="40" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
@@ -360,61 +360,68 @@
       <jump line="186" column="0" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
       <jump line="13" column="8" filename="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" />
       <jump line="63" column="30" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
+      <jump line="15589" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
+      <jump line="84" column="43" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
+      <jump line="186" column="25" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
+      <jump line="114" column="34" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.js" />
+      <jump line="417" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL21hcC9ib21iLmdlb2pzb24iPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>geojson</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>geo</text>
+        <text>leaflet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vcmF3Z2l0LmNvbS9kYXRhdmlzdGljcy9kYXRhdmlzdGljcy5naXRodWIuaW8vZGV2L2NvbnRlbnQvdXBsb2Fkcy8yMDE3LzEyL2JvbWIuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuLnJhd2dpdC5jb20vZGF0YXZpc3RpY3MvVVMtQm9tYmluZ3MvbWFzdGVyL21hcC9ib21iLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL21hcC9ib21iLmdlb2pzb24iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PCEtLTxzY3JpcHQgc3JjPSIuL2JvbWIuanMiPjwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdGF0aWNDb250ZW50PgogICAgICAgIDxtaW1lTWFwIGZpbGVFeHRlbnNpb249Ii5nZW9qc29ucCIgbWltZVR5cGU9ImFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbSIgLz4KICAgIDwvc3RhdGljQ29udGVudD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9zeXN0ZW0ud2ViU2VydmVyPgo=</text>
+        <text encoding="base64">KTsKKTsKKQopCikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHN5c3RlbS53ZWJTZXJ2ZXI+Cg==</text>
+        <text encoding="base64">Ym9tYmluZ19zaG93KAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">Ym9tYmluZ19zaG93KApib21iaW5nX3Nob3coCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">Ym9tYmluZ19zaG93KApib21iaW5nX3Nob3coCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgdzMtaW5jbHVkZS1odG1sPSJ1c19hZmdoYW5fYm9tYmluZ3MuaHRtbCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgbWVkaWE9InNjcmVlbiI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImNhdGVnb3J5IiBjb250ZW50PSJ5ZWFoIiAvPgo=</text>
+        <text encoding="base64">PGh0bWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Im1vZGlmaWVkIiBjb250ZW50PSIyMDEyLTA3LTEwIDIwOjE0IiAvPgo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL21hcC9ib21iLmdlb2pzb24iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>geo</last-search>
+      <last-search>leaflet</last-search>
       <last-offset />
-      <last-pattern>geo</last-pattern>
+      <last-pattern>leaflet</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>total_people_killed</entry>
         <entry>hsl\(</entry>
         <entry>hsl</entry>
         <entry>bomb</entry>
@@ -434,6 +441,7 @@
         <entry>date</entry>
         <entry>mim</entry>
         <entry>geo</entry>
+        <entry>leaflet</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
@@ -446,15 +454,15 @@
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
-        <entry>action $SelectAll</entry>
-        <entry>action $Copy</entry>
         <entry>w</entry>
         <entry>action Replace</entry>
-        <entry>action Find</entry>
-        <entry>action $Paste</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action Find</entry>
+        <entry>action $SelectAll</entry>
+        <entry>action $Copy</entry>
+        <entry>action $Paste</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
@@ -505,6 +513,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
