@@ -92,7 +92,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
-        <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
@@ -136,12 +135,12 @@
       <file name="/dummy.sql" timestamp="1510757665118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512659068837">
-        <mark key="'" line="73" column="15" />
-        <mark key="[" line="186" column="27" />
-        <mark key="]" line="186" column="27" />
-        <mark key="." line="186" column="27" />
-        <mark key="^" line="186" column="12" />
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512734135894">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="112" />
+        <mark key="." line="186" column="102" />
+        <mark key="^" line="186" column="100" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
         <mark key="[" line="76" column="0" />
@@ -159,7 +158,7 @@
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512658766788">
+      <file name="/Dummy.txt" timestamp="1512733960575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravelersMap/README.md" timestamp="1511975176623">
@@ -169,7 +168,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="/code.py" timestamp="1512656267766">
+      <file name="/code.py" timestamp="1512732655899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/test" timestamp="1511983260556">
@@ -237,11 +236,18 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512658741518">
-        <mark key="[" line="14" column="63" />
-        <mark key="]" line="14" column="63" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="14" column="63" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" timestamp="1512734146976">
+        <mark key="'" line="63" column="30" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512734034699">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="66" />
+        <mark key="^" line="13" column="66" />
+        <mark key="." line="13" column="66" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" timestamp="1512646231091">
         <mark key="'" line="244" column="11" />
@@ -254,9 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="9" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
-      <jump line="37" column="23" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
-      <jump line="25" column="8" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
       <jump line="34" column="8" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
       <jump line="35" column="134" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
       <jump line="62" column="4" filename="$USER_HOME$/projects/TravellersMap/map/map.html" />
@@ -354,62 +357,63 @@
       <jump line="181" column="14" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
       <jump line="183" column="10" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
       <jump line="73" column="15" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
+      <jump line="186" column="0" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
+      <jump line="13" column="8" filename="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" />
+      <jump line="63" column="30" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL21hcC9ib21iLmdlb2pzb24iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>geojson</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>geo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICgnaHR0cHM6Ly9yYXdnaXQuY29tL2RhdGF2aXN0aWNzL1VTLUJvbWJpbmdzL21hc3Rlci9tYXAvYm9tYi5nZW9qc29uJywgWyd1cGxvYWRzJywgJzIwMTcnLCAnMTInLCAnYm9tYi5nZW9qc29uJ10pLAo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vcmF3Z2l0LmNvbS9kYXRhdmlzdGljcy9kYXRhdmlzdGljcy5naXRodWIuaW8vZGV2L2NvbnRlbnQvdXBsb2Fkcy8yMDE3LzEyL2JvbWIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL21hcC9ib21iLmdlb2pzb24iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxzdGF0aWNDb250ZW50PgogICAgICAgIDxtaW1lTWFwIGZpbGVFeHRlbnNpb249Ii5nZW9qc29ucCIgbWltZVR5cGU9ImFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbSIgLz4KICAgIDwvc3RhdGljQ29udGVudD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgdzMtaW5jbHVkZS1odG1sPSJ1c19hZmdoYW5fYm9tYmluZ3MuaHRtbCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">PC9zeXN0ZW0ud2ViU2VydmVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImNhdGVnb3J5IiBjb250ZW50PSJ5ZWFoIiAvPgo=</text>
+        <text encoding="base64">PHN5c3RlbS53ZWJTZXJ2ZXI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Im1vZGlmaWVkIiBjb250ZW50PSIyMDEyLTA3LTEwIDIwOjE0IiAvPgo=</text>
+        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiB3My1pbmNsdWRlLWh0bWw9ImNvbnRlbnQuaHRtbCI+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGJvZHk+ClRoaXMgaXMgdGhlIGNvbnRlbnQgb2YgbXkgc3VwZXIgYmxvZyBwb3N0Lgo8L2JvZHk+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgdzMtaW5jbHVkZS1odG1sPSJ1c19hZmdoYW5fYm9tYmluZ3MuaHRtbCI+PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJvZHk+ClRoaXMgaXMgdGhlIGNvbnRlbnQgb2YgbXkgc3VwZXIgYmxvZyBwb3N0Lgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImNhdGVnb3J5IiBjb250ZW50PSJ5ZWFoIiAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Im1vZGlmaWVkIiBjb250ZW50PSIyMDEyLTA3LTEwIDIwOjE0IiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>geo</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>geo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>route</entry>
-        <entry>total_people</entry>
         <entry>total_people_killed</entry>
         <entry>hsl\(</entry>
         <entry>hsl</entry>
@@ -428,9 +432,10 @@
         <entry>ent</entry>
         <entry>'us</entry>
         <entry>date</entry>
+        <entry>mim</entry>
+        <entry>geo</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
         <entry>set surround</entry>
         <entry>q</entry>
         <entry>action ParameterInfo</entry>
@@ -449,6 +454,7 @@
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action $Paste</entry>
+        <entry>action EditorSelectWord</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
