@@ -165,8 +165,10 @@
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512740795558">
+      <file name="/Dummy.txt" timestamp="1512742485054">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
       </file>
       <file name="$USER_HOME$/projects/TravelersMap/README.md" timestamp="1511975176623">
         <mark key="'" line="11" column="22" />
@@ -249,12 +251,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" timestamp="1512740778320">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="189" column="13" />
-        <mark key="]" line="189" column="13" />
-        <mark key="^" line="50" column="38" />
-        <mark key="." line="189" column="13" />
+      <file name="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" timestamp="1512742471597">
+        <mark key="'" line="167" column="28" />
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
@@ -284,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3161" column="45" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3175" column="40" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3855" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3857" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
@@ -384,13 +385,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.js" />
       <jump line="417" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.js" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
+      <jump line="167" column="28" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//cdn.rawgit.com/datavistics/US-Bombings/61f6df3e89fc34c5605cbc39990ce23f652a774c/map/</text>
+        <text>Leaflet.timeline</text>
       </register>
       <register name="-" type="4">
-        <text>//cdn.rawgit.com/datavistics/US-Bombings/61f6df3e89fc34c5605cbc39990ce23f652a774c/map/</text>
+        <text>Leaflet.timeline</text>
       </register>
       <register name="/" type="4">
         <text>bom</text>
