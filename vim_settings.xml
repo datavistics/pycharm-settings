@@ -23,6 +23,9 @@
         <mark key="^" line="116" column="21" />
         <mark key="." line="116" column="21" />
       </file>
+      <file name="/Python Console" timestamp="1512816404284">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1511086293841">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,12 +107,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512813712546">
-        <mark key="'" line="134" column="19" />
-        <mark key="[" line="139" column="4" />
-        <mark key="]" line="140" column="3" />
-        <mark key="." line="140" column="3" />
-        <mark key="^" line="140" column="3" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512816333606">
+        <mark key="'" line="114" column="72" />
+        <mark key="[" line="129" column="91" />
+        <mark key="]" line="129" column="92" />
+        <mark key="." line="129" column="92" />
+        <mark key="^" line="129" column="92" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0011.py" timestamp="1511091040489">
         <mark key="'" line="10" column="24" />
@@ -136,7 +139,7 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="/dummy.sql" timestamp="1512814137891">
+      <file name="/dummy.sql" timestamp="1512816340530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
@@ -289,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="129" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="0" column="10" filename="$USER_HOME$/projects/US-Bombings/notebooks/borders-parsed.jsonp" />
@@ -381,7 +383,6 @@
       <jump line="96" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="102" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="107" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="114" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="122" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="129" column="28" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="25" column="10" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -389,16 +390,73 @@
       <jump line="134" column="19" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="85" column="19" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
+      <jump line="85" column="64" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="114" column="72" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>(</text>
+      </register>
+      <register name="d" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>session.commit</text>
+        <text>Com</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZpbGVfeWVhciwgZmlsZV9tb250aCwgZmlsZV9kYXkgPSBmaWxlbmFtZVs6LTVdLnNwbGl0KCdfJykK</text>
@@ -435,17 +493,14 @@
       </register>
     </registers>
     <search>
-      <last-search>session.commit</last-search>
+      <last-search>Com</last-search>
       <last-offset />
-      <last-pattern>session.commit</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>Com</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>marker</entry>
-        <entry>timeline</entry>
         <entry>duration</entry>
         <entry>timelineControl</entry>
         <entry>osm</entry>
@@ -463,6 +518,9 @@
         <entry>print</entry>
         <entry>error</entry>
         <entry>session.commit</entry>
+        <entry>['from']</entry>
+        <entry>\['from'\]</entry>
+        <entry>Com</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
@@ -473,17 +531,17 @@
         <entry>$Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>nohl</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>w</entry>
-        <entry>action Replace</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $Paste</entry>
         <entry>action $Copy</entry>
         <entry>action Find</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
+        <entry>action Replace</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
