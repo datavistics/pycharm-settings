@@ -208,7 +208,7 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1512819651235">
+      <file name="/dummy.sql" timestamp="1512832853664">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
@@ -490,7 +490,7 @@
         <text encoding="base64">IyBzZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -534,7 +534,6 @@
         <entry>nohl</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
-        <entry>w</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
@@ -544,6 +543,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
