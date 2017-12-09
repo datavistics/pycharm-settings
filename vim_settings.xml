@@ -104,12 +104,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512811038815">
-        <mark key="'" line="138" column="62" />
-        <mark key="[" line="145" column="24" />
-        <mark key="]" line="145" column="44" />
-        <mark key="." line="145" column="44" />
-        <mark key="^" line="145" column="44" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512813712546">
+        <mark key="'" line="134" column="19" />
+        <mark key="[" line="139" column="4" />
+        <mark key="]" line="140" column="3" />
+        <mark key="." line="140" column="3" />
+        <mark key="^" line="140" column="3" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0011.py" timestamp="1511091040489">
         <mark key="'" line="10" column="24" />
@@ -136,7 +136,7 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="/dummy.sql" timestamp="1512809561415">
+      <file name="/dummy.sql" timestamp="1512814137891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
@@ -169,7 +169,7 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512742485054">
+      <file name="/Dummy.txt" timestamp="1512813993640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
@@ -229,12 +229,12 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1510757434716">
-        <mark key="'" line="30" column="31" />
-        <mark key="[" line="74" column="11" />
-        <mark key="]" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="^" line="16" column="93" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1512813707680">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="19" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/dvr_facebook_group_analysis_and_visualization.ipynb-meta" timestamp="1511526131896">
         <mark key="[" line="5" column="9" />
@@ -289,24 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3888" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3895" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3897" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3899" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3903" column="12357" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3831" column="47" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3834" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3836" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3838" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3841" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3845" column="70" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3848" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="117" column="24" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3" column="35" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
-      <jump line="3" column="110" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
-      <jump line="414" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojsonp" />
-      <jump line="3" column="19" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojsonp" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojsonp" />
       <jump line="8" column="4" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="129" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
@@ -388,62 +370,79 @@
       <jump line="104" column="62" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="6" column="2" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="52" column="24" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="137" column="62" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="31" column="24" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="38" column="2" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="63" column="7" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="82" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="88" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="96" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="102" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="114" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="122" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="129" column="28" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="25" column="10" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="134" column="19" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="85" column="19" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>session.commit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZpbGVfeWVhciwgZmlsZV9tb250aCwgZmlsZV9kYXkgPSBmaWxlbmFtZVs6LTVdLnNwbGl0KCdfJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">anNvbl9kYXRhX2RpciA9IG9zLnAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBzZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgYW4gZW5naW5lIHRoYXQgc3RvcmVzIGRhdGEgaW4gdGhlIGxvY2FsIGRpcmVjdG9yeSdzCiMgc3FsYWxjaGVteV9leGFtcGxlLmRiIGZpbGUuCmVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCiMgQ3JlYXRlIGFsbCB0YWJsZXMgaW4gdGhlIGVuZ2luZS4gVGhpcyBpcyBlcXVpdmFsZW50IHRvICJDcmVhdGUgVGFibGUiCiMgc3RhdGVtZW50cyBpbiByYXcgU1FMLgpCYXNlLm1ldGFkYXRhLmNyZWF0ZV9hbGwoZW5naW5lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgYAo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZmlsZW5hbWUpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>//cdn.rawgit.com/datavistics/US-Bombings/61f6df3e89fc34c5605cbc39990ce23f652a774c/map/</text>
+      <register name="4" type="2">
+        <text encoding="base64">anNvbl9kYXRhX2RpciA9IG9zLnAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci0gTXkgcG9saXRpY2FsIHZpZXdzIHdpbGwgaGF2ZSBubyBwbGF5IGluIG15IGFuYWx5c2lz</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBzZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5VUyBCb21iaW5ncyBpbiBBZmdoYW5pc3RhbjwvdGl0bGU+Cg==</text>
+        <text encoding="base64">YGBgYAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3VtbWFyeTogY29udGVudD0iQSBiZWF1dGlmdWwgdmlzdWFsaXphdGlvbiBvZiB0aGUgYm9tYmluZ3MgaW4gQWZnaGFuaXN0YW4iIC8+Cg==</text>
+      <register name="7" type="4">
+        <text>//cdn.rawgit.com/datavistics/US-Bombings/61f6df3e89fc34c5605cbc39990ce23f652a774c/map/</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InNsdWc6IHVzLWFmZ2hhbi1ib21iaW5ncyIgLz4KICAgIDxtZXRhIG5hbWU9ImRhdGUiIGNvbnRlbnQ9IjIwMTctMTItMDcgMTg6MzgiIC8+CiAgICA8bWV0YSBuYW1lPSJhdXRob3JzIiBjb250ZW50PSJEZXJlayBUaG9tYXMiIC8+CiAgICA8bWV0YSBuYW1lPSI=</text>
+        <text encoding="base64">Ci0gTXkgcG9saXRpY2FsIHZpZXdzIHdpbGwgaGF2ZSBubyBwbGF5IGluIG15IGFuYWx5c2lz</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">InNsdWc6IHVzLWFmZ2hhbi1ib21iaW5ncyIgLz4KICAgIDxtZXRhIG5hbWU9ImRhdGUiIGNvbnRlbnQ9IjIwMTctMTItMDcgMTg6MzgiIC8+CiAgICA8bWV0YSBuYW1lPSJhdXRob3JzIiBjb250ZW50PSJEZXJlayBUaG9tYXMiIC8+CiAgICA8bWV0YSBuYW1lPQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDx0aXRsZT5VUyBCb21iaW5ncyBpbiBBZmdoYW5pc3RhbjwvdGl0bGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>session.commit</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>session.commit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>end</entry>
         <entry>start</entry>
         <entry>marker</entry>
         <entry>timeline</entry>
@@ -463,6 +462,7 @@
         <entry>from_name</entry>
         <entry>print</entry>
         <entry>error</entry>
+        <entry>session.commit</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
@@ -479,11 +479,11 @@
         <entry>w</entry>
         <entry>action Replace</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action Find</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $Paste</entry>
         <entry>action $Copy</entry>
+        <entry>action Find</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
