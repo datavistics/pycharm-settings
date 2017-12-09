@@ -107,12 +107,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512808656744">
-        <mark key="'" line="104" column="62" />
-        <mark key="[" line="104" column="86" />
-        <mark key="]" line="104" column="89" />
-        <mark key="^" line="104" column="89" />
-        <mark key="." line="104" column="89" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512809549886">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0011.py" timestamp="1511091040489">
         <mark key="'" line="10" column="24" />
@@ -292,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3873" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3880" column="75" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3883" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="3888" column="9" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
@@ -392,62 +391,61 @@
       <jump line="79" column="73" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="90" column="49" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="104" column="62" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="6" column="2" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
-        <text>from_name</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxwPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9kYXRhdmlzdGljcy9VUy1Cb21iaW5ncy90cmVlL21hc3Rlci9tYXAiPkhlcmUgaXMgdGhlIHNvdXJjZSBjb2RlPC9hPjwvcD4K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">IyBzZXNzaW9uLmNvbW1pdCgpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">YGBgYAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>//cdn.rawgit.com/datavistics/US-Bombings/61f6df3e89fc34c5605cbc39990ce23f652a774c/map/</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci0gTXkgcG9saXRpY2FsIHZpZXdzIHdpbGwgaGF2ZSBubyBwbGF5IGluIG15IGFuYWx5c2lz</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDx0aXRsZT5VUyBCb21iaW5ncyBpbiBBZmdoYW5pc3RhbjwvdGl0bGU+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c3VtbWFyeTogY29udGVudD0iQSBiZWF1dGlmdWwgdmlzdWFsaXphdGlvbiBvZiB0aGUgYm9tYmluZ3MgaW4gQWZnaGFuaXN0YW4iIC8+Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InNsdWc6IHVzLWFmZ2hhbi1ib21iaW5ncyIgLz4KICAgIDxtZXRhIG5hbWU9ImRhdGUiIGNvbnRlbnQ9IjIwMTctMTItMDcgMTg6MzgiIC8+CiAgICA8bWV0YSBuYW1lPSJhdXRob3JzIiBjb250ZW50PSJEZXJlayBUaG9tYXMiIC8+CiAgICA8bWV0YSBuYW1lPSI=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">InNsdWc6IHVzLWFmZ2hhbi1ib21iaW5ncyIgLz4KICAgIDxtZXRhIG5hbWU9ImRhdGUiIGNvbnRlbnQ9IjIwMTctMTItMDcgMTg6MzgiIC8+CiAgICA8bWV0YSBuYW1lPSJhdXRob3JzIiBjb250ZW50PSJEZXJlayBUaG9tYXMiIC8+CiAgICA8bWV0YSBuYW1lPQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PC9oZWFkPgo8Ym9keT4KCjxkaXYgdzMtaW5jbHVkZS1odG1sPSJ1c19hZmdoYW5fYm9tYmluZ3MuaHRtbCI+PC9kaXY+Cgo8c2NyaXB0PgogICAgdzMuaW5jbHVkZUhUTUwoKTsKPC9zY3JpcHQ+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGh0bWw+CjxoZWFkPgogICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vd3d3Lnczc2Nob29scy5jb20vbGliL3czLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">PC9oZWFkPgo8Ym9keT4KCjxkaXYgdzMtaW5jbHVkZS1odG1sPSJ1c19hZmdoYW5fYm9tYmluZ3MuaHRtbCI+PC9kaXY+Cgo8c2NyaXB0PgogICAgdzMuaW5jbHVkZUhUTUwoKTsKPC9zY3JpcHQ+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>from_name</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>from_name</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>skea</entry>
-        <entry>prop</entry>
         <entry>end</entry>
         <entry>start</entry>
         <entry>marker</entry>
@@ -466,6 +464,8 @@
         <entry>' bom</entry>
         <entry>bom</entry>
         <entry>from_name</entry>
+        <entry>print</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>set surround</entry>
