@@ -59,12 +59,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512831732245">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="148" column="50" />
-        <mark key="]" line="149" column="22" />
-        <mark key="." line="149" column="22" />
-        <mark key="^" line="149" column="22" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512837452907">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="143" column="66" />
+        <mark key="]" line="144" column="54" />
+        <mark key="." line="144" column="54" />
+        <mark key="^" line="144" column="54" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1511884675303">
         <mark key="'" line="2" column="14" />
@@ -138,9 +138,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" timestamp="1512646231091">
-        <mark key="'" line="244" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="42" />
@@ -208,8 +205,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1512832853664">
+      <file name="/dummy.sql" timestamp="1512837051223">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
         <mark key="'" line="186" column="0" />
@@ -246,6 +246,9 @@
         <mark key="]" line="124" column="102" />
         <mark key="^" line="124" column="72" />
         <mark key="." line="105" column="85" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512837353577">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/src/data_prep.py" timestamp="1511874376525">
         <mark key="'" line="46" column="0" />
@@ -293,12 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="10" filename="$USER_HOME$/projects/US-Bombings/notebooks/borders-parsed.jsonp" />
-      <jump line="415" column="0" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
-      <jump line="414" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
-      <jump line="4924" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
-      <jump line="0" column="12" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
-      <jump line="94" column="40" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="80" column="72" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="85" column="40" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="114" column="6" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
@@ -393,6 +390,12 @@
       <jump line="85" column="23" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="141" column="3" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="1" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="146" column="45" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="60" column="24" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="3" column="34" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="11" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -413,7 +416,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkVSUk9SKQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0cyBsaW1pdCAxZGQK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -454,56 +457,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>, file_day != '01'</text>
       </register>
       <register name="/" type="4">
-        <text>Com</text>
+        <text>datetime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhbnkoW2ZpbGVfeWVhciAhPSAnMjAxNycsIGZpbGVfbW9udGggIT0gJzExJywgZmlsZV9kYXkgIT0gJzAxJ10pOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkVSUk9SKQo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0cyBsaW1pdCAxZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCg==</text>
+        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxldmVsPWxvZ2dpbmcuRVJST1IpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVidWdfZCA9IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZXMoKQo=</text>
+        <text encoding="base64">IyBqc29uX2RhdGFfZGlyID0gcidDOlxVc2Vyc1xEVC1MYXB0b3BccHJvamVjdHNcRmFjZWJvb2tVdGlsaXRpZXNcb3V0cHV0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkVSUk9SKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGUgYW4gZW5naW5lIHRoYXQgc3RvcmVzIGRhdGEgaW4gdGhlIGxvY2FsIGRpcmVjdG9yeSdzCiMgc3FsYWxjaGVteV9leGFtcGxlLmRiIGZpbGUuCmVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCiMgQ3JlYXRlIGFsbCB0YWJsZXMgaW4gdGhlIGVuZ2luZS4gVGhpcyBpcyBlcXVpdmFsZW50IHRvICJDcmVhdGUgVGFibGUiCiMgc3RhdGVtZW50cyBpbiByYXcgU1FMLgpCYXNlLm1ldGFkYXRhLmNyZWF0ZV9hbGwoZW5naW5lKQo=</text>
+        <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">anNvbl9kYXRhX2RpciA9IG9zLnAK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>Com</last-search>
+      <last-search>datetime</last-search>
       <last-offset />
-      <last-pattern>Com</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>datetime</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>duration</entry>
-        <entry>timelineControl</entry>
         <entry>osm</entry>
         <entry>tr</entry>
         <entry>display</entry>
@@ -522,9 +523,10 @@
         <entry>['from']</entry>
         <entry>\['from'\]</entry>
         <entry>Com</entry>
+        <entry>get_data</entry>
+        <entry>datetime</entry>
       </history-search>
       <history-cmd>
-        <entry>set surround</entry>
         <entry>q</entry>
         <entry>action ParameterInfo</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
@@ -539,11 +541,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $Paste</entry>
         <entry>action $Copy</entry>
-        <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
         <entry>w</entry>
+        <entry>action Find</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
