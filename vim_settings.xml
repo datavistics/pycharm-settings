@@ -59,12 +59,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512818197109">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="85" column="23" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512831732245">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="148" column="50" />
+        <mark key="]" line="149" column="22" />
+        <mark key="." line="149" column="22" />
+        <mark key="^" line="149" column="22" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1511884675303">
         <mark key="'" line="2" column="14" />
@@ -293,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" />
       <jump line="0" column="10" filename="$USER_HOME$/projects/US-Bombings/notebooks/borders-parsed.jsonp" />
       <jump line="415" column="0" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
       <jump line="414" column="1" filename="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" />
@@ -393,6 +392,7 @@
       <jump line="114" column="72" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="85" column="23" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -413,7 +413,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCg==</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkVSUk9SKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -463,31 +463,31 @@
         <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCg==</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkVSUk9SKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZXMoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZXMoKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGUgYW4gZW5naW5lIHRoYXQgc3RvcmVzIGRhdGEgaW4gdGhlIGxvY2FsIGRpcmVjdG9yeSdzCiMgc3FsYWxjaGVteV9leGFtcGxlLmRiIGZpbGUuCmVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCiMgQ3JlYXRlIGFsbCB0YWJsZXMgaW4gdGhlIGVuZ2luZS4gVGhpcyBpcyBlcXVpdmFsZW50IHRvICJDcmVhdGUgVGFibGUiCiMgc3RhdGVtZW50cyBpbiByYXcgU1FMLgpCYXNlLm1ldGFkYXRhLmNyZWF0ZV9hbGwoZW5naW5lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgYW4gZW5naW5lIHRoYXQgc3RvcmVzIGRhdGEgaW4gdGhlIGxvY2FsIGRpcmVjdG9yeSdzCiMgc3FsYWxjaGVteV9leGFtcGxlLmRiIGZpbGUuCmVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCiMgQ3JlYXRlIGFsbCB0YWJsZXMgaW4gdGhlIGVuZ2luZS4gVGhpcyBpcyBlcXVpdmFsZW50IHRvICJDcmVhdGUgVGFibGUiCiMgc3RhdGVtZW50cyBpbiByYXcgU1FMLgpCYXNlLm1ldGFkYXRhLmNyZWF0ZV9hbGwoZW5naW5lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">anNvbl9kYXRhX2RpciA9IG9zLnAK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZmlsZW5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBzZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">anNvbl9kYXRhX2RpciA9IG9zLnAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgYAo=</text>
+        <text encoding="base64">IyBzZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
