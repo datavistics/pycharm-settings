@@ -62,12 +62,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512841356699">
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512842661516">
         <mark key="'" line="162" column="0" />
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="42" />
-        <mark key="." line="53" column="42" />
-        <mark key="^" line="156" column="12" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="156" column="37" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1511884675303">
         <mark key="'" line="2" column="14" />
@@ -160,11 +160,11 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1512841158532">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="40" />
+      <file name="/Python Console" timestamp="1512842476813">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512819007600" />
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
@@ -424,8 +424,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>timezone=True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1BhcnNpbmc6IHtmaWxlbmFtZX0nKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -466,40 +466,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>timezone=True</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
         <text>DateTime</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcmVhdGVkX3RpbWU9ZGF0ZXRpbWUuc3RycHRpbWUocG9zdFsnY3JlYXRlZF90aW1lJ10sICclWS0lbS0lZFQlSDolTTolUyswMDAwJyksCg==</text>
+      <register name="0" type="4">
+        <text>f'Parsing: {filename}'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGltZXpvbmU9VHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1BhcnNpbmc6IHtmaWxlbmFtZX0nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0cyBsaW1pdCAxZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5jb21taXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxldmVsPWxvZ2dpbmcuRVJST1IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVidWdfZCA9IHt9Cg==</text>
+        <text encoding="base64">dGltZXpvbmU9VHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBqc29uX2RhdGFfZGlyID0gcidDOlxVc2Vyc1xEVC1MYXB0b3BccHJvamVjdHNcRmFjZWJvb2tVdGlsaXRpZXNcb3V0cHV0Jwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0cyBsaW1pdCAxZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkVSUk9SKQo=</text>
+        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxldmVsPWxvZ2dpbmcuRVJST1IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkKCg==</text>
+        <text encoding="base64">ZGVidWdfZCA9IHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBqc29uX2RhdGFfZGlyID0gcidDOlxVc2Vyc1xEVC1MYXB0b3BccHJvamVjdHNcRmFjZWJvb2tVdGlsaXRpZXNcb3V0cHV0Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV90YWJsZXMoKQo=</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkVSUk9SKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
@@ -536,7 +536,6 @@
         <entry>DateTime</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>action ParameterInfo</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>open ~/.vimrc</entry>
@@ -554,6 +553,7 @@
         <entry>action Find</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
