@@ -62,12 +62,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512878760370">
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512882714661">
         <mark key="'" line="158" column="4" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="16" />
-        <mark key="." line="155" column="16" />
-        <mark key="^" line="156" column="22" />
+        <mark key="[" line="147" column="21" />
+        <mark key="]" line="147" column="21" />
+        <mark key="." line="147" column="21" />
+        <mark key="^" line="147" column="21" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1511884675303">
         <mark key="'" line="2" column="14" />
@@ -214,11 +214,11 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1512876794401">
+      <file name="/dummy.sql" timestamp="1512882716675">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
         <mark key="'" line="186" column="0" />
@@ -425,7 +425,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, echo=True</text>
+        <text>2</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -466,13 +466,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, echo=True</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>21</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlOi8vLycgKyBkYXRhYmFzZV9wYXRoKSAjLCBlY2hvPVRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>10212318205365253</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmJ1BhcnNpbmc6IHtmaWxlbmFtZX0nKQo=</text>
@@ -548,13 +548,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $Copy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>action Replace</entry>
         <entry>w</entry>
         <entry>action Find</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action $Paste</entry>
+        <entry>action Replace</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
