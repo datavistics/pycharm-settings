@@ -62,12 +62,12 @@
         <mark key="." line="28296" column="1" />
         <mark key="^" line="28296" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512842661516">
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" timestamp="1512876273975">
         <mark key="'" line="162" column="0" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="156" column="37" />
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+        <mark key="^" line="148" column="19" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1511884675303">
         <mark key="'" line="2" column="14" />
@@ -160,8 +160,8 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1512842476813">
-        <mark key="[" line="0" column="34" />
+      <file name="/Python Console" timestamp="1512876294648">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="34" />
@@ -214,7 +214,7 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1512841529480">
+      <file name="/dummy.sql" timestamp="1512876794401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -424,8 +424,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ1BhcnNpbmc6IHtmaWxlbmFtZX0nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -466,13 +466,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>DateTime</text>
       </register>
-      <register name="0" type="4">
-        <text>f'Parsing: {filename}'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlOi8vLycgKyBkYXRhYmFzZV9wYXRoKSAjLCBlY2hvPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChmJ1BhcnNpbmc6IHtmaWxlbmFtZX0nKQo=</text>
