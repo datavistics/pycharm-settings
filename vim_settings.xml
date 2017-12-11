@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
-        <mark key="'" line="8" column="39" />
-        <mark key="[" line="25" column="68" />
-        <mark key="]" line="25" column="68" />
-        <mark key="^" line="58" column="0" />
-        <mark key="." line="25" column="68" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/leaf.html" timestamp="1512638930166">
         <mark key="'" line="118" column="6" />
         <mark key="[" line="116" column="21" />
@@ -17,19 +10,8 @@
         <mark key="^" line="116" column="21" />
         <mark key="." line="116" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1512878872811">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="34" />
-      </file>
       <file name="/a.dummy" timestamp="1511086293841">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1513016154953">
-        <mark key="'" line="3" column="189" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="260" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/map.html" timestamp="1511951679419">
         <mark key="'" line="62" column="4" />
@@ -38,12 +20,6 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="7" column="81" />
-        <mark key="." line="7" column="81" />
-        <mark key="^" line="7" column="81" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/borders-parsed.jsonp" timestamp="1512632531061">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="0" column="127" />
@@ -51,31 +27,8 @@
         <mark key="." line="0" column="128" />
         <mark key="^" line="0" column="128" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" timestamp="1511957752302">
-        <mark key="'" line="96" column="45" />
-        <mark key="[" line="102" column="36" />
-        <mark key="]" line="102" column="36" />
-        <mark key="^" line="136" column="24" />
-        <mark key="." line="102" column="36" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1512841518714">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511081723430">
-        <mark key="'" line="50" column="30" />
-        <mark key="[" line="172" column="48" />
-        <mark key="]" line="172" column="48" />
-        <mark key="." line="172" column="48" />
-        <mark key="^" line="172" column="47" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -110,12 +63,6 @@
         <mark key="." line="143" column="6" />
         <mark key="^" line="143" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
-        <mark key="[" line="116" column="17" />
-        <mark key="]" line="116" column="32" />
-        <mark key="." line="116" column="32" />
-        <mark key="^" line="116" column="32" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1511884675303">
         <mark key="'" line="2" column="14" />
         <mark key="[" line="23" column="31" />
@@ -129,31 +76,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="/dummy.sql" timestamp="1512884327893">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="186" column="12" />
-        <mark key="]" line="186" column="79" />
-        <mark key="." line="186" column="12" />
-        <mark key="^" line="186" column="100" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512656140091">
-        <mark key="'" line="74" column="12" />
-        <mark key="[" line="141" column="49" />
-        <mark key="]" line="141" column="51" />
-        <mark key="." line="141" column="51" />
-        <mark key="^" line="141" column="51" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
@@ -178,15 +105,126 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="/code.py" timestamp="1512987973279">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/leetcode/p0015.py" timestamp="1511092308269">
         <mark key="'" line="13" column="42" />
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="38" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/TravellersMap/data/ZeeMap-2787497.csv" timestamp="1511808126869">
+        <mark key="[" line="8" column="91" />
+        <mark key="]" line="8" column="91" />
+        <mark key="." line="8" column="91" />
+        <mark key="^" line="8" column="90" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/pages/Resume-backup.md" timestamp="1512742959994">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512739235057">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="14" column="87" />
+        <mark key="]" line="14" column="110" />
+        <mark key="^" line="13" column="103" />
+        <mark key="." line="14" column="87" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/The Case for EDA.ipynb-meta" timestamp="1512739891248">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1513018762606">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="42" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513018814293">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
+        <mark key="'" line="8" column="39" />
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="68" />
+        <mark key="^" line="58" column="0" />
+        <mark key="." line="25" column="68" />
+      </file>
+      <file name="/Python Console" timestamp="1512878872811">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1513018836318">
+        <mark key="'" line="3" column="189" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="260" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="7" column="81" />
+        <mark key="." line="7" column="81" />
+        <mark key="^" line="7" column="81" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" timestamp="1511957752302">
+        <mark key="'" line="96" column="45" />
+        <mark key="[" line="102" column="36" />
+        <mark key="]" line="102" column="36" />
+        <mark key="^" line="136" column="24" />
+        <mark key="." line="102" column="36" />
+      </file>
+      <file name="/a.sql" timestamp="1512841518714">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/EqualAreaCartogram/eqcart.py" timestamp="1511081723430">
+        <mark key="'" line="50" column="30" />
+        <mark key="[" line="172" column="48" />
+        <mark key="]" line="172" column="48" />
+        <mark key="." line="172" column="48" />
+        <mark key="^" line="172" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
+        <mark key="[" line="116" column="17" />
+        <mark key="]" line="116" column="32" />
+        <mark key="." line="116" column="32" />
+        <mark key="^" line="116" column="32" />
+      </file>
+      <file name="/dummy.sql" timestamp="1512884327893">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" timestamp="1512736258880">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="186" column="12" />
+        <mark key="]" line="186" column="79" />
+        <mark key="." line="186" column="12" />
+        <mark key="^" line="186" column="100" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/map/leaf.html" timestamp="1512656140091">
+        <mark key="'" line="74" column="12" />
+        <mark key="[" line="141" column="49" />
+        <mark key="]" line="141" column="51" />
+        <mark key="." line="141" column="51" />
+        <mark key="^" line="141" column="51" />
+      </file>
+      <file name="/code.py" timestamp="1512987973279">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p005.py" timestamp="1511086090629">
         <mark key="'" line="35" column="0" />
@@ -209,12 +247,6 @@
       </file>
       <file name="$USER_HOME$/projects/InstantPot/data/raw/Facebook/2017_11_10.json" timestamp="1512891037817">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/TravellersMap/data/ZeeMap-2787497.csv" timestamp="1511808126869">
-        <mark key="[" line="8" column="91" />
-        <mark key="]" line="8" column="91" />
-        <mark key="." line="8" column="91" />
-        <mark key="^" line="8" column="90" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.md" timestamp="1512740048733">
         <mark key="[" line="0" column="8" />
@@ -241,12 +273,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/pages/Resume-backup.md" timestamp="1512742959994">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" timestamp="1512742471597">
         <mark key="'" line="167" column="28" />
         <mark key="[" line="2" column="11" />
@@ -259,23 +285,6 @@
         <mark key="]" line="189" column="111" />
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" timestamp="1512739235057">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="14" column="87" />
-        <mark key="]" line="14" column="110" />
-        <mark key="^" line="13" column="103" />
-        <mark key="." line="14" column="87" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/The Case for EDA.ipynb-meta" timestamp="1512739891248">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -398,8 +407,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ODI2MjIzNTU3NDcxNjM0L2ZlZWQ/ZmllbGRzPWlkLGNyZWF0ZWRfdGltZSx0eXBlLGZyb20sbWVzc2FnZSxjb21tZW50c3ttZXNzYWdlLGNyZWF0ZWRfdGltZSxpZCxmcm9tLHJlYWN0aW9uc3t1c2VybmFtZSxuYW1lLHR5cGUsaWR9LGNvbW1lbnRze2lkLGNyZWF0ZWRfdGltZSxmcm9tLG1lc3NhZ2UscmVhY3Rpb25ze25hbWUsdHlwZSx1c2VybmFtZSxpZH19fSxyZWFjdGlvbnN7dXNlcm5hbWUsdHlwZSxuYW1lLGlkfSZsaW1pdD0xMDA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJvamVjdF9kaXIgPQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -445,35 +454,35 @@
       <register name="/" type="4">
         <text>time</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ODI2MjIzNTU3NDcxNjM0L2ZlZWQ/ZmllbGRzPWlkLGNyZWF0ZWRfdGltZSx0eXBlLGZyb20sbWVzc2FnZSxjb21tZW50c3ttZXNzYWdlLGNyZWF0ZWRfdGltZSxpZCxmcm9tLHJlYWN0aW9uc3t1c2VybmFtZSxuYW1lLHR5cGUsaWR9LGNvbW1lbnRze2lkLGNyZWF0ZWRfdGltZSxmcm9tLG1lc3NhZ2UscmVhY3Rpb25ze25hbWUsdHlwZSx1c2VybmFtZSxpZH19fSxyZWFjdGlvbnN7dXNlcm5hbWUsdHlwZSxuYW1lLGlkfSZsaW1pdD0xMDA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJvamVjdF9kaXIgPSBvcy5wYXRoLmpvaW4ob3MuZ2V0Y3dkKCksIG9zLnBhcmRpcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0IGxpbWl0IDEK</text>
+        <text encoding="base64">cHJvamVjdF9kaXIgPQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQgPSB0aW1lKCkK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0IGxpbWl0IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ1BhcnNpbmc6IHtmaWxlbmFtZX0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQgPSB0aW1lKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5jb21taXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1BhcnNpbmc6IHtmaWxlbmFtZX0nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5jb21taXQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGltZXpvbmU9VHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0cyBsaW1pdCAxZGQK</text>
+        <text encoding="base64">dGltZXpvbmU9VHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxldmVsPWxvZ2dpbmcuRVJST1IpCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwb3N0cyBsaW1pdCAxZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVidWdfZCA9IHt9Cg==</text>
+        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxldmVsPWxvZ2dpbmcuRVJST1IpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
