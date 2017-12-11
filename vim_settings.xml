@@ -145,12 +145,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513021495507">
-        <mark key="'" line="32" column="44" />
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="44" />
-        <mark key="." line="32" column="44" />
-        <mark key="^" line="32" column="44" />
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513025212262">
+        <mark key="'" line="35" column="26" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
         <mark key="'" line="8" column="39" />
@@ -159,11 +159,11 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1513022563744">
+      <file name="/Python Console" timestamp="1513023877662">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="34" />
+        <mark key="]" line="0" column="61" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1513018836318">
         <mark key="'" line="3" column="189" />
@@ -290,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
-      <jump line="2" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="7" column="79" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="39" column="44" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="73" column="24" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -390,6 +388,8 @@
       <jump line="25" column="27" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="26" column="4" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="32" column="44" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
+      <jump line="27" column="154" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
+      <jump line="35" column="26" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,7 +410,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>post_id</text>
+        <text>r.text</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -451,55 +451,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>post_id</text>
+        <text>r.text</text>
       </register>
       <register name="/" type="4">
-        <text>ht</text>
+        <text>com</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRva2VuID0gdXNlcl9kYXRhWyd0b2tlbiddCg==</text>
+        <text encoding="base64">ICAgICAgICBteWZpbGUud3JpdGUoci50ZXh0KSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tbWVudF91cmwgPSBmImh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL3YyLjExL3twb3N0X2lkfS9jb21tZW50cz9zdW1tYXJ5PXRvdGFsX2NvdW50JmxpbWl0PTAmYWNjZXNzX3Rva2VuPXthY2Nlc3NfdG9rZW59Igo=</text>
+        <text encoding="base64">ICAgIGlmIGZpbGVfaW5kZXggJSAxMCA9PSAwOmRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnRfdXJsID0gZiJodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS92Mi4xMS97cG9zdF9pZH0vY29tbWVudHM/c3VtbWFyeT10b3RhbF9jb3VudCZsaW1pdD0wJmFjY2Vzc190b2tlbj17YWNjZXNzX3Rva2VufSIK</text>
+        <text encoding="base64">ICAgICA9IGpzb24ubG9hZHMoci50ZXh0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGJhdGNoX2NvbW1lbnRfdXJsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHIudGV4dCkK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoY29tbWVudF9kYXRhWydzdW1tYXJ5J11bJ3RvdGFsX2NvdW50J10pCiAgICAjIHByaW50KHIudGV4dCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3RzLmdldCgpCg==</text>
+        <text encoding="base64">ICAgIGZvciBwaWQgaW4gcG9zdF9pZHNfYnlfZGF5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VybCAtaSAtWCBHRVQgXAo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJsIC1pIC1YIEdFVCBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBvc3RbJ2lkJ10pCg==</text>
+        <text encoding="base64">Y29tbWVudF91cmwgPSBmImh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL3YyLjExL3twb3N0X2lkfS9jb21tZW50cz9zdW1tYXJ5PXRvdGFsX2NvdW50JmxpbWl0PTAmYWNjZXNzX3Rva2VuPXthY2Nlc3NfdG9rZW59Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1lbnRfdXJsID0gZiJodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS92Mi4xMS97cG9zdF9pZH0vY29tbWVudHM/c3VtbWFyeT10b3RhbF9jb3VudCZsaW1pdD0wJmFjY2Vzc190b2tlbj17YWNjZXNzX3Rva2VufSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gOiBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
-      <last-search>ht</last-search>
+      <last-search>com</last-search>
       <last-offset />
-      <last-pattern>ht</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>com</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'us</entry>
         <entry>date</entry>
         <entry>mim</entry>
         <entry>geo</entry>
@@ -519,6 +518,7 @@
         <entry>21</entry>
         <entry>time</entry>
         <entry>ht</entry>
+        <entry>com</entry>
       </history-search>
       <history-cmd>
         <entry>action ParameterInfo</entry>
@@ -533,14 +533,14 @@
         <entry>action $Copy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>w</entry>
-        <entry>action Find</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
-        <entry>action Replace</entry>
         <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry>action $Paste</entry>
+        <entry>action Find</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
