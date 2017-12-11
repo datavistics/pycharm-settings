@@ -30,6 +30,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" timestamp="1513029026428" />
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="13" column="0" />
@@ -145,12 +146,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513027969940">
-        <mark key="'" line="13" column="38" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="47" />
-        <mark key="^" line="36" column="60" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513029157037">
+        <mark key="'" line="24" column="45" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="199" />
+        <mark key="." line="17" column="199" />
+        <mark key="^" line="17" column="199" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
         <mark key="'" line="8" column="39" />
@@ -290,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="44" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="73" column="24" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="244" column="11" filename="$USER_HOME$/projects/US-Bombings/map/leaflet.timeline.js" />
       <jump line="103" column="12" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -390,6 +390,7 @@
       <jump line="27" column="154" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="35" column="26" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="15" column="38" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
+      <jump line="21" column="45" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -409,8 +410,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ3tmaWxlfToge3RpbWUudGltZSgpIC0gc3RhcnR9JykK</text>
+      <register name="&quot;" type="4">
+        <text>326911267740077%7CYboM6sEDrh2rd9JFpIt0kx9-eCQ</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -451,55 +452,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>326911267740077%7CYboM6sEDrh2rd9JFpIt0kx9-eCQ</text>
       </register>
       <register name="/" type="4">
-        <text>pos</text>
+        <text>ind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBteWZpbGUud3JpdGUoci50ZXh0KSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zdF9pZHNfYnlfZ3JvdXAgPSBbXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ3tmaWxlfToge3RpbWUudGltZSgpIC0gc3RhcnR9JykK</text>
+        <text encoding="base64">Y3VybCAtaSAtWCBHRVQgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ3tmaWxlfToge3RpbWUudGltZSgpIC0gc3RhcnR9JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZid7ZmlsZX06IHt0aW1lLnRpbWUoKSAtIHN0YXJ0fScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc3RfaWRzX2J5X2dyb3VwID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZid7ZmlsZX06IHt0aW1lLnRpbWUoKSAtIHN0YXJ0fScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvc3RfaWRzX2J5X2RheSA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHBvc3RfaWRzX2J5X2dyb3VwID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpc3RfdG9fZmFjZWJvb2tfZGF0YSgpCg==</text>
+        <text encoding="base64">ICAgIHBvc3RfaWRzX2J5X2RheSA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYne2ZpbGV9OiB7dGltZS50aW1lKCkgLSBzdGFydH0nKQo=</text>
+        <text encoding="base64">ICAgIGxpc3RfdG9fZmFjZWJvb2tfZGF0YSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
-      <last-search>pos</last-search>
+      <last-search>ind</last-search>
       <last-offset />
-      <last-pattern>pos</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>ind</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mim</entry>
         <entry>geo</entry>
         <entry>leaflet</entry>
         <entry>' bom</entry>
@@ -519,10 +519,10 @@
         <entry>ht</entry>
         <entry>com</entry>
         <entry>pos</entry>
+        <entry>ind</entry>
       </history-search>
       <history-cmd>
         <entry>action ParameterInfo</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>open ~/.vimrc</entry>
         <entry>$Paste</entry>
         <entry>nohl</entry>
@@ -537,10 +537,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
-        <entry>action $Paste</entry>
-        <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
+        <entry>action Find</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
