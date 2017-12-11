@@ -145,8 +145,8 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513020347043">
-        <mark key="'" line="33" column="4" />
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513021495507">
+        <mark key="'" line="32" column="44" />
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="44" />
         <mark key="." line="32" column="44" />
@@ -290,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="127" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="2" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="7" column="79" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -390,6 +389,7 @@
       <jump line="12" column="44" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="25" column="27" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="26" column="4" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
+      <jump line="32" column="44" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -487,7 +487,7 @@
         <text encoding="base64">Zm9yIGkgaW4gOiBpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -530,7 +530,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action $SelectAll</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $Copy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>w</entry>
@@ -539,8 +538,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
