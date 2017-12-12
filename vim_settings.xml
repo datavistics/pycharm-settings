@@ -210,6 +210,10 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/education_budgets/data/predictions.csv" timestamp="1513078197280">
+        <mark key="'" line="0" column="280" />
+        <mark key="[" line="0" column="9" />
+      </file>
       <file name="/dummy.sql" timestamp="1512884327893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -307,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="35" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="124" column="49" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="143" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="147" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -407,6 +410,7 @@
       <jump line="49" column="51" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="26" column="55" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="44" column="42" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
+      <jump line="0" column="280" filename="$USER_HOME$/projects/education_budgets/data/predictions.csv" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -504,7 +508,7 @@
         <text encoding="base64">ICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgJ2NvbW1lbnRzJywgZmlsZV9uYW1lKSwgImEiLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBteWZpbGU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -546,13 +550,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action $SelectAll</entry>
         <entry>action $Copy</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>w</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
-        <entry>action Replace</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action Find</entry>
         <entry>%s/like/love/</entry>
@@ -560,6 +562,8 @@
         <entry>action EditorSelectWord</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Replace</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
