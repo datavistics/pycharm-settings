@@ -295,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="105" column="35" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="124" column="49" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="143" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -395,6 +394,7 @@
       <jump line="353" column="0" filename="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" />
       <jump line="49" column="51" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="26" column="55" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
+      <jump line="44" column="42" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
