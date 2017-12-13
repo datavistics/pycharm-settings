@@ -173,7 +173,7 @@
       <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" timestamp="1513163255028">
         <mark key="'" line="0" column="355842" />
       </file>
-      <file name="/Python Console" timestamp="1513175418774">
+      <file name="/Python Console" timestamp="1513175652742">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="61" />
@@ -196,12 +196,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1513175396123">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="79" column="48" />
-        <mark key="]" line="79" column="56" />
-        <mark key="." line="79" column="56" />
-        <mark key="^" line="79" column="56" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1513175647828">
+        <mark key="'" line="81" column="51" />
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="58" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" timestamp="1511957752302">
         <mark key="'" line="96" column="45" />
@@ -327,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="150" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="154" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="164" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -427,6 +426,7 @@
       <jump line="0" column="280" filename="$USER_HOME$/projects/education_budgets/data/predictions.csv" />
       <jump line="0" column="355842" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
+      <jump line="81" column="51" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -447,7 +447,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>filename</text>
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -488,13 +488,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>hea</text>
+        <text>date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcG9zdF9ncm91cF9udW0sIHBvc3RfZ3JvdXAgaW4gZW51bWVyYXRlKHBvc3RfZGF0YSk6CiAgICAgICAgICAgIGZvciBwb3N0X251bSwgcG9zdCBpbiBlbnVtZXJhdGUocG9zdF9ncm91cCk6CiAgICAgICAgICAgICAgICAjIGluc2VydF9wb3N0KHNlc3Npb24sIHBvc3QsIGxvZ2dlcikKICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="0" type="4">
+        <text>file_date_str</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
@@ -528,17 +528,16 @@
       </register>
     </registers>
     <search>
-      <last-search>hea</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>hea</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bom</entry>
         <entry>from_name</entry>
         <entry>print</entry>
         <entry>error</entry>
@@ -558,6 +557,7 @@
         <entry>like</entry>
         <entry encoding="base64">XDxpbnRcPg==</entry>
         <entry>hea</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>$Paste</entry>
