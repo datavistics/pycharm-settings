@@ -150,12 +150,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513084340683">
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513161200028">
         <mark key="'" line="28" column="55" />
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="42" />
-        <mark key="^" line="47" column="38" />
-        <mark key="." line="47" column="42" />
+        <mark key="[" line="47" column="43" />
+        <mark key="]" line="47" column="43" />
+        <mark key="^" line="47" column="43" />
+        <mark key="." line="47" column="43" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
         <mark key="'" line="8" column="39" />
@@ -181,6 +181,7 @@
         <mark key="." line="7" column="81" />
         <mark key="^" line="7" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2015_07_31.json" timestamp="1513161258424" />
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -431,7 +432,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>6</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -472,7 +473,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>hea</text>
