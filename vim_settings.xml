@@ -10,6 +10,9 @@
         <mark key="^" line="116" column="21" />
         <mark key="." line="116" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2015_05_04.json" timestamp="1513181056946">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1513175406943">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,12 +159,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513178549568">
-        <mark key="'" line="28" column="55" />
-        <mark key="[" line="63" column="67" />
-        <mark key="]" line="63" column="76" />
-        <mark key="^" line="63" column="76" />
-        <mark key="." line="63" column="76" />
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513182344191">
+        <mark key="'" line="29" column="55" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="68" column="56" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
         <mark key="'" line="8" column="39" />
@@ -173,11 +176,11 @@
       <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" timestamp="1513163255028">
         <mark key="'" line="0" column="355842" />
       </file>
-      <file name="/Python Console" timestamp="1513177274468">
+      <file name="/Python Console" timestamp="1513181501520">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="61" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1513018836318">
         <mark key="'" line="3" column="189" />
@@ -196,12 +199,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1513177260507">
-        <mark key="'" line="81" column="51" />
-        <mark key="[" line="90" column="26" />
-        <mark key="]" line="90" column="26" />
-        <mark key="." line="90" column="26" />
-        <mark key="^" line="89" column="49" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1513181549482">
+        <mark key="'" line="80" column="51" />
+        <mark key="[" line="88" column="46" />
+        <mark key="]" line="88" column="46" />
+        <mark key="." line="88" column="46" />
+        <mark key="^" line="88" column="49" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/qgis/qgis2web_2017_11_29-14_32_32_002000/index.html" timestamp="1511957752302">
         <mark key="'" line="96" column="45" />
@@ -327,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="33" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="154" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="164" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="175" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -427,6 +429,7 @@
       <jump line="0" column="355842" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="81" column="51" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2015_05_04.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -446,8 +449,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtwcmludChyLnN0YXR1c19jb2RlKSBmb3IgciBpbiBwb3N0X2pzb25zXQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -488,49 +491,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>25</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>wow</text>
       </register>
       <register name="0" type="4">
-        <text>file_date_str</text>
+        <text>[{ftype: json.loads(r.text)} for ft, r in zip(ftype, post_jsons)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtwcmludChyLnN0YXR1c19jb2RlKSBmb3IgciBpbiBwb3N0X2pzb25zXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhY3Rpb25fZ3JvdXAgPSBqc29uLmxvYWRzKHJlYWN0aW9uX2dyb3VwX3N0cikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVhY3Rpb25fZ3JvdXBfbnVtCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGVfZ2VuZXJhdGVkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmaWxlZGF0ZSA8PSBkYXRlKDIwMTYsIDQsIDEwKToKICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgIGZ0eXBlID0gWydjb21tZW50JywgJ2xpa2UnLCAnbG92ZScsICdoYWhhJywgJ3NhZCcsICd3b3cnLCAnYW5ncnknXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3llYXIsIGZpbGVfbW9udGgsIGZpbGVfZGF5ID0gZmlsZW5hbWVbOi01XS5zcGxpdCgnXycpCiAgICAgICAgZmlsZWRhdGUgPSBkYXRlKGludChmaWxlX3llYXIpLCBpbnQoZmlsZV9tb250aCksIGludChmaWxlX2RheSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXlfbGlzdC5hcHBlbmQoanNvbi5kdW1wcyhbanNvbi5sb2FkcyhyLnRleHQpIGZvciByIGluIHBvc3RfanNvbnNdKSkKICAgICAgICAgICAgICAgICAgICBwb3N0X2lkc19ieV9ncm91cCA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzeXMKICAgIHN5cy5leGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBvc3RfaW5kZXggJSAyNSA9PSAyNDoKICAgICAgICAgICAgICAgICAgICBwb3N0X2pzb25zID0gbGlzdF90b19mYWNlYm9va19kYXRhKHBvc3RfaWRzX2J5X2dyb3VwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGFueShbZmlsZV95ZWFyICE9ICcyMDE3JywgZmlsZV9tb250aCAhPSAnMTEnLCBmaWxlX2RheSAhPSAnMDEnXSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHBvc3QuZ2V0KCdyZWFjdGlvbnMnLCBGYWxzZSk6CiAgICAgICAgZm9yIHJlYWN0aW9uX251bSwgcmVhY3Rpb24gaW4gZW51bWVyYXRlKHBvc3RbJ3JlYWN0aW9ucyddWydkYXRhJ10pOgogICAgICAgICAgICByZWFjdGlvbl9uYW1lID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBOYW1lLCBpZD1yZWFjdGlvblsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbV9uYW1lPXJlYWN0aW9uWyduYW1lJ10pCiAgICAgICAgICAgIHNlc3Npb24uYWRkKHJlYWN0aW9uX25hbWUpCiAgICAgICAgICAgICMgc2Vzc2lvbi5jb21taXQoKQogICAgICAgICAgICBwb3N0X3JlYWN0aW9uID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBQUmVhY3Rpb24sIGlkPXJlYWN0aW9uWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFjdGlvbj1yZWFjdGlvblsndHlwZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBma19wcmVhY3Rpb25fcG9zdD1wb3N0WydpZCddKQogICAgICAgICAgICBzZXNzaW9uLmFkZChwb3N0X3JlYWN0aW9uKQogICAgICAgICAgICAjIHNlc3Npb24uY29tbWl0KCkKICAgIGlmIHBvc3QuZ2V0KCdjb21tZW50cycsIEZhbHNlKToKICAgICAgICBmb3IgY29tbWVudF9udW0sIGNvbW1lbnQgaW4gZW51bWVyYXRlKHBvc3RbJ2NvbW1lbnRzJ11bJ2RhdGEnXSk6CiAgICAgICAgICAgIGlmIG5vdCBjb21tZW50LmdldCgnZnJvbScsIEZhbHNlKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGNvbW1lbnRfbmFtZSA9IGdldF9vcl9jcmVhdGUoc2Vzc2lvbiwgTmFtZSwgaWQ9Y29tbWVudFsnZnJvbSddWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb21fbmFtZT1jb21tZW50Wydmcm9tJ11bJ25hbWUnXSkKICAgICAgICAgICAgc2Vzc2lvbi5hZGQoY29tbWVudF9uYW1lKQogICAgICAgICAgICAjIHNlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgcG9zdF9jb21tZW50ID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBDb21tZW50LCBpZD1jb21tZW50WydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfdGltZT1kYXRldGltZS5zdHJwdGltZShjb21tZW50WydjcmVhdGVkX3RpbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyVZLSVtLSVkVCVIOiVNOiVTJXonKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tX2lkPWNvbW1lbnRbJ2Zyb20nXVsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlPWNvbW1lbnRbJ21lc3NhZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBma19jb21tZW50X3Bvc3Q9cG9zdFsnaWQnXSkKICAgICAgICAgICAgc2Vzc2lvbi5hZGQocG9zdF9jb21tZW50KQogICAgICAgICAgICAjIHNlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgaWYgY29tbWVudC5nZXQoJ3JlYWN0aW9ucycsIEZhbHNlKToKICAgICAgICAgICAgICAgIGZvciBjb21fcmVhY3Rpb25fbnVtLCBjb21fcmVhY3Rpb24gaW4gZW51bWVyYXRlKGNvbW1lbnRbJ3JlYWN0aW9ucyddWydkYXRhJ10pOgogICAgICAgICAgICAgICAgICAgIGNvbV9yZWFjdGlvbl9uYW1lID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBOYW1lLCBpZD1jb21fcmVhY3Rpb25bJ2lkJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb21fbmFtZT1jb21fcmVhY3Rpb25bJ25hbWUnXSkKICAgICAgICAgICAgICAgICAgICBzZXNzaW9uLmFkZChjb21fcmVhY3Rpb25fbmFtZSkKICAgICAgICAgICAgICAgICAgICAjIHNlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgICAgICAgICBjb21fcmVhY3Rpb25fcmVhY3Rpb24gPSBnZXRfb3JfY3JlYXRlKHNlc3Npb24sIENSZWFjdGlvbiwgaWQ9Y29tX3JlYWN0aW9uWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhY3Rpb249Y29tX3JlYWN0aW9uWyd0eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBma19jcmVhY3Rpb25fY29tbWVudD1jb21tZW50WydpZCddKQogICAgICAgICAgICAgICAgICAgIHNlc3Npb24uYWRkKGNvbV9yZWFjdGlvbl9yZWFjdGlvbikKICAgICAgICAgICAgICAgICAgICAjIHNlc3Npb24uY29tbWl0KCkKCiAgICAgICAgICAgIGlmIGNvbW1lbnQuZ2V0KCdjb21tZW50cycsIEZhbHNlKToKICAgICAgICAgICAgICAgIGZvciBjb21fY29tbWVudCBpbiBjb21tZW50Wydjb21tZW50cyddWydkYXRhJ106CiAgICAgICAgICAgICAgICAgICAgY29tY29tbWVudF9uYW1lID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBOYW1lLCBpZD1jb21fY29tbWVudFsnZnJvbSddWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbV9uYW1lPWNvbV9jb21tZW50Wydmcm9tJ11bJ25hbWUnXSkKICAgICAgICAgICAgICAgICAgICBzZXNzaW9uLmFkZChjb21jb21tZW50X25hbWUpCiAgICAgICAgICAgICAgICAgICAgIyBzZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgICAgICAgICAgY29tY29tbWVudF9jb21tZW50ID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBDb21Db21tZW50LCBpZD1jb21fY29tbWVudFsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfdGltZT1kYXRldGltZS5zdHJwdGltZShjb21fY29tbWVudFsnY3JlYXRlZF90aW1lJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyVZLSVtLSVkVCVIOiVNOiVTJXonKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb21faWQ9Y29tX2NvbW1lbnRbJ2Zyb20nXVsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U9Y29tX2NvbW1lbnRbJ21lc3NhZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZrX2NvbWNvbW1lbnRfY29tbWVudD1jb21fY29tbWVudFsnaWQnXSkKICAgICAgICAgICAgICAgICAgICBzZXNzaW9uLmFkZChjb21jb21tZW50X2NvbW1lbnQpCiAgICAgICAgICAgICAgICAgICAgIyBzZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgICAgICAgICAgaWYgY29tX2NvbW1lbnQuZ2V0KCdyZWFjdGlvbnMnLCBGYWxzZSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGZvciBjb21jb21tZW50X3JlYWN0aW9uIGluIGNvbV9jb21tZW50WydyZWFjdGlvbnMnXVsnZGF0YSddOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tY29tbWVudF9yZWFjdGlvbl9uYW1lID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBOYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD1jb21jb21tZW50X3JlYWN0aW9uWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tX25hbWU9Y29tY29tbWVudF9yZWFjdGlvblsnbmFtZSddKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi5hZGQoY29tY29tbWVudF9yZWFjdGlvbl9uYW1lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21jb21tZW50X3JlYWN0aW9uX3JlYWN0aW9uID0gZ2V0X29yX2NyZWF0ZShzZXNzaW9uLCBDUmVhY3Rpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD1jb21jb21tZW50X3JlYWN0aW9uWydpZCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVhY3Rpb249Y29tY29tbWVudF9yZWFjdGlvblsndHlwZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmtfY3JlYWN0aW9uX2NvbW1lbnQ9Y29tX2NvbW1lbnRbJ2lkJ10pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXNzaW9uLmFkZChjb21jb21tZW50X3JlYWN0aW9uX3JlYWN0aW9uKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBzZXNzaW9uLmNvbW1pdCgpCiAgICAjIHNlc3Npb24uY29tbWl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgaWYgbm90IGRlYnVnX2QuZ2V0KHBvc3RbJ2lkJ10sIEZhbHNlKToKICAgICMgICAgIGRlYnVnX2RbcG9zdFsnaWQnXV0gPSAoZ3JvdXBfbnVtLCBwb3N0X251bSwgcG9zdFsnaWQnXSkKICAgICMgZWxzZToKICAgICMgICAgIGxvZ2dlci5lcnJvcihkZWJ1Z19kW3Bvc3RbJ2lkJ11dKQogICAgIyAgICAgbG9nZ2VyLmVycm9yKChncm91cF9udW0sIHBvc3RfbnVtLCBwb3N0WydpZCddKSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVhY3Rpb25fZ3JvdXBfbnVtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>wow</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>wow</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -538,7 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>from_name</entry>
         <entry>print</entry>
         <entry>error</entry>
         <entry>session.commit</entry>
@@ -558,6 +560,7 @@
         <entry encoding="base64">XDxpbnRcPg==</entry>
         <entry>hea</entry>
         <entry>date</entry>
+        <entry>wow</entry>
       </history-search>
       <history-cmd>
         <entry>$Paste</entry>
@@ -566,20 +569,20 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
         <entry>action $SelectAll</entry>
         <entry>action $Copy</entry>
-        <entry>w</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry>action Find</entry>
         <entry>%s/like/love/</entry>
         <entry>%s/like/haha/g</entry>
         <entry>action EditorSelectWord</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>action SaveAll</entry>
         <entry>action Replace</entry>
         <entry>action $Paste</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
