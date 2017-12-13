@@ -156,12 +156,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513177160736">
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1513178549568">
         <mark key="'" line="28" column="55" />
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="43" />
-        <mark key="^" line="47" column="39" />
-        <mark key="." line="47" column="43" />
+        <mark key="[" line="63" column="67" />
+        <mark key="]" line="63" column="76" />
+        <mark key="^" line="63" column="76" />
+        <mark key="." line="63" column="76" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/chorogrid.py" timestamp="1511081739028">
         <mark key="'" line="8" column="39" />
@@ -447,7 +447,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>data</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -488,7 +488,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -524,7 +524,7 @@
         <text encoding="base64">ICAgICMgaWYgbm90IGRlYnVnX2QuZ2V0KHBvc3RbJ2lkJ10sIEZhbHNlKToKICAgICMgICAgIGRlYnVnX2RbcG9zdFsnaWQnXV0gPSAoZ3JvdXBfbnVtLCBwb3N0X251bSwgcG9zdFsnaWQnXSkKICAgICMgZWxzZToKICAgICMgICAgIGxvZ2dlci5lcnJvcihkZWJ1Z19kW3Bvc3RbJ2lkJ11dKQogICAgIyAgICAgbG9nZ2VyLmVycm9yKChncm91cF9udW0sIHBvc3RfbnVtLCBwb3N0WydpZCddKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -578,8 +578,8 @@
         <entry>action EditorSelectWord</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
         <entry>action Replace</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
