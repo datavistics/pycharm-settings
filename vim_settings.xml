@@ -90,6 +90,13 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" timestamp="1515447115765">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="4" column="0" />
@@ -259,7 +266,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="/code.py" timestamp="1515314915071">
+      <file name="/code.py" timestamp="1515446640801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p005.py" timestamp="1511086090629">
@@ -330,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="164" column="34" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="175" column="19" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
       <jump line="53" column="5" filename="$USER_HOME$/projects/US-Bombings/map/leaf.html" />
@@ -430,6 +436,7 @@
       <jump line="47" column="0" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="81" column="51" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2015_05_04.json" />
+      <jump line="11" column="7" filename="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,7 +457,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://github.com/datavistics/Coursera-Machine-Learning.git</text>
+        <text>j</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -491,49 +498,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/datavistics/Coursera-Machine-Learning.git</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>wow</text>
+        <text>thi</text>
       </register>
       <register name="0" type="4">
         <text>[{ftype: json.loads(r.text)} for ft, r in zip(ftype, post_jsons)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY29tbWVudF91cmwgPSBmImh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL3YyLjExL3twaWR9L2NvbW1lbnRzP3N1bW1hcnk9dG90YWxfY291bnQmbGltaXQ9MCZhY2Nlc3NfdG9rZW49e2FjY2Vzc190b2tlbn0iCg==</text>
+        <text encoding="base64">cHJpbnQocHJval9kaXIpCmlucHV0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtwcmludChyLnN0YXR1c19jb2RlKSBmb3IgciBpbiBwb3N0X2pzb25zXQo=</text>
+        <text encoding="base64">ZmlsZW5hbWUgPSBvcy5wYXRoLmpvaW4odGhpc19maWxlX2RpciwgJy4uLy4uL2RhdGEvcmF3L2luc2lnaHRfZGF0YV9zY2llbmNlX2FsdW1uaS5mZWF0aGVyJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhY3Rpb25fZ3JvdXAgPSBqc29uLmxvYWRzKHJlYWN0aW9uX2dyb3VwX3N0cikK</text>
+        <text encoding="base64">dGhpc19maWxlX2RpciA9IG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGVfZ2VuZXJhdGVkKQo=</text>
+        <text encoding="base64">ICAgICMgY29tbWVudF91cmwgPSBmImh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL3YyLjExL3twaWR9L2NvbW1lbnRzP3N1bW1hcnk9dG90YWxfY291bnQmbGltaXQ9MCZhY2Nlc3NfdG9rZW49e2FjY2Vzc190b2tlbn0iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ0eXBlID0gWydjb21tZW50JywgJ2xpa2UnLCAnbG92ZScsICdoYWhhJywgJ3NhZCcsICd3b3cnLCAnYW5ncnknXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtwcmludChyLnN0YXR1c19jb2RlKSBmb3IgciBpbiBwb3N0X2pzb25zXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXlfbGlzdC5hcHBlbmQoanNvbi5kdW1wcyhbanNvbi5sb2FkcyhyLnRleHQpIGZvciByIGluIHBvc3RfanNvbnNdKSkKICAgICAgICAgICAgICAgICAgICBwb3N0X2lkc19ieV9ncm91cCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhY3Rpb25fZ3JvdXAgPSBqc29uLmxvYWRzKHJlYWN0aW9uX2dyb3VwX3N0cikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBvc3RfaW5kZXggJSAyNSA9PSAyNDoKICAgICAgICAgICAgICAgICAgICBwb3N0X2pzb25zID0gbGlzdF90b19mYWNlYm9va19kYXRhKHBvc3RfaWRzX2J5X2dyb3VwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGVfZ2VuZXJhdGVkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGZ0eXBlID0gWydjb21tZW50JywgJ2xpa2UnLCAnbG92ZScsICdoYWhhJywgJ3NhZCcsICd3b3cnLCAnYW5ncnknXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXlfbGlzdC5hcHBlbmQoanNvbi5kdW1wcyhbanNvbi5sb2FkcyhyLnRleHQpIGZvciByIGluIHBvc3RfanNvbnNdKSkKICAgICAgICAgICAgICAgICAgICBwb3N0X2lkc19ieV9ncm91cCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wow</last-search>
+      <last-search>thi</last-search>
       <last-offset />
-      <last-pattern>wow</last-pattern>
+      <last-pattern>thi</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -541,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>error</entry>
         <entry>session.commit</entry>
         <entry>['from']</entry>
@@ -561,6 +567,7 @@
         <entry>hea</entry>
         <entry>date</entry>
         <entry>wow</entry>
+        <entry>thi</entry>
       </history-search>
       <history-cmd>
         <entry>$Paste</entry>
