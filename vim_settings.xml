@@ -450,7 +450,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>https://github.com/datavistics/Coursera-Machine-Learning.git</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -491,7 +491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>https://github.com/datavistics/Coursera-Machine-Learning.git</text>
       </register>
       <register name="/" type="4">
         <text>wow</text>
