@@ -16,6 +16,12 @@
       <file name="/a.dummy" timestamp="1513175406943">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515515882630">
+        <mark key="[" line="168" column="105" />
+        <mark key="]" line="168" column="105" />
+        <mark key="." line="168" column="105" />
+        <mark key="^" line="168" column="105" />
+      </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/map.html" timestamp="1511951679419">
         <mark key="'" line="62" column="4" />
         <mark key="[" line="38" column="36" />
@@ -453,7 +459,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>�</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -494,7 +500,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>�</text>
       </register>
       <register name="/" type="4">
         <text>thi</text>
@@ -530,7 +536,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXlfbGlzdC5hcHBlbmQoanNvbi5kdW1wcyhbanNvbi5sb2FkcyhyLnRleHQpIGZvciByIGluIHBvc3RfanNvbnNdKSkKICAgICAgICAgICAgICAgICAgICBwb3N0X2lkc19ieV9ncm91cCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -580,12 +586,12 @@
         <entry>%s/like/love/</entry>
         <entry>%s/like/haha/g</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action Replace</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>w</entry>
-        <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
+        <entry>action Replace</entry>
+        <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
