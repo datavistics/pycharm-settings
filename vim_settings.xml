@@ -536,7 +536,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXlfbGlzdC5hcHBlbmQoanNvbi5kdW1wcyhbanNvbi5sb2FkcyhyLnRleHQpIGZvciByIGluIHBvc3RfanNvbnNdKSkKICAgICAgICAgICAgICAgICAgICBwb3N0X2lkc19ieV9ncm91cCA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -589,9 +589,9 @@
         <entry>action Find</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>action Replace</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
