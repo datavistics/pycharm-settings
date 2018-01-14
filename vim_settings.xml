@@ -197,12 +197,18 @@
       <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" timestamp="1513163255028">
         <mark key="'" line="0" column="355842" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515929398182">
-        <mark key="'" line="16" column="18" />
-        <mark key="[" line="21" column="100" />
-        <mark key="]" line="21" column="100" />
-        <mark key="." line="21" column="100" />
-        <mark key="^" line="21" column="100" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515933197612">
+        <mark key="'" line="38" column="80" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+      </file>
+      <file name="/Python Console" timestamp="1515931355834">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
@@ -266,11 +272,11 @@
         <mark key="." line="141" column="51" />
         <mark key="^" line="141" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515924339736">
+      <file name="/Dummy.txt" timestamp="1515932256694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="13" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="/code.py" timestamp="1515446640801">
         <mark key="[" line="0" column="0" />
@@ -351,6 +357,9 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515932285691">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="11" column="0" />
@@ -359,10 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="12" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
-      <jump line="181" column="14" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
-      <jump line="183" column="10" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
-      <jump line="73" column="15" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
       <jump line="186" column="0" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
       <jump line="13" column="8" filename="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" />
       <jump line="63" column="30" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
@@ -459,6 +464,10 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="16" column="18" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
+      <jump line="23" column="43" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
+      <jump line="28" column="3" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
+      <jump line="38" column="80" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -478,8 +487,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SWdub3JlIHByaXZhdGUgZGF0YWRkCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -520,57 +529,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>Daily</text>
       </register>
       <register name="/" type="4">
-        <text>pprint</text>
+        <text>im</text>
       </register>
       <register name="0" type="4">
-        <text>datetime.datetime(2018,1,1,0,0),</text>
+        <text>end - timedelta(days=1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN1Ym1pc3Npb24uY3JlYXRlZF91dGMpCg==</text>
+        <text encoding="base64">SWdub3JlIHByaXZhdGUgZGF0YWRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoCg==</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLklORk8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhmaWxlbmFtZT0nbWFrZV9kYXRhc2V0LmxvZycsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIAo=</text>
+        <text encoding="base64">Cm15X2xvZ2dlci5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXlfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ015TG9nZ2VyJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIHMgaW4gc3ViLnN1Ym1pc3Npb25zKDE1MTU5MjQ5MTEsIDE1MTU5MjE3ODAsICdsaW1pdD0xJyk6CiAgICBwcmludCh2YXJzKHMpKQo=</text>
+        <text encoding="base64">bG9nZ2luZy5sb2cK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dGVzdCA9IDUK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBzdGFydCA9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBzID0gcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>pprint</last-search>
+      <last-search>im</last-search>
       <last-offset />
-      <last-pattern>pprint</last-pattern>
+      <last-pattern>im</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\['from'\]</entry>
         <entry>Com</entry>
         <entry>get_data</entry>
         <entry>datetime</entry>
@@ -590,6 +598,7 @@
         <entry>data</entry>
         <entry>json</entry>
         <entry>pprint</entry>
+        <entry>im</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
@@ -609,9 +618,9 @@
         <entry>action Replace</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
-        <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
+        <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
