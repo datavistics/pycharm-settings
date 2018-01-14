@@ -345,11 +345,11 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515522089604">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="4" column="6" />
-        <mark key="^" line="4" column="6" />
-        <mark key="." line="4" column="6" />
+      <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515914628749">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -550,7 +550,7 @@
         <text encoding="base64">cHJpbnQocHJval9kaXIpCmlucHV0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -602,10 +602,10 @@
         <entry>action EditorSelectWord</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>action $Paste</entry>
         <entry>action Replace</entry>
         <entry>w</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
