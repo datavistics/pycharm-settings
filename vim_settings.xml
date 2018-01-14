@@ -216,10 +216,10 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1515941748026">
+      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1515942558090">
         <mark key="'" line="73" column="20" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="39" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="23" />
         <mark key="." line="90" column="46" />
         <mark key="^" line="90" column="49" />
       </file>
@@ -349,12 +349,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515941798567">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515942564813">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
         <mark key="^" line="46" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
         <mark key="[" line="9" column="20" />
@@ -484,7 +484,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGVfZ2VuZXJhdGVkID0gW3N0YXJ0X2RhdGUgKyB0aW1lZGVsdGEoZGF5cz14KSBmb3IgeCBpbiByYW5nZSgwLCAoZW5kX2RhdGUtc3RhcnRfZGF0ZSkuZGF5cyldCiAgICBmb3IgZmlsZV9kYXRlIGluIGRhdGVfZ2VuZXJhdGVkOgo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -531,34 +531,34 @@
         <text>CC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIGRhdGUsIHRpbWVkZWx0YQpmcm9tIHRpbWUgaW1wb3J0IHRpbWUsIGdtdGltZSwgc3RyZnRpbWUK</text>
+        <text encoding="base64">ZGVmIGdldF9vcl9jcmVhdGUoc2Vzc2lvbiwgbW9kZWwsICoqa3dhcmdzKToKICAgIGluc3RhbmNlID0gc2Vzc2lvbi5xdWVyeShtb2RlbCkuZmlsdGVyX2J5KCoqa3dhcmdzKS5maXJzdCgpCiAgICBpZiBpbnN0YW5jZToKICAgICAgICByZXR1cm4gaW5zdGFuY2UKICAgIGVsc2U6CiAgICAgICAgaW5zdGFuY2UgPSBtb2RlbCgqKmt3YXJncykKICAgICAgICAjIHNlc3Npb24uYWRkKGluc3RhbmNlKQogICAgICAgICMgc2Vzc2lvbi5jb21taXQoKQogICAgICAgIHJldHVybiBpbnN0YW5jZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGVfZ2VuZXJhdGVkID0gW3N0YXJ0X2RhdGUgKyB0aW1lZGVsdGEoZGF5cz14KSBmb3IgeCBpbiByYW5nZSgwLCAoZW5kX2RhdGUtc3RhcnRfZGF0ZSkuZGF5cyldCiAgICBmb3IgZmlsZV9kYXRlIGluIGRhdGVfZ2VuZXJhdGVkOgo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X2RhdGUgPSBkYXRlKDIwMTcsIDEwLCAxKQogICAgZW5kX2RhdGUgPSBkYXRlKDIwMTcsIDExLCAxKQo=</text>
+        <text encoding="base64">ICAgIGRhdGVfZ2VuZXJhdGVkID0gW3N0YXJ0X2RhdGUgKyB0aW1lZGVsdGEoZGF5cz14KSBmb3IgeCBpbiByYW5nZSgwLCAoZW5kX2RhdGUtc3RhcnRfZGF0ZSkuZGF5cyldCiAgICBmb3IgZmlsZV9kYXRlIGluIGRhdGVfZ2VuZXJhdGVkOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZidQYXJzaW5nIGRhdGEgZnJvbSBkYXRlOiB7ZmlsZV9kYXRlfScpCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0X2RhdGUgPSBkYXRlKDIwMTcsIDEwLCAxKQogICAgZW5kX2RhdGUgPSBkYXRlKDIwMTcsIDExLCAxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmJ3tzdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiLCBnbXRpbWUoKSl9IFBhcnNpbmc6IHtmaWxlbmFtZX0nLCB0aW1lKCkgLSBlbmQpCiAgICAgICAgZW5kID0gdGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoZidQYXJzaW5nIGRhdGEgZnJvbSBkYXRlOiB7ZmlsZV9kYXRlfScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd0b3RhbCB0aW1lOiAnLCB0aW1lKCkgLSBzdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ3tzdHJmdGltZSgiJVktJW0tJWQgJUg6JU06JVMiLCBnbXRpbWUoKSl9IFBhcnNpbmc6IHtmaWxlbmFtZX0nLCB0aW1lKCkgLSBlbmQpCiAgICAgICAgZW5kID0gdGltZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZSgpCiAgICBlbmQgPSB0aW1lKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCd0b3RhbCB0aW1lOiAnLCB0aW1lKCkgLSBzdGFydCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZSgpCiAgICBlbmQgPSB0aW1lKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXV0aG9yID0gQ29sdW1uKCwgbnVsbGFibGU9RmFsc2UpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
