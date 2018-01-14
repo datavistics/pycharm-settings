@@ -191,14 +191,14 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515945609910">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515946208356">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="36" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1515931355834">
+      <file name="/Python Console" timestamp="1515947372832">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -317,10 +317,10 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1515939173777">
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1515947031064">
         <mark key="'" line="2" column="60" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="95" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="36" />
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
@@ -349,12 +349,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515945607806">
-        <mark key="'" line="63" column="12" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515947311145">
+        <mark key="'" line="52" column="12" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="71" column="61" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
         <mark key="[" line="9" column="20" />
@@ -364,8 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.js" />
-      <jump line="417" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.js" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
       <jump line="167" column="28" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
       <jump line="133" column="38" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -464,6 +462,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="60" column="35" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="63" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
+      <jump line="52" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -484,7 +484,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3RhdHNfdG9fZ3JhYiA9IFsnYXV0aG9yJywgJ2NyZWF0ZWQnLCAnZG93bnMnLCAnZWRpdGVkJywgJ2lkJywgJ2xvY2tlZCcsICduYW1lJywgJ251bV9jb21tZW50cycsICdwZXJtYWxpbmsnLCAnc2NvcmUnLCAnc2VsZnRleHQnLAogICAgICAgICAgICAgICAgICd0aXRsZScsICd1cHMnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHN1Ym1pc3Npb25bJ2VkaXRlZCddID09ICdUcnVlJwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -525,49 +525,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>sel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RhdHNfdG9fZ3JhYiA9IFsnYXV0aG9yJywgJ2NyZWF0ZWQnLCAnZG93bnMnLCAnZWRpdGVkJywgJ2lkJywgJ2xvY2tlZCcsICduYW1lJywgJ251bV9jb21tZW50cycsICdwZXJtYWxpbmsnLCAnc2NvcmUnLCAnc2VsZnRleHQnLAogICAgICAgICAgICAgICAgICd0aXRsZScsICd1cHMnXQo=</text>
+        <text encoding="base64">ICAgIEJhc2UubWV0YWRhdGEuY3JlYXRlX2FsbChlbmdpbmUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHN1Ym1pc3Npb25bJ2VkaXRlZCddID09ICdUcnVlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtYWtlX2RhdGFzZXQgaW1wb3J0IHN0YXRzX3RvX2dyYWIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Ym1pc3Npb25bJ2VkaXRlZF9kZWx0YSddID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKipzdWJtaXNzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvblsnZWRpdGVkJ10gPSBzdWJtaXNzaW9uWydlZGl0ZWQnXVs6LTJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQogICAgICAgIHByaW50KCd0ZXN0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Ym1pc3Npb25bJ2VkaXRlZF9kZWx0YSddID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdCcpCg==</text>
+        <text encoding="base64">ICAgIGVkaXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJtaXNzaW9uWydjcmVhdGVkJ10gPSBzdWJtaXNzaW9uWydjcmVhdGVkJ11bOi0yXQogICAgICAgIHN1Ym1pc3Npb25bJ2VkaXRlZCddID0gc3VibWlzc2lvblsnZWRpdGVkJ11bOi0yXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKFN0cmluZygxMCksIG51bGxhYmxlPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbi5wb3AoJ3NlbGZ0ZXh0JywgTm9uZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGluc2VydF9wb3N0KHNlc3Npb24sIHBvc3QsIGxvZ2dlcik6CiAgICBuZXdfcG9zdCA9CiAgICBzZXNzaW9uLmFkZChuZXdfcG9zdCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>sel</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>sel</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -575,8 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_data</entry>
-        <entry>datetime</entry>
         <entry>DateTime</entry>
         <entry>21</entry>
         <entry>time</entry>
@@ -595,6 +593,8 @@
         <entry>im</entry>
         <entry>CC</entry>
         <entry>date</entry>
+        <entry>loc</entry>
+        <entry>sel</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
