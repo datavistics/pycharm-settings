@@ -345,7 +345,7 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515914628749">
+      <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515920454434">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
@@ -595,7 +595,6 @@
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>%s/like/love/</entry>
         <entry>%s/like/haha/g</entry>
@@ -606,6 +605,7 @@
         <entry>w</entry>
         <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
