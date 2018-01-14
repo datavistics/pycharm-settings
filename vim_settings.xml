@@ -10,9 +10,6 @@
         <mark key="^" line="116" column="21" />
         <mark key="." line="116" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2015_05_04.json" timestamp="1513181056946">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1513175406943">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,13 +191,10 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="25" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" timestamp="1513163255028">
-        <mark key="'" line="0" column="355842" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515934017962">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515939529988">
         <mark key="'" line="38" column="80" />
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="25" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="32" />
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
@@ -246,6 +240,7 @@
         <mark key="." line="172" column="48" />
         <mark key="^" line="172" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/data/raw/2013_05_26.json" timestamp="1515939756468" />
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
         <mark key="]" line="116" column="32" />
@@ -278,7 +273,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="/code.py" timestamp="1515446640801">
+      <file name="/code.py" timestamp="1515940185082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p005.py" timestamp="1511086090629">
@@ -310,9 +305,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/data/raw/Facebook/2017_11_10.json" timestamp="1512891037817">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -325,10 +317,10 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1512841473866">
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1515939173777">
         <mark key="'" line="2" column="60" />
-        <mark key="[" line="57" column="35" />
-        <mark key="]" line="57" column="35" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="95" />
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
@@ -357,8 +349,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515932285691">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515940158731">
+        <mark key="'" line="27" column="23" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
         <mark key="[" line="9" column="20" />
@@ -368,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings.html" />
       <jump line="13" column="8" filename="$USER_HOME$/projects/datavistics.github.io/scripts/importer.py" />
       <jump line="63" column="30" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
       <jump line="15589" column="0" filename="$USER_HOME$/projects/US-Bombings/map/bomb.geojson" />
@@ -468,6 +463,7 @@
       <jump line="23" column="43" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="28" column="3" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="38" column="80" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -487,8 +483,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SWdub3JlIHByaXZhdGUgZGF0YWRkCg==</text>
+      <register name="&quot;" type="4">
+        <text>CCReaction</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -529,49 +525,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Daily</text>
+        <text>CCReaction</text>
       </register>
       <register name="/" type="4">
-        <text>im</text>
+        <text>CC</text>
       </register>
       <register name="0" type="4">
-        <text>end - timedelta(days=1)</text>
+        <text encoding="base64">ID0gQ29sdW1uKCwgbnVsbGFibGU9RmFsc2Up</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SWdub3JlIHByaXZhdGUgZGF0YWRkCg==</text>
+        <text encoding="base64">YXV0aG9yID0gQ29sdW1uKCwgbnVsbGFibGU9RmFsc2UpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLklORk8pCg==</text>
+        <text encoding="base64">ICAgIGZrX2NyZWFjdGlvbnNfY29tbWVudHMgPSBDb2x1bW4oU3RyaW5nKDMyKSwgRm9yZWlnbktleSgnY29tX2NvbW1lbnQuaWQnKSwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhmaWxlbmFtZT0nbWFrZV9kYXRhc2V0LmxvZycsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
+        <text encoding="base64">ICAgIGF1dGhvciA9IENvbHVtbihTdHJpbmcoMjApLCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cm15X2xvZ2dlci5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQo=</text>
+        <text encoding="base64">Y3JlYXRlZCA9IENvbHVtbigsIG51bGxhYmxlPUZhbHNlKQpkb3ducyA9IENvbHVtbigsIG51bGxhYmxlPUZhbHNlKQplZGl0ZWQgPSBDb2x1bW4oLCBudWxsYWJsZT1GYWxzZSkKaWQgPSBDb2x1bW4oLCBudWxsYWJsZT1GYWxzZSkKbG9ja2VkID0gQ29sdW1uKCwgbnVsbGFibGU9RmFsc2UpCm5hbWUgPSBDb2x1bW4oLCBudWxsYWJsZT1GYWxzZSkKbnVtX2NvbW1lbnRzID0gQ29sdW1uKCwgbnVsbGFibGU9RmFsc2UpCnBlcm1hbGluayA9IENvbHVtbigsIG51bGxhYmxlPUZhbHNlKQpzY29yZSA9IENvbHVtbigsIG51bGxhYmxlPUZhbHNlKQpzZWxmdGV4dCA9IENvbHVtbigsIG51bGxhYmxlPUZhbHNlKQp0aXRsZSA9IENvbHVtbigsIG51bGxhYmxlPUZhbHNlKQp1cHMgPSBDb2x1bW4oLCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bXlfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ015TG9nZ2VyJykK</text>
+        <text encoding="base64">ICAgIHJlYWN0aW9uID0gQ29sdW1uKFN0cmluZyg1KSwgbnVsbGFibGU9RmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbgo=</text>
+        <text encoding="base64">aW1wb3J0IHNxbGFsY2hlbXkKaW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2luZy5sb2cK</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBvcwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBzdGFydCA9</text>
+      <register name="8" type="2">
+        <text encoding="base64">CnAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBvcwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>im</last-search>
+      <last-search>CC</last-search>
       <last-offset />
-      <last-pattern>im</last-pattern>
+      <last-pattern>CC</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>-1</last-dir>
@@ -579,7 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Com</entry>
         <entry>get_data</entry>
         <entry>datetime</entry>
         <entry>DateTime</entry>
@@ -599,6 +594,7 @@
         <entry>json</entry>
         <entry>pprint</entry>
         <entry>im</entry>
+        <entry>CC</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
@@ -614,12 +610,12 @@
         <entry>%s/like/haha/g</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action Find</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Replace</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
         <entry>action $Paste</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
