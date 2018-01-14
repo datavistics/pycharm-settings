@@ -198,7 +198,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="36" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1515947372832">
+      <file name="/Python Console" timestamp="1515950027081">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -349,12 +349,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515948700968">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515949977398">
         <mark key="'" line="52" column="12" />
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="62" />
-        <mark key="^" line="71" column="61" />
-        <mark key="." line="21" column="44" />
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="29" />
+        <mark key="^" line="54" column="10" />
+        <mark key="." line="57" column="29" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
         <mark key="[" line="9" column="20" />
@@ -484,7 +484,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, primary_key=True</text>
+        <text>create_datetime</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -525,7 +525,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, primary_key=True</text>
+        <text>create_datetime</text>
       </register>
       <register name="/" type="4">
         <text>sel</text>
@@ -561,7 +561,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -615,8 +615,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
