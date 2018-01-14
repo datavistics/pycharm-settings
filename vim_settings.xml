@@ -142,6 +142,12 @@
       <file name="/a.sql" timestamp="1512841518714">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1515958600633">
+        <mark key="[" line="0" column="83" />
+        <mark key="]" line="0" column="83" />
+        <mark key="." line="0" column="83" />
+        <mark key="^" line="0" column="84" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/data/raw/2013_05_26.json" timestamp="1515939756468" />
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
@@ -149,7 +155,7 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1515314926602">
+      <file name="/dummy.sql" timestamp="1515958083525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -350,8 +356,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkZWQgbnVtX2NvbW1lbnRzIGZ1bmN0aW9uYWxpdHkK</text>
+      <register name="&quot;" type="4">
+        <text>desc</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -392,7 +398,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JmNvbW1lbnRzLnN1bW1hcnkoMSl7aWR9LHJlYWN0aW9ucy5zdW1tYXJ5KDEpe2lkfSY=</text>
+        <text>desc</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
