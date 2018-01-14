@@ -197,12 +197,12 @@
       <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" timestamp="1513163255028">
         <mark key="'" line="0" column="355842" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515926391738">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515929398182">
         <mark key="'" line="16" column="18" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+        <mark key="[" line="21" column="100" />
+        <mark key="]" line="21" column="100" />
+        <mark key="." line="21" column="100" />
+        <mark key="^" line="21" column="100" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
@@ -479,7 +479,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s.selftext</text>
+        <text>3</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -520,40 +520,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s.selftext</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAiY2xpZW50X3NlY3JldCI6ICIiLAo=</text>
+      <register name="0" type="4">
+        <text>datetime.datetime(2018,1,1,0,0),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdCA9IDUK</text>
+        <text encoding="base64">ICAgIHByaW50KHN1Ym1pc3Npb24uY3JlYXRlZF91dGMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBzID0gcwo=</text>
+        <text encoding="base64">cHJpbnQoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHMpCg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Zm9yIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQocmVkZGl0LmF1dGguc2NvcGVzKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW5pdGlhbCBDb21taXQK</text>
+        <text encoding="base64">Zm9yIHMgaW4gc3ViLnN1Ym1pc3Npb25zKDE1MTU5MjQ5MTEsIDE1MTU5MjE3ODAsICdsaW1pdD0xJyk6CiAgICBwcmludCh2YXJzKHMpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAicHJpY2UiOiAxMi41MCwKICAidGFncyI6IFsiaG9tZSIsICJncmVlbiJdCg==</text>
+        <text encoding="base64">dGVzdCA9IDUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAicHJpY2UiOiAxMi41MCwKICAidGFncyI6IFsiaG9tZSIsICJncmVlbiJdCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBzID0gcwo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
@@ -592,7 +592,6 @@
         <entry>pprint</entry>
       </history-search>
       <history-cmd>
-        <entry>$Paste</entry>
         <entry>nohl</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
@@ -612,6 +611,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -664,6 +664,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
