@@ -136,6 +136,12 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1515923395947">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/leetcode/p0015.py" timestamp="1511092308269">
         <mark key="'" line="13" column="42" />
         <mark key="[" line="11" column="14" />
@@ -162,14 +168,6 @@
         <mark key="^" line="13" column="103" />
         <mark key="." line="14" column="87" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/The Case for EDA.ipynb-meta" timestamp="1512739891248">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1513019684591">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="42" />
@@ -193,11 +191,11 @@
       <file name="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" timestamp="1513163255028">
         <mark key="'" line="0" column="355842" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515923244788">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1515923535462">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="/Python Console" timestamp="1513181501520">
         <mark key="[" line="0" column="0" />
@@ -271,7 +269,7 @@
         <mark key="." line="141" column="51" />
         <mark key="^" line="141" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515922783570">
+      <file name="/Dummy.txt" timestamp="1515923471799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -294,15 +292,20 @@
         <mark key="^" line="124" column="72" />
         <mark key="." line="105" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/README.md" timestamp="1515923456645">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/myers_briggs/main.py" timestamp="1515923251737">
+      <file name="$USER_HOME$/projects/myers_briggs/main.py" timestamp="1515923521806">
         <mark key="'" line="4" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="24" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/data/raw/Facebook/2017_11_10.json" timestamp="1512891037817">
         <mark key="'" line="0" column="0" />
@@ -478,8 +481,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      <register name="&quot;" type="4">
+        <text>praw</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -520,43 +523,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>�</text>
+        <text>praw</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgaXRlcnRvb2xzCmltcG9ydCBwcmF3CmltcG9ydCBqc29uCmZyb20gcHByaW50IGltcG9ydCBwcHJpbnQK</text>
+        <text encoding="base64">aW1wb3J0IHByYXcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgID8KICAgID8/PyB0b3guaW5pICAgICAgICAgICAgPC0gdG94IGZpbGUgd2l0aCBzZXR0aW5ncyBmb3IgcnVubmluZyB0b3g7IHNlZSB0b3gudGVzdHJ1bi5vcmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBjbGljawppbXBvcnQgbG9nZ2luZwpmcm9tIGRvdGVudiBpbXBvcnQgZmluZF9kb3RlbnYsIGxvYWRfZG90ZW52CgoKQGNsaWNrLmNvbW1hbmQoKQpAY2xpY2suYXJndW1lbnQoJ2lucHV0X2ZpbGVwYXRoJywgdHlwZT1jbGljay5QYXRoKGV4aXN0cz1UcnVlKSkKQGNsaWNrLmFyZ3VtZW50KCdvdXRwdXRfZmlsZXBhdGgnLCB0eXBlPWNsaWNrLlBhdGgoKSkKZGVmIG1haW4oaW5wdXRfZmlsZXBhdGgsIG91dHB1dF9maWxlcGF0aCk6CiAgICAiIiIgUnVucyBkYXRhIHByb2Nlc3Npbmcgc2NyaXB0cyB0byB0dXJuIHJhdyBkYXRhIGZyb20gKC4uL3JhdykgaW50bwogICAgICAgIGNsZWFuZWQgZGF0YSByZWFkeSB0byBiZSBhbmFseXplZCAoc2F2ZWQgaW4gLi4vcHJvY2Vzc2VkKS4KICAgICIiIgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCiAgICBsb2dnZXIuaW5mbygnbWFraW5nIGZpbmFsIGRhdGEgc2V0IGZyb20gcmF3IGRhdGEnKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBsb2dfZm10ID0gJyUoYXNjdGltZSlzIC0gJShuYW1lKXMgLSAlKGxldmVsbmFtZSlzIC0gJShtZXNzYWdlKXMnCiAgICBsb2dnaW5nLmJhc2ljQ29uZmlnKGxldmVsPWxvZ2dpbmcuSU5GTywgZm9ybWF0PWxvZ19mbXQpCgogICAgIyBub3QgdXNlZCBpbiB0aGlzIHN0dWIgYnV0IG9mdGVuIHVzZWZ1bCBmb3IgZmluZGluZyB2YXJpb3VzIGZpbGVzCiAgICBwcm9qZWN0X2RpciA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCBvcy5wYXJkaXIsIG9zLnBhcmRpcikKCiAgICAjIGZpbmQgLmVudiBhdXRvbWFnaWNhbGx5IGJ5IHdhbGtpbmcgdXAgZGlyZWN0b3JpZXMgdW50aWwgaXQncyBmb3VuZCwgdGhlbgogICAgIyBsb2FkIHVwIHRoZSAuZW52IGVudHJpZXMgYXMgZW52aXJvbm1lbnQgdmFyaWFibGVzCiAgICBsb2FkX2RvdGVudihmaW5kX2RvdGVudigpKQoKICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICAgID8/PyByZXBvcnRzICAgICAgICAgICAgPC0gR2VuZXJhdGVkIGFuYWx5c2lzIGFzIEhUTUwsIFBERiwgTGFUZVgsIGV0Yy4KICAgID+goCA/Pz8gZmlndXJlcyAgICAgICAgPC0gR2VuZXJhdGVkIGdyYXBoaWNzIGFuZCBmaWd1cmVzIHRvIGJlIHVzZWQgaW4gcmVwb3J0aW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkZWQgbGlua3MgZm9yIGNvbnZlbmllbmNlLgo=</text>
+        <text encoding="base64">ICAgID8/PyByZWZlcmVuY2VzICAgICAgICAgPC0gRGF0YSBkaWN0aW9uYXJpZXMsIG1hbnVhbHMsIGFuZCBhbGwgb3RoZXIgZXhwbGFuYXRvcnkgbWF0ZXJpYWxzLgogICAgPwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRkZWQgZmVhdGhlcgo=</text>
+        <text encoding="base64">ICAgID8/PyBkb2NzICAgICAgICAgICAgICAgPC0gQSBkZWZhdWx0IFNwaGlueCBwcm9qZWN0OyBzZWUgc3BoaW54LWRvYy5vcmcgZm9yIGRldGFpbHMKICAgID8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkaW5nIGRhdGEgdG8gdmVyc2lvbiBjb250cm9sLiBJdHMgc21hbGwgYW5kIGNvdWxkIGJlIGhlbHBmdWwgaW4gdGhlIGZ1dHVyZSB3aGVuIHRoaW5ncyBjaGFuZ2UuCg==</text>
+        <text encoding="base64">ICAgID8/PyBNYWtlZmlsZSAgICAgICAgICAgPC0gTWFrZWZpbGUgd2l0aCBjb21tYW5kcyBsaWtlIGBtYWtlIGRhdGFgIG9yIGBtYWtlIHRyYWluYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkaW5nIGRhdGEgdG8gdmVyc2lvbiBjb250cm9sLiBJdHMgc21hbGwgYW5kIGNvdWxkIGJlIGhlbHBmdWwgaW4gdGhlIGZ1dHVyZSB3aGVuIGRkZHRoaW5ncyBjaGFuZ2UuCg==</text>
+        <text encoding="base64">Y2xpY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U3BoaW54Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBleGNsdWRlIGRhdGEgZnJvbSBzb3VyY2UgY29udHJvbCBieSBkZWZhdWx0Cg==</text>
+        <text encoding="base64">Y292ZXJhZ2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -609,9 +612,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Replace</entry>
         <entry>w</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
