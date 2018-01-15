@@ -126,7 +126,7 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516008757454">
+      <file name="/Dummy.txt" timestamp="1516011252347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
@@ -211,12 +211,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516009701097">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516011243127">
         <mark key="'" line="15" column="39" />
-        <mark key="[" line="122" column="33" />
-        <mark key="]" line="122" column="48" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="122" column="48" />
-        <mark key="." line="122" column="48" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516008110003">
         <mark key="'" line="32" column="0" />
@@ -363,8 +363,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -414,34 +414,34 @@
         <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCg==</text>
+        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCiAgICAgICAgbG9nZ2VyLndhcm5pbmcoZidSZWR1bmRhbnQgU3VibWlzc2lvbjoge3N1Yn0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCiAgICAgICAgbG9nZ2VyLndhcm5pbmcoZidSZWR1bmRhbnQgU3VibWlzc2lvbjoge3N1Yn0nKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TW9yZSBjb21kZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TW9yZSBjb21kZGQK</text>
+        <text encoding="base64">TW9yZSBjb21kZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -489,7 +489,6 @@
         <entry>%s/like/love/</entry>
         <entry>%s/like/haha/g</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action Find</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
@@ -497,6 +496,7 @@
         <entry>action Replace</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
