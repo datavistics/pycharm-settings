@@ -10,13 +10,13 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="36" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1516004042576">
+      <file name="/Python Console" timestamp="1516005857319">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1516001713496">
+      <file name="/a.dummy" timestamp="1516007774715">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
@@ -31,14 +31,17 @@
         <mark key="." line="7" column="81" />
         <mark key="^" line="7" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_11.json" timestamp="1516005069349">
+        <mark key="'" line="0" column="16713" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1515943601567">
-        <mark key="'" line="73" column="20" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" timestamp="1516008089651">
+        <mark key="'" line="30" column="42" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="39" />
         <mark key="." line="90" column="46" />
@@ -61,11 +64,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1515958600633">
-        <mark key="[" line="0" column="83" />
-        <mark key="]" line="0" column="83" />
-        <mark key="." line="0" column="83" />
-        <mark key="^" line="0" column="84" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516005003763">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
@@ -96,7 +99,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1515958083525">
+      <file name="/dummy.sql" timestamp="1516008672774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -117,11 +120,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515956138401">
+      <file name="/Dummy.txt" timestamp="1516008757454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/.gitignore" timestamp="1515521664086">
         <mark key="'" line="0" column="0" />
@@ -171,10 +174,10 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1515947031064">
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1516007957303">
         <mark key="'" line="2" column="60" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="36" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="89" column="18" />
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
@@ -208,12 +211,17 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1515951065893">
-        <mark key="'" line="52" column="12" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="72" column="24" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516008467264">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="47" column="7" />
+        <mark key="]" line="47" column="5" />
+        <mark key="^" line="47" column="5" />
+        <mark key="." line="47" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516008110003">
+        <mark key="'" line="32" column="0" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
         <mark key="[" line="0" column="0" />
@@ -221,11 +229,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1516004035624">
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1516005679650">
         <mark key="'" line="28" column="49" />
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="44" />
-        <mark key="." line="39" column="44" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
@@ -236,16 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="28" filename="$USER_HOME$/projects/US-Bombings/map/us_afghan_bombings.html" />
-      <jump line="133" column="38" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="71" column="42" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="79" column="73" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="90" column="49" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="104" column="62" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="6" column="2" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="52" column="24" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="38" column="2" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="63" column="7" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="69" column="8" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="77" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -324,7 +322,6 @@
       <jump line="28" column="3" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="38" column="80" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="27" column="23" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
-      <jump line="73" column="20" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="55" column="8" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
@@ -336,6 +333,17 @@
       <jump line="52" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="32" column="22" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="30" column="49" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
+      <jump line="0" column="16713" filename="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_11.json" />
+      <jump line="88" column="15" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
+      <jump line="83" column="26" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
+      <jump line="73" column="4" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
+      <jump line="30" column="42" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -355,8 +363,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>comments</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TW9yZSBjb21kZAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -397,61 +405,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>comments</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>com</text>
+        <text>base</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fYyA9IHBvc3RfZGF0YVsnY29tbWVudHMnXVsnc3VtbWFyeSddWyd0b3RhbF9jb3VudCddCg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TW9yZSBjb21kZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgMTcyODY2MTA4Mzg5NDUzOS8/ZmllbGRzPWNvbW1lbnRzLnN1bW1hcnkodG90YWxfY291bnQpLmxpbWl0KDApLHJlYWN0aW9ucy50eXBlKExJS0UpLmxpbWl0KDApLnN1bW1hcnkoMSkscmVhY3Rpb25zLnR5cGUoTE9WRSkubGltaXQoMCkuc3VtbWFyeSgxKQo=</text>
+        <text encoding="base64">TW9yZSBjb21kZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJhdGNoX3VybCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGF5X2xpc3QuYXBwZW5kKFt7ZnQ6IGpzb24ubG9hZHMoci50ZXh0KX0gZm9yIGZ0LCByIGluIHppcChmdHlwZSwgcG9zdF9qc29ucyldKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG91dCA9IHtpZDogJycsICdudW1fY29tbWVudHMnOiAwLCAnbnVtX3JlYWN0aW9ucyc6IDB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGNyZWF0ZV9kYXRhYmFzZShwYXRoKToKICAgIGVuZ2luZSA9IGNyZWF0ZV9lbmdpbmUoJ3NxbGl0ZTovLy8nICsgZGF0YWJhc2VfcGF0aCkgICMgLCBlY2hvPVRydWUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJhc2UgPSBkZWNsYXJhdGl2ZV9iYXNlKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawogICAgZm9yIGluZCwgZCBpbiBlbnVtZXJhdGUobFsxOl0pOgogICAgICAgIGlmIG5vdCBkOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZvciBrIGluIGQ6CiAgICAgICAgICAgIG91dFtrXVtmdHlwZVtpbmRdXSA9IGRba11bJ3JlYWN0aW9ucyddWydzdW1tYXJ5J11bJ3RvdGFsX2NvdW50J10K</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBja2V5IGluViBsWzBdOgogICAgICAgIG91dFtja2V5XSA9IHtmdHlwZVswXTogbFswXVtja2V5XVsnc3VtbWFyeSddWyd0b3RhbF9jb3VudCddfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3ViX2NvdW50ID0gY291bnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkZWQgbnVtX2NvbW1lbnRzIGZ1bmN0aW9uYWxpdHkK</text>
+        <text encoding="base64">c3RhdHNfdHlwZWQgPSB7CiAgICAnYXV0aG9yJzogc3RyLCAnY3JlYXRlZCc6IHN0cl90b19kdCwgJ2Rvd25zJzogaW50LCAnZWRpdGVkJzogYm9vbCwgJ2VkaXRlZF9kYXRlJzogc3RyX3RvX2R0LCAnaWQnOiBzdHIsICdsb2NrZWQnOiBib29sLAogICAgJ25hbWUnOiBzdHIsICdudW1fY29tbWVudHMnOiBpbnQsICdwZXJtYWxpbmsnOiBzdHIsICdzY29yZSc6IGludCwgJ3RpdGxlJzogc3RyLCAndXBzJzogaW50fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>com</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern>com</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DateTime</entry>
-        <entry>21</entry>
-        <entry>time</entry>
-        <entry>ht</entry>
-        <entry>pos</entry>
         <entry>ind</entry>
         <entry>like</entry>
         <entry encoding="base64">XDxpbnRcPg==</entry>
@@ -467,6 +470,11 @@
         <entry>loc</entry>
         <entry>sel</entry>
         <entry>com</entry>
+        <entry>or</entry>
+        <entry>edited</entry>
+        <entry>locked</entry>
+        <entry>fil</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
@@ -482,13 +490,13 @@
         <entry>%s/like/haha/g</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action Find</entry>
-        <entry>action Replace</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>action SaveAll</entry>
+        <entry>action Replace</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
