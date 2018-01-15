@@ -229,10 +229,10 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1516005679650">
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1516009821683">
         <mark key="'" line="28" column="49" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="15" />
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="43" />
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
@@ -363,8 +363,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -405,7 +405,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>== 1</text>
