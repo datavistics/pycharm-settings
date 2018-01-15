@@ -56,11 +56,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" timestamp="1513056958232">
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="." line="353" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1512841518714">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,10 +96,12 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" timestamp="1515521344790">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1516020227885">
+        <mark key="'" line="1" column="24" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1516014085924">
         <mark key="[" line="0" column="0" />
@@ -147,11 +144,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/myers_briggs/main.py" timestamp="1515923521806">
         <mark key="'" line="4" column="5" />
@@ -220,10 +212,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516015604947">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516019048671">
+        <mark key="'" line="90" column="39" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516014294713">
         <mark key="'" line="25" column="47" />
@@ -253,13 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="88" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="96" column="12" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="102" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="122" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="129" column="28" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="25" column="10" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="24" column="10" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="134" column="19" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -353,6 +340,13 @@
       <jump line="15" column="39" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
       <jump line="25" column="47" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" />
+      <jump line="84" column="21" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="1" column="14" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="88" column="4" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="87" column="39" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="5" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="1" column="24" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -372,8 +366,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PENSPg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -414,13 +408,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_fix</text>
+        <text encoding="base64">PENSPg==</text>
       </register>
       <register name="/" type="4">
-        <text>fix</text>
+        <text>cop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVsYXRpb25zaGlwc19zdWJtaXNzaW9uCg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnZF9zdGFydCcsIHR5cGU9bGFtYmRhIHM6IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKHMsICclWS0lbS0lZCcpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -431,32 +425,32 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZ2V0IGRhdGVzCiAgICAjIGRfZW5kID0gZGF0ZXRpbWUuZGF0ZSgyMDE3LCAxMSwgMTIpCiAgICAjIGRfc3RhcnQgPSBkYXRldGltZS5kYXRlKDIwMTcsIDExLCAxMSkK</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TW9yZSBjb20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSByZWxhdGlvbnNoaXBzX3N1Ym1pc3Npb24gT1JERVIgQlkgY3JlYXRlZCBkZXNjUAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TW9yZSBjb20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rml4ZWQgdXJsIHRvIGJlIHNpbmd1bGFyLCB1cGRhdGluZyByZXN0IG9mIGNvZGUgdG8gYWNjb21vZGF0ZS4K</text>
+        <text encoding="base64">ICAgICMgZ2V0IGRhdGVzCiAgICAjIGRfZW5kID0gZGF0ZXRpbWUuZGF0ZSgyMDE3LCAxMSwgMTIpCiAgICAjIGRfc3RhcnQgPSBkYXRldGltZS5kYXRlKDIwMTcsIDExLCAxMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">R2F0aGVyaW5nIFJlZGRpdCBkYXRhIGFuZCBwcmVkaWN0aW5nIHVzZXIgZW5nYWdlbWVudAo=</text>
+        <text encoding="base64">TW9yZSBjb20K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYyA=</text>
       </register>
     </registers>
     <search>
-      <last-search>fix</last-search>
+      <last-search>cop</last-search>
       <last-offset />
-      <last-pattern>fix</last-pattern>
+      <last-pattern>cop</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -464,7 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRcPg==</entry>
         <entry>hea</entry>
         <entry>wow</entry>
         <entry>thi</entry>
@@ -484,12 +477,9 @@
         <entry>base</entry>
         <entry>== 1</entry>
         <entry>fix</entry>
+        <entry>cop</entry>
       </history-search>
       <history-cmd>
-        <entry>nohl</entry>
-        <entry>W</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRl</entry>
-        <entry>action $SelectAll</entry>
         <entry>action $Copy</entry>
         <entry>action GotoSuperMethod</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
@@ -503,9 +493,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>action Find</entry>
+        <entry>so $MYVIMRC</entry>
+        <entry>source %</entry>
+        <entry>action $Paste</entry>
+        <entry>so %</entry>
         <entry>action SaveAll</entry>
+        <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYyA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -564,6 +558,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
