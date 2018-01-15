@@ -9,7 +9,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1516007774715">
+      <file name="/a.dummy" timestamp="1516041630900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
@@ -20,6 +20,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" timestamp="1513056958232">
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="353" column="0" />
+        <mark key="." line="353" column="0" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -52,11 +57,22 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" timestamp="1515521344790">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="1" column="56" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="56" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
         <mark key="[" line="0" column="0" />
@@ -66,6 +82,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query-args.json" timestamp="1516044523148">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1515923395947">
         <mark key="[" line="0" column="0" />
@@ -104,11 +125,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516024335517">
-        <mark key="[" line="117" column="11" />
-        <mark key="]" line="117" column="14" />
-        <mark key="^" line="117" column="14" />
-        <mark key="." line="117" column="14" />
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516047441215">
+        <mark key="'" line="68" column="16" />
+        <mark key="[" line="81" column="64" />
+        <mark key="]" line="81" column="86" />
+        <mark key="^" line="81" column="86" />
+        <mark key="." line="81" column="86" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
         <mark key="[" line="0" column="0" />
@@ -130,11 +152,17 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="36" column="48" />
       </file>
-      <file name="/Python Console" timestamp="1516023000085">
+      <file name="/Python Console" timestamp="1516044954639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="260" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
@@ -161,6 +189,13 @@
       <file name="/a.sql" timestamp="1512841518714">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/README.md" timestamp="1516047606852">
+        <mark key="'" line="87" column="5" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516014718636">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="45" />
@@ -180,10 +215,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516014304757">
+      <file name="/Dummy.txt" timestamp="1516047463633">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="7" />
+        <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1515940185082">
@@ -194,6 +230,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/utility.py" timestamp="1516021294099">
         <mark key="'" line="19" column="30" />
@@ -250,11 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="24" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="3" column="34" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="11" column="20" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="144" column="67" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="13" column="32" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
       <jump line="22" column="48" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
       <jump line="39" column="48" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
       <jump line="57" column="48" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
@@ -341,7 +377,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="101" column="20" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="26" column="3" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="19" column="30" filename="$USER_HOME$/projects/FacebookUtilities/src/utility.py" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="99" column="9" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
@@ -349,7 +384,13 @@
       <jump line="10" column="18" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
-      <jump line="97" column="13" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="113" column="26" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="100" column="13" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="97" column="46" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="127" column="59" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="68" column="16" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
+      <jump line="86" column="5" filename="$USER_HOME$/projects/FacebookUtilities/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -369,8 +410,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>parser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkZWQgcHJpbnQgc3RhdGVtZW50cyBmb3IgZ3VpIGNvbnZlbmllbmNlCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -411,49 +452,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>parser</text>
+        <text>dirname</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>ac</text>
       </register>
-      <register name="0" type="4">
-        <text>, default=stored_args.get('token'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhmJ3tzdHIocGFpclsxXSl9OiBDcmF3bGVkIHRocm91Z2ggYSB0b3RhbCBvZiB7bnVtX3Bvc3RzfSBwb3N0cyBpbiB7dGltZS50aW1lKCktZGF5X3RpbWV9IHNlY29uZHMuXG4nCiAgICAgICAgICAgICAgICAgICAgZidUb3RhbCB0aW1lOiB7dGltZS50aW1lKCktYmVnX3RpbWV9XHRUb3RhbCBwb3N0czoge3RvdGFsX3Bvc3RzfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkZWQgcHJpbnQgc3RhdGVtZW50cyBmb3IgZ3VpIGNvbnZlbmllbmNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1vcy5wYXRoLmpvaW4ocHJvamVjdF9kaXIsICdvdXRwdXQnKSwK</text>
+        <text encoding="base64">T25lIFBhcmFncmFwaCBvZiBwcm9qZWN0IGRlc2NyaXB0aW9uIGdvZXMgaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD1zdG9yZWRfYXJncy5nZXQoJ2RhdGFfZGlyZWN0b3J5JyksCg==</text>
+        <text encoding="base64">TWFqb3IgdXBkYXRlOiBXaWxsIG5vdyBmdW5jdGlvbmFsbHkgZ2V0IGZhY2Vib29rIGRhdGEgYnkgaWQgYW5kIHdyaXRlIHRvIGZpbGUgaW4gYSByZWFkYWJsZSBqc29uIGZvcm1hdC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TWFqb3IgdXBkYXRlOiBXaWxsIG5vdyBmdW5jdGlvbmFsbHkgZ2V0IGZhY2Vib29rIGRhdGEgYnkgaWQgYW5kIHdyaXRlIHRvIGZpbGUgaW4gYSByZWFkYWJsZSBqc29uIGZvcm1hdC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TWFqb3IgdXBkYXRlOiBXaWxsIG5vdyBmdW5jdGlvbmFsbHkgZ2V0IGZhY2Vib29rIGRhdGEgYnkgaWQgYW5kIHdyaXRlIHRvIGZpbGUgaW4gYSByZWFkYWJsZSBqc29uIGZvcm1hdC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEdvb2V5KGFkdmFuY2VkPVRydWUpCg==</text>
+        <text encoding="base64">SU5GTzpfX21haW5fXzoJQ3Jhd2xlZCB0aHJvdWdoIDEwMCBwb3N0cyBpbiA3LjQ5NjQ0OTIzMjEwMTQ0IHNlY29uZHMKSU5GTzpfX21haW5fXzoJQ3Jhd2xlZCB0aHJvdWdoIDIwMCBwb3N0cyBpbiA2LjUwMTE5OTcyMjI5MDAzOSBzZWNvbmRzCklORk86X19tYWluX186CUNyYXdsZWQgdGhyb3VnaCAzMDAgcG9zdHMgaW4gNS4xNTM1ODEzODA4NDQxMTYgc2Vjb25kcwpJTkZPOl9fbWFpbl9fOglDcmF3bGVkIHRocm91Z2ggNDAwIHBvc3RzIGluIDcuMTY4NzM0Nzg4ODk0NjUzIHNlY29uZHMKSU5GTzpfX21haW5fXzoJQ3Jhd2xlZCB0aHJvdWdoIDUwMCBwb3N0cyBpbiA2LjcwNDEwMTMyNDA4MTQyMSBzZWNvbmRzCklORk86X19tYWluX186CUNyYXdsZWQgdGhyb3VnaCA2MDAgcG9zdHMgaW4gNy4zMDMzMjY4NDUxNjkwNjcgc2Vjb25kcwpJTkZPOl9fbWFpbl9fOglDcmF3bGVkIHRocm91Z2ggNzAwIHBvc3RzIGluIDUuNzEzNDA0NjU1NDU2NTQzIHNlY29uZHMKSU5GTzpfX21haW5fXzoJQ3Jhd2xlZCB0aHJvdWdoIDgwMCBwb3N0cyBpbiA2LjQ3ODU5MDcyNjg1MjQxNyBzZWNvbmRzCklORk86X19tYWluX186CUNyYXdsZWQgdGhyb3VnaCA5MDAgcG9zdHMgaW4gNS44ODIyOTIwMzIyNDE4MjEgc2Vjb25kcwpJTkZPOl9fbWFpbl9fOglDcmF3bGVkIHRocm91Z2ggMTAwMCBwb3N0cyBpbiA3Ljg5NTc4Nzk1NDMzMDQ0NCBzZWNvbmRzCklORk86X19tYWluX186CUNyYXdsZWQgdGhyb3VnaCAxMTAwIHBvc3RzIGluIDcuMTE4NTk4OTM3OTg4MjgxIHNlY29uZHMKSU5GTzpfX21haW5fXzoJQ3Jhd2xlZCB0aHJvdWdoIDEyMDAgcG9zdHMgaW4gNy40NzA0NjczMjkwMjUyNjg2IHNlY29uZHMKSU5GTzpfX21haW5fXzoJQ3Jhd2xlZCB0aHJvdWdoIDEzMDAgcG9zdHMgaW4gOC42ODA2NzgxMjkxOTYxNjcgc2Vjb25kcwpJTkZPOl9fbWFpbl9fOglDcmF3bGVkIHRocm91Z2ggMTQwMCBwb3N0cyBpbiA3LjcyNTg4MDg2MTI4MjM0OSBzZWNvbmRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdjcmVhdGluZyBndWk/JykK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">dHlwZT1sYW1iZGEgczogZGF0ZXRpbWUuZGF0ZXRpbWUuc3RycHRpbWUocywgJyVZLSVtLSVkJyksIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IEFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1zJywgJy0tZF9zdGFydCcsIHR5cGU9bGFtYmRhIHM6IGRhdGV0aW1lLmRhdGV0aW1lLnN0cnB0aW1lKHMsICclWS0lbS0lZCcpLCBoZWxwPSdZWVlZLU1NLUREJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1lJywgJy0tZF9lbmQnLCB0eXBlPWxhbWJkYSBzOiBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZShzLCAnJVktJW0tJWQnKSwgaGVscD0nWVlZWS1NTS1ERCcpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctbycsICctLW91dHB1dF9kaXInLCB0eXBlPXJlYWRhYmxlX2RpciwgZGVmYXVsdD1vcy5wYXRoLmpvaW4ocHJvamVjdF9kaXIsICdvdXRwdXQnKSwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nTGVhdmUgYmxhbmsgZm9yIGRlZmF1bHQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLXQnLCAnLS10b2tlbicsIGhlbHA9J0F1dGhlbnRpY2F0aW9uIFRva2VuJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1xJywgJy0tcXVlcnknLCBoZWxwPSdGdWxsIHF1ZXJ5IGZvciBmYWNlYm9vaycpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">dHlwZT1sYW1iZGEgczogZGF0ZXRpbWUuZGF0ZXRpbWUuc3RycHRpbWUocywgJyVZLSVtLSVkJyksIA==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>ac</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>ac</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -461,9 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry>pprint</entry>
-        <entry>im</entry>
         <entry>CC</entry>
         <entry>date</entry>
         <entry>loc</entry>
@@ -479,8 +517,11 @@
         <entry>cop</entry>
         <entry>def</entry>
         <entry>defau</entry>
-        <entry>goo</entry>
         <entry>main</entry>
+        <entry>goo</entry>
+        <entry>type</entry>
+        <entry>required</entry>
+        <entry>ac</entry>
       </history-search>
       <history-cmd>
         <entry>action $Copy</entry>
@@ -501,8 +542,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
