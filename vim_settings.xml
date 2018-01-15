@@ -56,11 +56,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" timestamp="1513056958232">
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="." line="353" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1512841518714">
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,11 +95,6 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" timestamp="1515521344790">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1516009561591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -126,10 +116,10 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516011252347">
+      <file name="/Dummy.txt" timestamp="1516012345047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
+        <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1515940185082">
@@ -141,15 +131,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/README.md" timestamp="1515923456645">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/reddit_prediction/README.md" timestamp="1516011683242">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/myers_briggs/main.py" timestamp="1515923521806">
         <mark key="'" line="4" column="5" />
@@ -213,10 +199,7 @@
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516011243127">
         <mark key="'" line="15" column="39" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
         <mark key="^" line="122" column="48" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516008110003">
         <mark key="'" line="32" column="0" />
@@ -364,7 +347,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">Rml4ZWQgdXJsIHRvIGJlIHNpbmd1bGFyLCB1cGRhdGluZyByZXN0IG9mIGNvZGUgdG8gYWNjb21vZGF0ZS4K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -414,31 +397,31 @@
         <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5kZWNsYXJhdGl2ZSBpbXBvcnQgZGVjbGFyYXRpdmVfYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">Rml4ZWQgdXJsIHRvIGJlIHNpbmd1bGFyLCB1cGRhdGluZyByZXN0IG9mIGNvZGUgdG8gYWNjb21vZGF0ZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+        <text encoding="base64">R2F0aGVyaW5nIFJlZGRpdCBkYXRhIGFuZCBwcmVkaWN0aW5nIHVzZXIgZW5nYWdlbWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCiAgICAgICAgbG9nZ2VyLndhcm5pbmcoZidSZWR1bmRhbnQgU3VibWlzc2lvbjoge3N1Yn0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBkWyhzdWJbJ2lkJ10sIHN1YlsnY3JlYXRlZCddKV0gPSAxCiAgICAgICAgbG9nZ2VyLndhcm5pbmcoZidSZWR1bmRhbnQgU3VibWlzc2lvbjoge3N1Yn0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TW9yZSBjb21kZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
