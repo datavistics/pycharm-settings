@@ -213,12 +213,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516014282530">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516017159859">
         <mark key="'" line="15" column="39" />
-        <mark key="[" line="15" column="75" />
-        <mark key="]" line="15" column="75" />
-        <mark key="^" line="122" column="48" />
-        <mark key="." line="15" column="75" />
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516015604947">
         <mark key="[" line="78" column="0" />
@@ -429,25 +429,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZ2V0IGRhdGVzCiAgICAjIGRfZW5kID0gZGF0ZXRpbWUuZGF0ZSgyMDE3LCAxMSwgMTIpCiAgICAjIGRfc3RhcnQgPSBkYXRldGltZS5kYXRlKDIwMTcsIDExLCAxMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TW9yZSBjb20K</text>
+        <text encoding="base64">ICAgICMgZ2V0IGRhdGVzCiAgICAjIGRfZW5kID0gZGF0ZXRpbWUuZGF0ZSgyMDE3LCAxMSwgMTIpCiAgICAjIGRfc3RhcnQgPSBkYXRldGltZS5kYXRlKDIwMTcsIDExLCAxMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSByZWxhdGlvbnNoaXBzX3N1Ym1pc3Npb24gT1JERVIgQlkgY3JlYXRlZCBkZXNjUAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">TW9yZSBjb20K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSByZWxhdGlvbnNoaXBzX3N1Ym1pc3Npb24gT1JERVIgQlkgY3JlYXRlZCBkZXNjUAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Rml4ZWQgdXJsIHRvIGJlIHNpbmd1bGFyLCB1cGRhdGluZyByZXN0IG9mIGNvZGUgdG8gYWNjb21vZGF0ZS4K</text>
+        <text encoding="base64">TW9yZSBjb20K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R2F0aGVyaW5nIFJlZGRpdCBkYXRhIGFuZCBwcmVkaWN0aW5nIHVzZXIgZW5nYWdlbWVudAo=</text>
+        <text encoding="base64">Rml4ZWQgdXJsIHRvIGJlIHNpbmd1bGFyLCB1cGRhdGluZyByZXN0IG9mIGNvZGUgdG8gYWNjb21vZGF0ZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">R2F0aGVyaW5nIFJlZGRpdCBkYXRhIGFuZCBwcmVkaWN0aW5nIHVzZXIgZW5nYWdlbWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
