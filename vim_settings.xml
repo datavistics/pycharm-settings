@@ -188,12 +188,12 @@
         <mark key="." line="27" column="99" />
         <mark key="^" line="27" column="99" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516085899952">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516087647491">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="61" />
-        <mark key="]" line="0" column="61" />
-        <mark key="." line="0" column="61" />
-        <mark key="^" line="0" column="55" />
+        <mark key="[" line="0" column="94" />
+        <mark key="]" line="0" column="93" />
+        <mark key="." line="0" column="93" />
+        <mark key="^" line="0" column="92" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
@@ -403,7 +403,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHJlZ2V4Pg==</text>
+        <text>]</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -444,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHJlZ2V4Pg==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>ac</text>
