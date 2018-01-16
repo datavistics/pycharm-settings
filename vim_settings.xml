@@ -188,12 +188,12 @@
         <mark key="." line="27" column="99" />
         <mark key="^" line="27" column="99" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516014718636">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516085899952">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+        <mark key="^" line="0" column="55" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
@@ -402,8 +402,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkZWQgdG9rZW4gbGluawo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHJlZ2V4Pg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -444,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">PHJlZ2V4Pg==</text>
       </register>
       <register name="/" type="4">
         <text>ac</text>
@@ -480,7 +480,7 @@
         <text encoding="base64">RW5kIHdpdGggYW4gZXhhbXBsZSBvZiBnZXR0aW5nIHNvbWUgZGF0YSBvdXQgb2YgdGhlIHN5c3RlbSBvciB1c2luZyBpdCBmb3IgYSBsaXR0bGUgZGVtbwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -534,8 +534,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
