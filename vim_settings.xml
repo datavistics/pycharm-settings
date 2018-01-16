@@ -145,11 +145,11 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1516044954639">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+      <file name="/Python Console" timestamp="1516131028211">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
         <mark key="[" line="3" column="13" />
@@ -403,7 +403,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -444,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>ac</text>
