@@ -243,11 +243,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1516206090866">
+      <file name="/code.py" timestamp="1516214539861">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/projects/environment2.yml" timestamp="1516189073631">
         <mark key="[" line="0" column="0" />
