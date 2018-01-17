@@ -18,6 +18,11 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="74" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb5ed776-c85c-4903-ba46-4444a7a45995/console.sql" timestamp="1516134979892">
+        <mark key="[" line="0" column="83" />
+        <mark key="]" line="0" column="83" />
+        <mark key="." line="0" column="83" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,12 +129,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516132318383">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516134925924">
         <mark key="'" line="15" column="39" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+        <mark key="[" line="101" column="39" />
+        <mark key="]" line="101" column="40" />
+        <mark key="^" line="101" column="39" />
+        <mark key="." line="101" column="40" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516047441215">
         <mark key="'" line="68" column="16" />
@@ -181,9 +186,6 @@
         <mark key="." line="0" column="100" />
         <mark key="^" line="0" column="100" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_11.json" timestamp="1516005069349">
-        <mark key="'" line="0" column="16713" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -206,7 +208,7 @@
         <mark key="." line="27" column="99" />
         <mark key="^" line="27" column="99" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516134168296">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516134971160">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="98" />
@@ -219,7 +221,7 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="/dummy.sql" timestamp="1516133899200">
+      <file name="/dummy.sql" timestamp="1516135032020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -245,9 +247,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/utility.py" timestamp="1516021294099">
-        <mark key="'" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
         <mark key="[" line="0" column="0" />
@@ -286,12 +285,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516014294713">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516134846863">
         <mark key="'" line="25" column="47" />
-        <mark key="[" line="7" column="75" />
-        <mark key="]" line="7" column="75" />
-        <mark key="." line="7" column="75" />
-        <mark key="^" line="43" column="30" />
+        <mark key="[" line="8" column="75" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a9b3ad1-a789-400b-bafa-eb53d1e25319/console.sql" timestamp="1516133914001">
         <mark key="[" line="0" column="0" />
@@ -424,7 +423,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>REGEXP</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -465,13 +464,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>REGEXP</text>
       </register>
       <register name="/" type="4">
         <text>ac</text>
       </register>
-      <register name="0" type="4">
-        <text>select count(*) from relationships_submission where relationships_submission.title REGEXP '\[\d+\]'</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVsYXRpb25zaGlwc19zdWJtaXNzaW9uIHdoZXJlIHJlbGF0aW9uc2hpcHNfc3VibWlzc2lvbi50aXRsZSBSRUdFWFAgJ1xbXGQrXF0nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
