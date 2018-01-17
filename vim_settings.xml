@@ -100,11 +100,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/environment.yml" timestamp="1516189810440">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/projects/environment.yml" timestamp="1516190870631">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="186" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1516187391860">
         <mark key="[" line="1" column="4" />
@@ -449,7 +449,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdGhlci1mb3JtYXQsIGdlb3BhbmRhcywgZ2VvcywganVweXRlcl9jb250cmliX2NvcmUsIGp1cHl0ZXJfY29udHJpYl9uYmV4dGVuc2lvbnMsIGp1cHl0ZXJfaGlnaGxpZ2h0X3NlbGVjdGVkX3dvcmQsIGp1cHl0ZXJfbGF0ZXhfZW52cywganVweXRlcl9uYmV4dGVuc2lvbnNfY29uZmlndXJhdG9yLCBsaWJ4bWwyLCBhdHRycywgY2xpY2ssIGNsaWNrLXBsdWdpbnMsIGNsaWdqLCBodG1sNWxpYiwganVweXRlciwganVweXRlcl9jbGllbnQsIGp1cHl0ZXJfY29uc29sZSwganVweXRlcl9jb3JlLCBseG1sLCBtYXRwbG90bGliLCBudW1weSwgcGFuZGFzLCBwaGFudG9tanMsIHBpbGxvdywgcGlwLCBwbG90bHksIHB5cXQsIHB5dGhvbiwgcHl3aW4zMiwgcXQsIHF0Y29uc29sZSwgcmVxdWVzdHMsIHNjaWtpdC1sZWFybiwgc2NpcHksIHNldHVwdG9vbHMsIHNxbGFsY2hlbXksIHNxbGl0ZSwgdGVuc29yZmxvdywgdGhlYW5vCg==</text>
+        <text encoding="base64">YXV0b3BlcDggYmVhdXRpZnVsc291cDQgYnM0IGNvb2tpZWN1dHRlciBmYWNlcHkgZmxha2U4IGZvbGl1bSBnZW9weSBnZXZlbnQgZ29vZXkga2VyYXMgbW9yZS1pdGVydG9vbHMgcHJhdyBwcmF3Y29yZSBwcmV0dHl0YWJsZSBweWZsYWtlcyBxZ3JpZCByZXF1ZXN0cy1zc2wtdjMgc2VsZW5pdW0gdHFkbSB3eHB5dGhvbiB4bHJkCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -496,7 +496,7 @@
         <text>pathl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmVhdGhlci1mb3JtYXQsIGdlb3BhbmRhcywgZ2VvcywganVweXRlcl9jb250cmliX2NvcmUsIGp1cHl0ZXJfY29udHJpYl9uYmV4dGVuc2lvbnMsIGp1cHl0ZXJfaGlnaGxpZ2h0X3NlbGVjdGVkX3dvcmQsIGp1cHl0ZXJfbGF0ZXhfZW52cywganVweXRlcl9uYmV4dGVuc2lvbnNfY29uZmlndXJhdG9yLCBsaWJ4bWwyLCBhdHRycywgY2xpY2ssIGNsaWNrLXBsdWdpbnMsIGNsaWdqLCBodG1sNWxpYiwganVweXRlciwganVweXRlcl9jbGllbnQsIGp1cHl0ZXJfY29uc29sZSwganVweXRlcl9jb3JlLCBseG1sLCBtYXRwbG90bGliLCBudW1weSwgcGFuZGFzLCBwaGFudG9tanMsIHBpbGxvdywgcGlwLCBwbG90bHksIHB5cXQsIHB5dGhvbiwgcHl3aW4zMiwgcXQsIHF0Y29uc29sZSwgcmVxdWVzdHMsIHNjaWtpdC1sZWFybiwgc2NpcHksIHNldHVwdG9vbHMsIHNxbGFsY2hlbXksIHNxbGl0ZSwgdGVuc29yZmxvdywgdGhlYW5vCg==</text>
+        <text encoding="base64">YXV0b3BlcDggYmVhdXRpZnVsc291cDQgYnM0IGNvb2tpZWN1dHRlciBmYWNlcHkgZmxha2U4IGZvbGl1bSBnZW9weSBnZXZlbnQgZ29vZXkga2VyYXMgbW9yZS1pdGVydG9vbHMgcHJhdyBwcmF3Y29yZSBwcmV0dHl0YWJsZSBweWZsYWtlcyBxZ3JpZCByZXF1ZXN0cy1zc2wtdjMgc2VsZW5pdW0gdHFkbSB3eHB5dGhvbiB4bHJkCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAtIGRlZmF1bHRzCmRlcGVuZGVuY2llczoK</text>
