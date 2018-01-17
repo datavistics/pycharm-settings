@@ -209,7 +209,7 @@
         <mark key="." line="27" column="99" />
         <mark key="^" line="27" column="99" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516134971160">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516175669218">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="98" />
@@ -243,6 +243,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="99" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
         <mark key="[" line="0" column="0" />
@@ -423,8 +429,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>connect().</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVsYXRpb25zaGlwc19zdWJtaXNzaW9uIHdoZXJlIHJlbGF0aW9uc2hpcHNfc3VibWlzc2lvbi50aXRsZSBSRUdFWFAgJ1xbXGQrXF0nCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -470,8 +476,8 @@
       <register name="/" type="4">
         <text>ac</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;REGEXP&quot;, 2, regexp</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVsYXRpb25zaGlwc19zdWJtaXNzaW9uIHdoZXJlIHJlbGF0aW9uc2hpcHNfc3VibWlzc2lvbi50aXRsZSBSRUdFWFAgJ1xbXGQrXF0nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNlc3Npb24uY29ubmVjdGlvbigpLmNyZWF0ZV9mdW5jCg==</text>
