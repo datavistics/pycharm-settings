@@ -67,10 +67,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" timestamp="1516171012858">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" timestamp="1516176211286">
         <mark key="'" line="12" column="12" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="38" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="10" />
         <mark key="." line="10" column="80" />
         <mark key="^" line="10" column="80" />
       </file>
@@ -106,6 +106,12 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e52baab-b461-4b44-9914-d9ef7abae794/console.sql" timestamp="1516176861086">
+        <mark key="[" line="0" column="83" />
+        <mark key="]" line="0" column="83" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="83" />
+      </file>
       <file name="$USER_HOME$/projects/TravellersMap/data/ZeeMap-2787497.csv" timestamp="1511808126869">
         <mark key="[" line="8" column="91" />
         <mark key="]" line="8" column="91" />
@@ -130,12 +136,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516171457699">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="99" column="22" />
-        <mark key="]" line="99" column="23" />
-        <mark key="^" line="99" column="23" />
-        <mark key="." line="99" column="23" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516176504715">
+        <mark key="'" line="130" column="4" />
+        <mark key="[" line="131" column="30" />
+        <mark key="]" line="136" column="15" />
+        <mark key="^" line="136" column="15" />
+        <mark key="." line="136" column="15" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516047441215">
         <mark key="'" line="68" column="16" />
@@ -187,6 +193,11 @@
         <mark key="." line="0" column="100" />
         <mark key="^" line="0" column="100" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e69f70e4-4947-4ef5-8777-296d57e964c9/console.sql" timestamp="1516176334904">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="99" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -209,7 +220,7 @@
         <mark key="." line="27" column="99" />
         <mark key="^" line="27" column="99" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516175669218">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516176843589">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="98" />
@@ -235,7 +246,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1515940185082">
+      <file name="/code.py" timestamp="1516176649841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/README.md" timestamp="1516013752298">
@@ -292,12 +303,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516134846863">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516176791292">
         <mark key="'" line="25" column="47" />
-        <mark key="[" line="8" column="75" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-        <mark key="^" line="5" column="43" />
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a9b3ad1-a789-400b-bafa-eb53d1e25319/console.sql" timestamp="1516133914001">
         <mark key="[" line="0" column="0" />
@@ -310,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
-      <jump line="31" column="51" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="32" column="54" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="158" column="4" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="4" column="38" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -410,6 +419,8 @@
       <jump line="101" column="39" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
+      <jump line="99" column="23" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
+      <jump line="130" column="4" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -429,8 +440,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVsYXRpb25zaGlwc19zdWJtaXNzaW9uIHdoZXJlIHJlbGF0aW9uc2hpcHNfc3VibWlzc2lvbi50aXRsZSBSRUdFWFAgJ1xbXGQrXF0nCg==</text>
+      <register name="&quot;" type="4">
+        <text>REGEXP</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -471,7 +482,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>connect().</text>
+        <text>REGEXP</text>
       </register>
       <register name="/" type="4">
         <text>ac</text>
