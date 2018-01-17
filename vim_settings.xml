@@ -236,15 +236,18 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516187470172">
+      <file name="/Dummy.txt" timestamp="1516205750487">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
+        <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1516176649841">
+      <file name="/code.py" timestamp="1516206090866">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/projects/environment2.yml" timestamp="1516189073631">
         <mark key="[" line="0" column="0" />
@@ -443,7 +446,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXV0b3BlcDggYmVhdXRpZnVsc291cDQgYnM0IGNvb2tpZWN1dHRlciBmYWNlcHkgZmxha2U4IGZvbGl1bSBnZW9weSBnZXZlbnQgZ29vZXkga2VyYXMgbW9yZS1pdGVydG9vbHMgcHJhdyBwcmF3Y29yZSBwcmV0dHl0YWJsZSBweWZsYWtlcyBxZ3JpZCByZXF1ZXN0cy1zc2wtdjMgc2VsZW5pdW0gdHFkbSB3eHB5dGhvbiB4bHJkCg==</text>
+        <text encoding="base64">RURBIGZvciB0aXRsZSBjb2x1bW4K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -493,31 +496,31 @@
         <text encoding="base64">YXV0b3BlcDggYmVhdXRpZnVsc291cDQgYnM0IGNvb2tpZWN1dHRlciBmYWNlcHkgZmxha2U4IGZvbGl1bSBnZW9weSBnZXZlbnQgZ29vZXkga2VyYXMgbW9yZS1pdGVydG9vbHMgcHJhdyBwcmF3Y29yZSBwcmV0dHl0YWJsZSBweWZsYWtlcyBxZ3JpZCByZXF1ZXN0cy1zc2wtdjMgc2VsZW5pdW0gdHFkbSB3eHB5dGhvbiB4bHJkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIGRlZmF1bHRzCmRlcGVuZGVuY2llczoK</text>
+        <text encoding="base64">RURBIGZvciB0aXRsZSBjb2x1bW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZTogbmV3X2RzCmNoYW5uZWxzOgo=</text>
+        <text encoding="base64">ICAtIGRlZmF1bHRzCmRlcGVuZGVuY2llczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHNuYXBweT0xLjEuNj12YzE0XzAK</text>
+        <text encoding="base64">bmFtZTogbmV3X2RzCmNoYW5uZWxzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIHNpeD0xLjEwLjA9cHkzNl8wCiAgLSBzbWFydF9vcGVuPTEuNS4zPXB5MzZfMAo=</text>
+        <text encoding="base64">ICAtIHNuYXBweT0xLjEuNj12YzE0XzAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIHNpbXBsZWdlbmVyaWM9MC44LjE9cHkzNl8xCiAgLSBzaXA9NC4xOD1weTM2XzAK</text>
+        <text encoding="base64">ICAtIHNpeD0xLjEwLjA9cHkzNl8wCiAgLSBzbWFydF9vcGVuPTEuNS4zPXB5MzZfMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHJweTI9Mi45LjA9cHkzNnIzNDJoMDI1ZGViMV8wCiAgLSByc3R1ZGlvPTEuMC4xMzY9dmMxNF8yCg==</text>
+        <text encoding="base64">ICAtIHNpbXBsZWdlbmVyaWM9MC44LjE9cHkzNl8xCiAgLSBzaXA9NC4xOD1weTM2XzAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHB5eWFtbD0zLjEyPXB5MzZfMAogIC0gcHl6bXE9MTYuMC4yPXB5MzZfMAo=</text>
+        <text encoding="base64">ICAtIHJweTI9Mi45LjA9cHkzNnIzNDJoMDI1ZGViMV8wCiAgLSByc3R1ZGlvPTEuMC4xMzY9dmMxNF8yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIHB5dGhvbi1kYXRldXRpbD0yLjYuMT1weTM2XzAKICAtIHB5dHo9MjAxNy4yPXB5MzZfMAo=</text>
+        <text encoding="base64">ICAtIHB5eWFtbD0zLjEyPXB5MzZfMAogIC0gcHl6bXE9MTYuMC4yPXB5MzZfMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIHB5dGhvbj0zLjYuMj0wCg==</text>
+        <text encoding="base64">ICAtIHB5dGhvbi1kYXRldXRpbD0yLjYuMT1weTM2XzAKICAtIHB5dHo9MjAxNy4yPXB5MzZfMAo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
