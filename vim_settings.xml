@@ -67,11 +67,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" timestamp="1516134277568">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" timestamp="1516171012858">
         <mark key="'" line="12" column="12" />
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="10" column="80" />
+        <mark key="^" line="10" column="80" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
         <mark key="[" line="76" column="0" />
@@ -129,12 +130,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516134925924">
-        <mark key="'" line="15" column="39" />
-        <mark key="[" line="101" column="39" />
-        <mark key="]" line="101" column="40" />
-        <mark key="^" line="101" column="39" />
-        <mark key="." line="101" column="40" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1516171457699">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="23" />
+        <mark key="^" line="99" column="23" />
+        <mark key="." line="99" column="23" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516047441215">
         <mark key="'" line="68" column="16" />
@@ -227,7 +228,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516083213995">
+      <file name="/Dummy.txt" timestamp="1516170845736">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -303,9 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="48" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="57" column="48" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
-      <jump line="2" column="60" filename="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" />
       <jump line="162" column="0" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="31" column="51" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
       <jump line="32" column="54" filename="$USER_HOME$/projects/InstantPot/src/data/sqalchemy_insert.py" />
@@ -403,6 +401,9 @@
       <jump line="68" column="16" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="86" column="5" filename="$USER_HOME$/projects/FacebookUtilities/README.md" />
       <jump line="12" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" />
+      <jump line="101" column="39" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -423,7 +424,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>REGEXP</text>
+        <text>connect().</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -464,43 +465,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>REGEXP</text>
+        <text>connect().</text>
       </register>
       <register name="/" type="4">
         <text>ac</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gcmVsYXRpb25zaGlwc19zdWJtaXNzaW9uIHdoZXJlIHJlbGF0aW9uc2hpcHNfc3VibWlzc2lvbi50aXRsZSBSRUdFWFAgJ1xbXGQrXF0nCg==</text>
+      <register name="0" type="4">
+        <text>&quot;REGEXP&quot;, 2, regexp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uY29ubmVjdGlvbigpLmNyZWF0ZV9mdW5jCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGVuZ2luZS5jb25uZWN0KCkuY29ubmVjdGlvbi5jcmVhdGVfZnVuY3Rpb24oIlJFR0VYUCIsIDIsIHJlZ2V4cCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIG1kNXN1bSh0KToKICAgIHJldHVybiBtZDUubWQ1KHQpLmhleGRpZ2VzdCgpCgpjb24uY3JlYXRlX2Z1bmN0aW9uKCJtZDUiLCAxLCBtZDVzdW0pCmN1ciA9IGNvbi5jdXJzb3IoKQojIGN1ci5leGVjdXRlKCJzZWxlY3QgbWQ1KD8pIiwgKCJmb28iLCkpCiMgcHJpbnQoIGN1ci5mZXRjaG9uZSgpWzBdKQoKIyBpbXBvcnQgc3FsaXRlMwojIGltcG9ydCByZQojCiMgZGVmIHJlZ2V4cChleHByLCBpdGVtKToKIyAgICAgcmVnID0gcmUuY29tcGlsZShleHByKQojICAgICByZXR1cm4gcmVnLnNlYXJjaChpdGVtKSBpcyBub3QgTm9uZQojCiMgY29ubiA9IHNxbGl0ZTMuY29ubmVjdCgnOm1lbW9yeTonKQojIGNvbm4uY3JlYXRlX2Z1bmN0aW9uKCJSRUdFWFAiLCAyLCByZWdleHApCiMgY29ubi5leGVjdXRlKCkKIyBjdXJzb3IgPSBjb25uLmN1cnNvcigpCiMgY3Vyc29yLmV4ZWN1dGUoJ0NSRUFURSBUQUJMRSBmb28gKGJhciBURVhUKScpCiMgY3Vyc29yLmV4ZWN1dGVtYW55KCdJTlNFUlQgSU5UTyBmb28gKGJhcikgVkFMVUVTICg/KScsWygnYWFhInRlc3QiJywpLCgnYmxhaCcsKV0pCiMgY3Vyc29yLmV4ZWN1dGUoJ1NFTEVDVCBiYXIgRlJPTSBmb28gV0hFUkUgYmFyIFJFR0VYUCA/JyxbJyJ0ZXN0IiddKQojIGRhdGE9Y3Vyc29yLmZldGNoYWxsKCkKIyBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uID0gc3FsaXRlMy5jb25uZWN0KCI6bWVtb3J5OiIpCg==</text>
+        <text encoding="base64">IyBzZWxlY3QgY291bnQoKikgZnJvbSByZWxhdGlvbnNoaXBzX3N1Ym1pc3Npb24gd2hlcmUgcmVsYXRpb25zaGlwc19zdWJtaXNzaW9uLnRpdGxlIFJFR0VYUCAnXFtcZCtcXScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29ubi5leGVjdXRlKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkZWQgdG9rZW4gbGluawo=</text>
+        <text encoding="base64">ZGVmIG1kNXN1bSh0KToKICAgIHJldHVybiBtZDUubWQ1KHQpLmhleGRpZ2VzdCgpCgpjb24uY3JlYXRlX2Z1bmN0aW9uKCJtZDUiLCAxLCBtZDVzdW0pCmN1ciA9IGNvbi5jdXJzb3IoKQojIGN1ci5leGVjdXRlKCJzZWxlY3QgbWQ1KD8pIiwgKCJmb28iLCkpCiMgcHJpbnQoIGN1ci5mZXRjaG9uZSgpWzBdKQoKIyBpbXBvcnQgc3FsaXRlMwojIGltcG9ydCByZQojCiMgZGVmIHJlZ2V4cChleHByLCBpdGVtKToKIyAgICAgcmVnID0gcmUuY29tcGlsZShleHByKQojICAgICByZXR1cm4gcmVnLnNlYXJjaChpdGVtKSBpcyBub3QgTm9uZQojCiMgY29ubiA9IHNxbGl0ZTMuY29ubmVjdCgnOm1lbW9yeTonKQojIGNvbm4uY3JlYXRlX2Z1bmN0aW9uKCJSRUdFWFAiLCAyLCByZWdleHApCiMgY29ubi5leGVjdXRlKCkKIyBjdXJzb3IgPSBjb25uLmN1cnNvcigpCiMgY3Vyc29yLmV4ZWN1dGUoJ0NSRUFURSBUQUJMRSBmb28gKGJhciBURVhUKScpCiMgY3Vyc29yLmV4ZWN1dGVtYW55KCdJTlNFUlQgSU5UTyBmb28gKGJhcikgVkFMVUVTICg/KScsWygnYWFhInRlc3QiJywpLCgnYmxhaCcsKV0pCiMgY3Vyc29yLmV4ZWN1dGUoJ1NFTEVDVCBiYXIgRlJPTSBmb28gV0hFUkUgYmFyIFJFR0VYUCA/JyxbJyJ0ZXN0IiddKQojIGRhdGE9Y3Vyc29yLmZldGNoYWxsKCkKIyBwcmludChkYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkaW5nIFJFQURNRSBhbmQgTElDRU5TRSBmb3IgYSBwb2xpc2hlZCBsb29rCg==</text>
+        <text encoding="base64">Y29uID0gc3FsaXRlMy5jb25uZWN0KCI6bWVtb3J5OiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VXBkYXRlZCBjb25maWdfaWNvbi5wbmcgbG9jYXRpb24K</text>
+        <text encoding="base64">Y29ubi5leGVjdXRlKCkKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -554,8 +555,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
