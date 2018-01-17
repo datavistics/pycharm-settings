@@ -100,11 +100,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1515923395947">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+      <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1516187391860">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e52baab-b461-4b44-9914-d9ef7abae794/console.sql" timestamp="1516176861086">
         <mark key="[" line="0" column="83" />
@@ -166,7 +166,7 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="/Python Console" timestamp="1516185939619">
+      <file name="/Python Console" timestamp="1516186590584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -236,11 +236,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516178741425">
+      <file name="/Dummy.txt" timestamp="1516187470172">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="5" />
+        <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516176649841">
@@ -300,12 +300,12 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516179551100">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516186837184">
         <mark key="'" line="43" column="15" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="0" column="23" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a9b3ad1-a789-400b-bafa-eb53d1e25319/console.sql" timestamp="1516133914001">
         <mark key="[" line="0" column="0" />
@@ -438,7 +438,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXNzZXJ0IGlzaW5zdGFuY2UocHJvamVjdF9kaXIsIG9iamVjdCkK</text>
+        <text encoding="base64">QWRkaW5nIGVkYSB0b29scywgbW9yZSB0byBjb21lLgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -488,31 +488,31 @@
         <text encoding="base64">cHJvamVjdF9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnRzWzFdCmRhdGFiYXNlX3BhdGggPSBwcm9qZWN0X2Rpci8nZGF0YScvJ2ludGVyaW0nLydyZWxhdGlvbnNoaXBzLnNxbGl0ZScKc3VibWlzc2lvbnNfZGF0YV9kaXIgPSBwcm9qZWN0X2Rpci8nZGF0YScvJ3JhdycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXNzZXJ0IGlzaW5zdGFuY2UocHJvamVjdF9kaXIsIG9iamVjdCkK</text>
+        <text encoding="base64">QWRkaW5nIGVkYSB0b29scywgbW9yZSB0byBjb21lLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TWFraW5nCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">TW9yZSBjb20K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YXNzZXJ0IGlzaW5zdGFuY2UocHJvamVjdF9kaXIsIG9iamVjdCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">TWFraW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
+        <text encoding="base64">TW9yZSBjb20K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3VibWlzc2lvbnNfZGF0YV9kaXIgPSBwcm9qZWN0X2Rpci8nZGF0YScvJ3JhdycKcHJvamVjdF9kaXIgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgb3MucGFyZGlyLCBvcy5wYXJkaXIpCmRhdGFiYXNlX3BhdGggPSBvcy5wYXRoLmpvaW4ocHJvamVjdF9kaXIsICdkYXRhJywgJ2ludGVyaW0nLCAncmVsYXRpb25zaGlwcy5zcWxpdGUnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IGZpbGUuc3RlbSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VibWlzc2lvbnNfZGF0YV9kaXIgPSBvcy5wYXRoLmpvaW4ocHJvamVjdF9kaXIsICdkYXRhJywgJ3JhdycpCg==</text>
+        <text encoding="base64">c3VibWlzc2lvbnNfZGF0YV9kaXIgPSBwcm9qZWN0X2Rpci8nZGF0YScvJ3JhdycKcHJvamVjdF9kaXIgPSBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgb3MucGFyZGlyLCBvcy5wYXJkaXIpCmRhdGFiYXNlX3BhdGggPSBvcy5wYXRoLmpvaW4ocHJvamVjdF9kaXIsICdkYXRhJywgJ2ludGVyaW0nLCAncmVsYXRpb25zaGlwcy5zcWxpdGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YWJhc2VfcGF0aCA9IG9zLnBhdGguam9pbihwcm9qZWN0X2RpciwgJ2RhdGEnLCAnaW50ZXJpbScsICdyZWxhdGlvbnNoaXBzX3JlZ2V4LnNxbGl0ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IGZpbGUuc3RlbSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
