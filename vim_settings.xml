@@ -100,12 +100,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/environment.yml" timestamp="1516190870631">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="186" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1516187391860">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="3" column="9" />
@@ -526,7 +520,7 @@
         <text encoding="base64">ICAtIHB5dGhvbj0zLjYuMj0wCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -578,10 +572,10 @@
         <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYyA=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action Replace</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
