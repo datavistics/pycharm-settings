@@ -23,6 +23,12 @@
         <mark key="]" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516526625526">
+        <mark key="[" line="122" column="31" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
       </file>
@@ -523,7 +529,7 @@
         <text encoding="base64">ICAtIHB5dGhvbi1kYXRldXRpbD0yLjYuMT1weTM2XzAKICAtIHB5dHo9MjAxNy4yPXB5MzZfMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -561,7 +567,6 @@
       <history-cmd>
         <entry>action $Copy</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>%s/like/love/</entry>
         <entry>%s/like/haha/g</entry>
         <entry>action EditorSelectWord</entry>
@@ -577,8 +582,9 @@
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
