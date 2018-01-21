@@ -268,11 +268,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1516549345085">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1516560487310">
         <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="34" />
-        <mark key="^" line="31" column="34" />
-        <mark key="." line="31" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
         <mark key="[" line="0" column="0" />
@@ -538,7 +535,7 @@
         <text encoding="base64">CiMgSW5bMV06Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -591,9 +588,9 @@
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
-        <entry>action Replace</entry>
         <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
