@@ -9,7 +9,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1516041630900">
+      <file name="/a.dummy" timestamp="1516533198862">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
@@ -168,12 +168,6 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1516132212845">
-        <mark key="'" line="25" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-      </file>
       <file name="/Python Console" timestamp="1516186590584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -244,11 +238,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516205750487">
+      <file name="/Dummy.txt" timestamp="1516533745695">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
+        <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516214539861">
@@ -273,6 +267,12 @@
         <mark key="]" line="0" column="99" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1516533723749">
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="29" column="50" />
+        <mark key="^" line="29" column="50" />
+        <mark key="." line="29" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
         <mark key="[" line="0" column="0" />
@@ -310,6 +310,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/prediction.py" timestamp="1516533189545">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="29" column="58" />
+        <mark key="." line="29" column="57" />
+        <mark key="^" line="29" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
         <mark key="]" line="189" column="111" />
@@ -334,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="0" filename="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" />
-      <jump line="49" column="51" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
-      <jump line="26" column="55" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="44" column="42" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="0" column="280" filename="$USER_HOME$/projects/education_budgets/data/predictions.csv" />
       <jump line="0" column="355842" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" />
@@ -434,6 +438,9 @@
       <jump line="167" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
       <jump line="152" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
       <jump line="41" column="29" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/features/prediction.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/features/prediction.py" />
+      <jump line="4" column="3" filename="$USER_HOME$/projects/reddit_prediction/src/features/prediction.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -453,8 +460,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U3RhcnRlZCBhZ2UgZXh0cmFjdGlvbgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -495,43 +502,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>sample</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZG95X3RmID0gZG95X3RmW2lkeF0K</text>
+        <text encoding="base64">ZGF0YWJhc2VfcGF0aCA9IHByb2plY3RfZGlyLydkYXRhJy8naW50ZXJpbScvJ3JlbGF0aW9uc2hpcHMuc3FsaXRlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWludXRlID0gZGYubWludXRlCnNlY29uZCA9IGRmLnNlY29uZAo=</text>
+        <text encoding="base64">U3RhcnRlZCBhZ2UgZXh0cmFjdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG93ID0gZGYuZG93CmhvdXIgPSBkZi5ob3VyCg==</text>
+        <text encoding="base64">cHJpbnQocHJvamVjdF9kaXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG95ID0gZGYuZG95Cg==</text>
+        <text encoding="base64">aW5wdXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eWVhciA9IGRmLnllYXIKbW9udGggPSBkZi5tb250aAo=</text>
+        <text encoding="base64">ZW1iZWRkaW5nc19wYXRoID0gcHJvamVjdF9kaXIvJ2RhdGEnLydleHRlcm5hbCcvJ2dsb3ZlLnR3aXR0ZXIuMjdCLjIwMGQudHh0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGl0bGUgPSBkZi50aXRsZQo=</text>
+        <text encoding="base64">ZGYuZHR5cGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoMSAtIG5wLm1lYW4oaXNfdG9wX3N1Ym1pc3Npb25bOihpbnQodGl0bGVfdGYuc2hhcGVbMF0gKiBzcGxpdCkpXSkpCg==</text>
+        <text encoding="base64">Z2V0X2lweXRob24oKS5ydW5fbGluZV9tYWdpYygnbWF0cGxvdGxpYicsICdpbmxpbmUnKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXNfdG9wX3N1Ym1pc3Npb24gPSBpc190b3Bfc3VibWlzc2lvbltpZHhdCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgSW5bMV06Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -583,10 +590,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
         <entry>action Replace</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
