@@ -23,9 +23,9 @@
         <mark key="]" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516527956526">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516529407390">
         <mark key="a" line="197" column="0" />
-        <mark key="'" line="152" column="0" />
+        <mark key="'" line="41" column="29" />
         <mark key="[" line="199" column="30" />
         <mark key="]" line="199" column="33" />
         <mark key="^" line="199" column="33" />
@@ -334,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="31" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="353" column="0" filename="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" />
       <jump line="49" column="51" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="26" column="55" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
@@ -434,6 +433,7 @@
       <jump line="66" column="1" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
       <jump line="167" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
       <jump line="152" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
+      <jump line="41" column="29" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
