@@ -23,11 +23,11 @@
         <mark key="]" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516607587736">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516609904194">
         <mark key="a" line="202" column="0" />
         <mark key="'" line="275" column="0" />
-        <mark key="[" line="273" column="13" />
-        <mark key="]" line="273" column="13" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="98" />
         <mark key="." line="273" column="13" />
         <mark key="^" line="279" column="54" />
       </file>
@@ -461,8 +461,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGJDYWxsQmFjayA9IFRlbnNvckJvYXJkKGxvZ19kaXI9Jy4vR3JhcGgnLCBoaXN0b2dyYW1fZnJlcT0wLCB3cml0ZV9ncmFwaD1UcnVlLCB3cml0ZV9pbWFnZXM9VHJ1ZSkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -509,7 +509,7 @@
         <text>np</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGZbJ2VkaXRlZF9kZWx0YV9ob3VyJ10gPSBkZi5lZGl0ZWRfZGVsdGEuZHQubWludXRlLzYwCg==</text>
+        <text encoding="base64">dGJDYWxsQmFjayA9IFRlbnNvckJvYXJkKGxvZ19kaXI9Jy4vR3JhcGgnLCBoaXN0b2dyYW1fZnJlcT0wLCB3cml0ZV9ncmFwaD1UcnVlLCB3cml0ZV9pbWFnZXM9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbiBpbXBvcnQgZGVidWcgYXMgdGZfZGVidWcKaW1wb3J0IGtlcmFzLmJhY2tlbmQgYXMgSwpzZXNzID0gSy5nZXRfc2Vzc2lvbigpCnNlc3MgPSB0Zl9kZWJ1Zy5Mb2NhbENMSURlYnVnV3JhcHBlclNlc3Npb24oc2VzcykKSy5zZXRfc2Vzc2lvbihzZXNzKQo=</text>
