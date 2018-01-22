@@ -187,6 +187,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4a7ba025-d6de-47b0-9700-9674408fbfe3/console.sql" timestamp="1516653624074">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
         <mark key="]" line="7" column="81" />
@@ -226,11 +229,11 @@
         <mark key="." line="27" column="99" />
         <mark key="^" line="27" column="99" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516176843589">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516653370333">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="98" />
-        <mark key="." line="0" column="88" />
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="83" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
@@ -339,10 +342,6 @@
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516186837184">
         <mark key="'" line="43" column="15" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a9b3ad1-a789-400b-bafa-eb53d1e25319/console.sql" timestamp="1516133914001">
         <mark key="[" line="0" column="0" />
@@ -475,7 +474,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>edited_date</text>
+        <text>relationships_submission.title REGEXP '\[\d+\]'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -516,7 +515,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>edited_date</text>
+        <text>relationships_submission.title REGEXP '\[\d+\]'</text>
       </register>
       <register name="/" type="4">
         <text>np</text>
