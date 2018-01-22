@@ -23,13 +23,13 @@
         <mark key="]" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516606566328">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516607587736">
         <mark key="a" line="202" column="0" />
-        <mark key="'" line="274" column="0" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="20" />
-        <mark key="." line="274" column="20" />
-        <mark key="^" line="274" column="20" />
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="273" column="13" />
+        <mark key="]" line="273" column="13" />
+        <mark key="." line="273" column="13" />
+        <mark key="^" line="279" column="54" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1516569708008">
         <mark key="'" line="15" column="4" />
@@ -242,7 +242,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516568532766">
+      <file name="/Dummy.txt" timestamp="1516607800239">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -461,8 +461,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbiBpbXBvcnQgZGVidWcgYXMgdGZfZGVidWcKaW1wb3J0IGtlcmFzLmJhY2tlbmQgYXMgSwpzZXNzID0gSy5nZXRfc2Vzc2lvbigpCnNlc3MgPSB0Zl9kZWJ1Zy5Mb2NhbENMSURlYnVnV3JhcHBlclNlc3Npb24oc2VzcykKSy5zZXRfc2Vzc2lvbihzZXNzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -503,7 +503,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>np</text>
