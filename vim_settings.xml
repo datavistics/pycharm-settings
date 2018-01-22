@@ -260,6 +260,12 @@
         <mark key="]" line="66" column="48" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" timestamp="1516647926722">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/README.md" timestamp="1516013752298">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="7" column="0" />
@@ -345,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="51" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2015_05_04.json" />
       <jump line="11" column="7" filename="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" />
       <jump line="115" column="0" filename="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/Insight_DS/.gitignore" />
@@ -445,6 +449,8 @@
       <jump line="13" column="4" filename="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" />
       <jump line="244" column="15" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
       <jump line="269" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -465,7 +471,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q3VycmVudCBzdGF0dXM6IHdvcmtzIGZvciBsZWdhY3kgZmVhdHVyZXMsIG5lZWQgdG8gYWRkIG5ldyBvbmVzIQo=</text>
+        <text encoding="base64">bWF4KGRmLnJldmlldy5hcHBseShsZW4pKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -515,31 +521,31 @@
         <text encoding="base64">dGJDYWxsQmFjayA9IFRlbnNvckJvYXJkKGxvZ19kaXI9Jy4vR3JhcGgnLCBoaXN0b2dyYW1fZnJlcT0wLCB3cml0ZV9ncmFwaD1UcnVlLCB3cml0ZV9pbWFnZXM9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q3VycmVudCBzdGF0dXM6IHdvcmtzIGZvciBsZWdhY3kgZmVhdHVyZXMsIG5lZWQgdG8gYWRkIG5ldyBvbmVzIQo=</text>
+        <text encoding="base64">bWF4KGRmLnJldmlldy5hcHBseShsZW4pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q2xlYW5lZCB1cCBmaWxlIHRvIGJlIG1vcmUgY29uY2lzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UGlja2xpbmcgdGhlIGxvYWRlZCB3b3JkX2VtYmVkZGluZ3MgZmlsZSB3YXMgbm90IHdvcmtpbmcgd2VsbCBzbyBJIHRvb2sgaXQgb3V0Lgo=</text>
+        <text encoding="base64">bnAubWVhbihkZi5yYXRpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmF0aGVyIGluc2lkaW91cyBidWcgZml4ZWQgdGhhdCBjYXVzZWQgc29tZSB0aW1lIHRvIGZpbmQhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VXBkYXRlZCB0byBjb250YWluIG1hY2hpbmUgbGVhcm5pbmcgbGlicwo=</text>
+        <text encoding="base64">ZGYuZGVzY3JpYmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q3JlYXRlIHV0aWxpdGllcyBmb3IgcmVmYWN0b3JpbmcgcHVycG9zZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRmKSkK</text>
+        <text encoding="base64">ZGYuaGVhZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRmKSkK</text>
+        <text encoding="base64">IyBJbls2Nl06Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbiBpbXBvcnQgZGVidWcgYXMgdGZfZGVidWcKaW1wb3J0IGtlcmFzLmJhY2tlbmQgYXMgSwpzZXNzID0gSy5nZXRfc2Vzc2lvbigpCnNlc3MgPSB0Zl9kZWJ1Zy5Mb2NhbENMSURlYnVnV3JhcHBlclNlc3Npb24oc2VzcykKSy5zZXRfc2Vzc2lvbihzZXNzKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
