@@ -175,8 +175,11 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1516606412092">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1516653149974">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
         <mark key="[" line="3" column="13" />
@@ -278,7 +281,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1516610785793">
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1516652489578">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="30" column="28" />
@@ -351,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" />
       <jump line="115" column="0" filename="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/Insight_DS/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/myers_briggs/main.py" />
@@ -451,6 +454,7 @@
       <jump line="269" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -470,8 +474,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWF4KGRmLnJldmlldy5hcHBseShsZW4pKQo=</text>
+      <register name="&quot;" type="4">
+        <text>edited_date</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -512,7 +516,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>edited_date</text>
       </register>
       <register name="/" type="4">
         <text>np</text>
