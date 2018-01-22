@@ -23,13 +23,12 @@
         <mark key="]" line="0" column="83" />
         <mark key="." line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516600686462">
-        <mark key="a" line="197" column="0" />
-        <mark key="'" line="41" column="29" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516605517822">
+        <mark key="a" line="202" column="0" />
+        <mark key="'" line="274" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1516569708008">
         <mark key="'" line="15" column="4" />
@@ -116,10 +115,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1516535184900">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="5" column="4" />
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e52baab-b461-4b44-9914-d9ef7abae794/console.sql" timestamp="1516176861086">
         <mark key="[" line="0" column="83" />
@@ -342,8 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="355842" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2017_10_01.json" />
-      <jump line="47" column="0" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="81" column="51" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/FacebookUtilities/output/comments/com_2015_05_04.json" />
       <jump line="11" column="7" filename="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" />
@@ -442,6 +439,8 @@
       <jump line="4" column="3" filename="$USER_HOME$/projects/reddit_prediction/src/features/prediction.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" />
       <jump line="13" column="4" filename="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" />
+      <jump line="244" column="15" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
+      <jump line="269" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -461,8 +460,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbiBpbXBvcnQgZGVidWcgYXMgdGZfZGVidWcKaW1wb3J0IGtlcmFzLmJhY2tlbmQgYXMgSwpzZXNzID0gSy5nZXRfc2Vzc2lvbigpCnNlc3MgPSB0Zl9kZWJ1Zy5Mb2NhbENMSURlYnVnV3JhcHBlclNlc3Npb24oc2VzcykKSy5zZXRfc2Vzc2lvbihzZXNzKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -512,34 +511,34 @@
         <text encoding="base64">ZGZbJ2VkaXRlZF9kZWx0YV9ob3VyJ10gPSBkZi5lZGl0ZWRfZGVsdGEuZHQubWludXRlLzYwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q3JlYXRlIHRpbWUgZmVhdHVyZXMgZHVyaW5nIHByZS1wcm9jZXNzaW5nCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbiBpbXBvcnQgZGVidWcgYXMgdGZfZGVidWcKaW1wb3J0IGtlcmFzLmJhY2tlbmQgYXMgSwpzZXNzID0gSy5nZXRfc2Vzc2lvbigpCnNlc3MgPSB0Zl9kZWJ1Zy5Mb2NhbENMSURlYnVnV3JhcHBlclNlc3Npb24oc2VzcykKSy5zZXRfc2Vzc2lvbihzZXNzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWxsb3cgc3JjIHRvIGJlIHRyZWF0ZWQgbGlrZSBhIHBhY2thZ2UgZm9yIGltcG9ydGF0aW9uIHJlYXNvbnMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5wLnNhdmUocF9wYXRoLCBlbWJlZGRpbmdfdmVjdG9ycykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBwLmV4aXN0cygpLCBmJ3tzdHIocCl9IGRvbnQgZXhpc3RzJwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Q3JlYXRlIHRpbWUgZmVhdHVyZXMgZHVyaW5nIHByZS1wcm9jZXNzaW5nCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QWxsb3cgc3JjIHRvIGJlIHRyZWF0ZWQgbGlrZSBhIHBhY2thZ2UgZm9yIGltcG9ydGF0aW9uIHJlYXNvbnMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5wLnNhdmUocF9wYXRoLCBlbWJlZGRpbmdfdmVjdG9ycykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoJ3Rlc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIApkZWYgaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -593,8 +592,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
