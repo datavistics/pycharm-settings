@@ -166,9 +166,12 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" timestamp="1516701028577">
-        <mark key="'" line="654" column="2" />
+      <file name="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" timestamp="1516703526591">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="3" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="/Python Console" timestamp="1516695773088">
         <mark key="[" line="0" column="0" />
@@ -345,8 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/myers_briggs/main.py" />
-      <jump line="3" column="7" filename="$USER_HOME$/projects/myers_briggs/main.py" />
       <jump line="23" column="26" filename="$USER_HOME$/projects/myers_briggs/main.py" />
       <jump line="4" column="5" filename="$USER_HOME$/projects/myers_briggs/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
@@ -445,6 +446,8 @@
       <jump line="37" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" />
       <jump line="654" column="2" filename="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/sms_spam/src/data/make_dataframe.py" />
+      <jump line="18" column="28" filename="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" />
     </jumps>
     <registers>
       <register name="a" type="4">
