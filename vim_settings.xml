@@ -9,7 +9,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1516533198862">
+      <file name="/a.dummy" timestamp="1516735215467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
@@ -31,11 +31,8 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1516728359892">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="48" />
-        <mark key="^" line="10" column="48" />
-        <mark key="." line="10" column="48" />
+      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1516735169993">
+        <mark key="[" line="17" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
@@ -579,7 +576,7 @@
         <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -633,8 +630,8 @@
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
