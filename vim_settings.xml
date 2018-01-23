@@ -181,12 +181,6 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1516656635981">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516657042512" />
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
         <mark key="[" line="3" column="13" />
@@ -568,7 +562,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -622,8 +616,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
