@@ -18,18 +18,11 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb5ed776-c85c-4903-ba46-4444a7a45995/console.sql" timestamp="1516134979892">
-        <mark key="[" line="0" column="83" />
-        <mark key="]" line="0" column="83" />
-        <mark key="." line="0" column="83" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/models/prediction.py" timestamp="1516609904194">
-        <mark key="a" line="202" column="0" />
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="98" />
-        <mark key="." line="273" column="13" />
-        <mark key="^" line="279" column="54" />
+      <file name="$USER_HOME$/projects/sms_spam/src/data/get_data.py" timestamp="1516694166683">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1516569708008">
         <mark key="'" line="14" column="4" />
@@ -40,11 +33,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/output/reactions_comments.txt" timestamp="1513056958232">
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="." line="353" column="0" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -77,11 +65,6 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" timestamp="1515521344790">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" timestamp="1516176211286">
         <mark key="'" line="12" column="12" />
         <mark key="[" line="11" column="0" />
@@ -113,10 +96,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query-args.json" timestamp="1516044523148">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/sms_spam/src/data/make_dataframe.py" timestamp="1516694609399">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1516611388228">
         <mark key="[" line="6" column="5" />
@@ -181,6 +165,12 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" timestamp="1516694084114">
+        <mark key="'" line="654" column="2" />
+      </file>
+      <file name="/Python Console" timestamp="1516693250242">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516657042512" />
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
         <mark key="[" line="3" column="13" />
@@ -203,11 +193,6 @@
         <mark key="." line="0" column="100" />
         <mark key="^" line="0" column="100" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e69f70e4-4947-4ef5-8777-296d57e964c9/console.sql" timestamp="1516176334904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="99" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -219,6 +204,9 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/.env" timestamp="1516693442715">
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/LICENSE.md" timestamp="1516050670011">
         <mark key="[" line="14" column="22" />
@@ -268,11 +256,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/environment2.yml" timestamp="1516189073631">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="66" column="48" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" timestamp="1516647926722">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="27" />
@@ -297,11 +280,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="30" column="28" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7598167-7a85-4c45-ae31-6413cbe26762/console.sql" timestamp="1512890877687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
         <mark key="[" line="0" column="0" />
@@ -365,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/projects/Insight_DS/src/data/get_raw_data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/Insight_DS/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/myers_briggs/main.py" />
       <jump line="3" column="7" filename="$USER_HOME$/projects/myers_briggs/main.py" />
@@ -465,6 +442,7 @@
       <jump line="76" column="0" filename="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" />
+      <jump line="654" column="2" filename="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -484,8 +462,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IHMK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -526,43 +504,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>np</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGJDYWxsQmFjayA9IFRlbnNvckJvYXJkKGxvZ19kaXI9Jy4vR3JhcGgnLCBoaXN0b2dyYW1fZnJlcT0wLCB3cml0ZV9ncmFwaD1UcnVlLCB3cml0ZV9pbWFnZXM9VHJ1ZSkK</text>
+        <text encoding="base64">cHJvamVjdF9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnRzWzJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlsZS5zdWZmaXgpCg==</text>
+        <text encoding="base64">IHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2plY3RfZGlyID0gUGF0aChfX2ZpbGVfXykucGFyZW50c1syXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWF4KGRmLnJldmlldy5hcHBseShsZW4pKQo=</text>
+        <text encoding="base64">ICAgIHByb2plY3RfZGlyID0gUGF0aChfX2ZpbGVfXykucGFyZW50c1syXQogICAgZGF0YV9wYXRoID0gcHJvamVjdF9kaXIgLyAnZGF0YScgLyAncmF3JyAvICdzbXNzcGFtY29sbGVjdGlvbi56aXAnCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bnAubWVhbihkZi5yYXRpbmcpCg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGYuZGVzY3JpYmUoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -612,12 +590,12 @@
         <entry>so %</entry>
         <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYyA=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
-        <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
