@@ -177,6 +177,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516657042512" />
+      <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1516708876382">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="21" />
+        <mark key="^" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="260" />
@@ -348,9 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="26" filename="$USER_HOME$/projects/myers_briggs/main.py" />
-      <jump line="4" column="5" filename="$USER_HOME$/projects/myers_briggs/main.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="16" column="18" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="1" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
@@ -448,6 +451,9 @@
       <jump line="13" column="0" filename="$USER_HOME$/projects/sms_spam/src/data/make_dataframe.py" />
       <jump line="18" column="28" filename="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" />
+      <jump line="40" column="0" filename="$USER_HOME$/.jupyter/custom/custom.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/.jupyter/custom/custom.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/.jupyter/custom/custom.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,7 +474,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>spam_ham</text>
+        <text encoding="base64">PEMtYz4=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -509,7 +515,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>spam_ham</text>
+        <text encoding="base64">PEMtYz4=</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
@@ -518,28 +524,28 @@
         <text encoding="base64">ZnJvbSBnb29leSBpbXBvcnQgR29vZXksIEdvb2V5UGFyc2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHMK</text>
+        <text encoding="base64">Ly8gZW5hYmxlIHRoZSAnQ3RybC1DJyBtYXBwaW5nCi8vIGNoYW5nZSB0aGUgY29kZSBtaXJyb3IgY29uZmlndXJhdGlvbgp2YXIgY21fY29uZmlnID0gcmVxdWlyZSgibm90ZWJvb2svanMvY2VsbCIpLkNlbGwub3B0aW9uc19kZWZhdWx0LmNtX2NvbmZpZzsKLy8gZGVsZXRlIGNtX2NvbmZpZy5leHRyYUtleXNbJ0N0cmwtQyddOwovLyBjaGFuZ2Ugc2V0dGluZ3MgZm9yIGV4aXN0aW5nIGNlbGxzCkp1cHl0ZXIubm90ZWJvb2suZ2V0X2NlbGxzKCkubWFwKGZ1bmN0aW9uKGNlbGwpIHsKICAgIHZhciBjbSA9IGNlbGwuY29kZV9taXJyb3I7CiAgICBpZiAoY20pIHsKICAgICAgICBkZWxldGUgY20uZ2V0T3B0aW9uKCdleHRyYUtleXMnKVsnQyddOwogICAgfQp9KTsKLy8gbWFwIHRoZSBrZXlzCkNvZGVNaXJyb3IuVmltLm1hcCgiPEMtYz4iLCAiPEVzYz4iLCAiaW5zZXJ0Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RfZGlyID0gUGF0aChfX2ZpbGVfXykucGFyZW50c1syXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RfZGlyID0gUGF0aChfX2ZpbGVfXykucGFyZW50c1syXQogICAgZGF0YV9wYXRoID0gcHJvamVjdF9kaXIgLyAnZGF0YScgLyAncmF3JyAvICdzbXNzcGFtY29sbGVjdGlvbi56aXAnCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IHMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb2plY3RfZGlyID0gUGF0aChfX2ZpbGVfXykucGFyZW50c1syXQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIHByb2plY3RfZGlyID0gUGF0aChfX2ZpbGVfXykucGFyZW50c1syXQogICAgZGF0YV9wYXRoID0gcHJvamVjdF9kaXIgLyAnZGF0YScgLyAncmF3JyAvICdzbXNzcGFtY29sbGVjdGlvbi56aXAnCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -581,7 +587,6 @@
         <entry>use</entry>
       </history-search>
       <history-cmd>
-        <entry>action $Copy</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>%s/like/love/</entry>
         <entry>%s/like/haha/g</entry>
@@ -598,8 +603,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>action Find</entry>
+        <entry>action $SelectAll</entry>
+        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
