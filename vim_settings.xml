@@ -96,12 +96,12 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/data/make_dataframe.py" timestamp="1516697742601">
+      <file name="$USER_HOME$/projects/sms_spam/src/data/make_dataframe.py" timestamp="1516700546368">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="50" />
-        <mark key="]" line="13" column="54" />
-        <mark key="." line="13" column="54" />
-        <mark key="^" line="13" column="54" />
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1516611388228">
         <mark key="[" line="6" column="5" />
@@ -166,8 +166,9 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" timestamp="1516694084114">
+      <file name="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" timestamp="1516701028577">
         <mark key="'" line="654" column="2" />
+        <mark key="[" line="0" column="3" />
       </file>
       <file name="/Python Console" timestamp="1516695773088">
         <mark key="[" line="0" column="0" />
