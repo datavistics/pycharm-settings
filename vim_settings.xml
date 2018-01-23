@@ -317,6 +317,12 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/sms_spam/src/models/utilities.py" timestamp="1516714501878">
+        <mark key="'" line="44" column="26" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/map/table.css" timestamp="1512647219558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -354,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="16" column="18" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="1" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="23" column="43" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
@@ -454,6 +459,7 @@
       <jump line="40" column="0" filename="$USER_HOME$/.jupyter/custom/custom.js" />
       <jump line="2" column="0" filename="$USER_HOME$/.jupyter/custom/custom.js" />
       <jump line="58" column="0" filename="$USER_HOME$/.jupyter/custom/custom.js" />
+      <jump line="42" column="26" filename="$USER_HOME$/projects/sms_spam/src/models/utilities.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -474,7 +480,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PEMtYz4=</text>
+        <text>grid_search</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -515,7 +521,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEMtYz4=</text>
+        <text>grid_search</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
