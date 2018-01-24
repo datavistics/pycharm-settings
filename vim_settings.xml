@@ -31,11 +31,11 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1516817363837">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="24" column="3" />
-        <mark key="^" line="24" column="3" />
-        <mark key="." line="24" column="3" />
+      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1516818574877">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="41" column="3" />
+        <mark key="^" line="41" column="3" />
+        <mark key="." line="41" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
@@ -186,11 +186,11 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1516771243145">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="/Python Console" timestamp="1516818242613">
+        <mark key="[" line="0" column="165" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1516771729835">
         <mark key="[" line="43" column="0" />
@@ -256,8 +256,11 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/data/SMSSpamCollection" timestamp="1516817384924">
+      <file name="$USER_HOME$/projects/sms_spam/data/SMSSpamCollection" timestamp="1516818541484">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
@@ -503,7 +506,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGFtCUdvIHVudGlsIGp1cm9uZyBwb2ludCwgY3JhenkuLiBBdmFpbGFibGUgb25seSBpbiBidWdpcyBuIGdyZWF0IHdvcmxkIGxhIGUgYnVmZmV0Li4uIENpbmUgdGhlcmUgZ290IGFtb3JlIHdhdC4uLgpoYW0JT2sgbGFyLi4uIEpva2luZyB3aWYgdSBvbmkuLi4Kc3BhbQlGcmVlIGVudHJ5IGluIDIgYSB3a2x5IGNvbXAgdG8gd2luIEZBIEN1cCBmaW5hbCB0a3RzIDIxc3QgTWF5IDIwMDUuIFRleHQgRkEgdG8gODcxMjEgdG8gcmVjZWl2ZSBlbnRyeSBxdWVzdGlvbihzdGQgdHh0IHJhdGUpVCZDJ3MgYXBwbHkgMDg0NTI4MTAwNzVvdmVyMTgncwpoYW0JVSBkdW4gc2F5IHNvIGVhcmx5IGhvci4uLiBVIGMgYWxyZWFkeSB0aGVuIHNheS4uLgpoYW0JTmFoIEkgZG9uJ3QgdGhpbmsgaGUgZ29lcyB0byB1c2YsIGhlIGxpdmVzIGFyb3VuZCBoZXJlIHRob3VnaAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -549,8 +552,8 @@
       <register name="/" type="4">
         <text>doub</text>
       </register>
-      <register name="0" type="4">
-        <text>smsspamcollection</text>
+      <register name="0" type="2">
+        <text encoding="base64">aGFtCUdvIHVudGlsIGp1cm9uZyBwb2ludCwgY3JhenkuLiBBdmFpbGFibGUgb25seSBpbiBidWdpcyBuIGdyZWF0IHdvcmxkIGxhIGUgYnVmZmV0Li4uIENpbmUgdGhlcmUgZ290IGFtb3JlIHdhdC4uLgpoYW0JT2sgbGFyLi4uIEpva2luZyB3aWYgdSBvbmkuLi4Kc3BhbQlGcmVlIGVudHJ5IGluIDIgYSB3a2x5IGNvbXAgdG8gd2luIEZBIEN1cCBmaW5hbCB0a3RzIDIxc3QgTWF5IDIwMDUuIFRleHQgRkEgdG8gODcxMjEgdG8gcmVjZWl2ZSBlbnRyeSBxdWVzdGlvbihzdGQgdHh0IHJhdGUpVCZDJ3MgYXBwbHkgMDg0NTI4MTAwNzVvdmVyMTgncwpoYW0JVSBkdW4gc2F5IHNvIGVhcmx5IGhvci4uLiBVIGMgYWxyZWFkeSB0aGVuIHNheS4uLgpoYW0JTmFoIEkgZG9uJ3QgdGhpbmsgaGUgZ29lcyB0byB1c2YsIGhlIGxpdmVzIGFyb3VuZCBoZXJlIHRob3VnaAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -580,7 +583,7 @@
         <text encoding="base64">ZnJvbSBiYXllcy5jbGFzc2lmaWVycyBpbXBvcnQgY25iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -634,8 +637,8 @@
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
