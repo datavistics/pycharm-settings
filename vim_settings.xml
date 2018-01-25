@@ -31,12 +31,12 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1516894728202">
+      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1516909142822">
         <mark key="'" line="32" column="68" />
-        <mark key="[" line="99" column="56" />
-        <mark key="]" line="100" column="14" />
-        <mark key="^" line="100" column="14" />
-        <mark key="." line="100" column="14" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="83" column="37" />
+        <mark key="^" line="83" column="37" />
+        <mark key="." line="83" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
@@ -275,8 +275,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516907010255">
+      <file name="/Dummy.txt" timestamp="1516909660513">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516696114514">
         <mark key="[" line="0" column="0" />
@@ -503,7 +506,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QmV0dGVyIGFkanVzdGVkIGh5cGVyLXBhcmFtZXRlcnMK</text>
+        <text encoding="base64">RmluaXNoZWQgY29tbWVudGFyeS4gUmVmaW5lbWVudCBuZWVkZWQuCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -544,7 +547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>doub</text>
@@ -553,31 +556,31 @@
         <text>, label=classifier_names[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QmV0dGVyIGFkanVzdGVkIGh5cGVyLXBhcmFtZXRlcnMK</text>
+        <text encoding="base64">RmluaXNoZWQgY29tbWVudGFyeS4gUmVmaW5lbWVudCBuZWVkZWQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjbGFzc2lmaWVyX25hbWVzOiAK</text>
+        <text encoding="base64">QmV0dGVyIGFkanVzdGVkIGh5cGVyLXBhcmFtZXRlcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBjbGFzc2lmaWVyX25hbWVzOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgOnBhcmFtIFg6IAogICAgOnBhcmFtIHk6IAogICAgOnBhcmFtIG1ldHJpYzogCiAgICA6cmV0dXJuOiAKICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
+        <text encoding="base64">ICAgICIiIgogICAgOnBhcmFtIFg6IAogICAgOnBhcmFtIHk6IAogICAgOnBhcmFtIG1ldHJpYzogCiAgICA6cmV0dXJuOiAKICAgICIiIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
