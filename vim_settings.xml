@@ -275,11 +275,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516741502061">
+      <file name="/Dummy.txt" timestamp="1516895957870">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516696114514">
@@ -363,11 +363,11 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1516727300659">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="6" />
+      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1516895976494">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516656301797">
         <mark key="'" line="43" column="15" />
@@ -507,7 +507,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjbGFzc2lmaWVyX25hbWVzOiAK</text>
+        <text encoding="base64">QmV0dGVyIGFkanVzdGVkIGh5cGVyLXBhcmFtZXRlcnMK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -557,31 +557,31 @@
         <text>, label=classifier_names[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjbGFzc2lmaWVyX25hbWVzOiAK</text>
+        <text encoding="base64">QmV0dGVyIGFkanVzdGVkIGh5cGVyLXBhcmFtZXRlcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBjbGFzc2lmaWVyX25hbWVzOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgOnBhcmFtIFg6IAogICAgOnBhcmFtIHk6IAogICAgOnBhcmFtIG1ldHJpYzogCiAgICA6cmV0dXJuOiAKICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
+        <text encoding="base64">ICAgICIiIgogICAgOnBhcmFtIFg6IAogICAgOnBhcmFtIHk6IAogICAgOnBhcmFtIG1ldHJpYzogCiAgICA6cmV0dXJuOiAKICAgICIiIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hdHBsb3RsaWIgaXMgdWdseSBieSBkZWZhdWx0LCB0aGlzIGhlbHBzIGl0IGJlIG1vcmUgcmVhZGFibGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm1vZGVsX3NlbGVjdGlvbiBpbXBvcnQgawo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
