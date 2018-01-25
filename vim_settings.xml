@@ -219,8 +219,8 @@
         <mark key="." line="0" column="100" />
         <mark key="^" line="0" column="100" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/deep_learning.py" timestamp="1516912455200">
-        <mark key="'" line="58" column="22" />
+      <file name="$USER_HOME$/projects/sms_spam/src/deep_learning.py" timestamp="1516914863672">
+        <mark key="'" line="82" column="37" />
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
@@ -393,9 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
-      <jump line="1" column="10" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="60" column="35" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="63" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="50" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
@@ -493,6 +490,9 @@
       <jump line="34" column="0" filename="$USER_HOME$/projects/sms_spam/src/utilities.py" />
       <jump line="32" column="68" filename="$USER_HOME$/projects/sms_spam/src/utilities.py" />
       <jump line="9" column="22" filename="$USER_HOME$/projects/sms_spam/src/deep_learning.py" />
+      <jump line="16" column="34" filename="$USER_HOME$/projects/sms_spam/src/deep_learning.py" />
+      <jump line="22" column="30" filename="$USER_HOME$/projects/sms_spam/src/deep_learning.py" />
+      <jump line="82" column="37" filename="$USER_HOME$/projects/sms_spam/src/deep_learning.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -557,7 +557,7 @@
         <text>1000</text>
       </register>
       <register name="/" type="4">
-        <text>doub</text>
+        <text>max_len</text>
       </register>
       <register name="0" type="4">
         <text>, label=classifier_names[0]</text>
@@ -594,9 +594,9 @@
       </register>
     </registers>
     <search>
-      <last-search>doub</last-search>
+      <last-search>max_len</last-search>
       <last-offset />
-      <last-pattern>doub</last-pattern>
+      <last-pattern>max_len</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -604,7 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edited</entry>
         <entry>locked</entry>
         <entry>fil</entry>
         <entry>base</entry>
@@ -624,6 +623,7 @@
         <entry>np</entry>
         <entry>use</entry>
         <entry>doub</entry>
+        <entry>max_len</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
