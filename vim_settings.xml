@@ -187,8 +187,8 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1516888467913">
-        <mark key="[" line="0" column="15" />
+      <file name="/Python Console" timestamp="1516940796027">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -281,6 +281,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/src/setup.py" timestamp="1516941366347">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1516918254548">
         <mark key="[" line="0" column="0" />
@@ -512,8 +518,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkaW5nIGRlZXAgbGVhcm5pbmcgaW52ZXN0aWdhdGlvbnMK</text>
+      <register name="&quot;" type="4">
+        <text>Alpha</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -554,7 +560,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>Alpha</text>
       </register>
       <register name="/" type="4">
         <text>max_len</text>
@@ -563,34 +569,34 @@
         <text>, label=classifier_names[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkaW5nIGRlZXAgbGVhcm5pbmcgaW52ZXN0aWdhdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMicsCiAgICAgICAgICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCiAgICAgICAgICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RmluaXNoaW5nIHRvdWNoZXMgaW4gdGhlIGNvbmNsdXNpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMy40JywKICAgICAgICAgICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMy41JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX21vZGVsKG1vZGVsLHgseSk6CiAgICBtb2RlbC5maXQoeCx5LGJhdGNoX3NpemU9MzIsZXBvY2hzPTEwLHZlcmJvc2U9MSx2YWxpZGF0aW9uX3NwbGl0PTAuMikKCm0gPSBnZXRfc2ltcGxlX21vZGVsKCkKY2hlY2tfbW9kZWwobSxtYXRfdGV4dHMsdGFncykK</text>
+        <text encoding="base64">QWRkaW5nIGRlZXAgbGVhcm5pbmcgaW52ZXN0aWdhdGlvbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RmluaXNoaW5nIHRvdWNoZXMgaW4gdGhlIGNvbmNsdXNpb24uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bSA9IGdldF9jbm5fbW9kZWxfdjMoKQpjaGVja19tb2RlbChtLGNubl90ZXh0c19tYXQsdGFncykK</text>
+        <text encoding="base64">ZGVmIGNoZWNrX21vZGVsKG1vZGVsLHgseSk6CiAgICBtb2RlbC5maXQoeCx5LGJhdGNoX3NpemU9MzIsZXBvY2hzPTEwLHZlcmJvc2U9MSx2YWxpZGF0aW9uX3NwbGl0PTAuMikKCm0gPSBnZXRfc2ltcGxlX21vZGVsKCkKY2hlY2tfbW9kZWwobSxtYXRfdGV4dHMsdGFncykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RmluaXNoZWQgY29tbWVudGFyeS4gUmVmaW5lbWVudCBuZWVkZWQuCg==</text>
+        <text encoding="base64">bSA9IGdldF9jbm5fbW9kZWxfdjMoKQpjaGVja19tb2RlbChtLGNubl90ZXh0c19tYXQsdGFncykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QmV0dGVyIGFkanVzdGVkIGh5cGVyLXBhcmFtZXRlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjbGFzc2lmaWVyX25hbWVzOiAK</text>
+        <text encoding="base64">RmluaXNoZWQgY29tbWVudGFyeS4gUmVmaW5lbWVudCBuZWVkZWQuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -644,8 +650,8 @@
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action $SelectAll</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
