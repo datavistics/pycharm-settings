@@ -276,11 +276,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/report.md" timestamp="1516946729350">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/projects/sms_spam/report.md" timestamp="1516948313059">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
@@ -306,7 +307,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1516945132519">
+      <file name="/code.py" timestamp="1516947255074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -416,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="32" column="22" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="30" column="49" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="0" column="16713" filename="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_11.json" />
@@ -516,6 +516,7 @@
       <jump line="9" column="7" filename="$USER_HOME$/projects/sms_spam/README.md" />
       <jump line="7" column="15" filename="$USER_HOME$/projects/sms_spam/README.md" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/sms_spam/README.md" />
+      <jump line="1" column="17" filename="$USER_HOME$/projects/sms_spam/report.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -536,7 +537,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Naive Bayes d</text>
+        <text encoding="base64">IFRoaXMgaXMgYSBwcmV0dHkg</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -577,7 +578,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Naive Bayes d</text>
+        <text encoding="base64">IFRoaXMgaXMgYSBwcmV0dHkg</text>
       </register>
       <register name="/" type="4">
         <text>gitkeep</text>
@@ -613,7 +614,7 @@
         <text encoding="base64">IyMgQnVpbHQgV2l0aAoKKiBbRHJvcHdpemFyZF0oaHR0cDovL3d3dy5kcm9wd2l6YXJkLmlvLzEuMC4yL2RvY3MvKSAtIFRoZSB3ZWIgZnJhbWV3b3JrIHVzZWQKKiBbTWF2ZW5dKGh0dHBzOi8vbWF2ZW4uYXBhY2hlLm9yZy8pIC0gRGVwZW5kZW5jeSBNYW5hZ2VtZW50CiogW1JPTUVdKGh0dHBzOi8vcm9tZXRvb2xzLmdpdGh1Yi5pby9yb21lLykgLSBVc2VkIHRvIGdlbmVyYXRlIFJTUyBGZWVkcwoKIyMgQ29udHJpYnV0aW5nCgpQbGVhc2UgcmVhZCBbQ09OVFJJQlVUSU5HLm1kXShodHRwczovL2dpc3QuZ2l0aHViLmNvbS9QdXJwbGVCb290aC9iMjQ2Nzk0MDI5NTdjNjNlYzQyNikgZm9yIGRldGFpbHMgb24gb3VyIGNvZGUgb2YgY29uZHVjdCwgYW5kIHRoZSBwcm9jZXNzIGZvciBzdWJtaXR0aW5nIHB1bGwgcmVxdWVzdHMgdG8gdXMuCgojIyBWZXJzaW9uaW5nCgpXZSB1c2UgW1NlbVZlcl0oaHR0cDovL3NlbXZlci5vcmcvKSBmb3IgdmVyc2lvbmluZy4gRm9yIHRoZSB2ZXJzaW9ucyBhdmFpbGFibGUsIHNlZSB0aGUgW3RhZ3Mgb24gdGhpcyByZXBvc2l0b3J5XShodHRwczovL2dpdGh1Yi5jb20veW91ci9wcm9qZWN0L3RhZ3MpLiAK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -666,9 +667,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action Replace</entry>
         <entry>action $SelectAll</entry>
-        <entry>action $Paste</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
