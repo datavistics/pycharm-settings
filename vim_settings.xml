@@ -147,6 +147,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/sms_spam/README.md" timestamp="1516944596799">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/pages/Resume-backup.md" timestamp="1512742959994">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -288,13 +294,13 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516918254548">
+      <file name="/Dummy.txt" timestamp="1516945203179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="34" />
+        <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1516696114514">
+      <file name="/code.py" timestamp="1516945132519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -375,11 +381,16 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1516895976494">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="5" column="2" />
-        <mark key="^" line="5" column="2" />
+      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1516945420042">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/.gitignore" timestamp="1516944738316">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516656301797">
         <mark key="'" line="43" column="15" />
@@ -399,9 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="35" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
-      <jump line="63" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="52" column="12" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="32" column="22" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="30" column="49" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
@@ -499,6 +507,9 @@
       <jump line="16" column="34" filename="$USER_HOME$/projects/sms_spam/src/deep_learning.py" />
       <jump line="22" column="30" filename="$USER_HOME$/projects/sms_spam/src/deep_learning.py" />
       <jump line="82" column="37" filename="$USER_HOME$/projects/sms_spam/src/deep_learning.py" />
+      <jump line="9" column="7" filename="$USER_HOME$/projects/sms_spam/README.md" />
+      <jump line="7" column="15" filename="$USER_HOME$/projects/sms_spam/README.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/sms_spam/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -518,8 +529,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Alpha</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkaW5nIGRhdGEgZGlyCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -560,49 +571,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Alpha</text>
+        <text>Hat tip to anyone who's code was used</text>
       </register>
       <register name="/" type="4">
-        <text>max_len</text>
+        <text>gitkeep</text>
       </register>
       <register name="0" type="4">
         <text>, label=classifier_names[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMicsCiAgICAgICAgICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIuNycsCiAgICAgICAgICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMnLAo=</text>
+        <text encoding="base64">QWRkaW5nIGRhdGEgZGlyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMy40JywKICAgICAgICAgICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMy41JywK</text>
+        <text encoding="base64">IyBleGNsdWRlIGRhdGEgZnJvbSBzb3VyY2UgY29udHJvbCBieSBkZWZhdWx0Ci9kYXRhLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkaW5nIGRlZXAgbGVhcm5pbmcgaW52ZXN0aWdhdGlvbnMK</text>
+        <text encoding="base64">QWRkaW5nIGp1cHl0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RmluaXNoaW5nIHRvdWNoZXMgaW4gdGhlIGNvbmNsdXNpb24uCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX21vZGVsKG1vZGVsLHgseSk6CiAgICBtb2RlbC5maXQoeCx5LGJhdGNoX3NpemU9MzIsZXBvY2hzPTEwLHZlcmJvc2U9MSx2YWxpZGF0aW9uX3NwbGl0PTAuMikKCm0gPSBnZXRfc2ltcGxlX21vZGVsKCkKY2hlY2tfbW9kZWwobSxtYXRfdGV4dHMsdGFncykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyMgQWNrbm93bGVkZ21lbnRzCgoqIFRoZSBhdXRob3JzIG9mIHRoZSBvcmlnaW5hbCBwYXBlcgoqIEluc3BpcmF0aW9uCiogZXRjCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bSA9IGdldF9jbm5fbW9kZWxfdjMoKQpjaGVja19tb2RlbChtLGNubl90ZXh0c19tYXQsdGFncykK</text>
+        <text encoding="base64">IyMgQXV0aG9ycwoKKiAqKkRlcmVrIFRob21hcyoqIC0gKkluaXRpYWwgd29yayogLSBbUHVycGxlQm9vdGhdKGh0dHBzOi8vZ2l0aHViLmNvbS9QdXJwbGVCb290aCkKClNlZSBhbHNvIHRoZSBsaXN0IG9mIFtjb250cmlidXRvcnNdKGh0dHBzOi8vZ2l0aHViLmNvbS95b3VyL3Byb2plY3QvY29udHJpYnV0b3JzKSB3aG8gcGFydGljaXBhdGVkIGluIHRoaXMgcHJvamVjdC4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RmluaXNoZWQgY29tbWVudGFyeS4gUmVmaW5lbWVudCBuZWVkZWQuCg==</text>
+        <text encoding="base64">IyMgQnVpbHQgV2l0aAoKKiBbRHJvcHdpemFyZF0oaHR0cDovL3d3dy5kcm9wd2l6YXJkLmlvLzEuMC4yL2RvY3MvKSAtIFRoZSB3ZWIgZnJhbWV3b3JrIHVzZWQKKiBbTWF2ZW5dKGh0dHBzOi8vbWF2ZW4uYXBhY2hlLm9yZy8pIC0gRGVwZW5kZW5jeSBNYW5hZ2VtZW50CiogW1JPTUVdKGh0dHBzOi8vcm9tZXRvb2xzLmdpdGh1Yi5pby9yb21lLykgLSBVc2VkIHRvIGdlbmVyYXRlIFJTUyBGZWVkcwoKIyMgQ29udHJpYnV0aW5nCgpQbGVhc2UgcmVhZCBbQ09OVFJJQlVUSU5HLm1kXShodHRwczovL2dpc3QuZ2l0aHViLmNvbS9QdXJwbGVCb290aC9iMjQ2Nzk0MDI5NTdjNjNlYzQyNikgZm9yIGRldGFpbHMgb24gb3VyIGNvZGUgb2YgY29uZHVjdCwgYW5kIHRoZSBwcm9jZXNzIGZvciBzdWJtaXR0aW5nIHB1bGwgcmVxdWVzdHMgdG8gdXMuCgojIyBWZXJzaW9uaW5nCgpXZSB1c2UgW1NlbVZlcl0oaHR0cDovL3NlbXZlci5vcmcvKSBmb3IgdmVyc2lvbmluZy4gRm9yIHRoZSB2ZXJzaW9ucyBhdmFpbGFibGUsIHNlZSB0aGUgW3RhZ3Mgb24gdGhpcyByZXBvc2l0b3J5XShodHRwczovL2dpdGh1Yi5jb20veW91ci9wcm9qZWN0L3RhZ3MpLiAK</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>max_len</last-search>
+      <last-search>gitkeep</last-search>
       <last-offset />
-      <last-pattern>max_len</last-pattern>
+      <last-pattern>gitkeep</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -610,9 +621,6 @@
     </search>
     <history>
       <history-search>
-        <entry>locked</entry>
-        <entry>fil</entry>
-        <entry>base</entry>
         <entry>== 1</entry>
         <entry>fix</entry>
         <entry>cop</entry>
@@ -630,6 +638,9 @@
         <entry>use</entry>
         <entry>doub</entry>
         <entry>max_len</entry>
+        <entry>see</entry>
+        <entry>and</entry>
+        <entry>gitkeep</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
@@ -648,10 +659,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action Replace</entry>
-        <entry>action Find</entry>
         <entry>action $SelectAll</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action Find</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
