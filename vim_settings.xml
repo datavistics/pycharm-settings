@@ -31,12 +31,12 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1516911812290">
-        <mark key="'" line="32" column="68" />
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="51" column="13" />
+      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1517034623652">
+        <mark key="'" line="54" column="26" />
+        <mark key="[" line="84" column="36" />
+        <mark key="]" line="84" column="37" />
         <mark key="^" line="51" column="13" />
-        <mark key="." line="51" column="13" />
+        <mark key="." line="84" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
@@ -394,11 +394,11 @@
         <mark key="." line="189" column="24" />
         <mark key="^" line="189" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1516945420042">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
+      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1517034444696">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/.gitignore" timestamp="1516944738316">
         <mark key="[" line="77" column="0" />
@@ -423,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="22" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="30" column="49" filename="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" />
       <jump line="0" column="16713" filename="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_11.json" />
       <jump line="88" column="15" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
@@ -523,6 +522,7 @@
       <jump line="7" column="15" filename="$USER_HOME$/projects/sms_spam/README.md" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/sms_spam/README.md" />
       <jump line="1" column="17" filename="$USER_HOME$/projects/sms_spam/report.md" />
+      <jump line="54" column="26" filename="$USER_HOME$/projects/sms_spam/src/utilities.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -543,7 +543,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -584,10 +584,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>gitkeep</text>
+        <text>1200</text>
       </register>
       <register name="0" type="4">
         <text>, label=classifier_names[0]</text>
@@ -624,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gitkeep</last-search>
+      <last-search>1200</last-search>
       <last-offset />
-      <last-pattern>gitkeep</last-pattern>
+      <last-pattern>1200</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>== 1</entry>
         <entry>fix</entry>
         <entry>cop</entry>
         <entry>def</entry>
@@ -654,6 +653,7 @@
         <entry>see</entry>
         <entry>and</entry>
         <entry>gitkeep</entry>
+        <entry>1200</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
