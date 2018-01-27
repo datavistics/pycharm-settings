@@ -31,12 +31,12 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1517034623652">
+      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1517052552895">
         <mark key="'" line="54" column="26" />
-        <mark key="[" line="84" column="36" />
-        <mark key="]" line="84" column="37" />
-        <mark key="^" line="51" column="13" />
-        <mark key="." line="84" column="37" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="3" />
+        <mark key="^" line="94" column="3" />
+        <mark key="." line="94" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
@@ -199,11 +199,8 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1516940796027">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Python Console" timestamp="1517053269438">
+        <mark key="[" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1516771729835">
         <mark key="[" line="43" column="0" />
@@ -620,7 +617,7 @@
         <text encoding="base64">IyBleGNsdWRlIGRhdGEgZnJvbSBzb3VyY2UgY29udHJvbCBieSBkZWZhdWx0Ci9kYXRhLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -674,8 +671,8 @@
         <entry>action Replace</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
