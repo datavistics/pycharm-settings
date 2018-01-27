@@ -307,10 +307,10 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516950246929">
+      <file name="/Dummy.txt" timestamp="1517048698294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="16" />
+        <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516947255074">
@@ -542,8 +542,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkaW5nIHZpc3VhbGl6YXRpb24K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -593,31 +593,31 @@
         <text>, label=classifier_names[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmUtcmFuIGFuZCB1cGRhdGVkIGh5cGVycGFyYW0gc2VhcmNoIGZvciBTVk0gdG8gYmUgbW9yZSBzeW1tZXRyaWMuCg==</text>
+        <text encoding="base64">QWRkaW5nIHZpc3VhbGl6YXRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXBkYXRlZCBudW1lcmljIHJlc3VsdCBpbiBtYXJrZG93bgo=</text>
+        <text encoding="base64">QWRkaW5nIHRlbnNvcmZsb3cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXBkYXRpbmcgZ3JhbW1hcmRkCg==</text>
+        <text encoding="base64">QWRkaW5nIHRlbnNvcmZsb3cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkaW5nIGRhdGEgZGlyCg==</text>
+        <text encoding="base64">QWRkaW5nIHRlbnNvcmZsb3dkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBleGNsdWRlIGRhdGEgZnJvbSBzb3VyY2UgY29udHJvbCBieSBkZWZhdWx0Ci9kYXRhLwo=</text>
+        <text encoding="base64">UmUtcmFuIGFuZCB1cGRhdGVkIGh5cGVycGFyYW0gc2VhcmNoIGZvciBTVk0gdG8gYmUgbW9yZSBzeW1tZXRyaWMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkaW5nIGp1cHl0ZXIK</text>
+        <text encoding="base64">VXBkYXRlZCBudW1lcmljIHJlc3VsdCBpbiBtYXJrZG93bgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRpbmcgZ3JhbW1hcmRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkaW5nIGRhdGEgZGlyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgQWNrbm93bGVkZ21lbnRzCgoqIFRoZSBhdXRob3JzIG9mIHRoZSBvcmlnaW5hbCBwYXBlcgoqIEluc3BpcmF0aW9uCiogZXRjCg==</text>
+        <text encoding="base64">IyBleGNsdWRlIGRhdGEgZnJvbSBzb3VyY2UgY29udHJvbCBieSBkZWZhdWx0Ci9kYXRhLwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
