@@ -255,14 +255,18 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" timestamp="1518331441368">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" timestamp="1518341920254">
+        <mark key="'" line="39" column="3" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/.env" timestamp="1516693442715">
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.log" timestamp="1518341819578">
+        <mark key="'" line="2412" column="57" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/LICENSE.md" timestamp="1516050670011">
         <mark key="[" line="14" column="22" />
@@ -434,9 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="73" column="4" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
       <jump line="16" column="4" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
@@ -534,6 +535,9 @@
       <jump line="1" column="13" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
+      <jump line="2412" column="57" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.log" />
+      <jump line="79" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
+      <jump line="39" column="3" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -554,7 +558,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1Ym1pc3Npb25fbGlzdCA9IGRiLnJlYWRfdGV4dChmaWxlKS5tYXAoanNvbi5sb2FkcykK</text>
+        <text encoding="base64">ICAgICMgVGhlIGVkaXRzIGhhdmUgYSBmb3JtYXQgb2YgMyBvcHRpb25zOiBGYWxzZSwgVHJ1ZSwgb3IgdGltZXN0YW1wCiAgICAjIGlmIHN1YlsnZWRpdGVkJ10gPT0gJ0ZhbHNlJyBvciBzdWJbJ2VkaXRlZCddID09ICdUcnVlJzoKICAgICMgICAgIHN1YlsnZWRpdGVkX2RhdGUnXSA9IHN1YlsnY3JlYXRlZCddCiAgICAjICAgICBzdWJbJ2VkaXRlZCddID0gYm9vbChzdWJbJ2VkaXRlZCddICE9ICdGYWxzZScpCiAgICAjIGVsc2U6CiAgICAjICAgICBzdWJbJ2VkaXRlZF9kYXRlJ10gPSBzdWJbJ2VkaXRlZCddLnJlcGxhY2UoJy4wJywgJycpCiAgICAjICAgICBzdWJbJ2VkaXRlZCddID0gVHJ1ZQoK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -595,49 +599,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>continue</text>
+        <text>is list</text>
       </register>
       <register name="/" type="4">
-        <text>1200</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZSwgJ3InKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIHN1Ym1pc3Npb25fbGlzdCA9IGpzb24ubG9hZChqc29uX2ZpbGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1Ym1pc3Npb25fbGlzdCA9IGRiLnJlYWRfdGV4dChmaWxlKS5tYXAoanNvbi5sb2FkcykK</text>
+        <text encoding="base64">ICAgICMgVGhlIGVkaXRzIGhhdmUgYSBmb3JtYXQgb2YgMyBvcHRpb25zOiBGYWxzZSwgVHJ1ZSwgb3IgdGltZXN0YW1wCiAgICAjIGlmIHN1YlsnZWRpdGVkJ10gPT0gJ0ZhbHNlJyBvciBzdWJbJ2VkaXRlZCddID09ICdUcnVlJzoKICAgICMgICAgIHN1YlsnZWRpdGVkX2RhdGUnXSA9IHN1YlsnY3JlYXRlZCddCiAgICAjICAgICBzdWJbJ2VkaXRlZCddID0gYm9vbChzdWJbJ2VkaXRlZCddICE9ICdGYWxzZScpCiAgICAjIGVsc2U6CiAgICAjICAgICBzdWJbJ2VkaXRlZF9kYXRlJ10gPSBzdWJbJ2VkaXRlZCddLnJlcGxhY2UoJy4wJywgJycpCiAgICAjICAgICBzdWJbJ2VkaXRlZCddID0gVHJ1ZQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRhc2suYmFnIGFzIGRiCg==</text>
+        <text encoding="base64">ICAgICMgVGhlcmUgc2VlbXMgdG8gYmUgc29tZSByZWR1bmRhbmNpZXMgc29tZWhvdywgbm90IHN1cmUgd2h5LCBidXQgdGhpcyBza2lwcyByZWR1bmRhbnQgaW5mbyBhbmQgbG9ncyBhIHdhcm5pbmcKICAgICMgaWYgZC5nZXQoKHN1YlsnaWQnXSwgc3ViWydjcmVhdGVkJ10pLCBGYWxzZSk6CiAgICAjICAgICBsb2dnZXIud2FybmluZyhmJ1JlZHVuZGFudCBTdWJtaXNzaW9uOiB7c3VifScpCiAgICAjICAgICByZXR1cm4gTm9uZQogICAgIyBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRbKHN1YlsnaWQnXSwgc3ViWydjcmVhdGVkJ10pXSA9IDEK</text>
+        <text encoding="base64">ICAgICAgICAjIHN1Ym1pc3Npb25fbGlzdCA9IGRiLnJlYWRfdGV4dChmaWxlKS5tYXAoanNvbi5sb2FkcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZSwgJ3InKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIHN1Ym1pc3Npb25fbGlzdCA9IGpzb24ubG9hZChqc29uX2ZpbGUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGRhc2suYmFnIGFzIGRiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZSwgJ3InKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIHN1Ym1pc3Npb25fbGlzdCA9IGpzb24ubG9hZChqc29uX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgIGRbKHN1YlsnaWQnXSwgc3ViWydjcmVhdGVkJ10pXSA9IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZSwgJ3InKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIHN1Ym1pc3Npb25fbGlzdCA9IGpzb24ubG9hZChqc29uX2ZpbGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZSwgJ3InKSBhcyBqc29uX2ZpbGU6CiAgICAgICAgICAgIHN1Ym1pc3Npb25fbGlzdCA9IGpzb24ubG9hZChqc29uX2ZpbGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIENvbW1pdCBhIGRheXMgd29ydGggZm9yIGVmZmljaWVuY3kKICAgICAgICBzZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYWRkKG5ld19zdWJtaXNzaW9uKQogICAgICAgICAgICAgICAgc3ViX2NvdW50ICs9IDEK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>1200</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>1200</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fix</entry>
         <entry>cop</entry>
         <entry>def</entry>
         <entry>defau</entry>
@@ -665,6 +668,7 @@
         <entry>and</entry>
         <entry>gitkeep</entry>
         <entry>1200</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
