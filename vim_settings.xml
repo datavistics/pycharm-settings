@@ -24,12 +24,10 @@
         <mark key="^" line="30" column="3" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1516569708008">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-        <mark key="^" line="28" column="39" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1517052552895">
         <mark key="'" line="54" column="26" />
@@ -166,7 +164,6 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1518331171378">
-        <mark key="'" line="0" column="0" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="49" />
         <mark key="^" line="20" column="0" />
@@ -256,11 +253,11 @@
         <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" timestamp="1518347569404">
-        <mark key="'" line="51" column="4" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="85" column="56" />
-        <mark key="." line="86" column="0" />
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="86" column="56" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/.env" timestamp="1516693442715">
         <mark key="[" line="12" column="0" />
@@ -325,12 +322,6 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518331419352">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/code.py" timestamp="1518155371092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -356,11 +347,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1518347717234">
-        <mark key="'" line="10" column="38" />
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="33" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="28" column="33" />
+        <mark key="'" line="9" column="38" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
       </file>
       <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
         <mark key="[" line="0" column="0" />
@@ -561,7 +552,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -602,7 +593,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.with_suffix(&quot;.pickle&quot;)</text>
+        <text>lkd</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -611,31 +602,31 @@
         <text>database_path.parent/'submissions.feather'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRmLnRvX2ZlYXRoZXIoZGF0YWJhc2VfcGF0aC5wYXJlbnQvJ3N1Ym1pc3Npb25zLmZlYXRoZXInKQo=</text>
+        <text encoding="base64">ZmRsa3NqZnNramZzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGYudG9fZmVhdGhlcihkYXRhZnJhbWVfb3V0X3BhdGgud2l0aF9zdWZmaXgoJy5waWNrbGUnKSkK</text>
+        <text encoding="base64">VXBkYXRpbmcgdG8gY3VycmVudCBzdHJ1Y3R1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGYgPSBkZltkZi5lZGl0ZWRfZGVsdGFfZGF5IDwgMTAwXQo=</text>
+        <text encoding="base64">QWRkaW5nIHRvIGdpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGZbJ2VkaXRlZF9kZWx0YSddID0gKGRmLmVkaXRlZF9kYXRlIC0gZGYuaW5kZXgpCmRmWydlZGl0ZWRfZGVsdGFfbWluJ10gPSBkZi5lZGl0ZWRfZGVsdGEuZHQuc2Vjb25kcy82MApkZlsnZWRpdGVkX2RlbHRhX2hvdXInXSA9IGRmLmVkaXRlZF9kZWx0YV9taW4vNjAKZGZbJ2VkaXRlZF9kZWx0YV9kYXknXSA9IGRmLmVkaXRlZF9kZWx0YS5kdC5kYXlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGZlYXRoZXIK</text>
+        <text encoding="base64">ICAgICMgcF9wYXRoID0gZW1iZWRkaW5nc19wYXRoLndpdGhfc3VmZml4KCcucGlja2xlJykKICAgICMgaWYgcF9wYXRoLmV4aXN0cygpOgogICAgIyAgICAgd2l0aCBvcGVuKHBfcGF0aCwgJ3JiJykgYXMgZjoKICAgICMgICAgICAgICBlbWJlZGRpbmdfdmVjdG9ycyA9IHBpY2tsZS5sb2FkKGYpCiAgICAjICAgICByZXR1cm4gZW1iZWRkaW5nX3ZlY3RvcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29ubiA9IHNxbGl0ZTNkLmNvbm5lY3Qoc3RyKGRhdGFiYXNlX3BhdGgpKQpkZiA9IHBkLnJlYWRfc3FsX3F1ZXJ5KCdzZWxlY3QgKiBmcm9tIHJlbGF0aW9uc2hpcHNfc3VibWlzc2lvbicsIGNvbm4sIHBhcnNlX2RhdGVzPVsnY3JlYXRlZCcsICdlZGl0ZWRfZGF0ZSddLCBpbmRleF9jb2w9J2NyZWF0ZWQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdhdXRob3InOiBzdHIsICdjcmVhdGVkJzogc3RyX3RvX2R0LCAnZG93bnMnOiBpbnQsICdlZGl0ZWQnOiBzdHIsICdpZCc6IHN0ciwK</text>
+        <text encoding="base64">ICAgICMgd2l0aCBvcGVuKHBfcGF0aCwgJ3diJykgYXMgZjoKICAgICMgICAgIHBpY2tsZS5kdW1wKGVtYmVkZGluZ192ZWN0b3JzLCBmKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVGhlIGVkaXRzIGhhdmUgYSBmb3JtYXQgb2YgMyBvcHRpb25zOiBGYWxzZSwgVHJ1ZSwgb3IgdGltZXN0YW1wCiAgICAjIGlmIHN1YlsnZWRpdGVkJ10gPT0gJ0ZhbHNlJyBvciBzdWJbJ2VkaXRlZCddID09ICdUcnVlJzoKICAgICMgICAgIHN1YlsnZWRpdGVkX2RhdGUnXSA9IHN1YlsnY3JlYXRlZCddCiAgICAjICAgICBzdWJbJ2VkaXRlZCddID0gYm9vbChzdWJbJ2VkaXRlZCddICE9ICdGYWxzZScpCiAgICAjIGVsc2U6CiAgICAjICAgICBzdWJbJ2VkaXRlZF9kYXRlJ10gPSBzdWJbJ2VkaXRlZCddLnJlcGxhY2UoJy4wJywgJycpCiAgICAjICAgICBzdWJbJ2VkaXRlZCddID0gVHJ1ZQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
