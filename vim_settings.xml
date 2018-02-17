@@ -36,6 +36,9 @@
         <mark key="^" line="94" column="3" />
         <mark key="." line="94" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518885192947">
+        <mark key="[" line="8" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,7 +204,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1518331386093">
+      <file name="/Python Console" timestamp="1518885291321">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="0" />
@@ -635,7 +638,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -688,9 +691,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
-        <entry>action $Paste</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
