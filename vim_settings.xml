@@ -158,6 +158,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/leetcode/p0009.py" timestamp="1518890852852">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1518331171378">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="104" column="49" />
@@ -546,8 +552,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRkaW5nIHByb2JsZW1zCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bnVtIC8vIDEwICoqICggKyAxKSA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -588,7 +594,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(2 * numRows- 2)</text>
+        <text encoding="base64">bnVtIC8vIDEwICoqICggKyAxKSA=</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -624,7 +630,7 @@
         <text encoding="base64">VXBkYXRpbmcgdG8gY3VycmVudCBzdHJ1Y3R1cmUK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -678,8 +684,8 @@
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
