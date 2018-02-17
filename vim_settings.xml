@@ -315,7 +315,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518893596790">
+      <file name="/Dummy.txt" timestamp="1518894523703">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -419,12 +419,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0014.py" timestamp="1518893751449">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
+      <file name="$USER_HOME$/projects/leetcode/p0014.py" timestamp="1518894515081">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516656301797">
         <mark key="'" line="43" column="15" />
@@ -561,7 +561,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
+        <text encoding="base64">ICAgIGluaXQgPSBzdHJzWzBdCiAgICBmb3IgcyBpbiBzdHJzWzE6XToK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -611,34 +611,34 @@
         <text>out_list[-2]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
+        <text encoding="base64">ICAgIGluaXQgPSBzdHJzWzBdCiAgICBmb3IgcyBpbiBzdHJzWzE6XToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIG51bSA+IDA6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG8gPSBudW0lMTAKICAgIG51bSAvLz0gMTAKICAgIHRlID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICBoID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICB0ID0gbnVtLy8xMCAlIDEwCg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIG51bSA+IDA6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG51bSAtPSBoCg==</text>
+        <text encoding="base64">ICAgIG8gPSBudW0lMTAKICAgIG51bSAvLz0gMTAKICAgIHRlID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICBoID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICB0ID0gbnVtLy8xMCAlIDEwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bSAtPSB0ZQo=</text>
+        <text encoding="base64">ICAgIG51bSAtPSBoCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIG51bSAtPSB0ZQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">QWRkaW5nIHByb2JsZW1zCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgojIDAgMSAyIDMgNCA1IDYgNyA4IDkKIyAwIDEgMiAxIDAgMSAyIDEgMCAx</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBwcmV2ID0gMQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBlcmlvZCA9IDIgKiBudW1Sb3dzIC0gMgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -692,8 +692,8 @@
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
