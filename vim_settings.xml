@@ -33,12 +33,12 @@
         <mark key="^" line="94" column="3" />
         <mark key="." line="94" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518887745210">
+      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="16" column="37" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+        <mark key="^" line="27" column="6" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -196,7 +196,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1518886435846">
+      <file name="/Python Console" timestamp="1518889223934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="0" />
@@ -307,6 +307,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518889378719">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1518155371092">
         <mark key="[" line="0" column="0" />
@@ -540,8 +546,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(2 * numRows- 2)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkaW5nIHByb2JsZW1zCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -591,34 +597,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobnVtUm93cyAtIChpJW51bVJvd3MpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VmRlZiBjb252ZXJ0KHNlbGYsIHMsIG51bVJvd3MpOgogICAgIiIiCiAgICA6dHlwZSBzOiBzdHIKICAgIDp0eXBlIG51bVJvd3M6IGludAogICAgOnJ0eXBlOiBzdHIKICAgICIiIgogICAgb3V0ID0gJycKICAgIGZvciBpLGxldHRlciBpbiBlbnVtZXJhdGUocyk6CiAgICAgICAgb3V0ICs9Cg==</text>
+        <text encoding="base64">QWRkaW5nIHByb2JsZW1zCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgojIDAgMSAyIDMgNCA1IDYgNyA4IDkKIyAwIDEgMiAxIDAgMSAyIDEgMCAx</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmRsa3NqZnNramZzCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwcmV2ID0gMQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXBkYXRpbmcgdG8gY3VycmVudCBzdHJ1Y3R1cmUK</text>
+        <text encoding="base64">ICAgIHBlcmlvZCA9IDIgKiBudW1Sb3dzIC0gMgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QWRkaW5nIHRvIGdpdAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgbG8gPSBpICUgcGVyaW9kCiAgICAgICAgaWYgbG8gPj0gbnVtUm93czoKICAgICAgICAgICAgcHJpbnQobnVtUm93cyAtIChsbyAlIG51bVJvd3MpIC0gMikKICAgICAgICAgICAgb3V0W251bVJvd3MgLSAobG8gJSBudW1Sb3dzKSAtIDJdICs9IGxldHRlcgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KGkgJSBudW1Sb3dzLCAnZmFsc2UnKQogICAgICAgICAgICBvdXRbaSAlIG51bVJvd3NdICs9IGxldHRlcg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VmRlZiBjb252ZXJ0KHNlbGYsIHMsIG51bVJvd3MpOgogICAgIiIiCiAgICA6dHlwZSBzOiBzdHIKICAgIDp0eXBlIG51bVJvd3M6IGludAogICAgOnJ0eXBlOiBzdHIKICAgICIiIgogICAgb3V0ID0gJycKICAgIGZvciBpLGxldHRlciBpbiBlbnVtZXJhdGUocyk6CiAgICAgICAgb3V0ICs9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcF9wYXRoID0gZW1iZWRkaW5nc19wYXRoLndpdGhfc3VmZml4KCcucGlja2xlJykKICAgICMgaWYgcF9wYXRoLmV4aXN0cygpOgogICAgIyAgICAgd2l0aCBvcGVuKHBfcGF0aCwgJ3JiJykgYXMgZjoKICAgICMgICAgICAgICBlbWJlZGRpbmdfdmVjdG9ycyA9IHBpY2tsZS5sb2FkKGYpCiAgICAjICAgICByZXR1cm4gZW1iZWRkaW5nX3ZlY3RvcnMK</text>
+        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmRsa3NqZnNramZzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBvcGVuKHBfcGF0aCwgJ3diJykgYXMgZjoKICAgICMgICAgIHBpY2tsZS5kdW1wKGVtYmVkZGluZ192ZWN0b3JzLCBmKQo=</text>
+        <text encoding="base64">VXBkYXRpbmcgdG8gY3VycmVudCBzdHJ1Y3R1cmUK</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -672,8 +678,8 @@
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
