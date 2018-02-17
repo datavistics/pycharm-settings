@@ -33,12 +33,12 @@
         <mark key="^" line="94" column="3" />
         <mark key="." line="94" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518886562865">
+      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518887745210">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="12" column="37" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -541,7 +541,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>(2 * numRows- 2)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -582,7 +582,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(2 * numRows- 2)</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
