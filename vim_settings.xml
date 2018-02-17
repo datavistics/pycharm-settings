@@ -146,12 +146,6 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/README.md" timestamp="1516944596799">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/pages/Resume-backup.md" timestamp="1512742959994">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -169,6 +163,13 @@
         <mark key="]" line="104" column="49" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/leetcode/p0012.py" timestamp="1518893592978">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516695804873">
         <mark key="'" line="68" column="16" />
@@ -202,7 +203,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1518889223934">
+      <file name="/Python Console" timestamp="1518893489224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="0" />
@@ -314,7 +315,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518889378719">
+      <file name="/Dummy.txt" timestamp="1518893596790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -418,6 +419,13 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/leetcode/p0014.py" timestamp="1518893751449">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516656301797">
         <mark key="'" line="43" column="15" />
         <mark key="[" line="26" column="50" />
@@ -433,8 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" />
-      <jump line="84" column="21" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="1" column="14" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="88" column="4" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="87" column="39" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
@@ -533,6 +539,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/projects/leetcode/p0006.py" />
       <jump line="16" column="21" filename="$USER_HOME$/projects/leetcode/p0006.py" />
       <jump line="0" column="12" filename="$USER_HOME$/projects/leetcode/p0006.py" />
+      <jump line="20" column="23" filename="$USER_HOME$/projects/leetcode/p0012.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/projects/leetcode/p0014.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -552,8 +560,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bnVtIC8vIDEwICoqICggKyAxKSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -594,40 +602,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnVtIC8vIDEwICoqICggKyAxKSA=</text>
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobnVtUm93cyAtIChpJW51bVJvd3MpKQo=</text>
+      <register name="0" type="4">
+        <text>out_list[-2]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkaW5nIHByb2JsZW1zCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgojIDAgMSAyIDMgNCA1IDYgNyA4IDkKIyAwIDEgMiAxIDAgMSAyIDEgMCAx</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHdoaWxlIG51bSA+IDA6Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcmV2ID0gMQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG8gPSBudW0lMTAKICAgIG51bSAvLz0gMTAKICAgIHRlID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICBoID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICB0ID0gbnVtLy8xMCAlIDEwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBlcmlvZCA9IDIgKiBudW1Sb3dzIC0gMgo=</text>
+        <text encoding="base64">ICAgIG51bSAtPSBoCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgbG8gPSBpICUgcGVyaW9kCiAgICAgICAgaWYgbG8gPj0gbnVtUm93czoKICAgICAgICAgICAgcHJpbnQobnVtUm93cyAtIChsbyAlIG51bVJvd3MpIC0gMikKICAgICAgICAgICAgb3V0W251bVJvd3MgLSAobG8gJSBudW1Sb3dzKSAtIDJdICs9IGxldHRlcgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KGkgJSBudW1Sb3dzLCAnZmFsc2UnKQogICAgICAgICAgICBvdXRbaSAlIG51bVJvd3NdICs9IGxldHRlcg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG51bSAtPSB0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VmRlZiBjb252ZXJ0KHNlbGYsIHMsIG51bVJvd3MpOgogICAgIiIiCiAgICA6dHlwZSBzOiBzdHIKICAgIDp0eXBlIG51bVJvd3M6IGludAogICAgOnJ0eXBlOiBzdHIKICAgICIiIgogICAgb3V0ID0gJycKICAgIGZvciBpLGxldHRlciBpbiBlbnVtZXJhdGUocyk6CiAgICAgICAgb3V0ICs9Cg==</text>
+        <text encoding="base64">QWRkaW5nIHByb2JsZW1zCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgojIDAgMSAyIDMgNCA1IDYgNyA4IDkKIyAwIDEgMiAxIDAgMSAyIDEgMCAx</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZmRsa3NqZnNramZzCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwcmV2ID0gMQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VXBkYXRpbmcgdG8gY3VycmVudCBzdHJ1Y3R1cmUK</text>
+        <text encoding="base64">ICAgIHBlcmlvZCA9IDIgKiBudW1Sb3dzIC0gMgo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
