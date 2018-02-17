@@ -9,9 +9,6 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1516893483481">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
         <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="82" />
@@ -36,11 +33,12 @@
         <mark key="^" line="94" column="3" />
         <mark key="." line="94" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518885192947">
-        <mark key="[" line="8" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/013f6ebd-9bc1-44ab-9184-16a058eef7c3/console_1.sql" timestamp="1512841281586">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518886562865">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -97,12 +95,6 @@
         <mark key="]" line="1" column="56" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="56" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ae1aa8d1-de22-4160-93f5-ca4be49dd1ff/console.sql" timestamp="1516656929793">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/TravellersMap/map/index.js" timestamp="1511881777945">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/src/features/build_features.py" timestamp="1512884391137">
         <mark key="[" line="0" column="0" />
@@ -204,7 +196,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1518885291321">
+      <file name="/Python Console" timestamp="1518886435846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="0" />
@@ -220,9 +212,6 @@
         <mark key="]" line="3" column="260" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4a7ba025-d6de-47b0-9700-9674408fbfe3/console.sql" timestamp="1516653624074">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
@@ -262,9 +251,6 @@
         <mark key="^" line="86" column="56" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/.env" timestamp="1516693442715">
-        <mark key="[" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.log" timestamp="1518341819578">
         <mark key="'" line="2412" column="57" />
       </file>
@@ -273,9 +259,6 @@
         <mark key="]" line="18" column="51" />
         <mark key="." line="18" column="51" />
         <mark key="^" line="18" column="51" />
-      </file>
-      <file name="/a.sql" timestamp="1512841518714">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/README.md" timestamp="1516083193745">
         <mark key="'" line="87" column="5" />
@@ -430,9 +413,6 @@
         <mark key="^" line="26" column="67" />
         <mark key="." line="26" column="67" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9a9b3ad1-a789-400b-bafa-eb53d1e25319/console.sql" timestamp="1516133914001">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="11" column="0" />
@@ -441,9 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="42" filename="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqalchemy_insert_cf.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
-      <jump line="25" column="47" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" />
       <jump line="84" column="21" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
       <jump line="1" column="14" filename="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" />
@@ -541,6 +518,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
       <jump line="10" column="38" filename="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" />
       <jump line="51" column="4" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/leetcode/p0006.py" />
+      <jump line="16" column="21" filename="$USER_HOME$/projects/leetcode/p0006.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/projects/leetcode/p0006.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -560,8 +540,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -602,49 +582,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lkd</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>out</text>
+        <text>self</text>
       </register>
-      <register name="0" type="4">
-        <text>database_path.parent/'submissions.feather'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobnVtUm93cyAtIChpJW51bVJvd3MpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
+        <text encoding="base64">VmRlZiBjb252ZXJ0KHNlbGYsIHMsIG51bVJvd3MpOgogICAgIiIiCiAgICA6dHlwZSBzOiBzdHIKICAgIDp0eXBlIG51bVJvd3M6IGludAogICAgOnJ0eXBlOiBzdHIKICAgICIiIgogICAgb3V0ID0gJycKICAgIGZvciBpLGxldHRlciBpbiBlbnVtZXJhdGUocyk6CiAgICAgICAgb3V0ICs9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmRsa3NqZnNramZzCg==</text>
+        <text encoding="base64">ZmRza2xmamRrbGZqc2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXBkYXRpbmcgdG8gY3VycmVudCBzdHJ1Y3R1cmUK</text>
+        <text encoding="base64">ZmRsa3NqZnNramZzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkaW5nIHRvIGdpdAo=</text>
+        <text encoding="base64">VXBkYXRpbmcgdG8gY3VycmVudCBzdHJ1Y3R1cmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkaW5nIHRvIGdpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcF9wYXRoID0gZW1iZWRkaW5nc19wYXRoLndpdGhfc3VmZml4KCcucGlja2xlJykKICAgICMgaWYgcF9wYXRoLmV4aXN0cygpOgogICAgIyAgICAgd2l0aCBvcGVuKHBfcGF0aCwgJ3JiJykgYXMgZjoKICAgICMgICAgICAgICBlbWJlZGRpbmdfdmVjdG9ycyA9IHBpY2tsZS5sb2FkKGYpCiAgICAjICAgICByZXR1cm4gZW1iZWRkaW5nX3ZlY3RvcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcF9wYXRoID0gZW1iZWRkaW5nc19wYXRoLndpdGhfc3VmZml4KCcucGlja2xlJykKICAgICMgaWYgcF9wYXRoLmV4aXN0cygpOgogICAgIyAgICAgd2l0aCBvcGVuKHBfcGF0aCwgJ3JiJykgYXMgZjoKICAgICMgICAgICAgICBlbWJlZGRpbmdfdmVjdG9ycyA9IHBpY2tsZS5sb2FkKGYpCiAgICAjICAgICByZXR1cm4gZW1iZWRkaW5nX3ZlY3RvcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgd2l0aCBvcGVuKHBfcGF0aCwgJ3diJykgYXMgZjoKICAgICMgICAgIHBpY2tsZS5kdW1wKGVtYmVkZGluZ192ZWN0b3JzLCBmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgd2l0aCBvcGVuKHBfcGF0aCwgJ3diJykgYXMgZjoKICAgICMgICAgIHBpY2tsZS5kdW1wKGVtYmVkZGluZ192ZWN0b3JzLCBmKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
       </register>
     </registers>
     <search>
-      <last-search>out</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>out</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>-1</last-dir>
@@ -652,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>defau</entry>
         <entry>main</entry>
         <entry>goo</entry>
         <entry>type</entry>
@@ -672,6 +651,7 @@
         <entry>list</entry>
         <entry>edited</entry>
         <entry>out</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
