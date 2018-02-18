@@ -152,11 +152,11 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/leetcode/p0009.py" timestamp="1518890852852">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/projects/leetcode/p0009.py" timestamp="1518940680964">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1518331171378">
         <mark key="[" line="103" column="0" />
@@ -315,7 +315,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518894523703">
+      <file name="/Dummy.txt" timestamp="1518940694319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
@@ -561,7 +561,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluaXQgPSBzdHJzWzBdCiAgICBmb3IgcyBpbiBzdHJzWzE6XToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZW1wX3N1bSkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -602,7 +602,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZiwg</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -611,31 +611,31 @@
         <text>out_list[-2]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluaXQgPSBzdHJzWzBdCiAgICBmb3IgcyBpbiBzdHJzWzE6XToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZW1wX3N1bSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
+        <text encoding="base64">ICAgIHN1bSA9IDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIG51bSA+IDA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG8gPSBudW0lMTAKICAgIG51bSAvLz0gMTAKICAgIHRlID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICBoID0gbnVtLy8xMCAlIDEwCiAgICBudW0gLy89IDEwCiAgICB0ID0gbnVtLy8xMCAlIDEwCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bSAtPSBoCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG51bSAtPSB0ZQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtYXRoCiAgICBkZWYgZ2V0X2RpZ2l0KG51bWJlciwgbik6CiAgICAgICAgcmV0dXJuIG51bWJlciAvLyAxMCoqbiAlIDEwCgogICAga2trCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QWRkaW5nIHByb2JsZW1zCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIAogICAgZm9yIGRpZyBpbiByYW5nZShtYXRoLmxvZyh4LCAxMCkvLzIpOgogICAgICAgIGlmIHgvLyAxMCoqKGRpZysxKSA9PQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgojIDAgMSAyIDMgNCA1IDYgNyA4IDkKIyAwIDEgMiAxIDAgMSAyIDEgMCAx</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGluaXQgPSBzdHJzWzBdCiAgICBmb3IgcyBpbiBzdHJzWzE6XToK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcmV2ID0gMQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
@@ -691,8 +691,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
-        <entry>action Replace</entry>
         <entry>action $Paste</entry>
+        <entry>action Replace</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
