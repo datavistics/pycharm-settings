@@ -209,12 +209,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1519566244208">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="260" />
@@ -639,7 +633,7 @@
         <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -693,8 +687,8 @@
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
