@@ -187,8 +187,8 @@
         <mark key="^" line="81" column="86" />
         <mark key="." line="81" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/School_Schedule/derek_test.fet" timestamp="1520011424594">
-        <mark key="'" line="699" column="13" />
+      <file name="$USER_HOME$/projects/School_Schedule/derek_test.fet" timestamp="1520014448668">
+        <mark key="'" line="3834" column="23" />
         <mark key="[" line="1630" column="22" />
         <mark key="]" line="1619" column="29" />
         <mark key="." line="1630" column="29" />
@@ -334,10 +334,10 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520012928440">
+      <file name="/Dummy.txt" timestamp="1520013878781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
+        <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1519565600528">
@@ -465,28 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="499" column="18" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="89" column="23" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="85" column="19" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="81" column="23" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="77" column="19" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="73" column="23" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="69" column="19" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="700" column="22" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="504" column="22" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="517" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="535" column="28" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="556" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="576" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="596" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="616" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="636" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="661" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="681" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="701" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="721" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="741" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="761" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="781" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="806" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -565,6 +543,28 @@
       <jump line="716" column="4" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="700" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="699" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="1630" column="39" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="1868" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="1869" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="1886" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="1903" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="1920" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3110" column="9" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3661" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3662" column="49" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3671" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3696" column="17" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3727" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3738" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3749" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3760" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3771" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3782" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3793" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3804" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3814" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3824" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="3834" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -585,7 +585,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXRkZAo=</text>
+        <text encoding="base64">VXBkYXRlZCBmb3IgLmlkZWEK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -629,22 +629,22 @@
         <text>workspace</text>
       </register>
       <register name="/" type="4">
-        <text>PA 1</text>
+        <text>95</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXRkZAo=</text>
+        <text encoding="base64">VXBkYXRlZCBmb3IgLmlkZWEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SnVzdCBjb21wbGV0ZWQgR3JhZGUgMSB3aXRoIHN1Y2Nlc3MhCg==</text>
+        <text encoding="base64">SW5pdGlhbCBjb21taXRkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">SnVzdCBjb21wbGV0ZWQgR3JhZGUgMSB3aXRoIHN1Y2Nlc3MhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
+        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
@@ -666,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PA 1</last-search>
+      <last-search>95</last-search>
       <last-offset />
-      <last-pattern>PA 1</last-pattern>
+      <last-pattern>95</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -676,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pathl</entry>
         <entry>sample</entry>
         <entry>np</entry>
         <entry>use</entry>
@@ -696,6 +695,7 @@
         <entry>teacher</entry>
         <entry encoding="base64">PA==</entry>
         <entry>PA 1</entry>
+        <entry>95</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorSelectWord</entry>
