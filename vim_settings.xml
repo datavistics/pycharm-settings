@@ -181,11 +181,11 @@
         <mark key="^" line="81" column="86" />
         <mark key="." line="81" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/School_Schedule/derek_test.fet" timestamp="1519988056617">
-        <mark key="'" line="1171" column="8" />
-        <mark key="[" line="1171" column="0" />
-        <mark key="]" line="1185" column="19" />
-        <mark key="." line="1171" column="0" />
+      <file name="$USER_HOME$/projects/School_Schedule/derek_test.fet" timestamp="1519992528459">
+        <mark key="'" line="688" column="0" />
+        <mark key="[" line="693" column="0" />
+        <mark key="]" line="693" column="0" />
+        <mark key="." line="693" column="0" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
         <mark key="[" line="0" column="0" />
@@ -458,52 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="$USER_HOME$/projects/sms_spam/src/utilities.py" />
-      <jump line="1" column="13" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
-      <jump line="2412" column="57" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.log" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
-      <jump line="39" column="3" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
-      <jump line="0" column="12396" filename="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_12.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" />
-      <jump line="10" column="38" filename="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" />
-      <jump line="51" column="4" filename="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/leetcode/p0006.py" />
-      <jump line="16" column="21" filename="$USER_HOME$/projects/leetcode/p0006.py" />
-      <jump line="0" column="12" filename="$USER_HOME$/projects/leetcode/p0006.py" />
-      <jump line="20" column="23" filename="$USER_HOME$/projects/leetcode/p0012.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/projects/leetcode/p0014.py" />
-      <jump line="14" column="22" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="93" column="19" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="97" column="23" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="101" column="19" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="105" column="23" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="238" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="239" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="240" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="241" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="242" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="243" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="251" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="252" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="253" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="254" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="255" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="256" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="264" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="265" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="266" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="267" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="268" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="269" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="284" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="285" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="286" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="287" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="288" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="289" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="297" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="298" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="299" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="300" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
@@ -525,7 +479,6 @@
       <jump line="700" column="22" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="504" column="22" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="517" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="533" column="10" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="535" column="28" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="556" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="576" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -558,6 +511,53 @@
       <jump line="1131" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="1151" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="1171" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="83" column="9" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="85" column="19" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="89" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="93" column="19" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="97" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="101" column="19" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="105" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="232" column="10" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="237" column="14" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="253" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="254" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="255" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="256" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="257" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="258" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="266" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="267" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="268" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="528" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="533" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="538" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="543" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="548" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="558" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="563" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="568" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="573" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="578" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="583" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="588" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="598" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="603" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="608" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="613" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="618" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="623" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="628" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="638" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="643" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="648" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="653" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="658" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="663" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="673" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="678" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="683" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="688" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -578,7 +578,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQk8TmFtZT5CZWdpbm5lcjwvTmFtZT4KCQk8TnVtYmVyX29mX1N0dWRlbnRzPjM8L051bWJlcl9vZl9TdHVkZW50cz4KCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -622,46 +622,46 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>25</text>
+        <text>subg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQk8TmFtZT5CZWdpbm5lcjwvTmFtZT4KCQk8TnVtYmVyX29mX1N0dWRlbnRzPjM8L051bWJlcl9vZl9TdHVkZW50cz4KCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8Q29tbWVudHM+PC9Db21tZW50cz4K</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWhlbHBlciA9IG1hbmFnZXIK</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZW1wX3N1bSkK</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1bSA9IDAK</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRoCiAgICBkZWYgZ2V0X2RpZ2l0KG51bWJlciwgbik6CiAgICAgICAgcmV0dXJuIG51bWJlciAvLyAxMCoqbiAlIDEwCgogICAga2trCg==</text>
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIAogICAgZm9yIGRpZyBpbiByYW5nZShtYXRoLmxvZyh4LCAxMCkvLzIpOgogICAgICAgIGlmIHgvLyAxMCoqKGRpZysxKSA9PQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>25</last-search>
+      <last-search>subg</last-search>
       <last-offset />
-      <last-pattern>25</last-pattern>
+      <last-pattern>subg</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -669,7 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>required</entry>
         <entry>ac</entry>
         <entry>create_</entry>
@@ -687,8 +686,9 @@
         <entry>edited</entry>
         <entry>out</entry>
         <entry>self</entry>
-        <entry>native</entry>
         <entry>25</entry>
+        <entry>native</entry>
+        <entry>subg</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
