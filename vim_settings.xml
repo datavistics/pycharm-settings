@@ -334,12 +334,6 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520016148244">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/code.py" timestamp="1519565600528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -782,6 +776,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
