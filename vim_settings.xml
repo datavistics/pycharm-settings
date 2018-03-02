@@ -181,11 +181,12 @@
         <mark key="^" line="81" column="86" />
         <mark key="." line="81" column="86" />
       </file>
-      <file name="$USER_HOME$/projects/School_Schedule/derek_test.fet" timestamp="1519992528459">
-        <mark key="'" line="688" column="0" />
-        <mark key="[" line="693" column="0" />
-        <mark key="]" line="693" column="0" />
-        <mark key="." line="693" column="0" />
+      <file name="$USER_HOME$/projects/School_Schedule/derek_test.fet" timestamp="1520011424594">
+        <mark key="'" line="699" column="13" />
+        <mark key="[" line="1630" column="22" />
+        <mark key="]" line="1619" column="29" />
+        <mark key="." line="1630" column="29" />
+        <mark key="^" line="1619" column="29" />
       </file>
       <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
         <mark key="[" line="0" column="0" />
@@ -458,16 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="299" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="300" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="301" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="302" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="310" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="311" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="312" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="313" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
-      <jump line="314" column="36" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="315" column="40" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="499" column="18" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
       <jump line="89" column="23" filename="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" />
@@ -558,6 +549,16 @@
       <jump line="678" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="683" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="688" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="669" column="10" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="710" column="25" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="711" column="17" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="712" column="16" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="713" column="15" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="714" column="21" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="715" column="9" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="716" column="4" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="700" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="699" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -577,8 +578,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+QmVnaW5uZXI8L05hbWU+CgkJCTxOdW1iZXJfb2ZfU3R1ZGVudHM+MzwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -619,10 +620,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>subg</text>
+        <text>PA 1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8U3ViZ3JvdXA+CgkJCTxOYW1lPk5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMjwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQkJPE5hbWU+Tm9uLU5hdGl2ZTwvTmFtZT4KCQkJPE51bWJlcl9vZl9TdHVkZW50cz4xMDwvTnVtYmVyX29mX1N0dWRlbnRzPgoJCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgoJCTxTdWJncm91cD4KCQk8TmFtZT5CZWdpbm5lcjwvTmFtZT4KCQk8TnVtYmVyX29mX1N0dWRlbnRzPjM8L051bWJlcl9vZl9TdHVkZW50cz4KCQk8Q29tbWVudHM+PC9Db21tZW50cz4KCQk8L1N1Ymdyb3VwPgo=</text>
@@ -659,9 +660,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subg</last-search>
+      <last-search>PA 1</last-search>
       <last-offset />
-      <last-pattern>subg</last-pattern>
+      <last-pattern>PA 1</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -669,9 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>required</entry>
-        <entry>ac</entry>
-        <entry>create_</entry>
         <entry>pathl</entry>
         <entry>sample</entry>
         <entry>np</entry>
@@ -689,11 +687,11 @@
         <entry>25</entry>
         <entry>native</entry>
         <entry>subg</entry>
+        <entry>teacher</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>PA 1</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoSuperMethod</entry>
-        <entry>%s/like/love/</entry>
-        <entry>%s/like/haha/g</entry>
         <entry>action EditorSelectWord</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
@@ -708,8 +706,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
-        <entry>action Replace</entry>
         <entry>action $Paste</entry>
+        <entry>nohl</entry>
+        <entry>709</entry>
+        <entry>action Replace</entry>
+        <entry>1629</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
