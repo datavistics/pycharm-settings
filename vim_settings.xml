@@ -49,6 +49,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -465,8 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="761" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="781" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="806" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="826" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="846" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -565,6 +568,8 @@
       <jump line="3814" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3824" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3834" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
+      <jump line="24" column="16" filename="$USER_HOME$/projects/natural-language-processing/sandbox.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/projects/natural-language-processing/sandbox.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -585,7 +590,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -635,34 +640,34 @@
         <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Rml4ZWQgY29uc3RyYWludHMgdG8gYmUgYmFjayB0byBiYWNrLgpDdXJyZW50IGVycm9yIHdpdGggQXJhYmljIHRlYWNoZXJzIEdyYWRlIDRLSkpKSgo=</text>
+        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
+        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
+        <text encoding="base64">Rml4ZWQgY29uc3RyYWludHMgdG8gYmUgYmFjayB0byBiYWNrLgpDdXJyZW50IGVycm9yIHdpdGggQXJhYmljIHRlYWNoZXJzIEdyYWRlIDRLSkpKSgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VXBkYXRlZCBmb3IgLmlkZWEK</text>
+        <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXRkZAo=</text>
+        <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SnVzdCBjb21wbGV0ZWQgR3JhZGUgMSB3aXRoIHN1Y2Nlc3MhCg==</text>
+        <text encoding="base64">VXBkYXRlZCBmb3IgLmlkZWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">SW5pdGlhbCBjb21taXRkZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -712,12 +717,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
-        <entry>action $Paste</entry>
         <entry>nohl</entry>
         <entry>709</entry>
         <entry>action Replace</entry>
         <entry>1629</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
