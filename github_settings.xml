@@ -1,7 +1,10 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="b1a099f3-209c-424b-9e87-201461439c35" name="datavistics">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="datavistics" />
-    <option name="AUTH_TYPE" value="BASIC" />
     <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>

@@ -9,7 +9,10 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="/code.py" timestamp="1533307269315">
+      <file name="/Dummy.txt" timestamp="1533879425937">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1533879217542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1532916338767">
@@ -27,14 +30,20 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/polititweet/src/data/get_data.py" timestamp="1533647242461">
-        <mark key="[" line="140" column="21" />
-        <mark key="]" line="140" column="20" />
-        <mark key="." line="140" column="20" />
-        <mark key="^" line="140" column="20" />
+      <file name="$USER_HOME$/Projects/polititweet/src/data/get_data.py" timestamp="1533879422802">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="161" column="26" />
+        <mark key="]" line="161" column="40" />
+        <mark key="." line="161" column="40" />
+        <mark key="^" line="161" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/polititweet/requirements.txt" timestamp="1533481259705">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/polititweet/README.md" timestamp="1533878937496">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/polititweet/requirements.txt" timestamp="1533879040790">
+        <mark key="[" line="1" column="6" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -49,64 +58,66 @@
       <jump line="0" column="113" filename="$USER_HOME$/Projects/polititweet/gpsbabel_date_formatter.py" />
       <jump line="11" column="4" filename="$USER_HOME$/Projects/polititweet/gpsbabel_date_formatter.py" />
       <jump line="14" column="71" filename="$USER_HOME$/Projects/polititweet/gpsbabel_date_formatter.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/polititweet/src/data/get_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>begin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRmLnN0YXRlID0gZGYucmVwbGFjZSh7InN0YXRlIjogdXNfc3RhdGVfYWJicmV2fSkuc3RhdGUK</text>
       </register>
       <register name="-" type="4">
         <text>begin</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>filename</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0YXJ0ICs9IHJlbGF0aXZlZGVsdGEobW9udGhzPTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tbWFuZCA9IGYiZ3BzYmFiZWwgLXcgLXIgLXQgLWkga21sIC1mIEM6L1VzZXJzL2RpdGhvL0Rvd25sb2Fkcy9Mb2NhdGlvbkhpc3Rvcnkua21sIC14IHRyYWNrLHN0YXJ0PXtiZWdpbn0sIiBcCiAgICAgICAgICBmInN0b3A9e3N0b3B9IC1vIGdweCAtRiBDOi9Vc2Vycy9kaXRoby9Eb3dubG9hZHMvMjAxNl9tYXIuZ3B4Igo=</text>
+        <text encoding="base64">ICAgIGRmLnN0YXRlID0gZGYucmVwbGFjZSh7InN0YXRlIjogdXNfc3RhdGVfYWJicmV2fSkuc3RhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmLnN0YXRlID0gZGYucmVwbGFjZSh7InN0YXRlIjogdXNfc3RhdGVfYWJicmV2fSkuc3RhdGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHJvamVjdCBPcmdhbml6YXRpb24KLS0tLS0tLS0tLS0tCgogICAgPz8/IExJQ0VOU0UKICAgID8/PyBNYWtlZmlsZSAgICAgICAgICAgPC0gTWFrZWZpbGUgd2l0aCBjb21tYW5kcyBsaWtlIGBtYWtlIGRhdGFgIG9yIGBtYWtlIHRyYWluYAogICAgPz8/IFJFQURNRS5tZCAgICAgICAgICA8LSBUaGUgdG9wLWxldmVsIFJFQURNRSBmb3IgZGV2ZWxvcGVycyB1c2luZyB0aGlzIHByb2plY3QuCiAgICA/Pz8gZGF0YQogICAgP6CgID8/PyBleHRlcm5hbCAgICAgICA8LSBEYXRhIGZyb20gdGhpcmQgcGFydHkgc291cmNlcy4KICAgID+goCA/Pz8gaW50ZXJpbSAgICAgICAgPC0gSW50ZXJtZWRpYXRlIGRhdGEgdGhhdCBoYXMgYmVlbiB0cmFuc2Zvcm1lZC4KICAgID+goCA/Pz8gcHJvY2Vzc2VkICAgICAgPC0gVGhlIGZpbmFsLCBjYW5vbmljYWwgZGF0YSBzZXRzIGZvciBtb2RlbGluZy4KICAgID+goCA/Pz8gcmF3ICAgICAgICAgICAgPC0gVGhlIG9yaWdpbmFsLCBpbW11dGFibGUgZGF0YSBkdW1wLgogICAgPwogICAgPz8/IGRvY3MgICAgICAgICAgICAgICA8LSBBIGRlZmF1bHQgU3BoaW54IHByb2plY3Q7IHNlZSBzcGhpbngtZG9jLm9yZyBmb3IgZGV0YWlscwogICAgPwogICAgPz8/IG1vZGVscyAgICAgICAgICAgICA8LSBUcmFpbmVkIGFuZCBzZXJpYWxpemVkIG1vZGVscywgbW9kZWwgcHJlZGljdGlvbnMsIG9yIG1vZGVsIHN1bW1hcmllcwogICAgPwogICAgPz8/IG5vdGVib29rcyAgICAgICAgICA8LSBKdXB5dGVyIG5vdGVib29rcy4gTmFtaW5nIGNvbnZlbnRpb24gaXMgYSBudW1iZXIgKGZvciBvcmRlcmluZyksCiAgICA/ICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBjcmVhdG9yJ3MgaW5pdGlhbHMsIGFuZCBhIHNob3J0IGAtYCBkZWxpbWl0ZWQgZGVzY3JpcHRpb24sIGUuZy4KICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgYDEuMC1qcXAtaW5pdGlhbC1kYXRhLWV4cGxvcmF0aW9uYC4KICAgID8KICAgID8/PyByZWZlcmVuY2VzICAgICAgICAgPC0gRGF0YSBkaWN0aW9uYXJpZXMsIG1hbnVhbHMsIGFuZCBhbGwgb3RoZXIgZXhwbGFuYXRvcnkgbWF0ZXJpYWxzLgogICAgPwogICAgPz8/IHJlcG9ydHMgICAgICAgICAgICA8LSBHZW5lcmF0ZWQgYW5hbHlzaXMgYXMgSFRNTCwgUERGLCBMYVRlWCwgZXRjLgogICAgP6CgID8/PyBmaWd1cmVzICAgICAgICA8LSBHZW5lcmF0ZWQgZ3JhcGhpY3MgYW5kIGZpZ3VyZXMgdG8gYmUgdXNlZCBpbiByZXBvcnRpbmcKICAgID8KICAgID8/PyByZXF1aXJlbWVudHMudHh0ICAgPC0gVGhlIHJlcXVpcmVtZW50cyBmaWxlIGZvciByZXByb2R1Y2luZyB0aGUgYW5hbHlzaXMgZW52aXJvbm1lbnQsIGUuZy4KICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZXJhdGVkIHdpdGggYHBpcCBmcmVlemUgPiByZXF1aXJlbWVudHMudHh0YAogICAgPwogICAgPz8/IHNldHVwLnB5ICAgICAgICAgICA8LSBtYWtlcyBwcm9qZWN0IHBpcCBpbnN0YWxsYWJsZSAocGlwIGluc3RhbGwgLWUgLikgc28gc3JjIGNhbiBiZSBpbXBvcnRlZAogICAgPz8/IHNyYyAgICAgICAgICAgICAgICA8LSBTb3VyY2UgY29kZSBmb3IgdXNlIGluIHRoaXMgcHJvamVjdC4KICAgID+goCA/Pz8gX19pbml0X18ucHkgICAgPC0gTWFrZXMgc3JjIGEgUHl0aG9uIG1vZHVsZQogICAgPyAgID8KICAgID+goCA/Pz8gZGF0YSAgICAgICAgICAgPC0gU2NyaXB0cyB0byBkb3dubG9hZCBvciBnZW5lcmF0ZSBkYXRhCiAgICA/oKAgP6CgID8/PyBtYWtlX2RhdGFzZXQucHkKICAgID8gICA/CiAgICA/oKAgPz8/IGZlYXR1cmVzICAgICAgIDwtIFNjcmlwdHMgdG8gdHVybiByYXcgZGF0YSBpbnRvIGZlYXR1cmVzIGZvciBtb2RlbGluZwogICAgP6CgID+goCA/Pz8gYnVpbGRfZmVhdHVyZXMucHkKICAgID8gICA/CiAgICA/oKAgPz8/IG1vZGVscyAgICAgICAgIDwtIFNjcmlwdHMgdG8gdHJhaW4gbW9kZWxzIGFuZCB0aGVuIHVzZSB0cmFpbmVkIG1vZGVscyB0byBtYWtlCiAgICA/ICAgPyAgID8gICAgICAgICAgICAgICAgIHByZWRpY3Rpb25zCiAgICA/oKAgP6CgID8/PyBwcmVkaWN0X21vZGVsLnB5CiAgICA/oKAgP6CgID8/PyB0cmFpbl9tb2RlbC5weQogICAgPyAgID8KICAgID+goCA/Pz8gdmlzdWFsaXphdGlvbiAgPC0gU2NyaXB0cyB0byBjcmVhdGUgZXhwbG9yYXRvcnkgYW5kIHJlc3VsdHMgb3JpZW50ZWQgdmlzdWFsaXphdGlvbnMKICAgID+goCAgICAgPz8/IHZpc3VhbGl6ZS5weQogICAgPwogICAgPz8/IHRveC5pbmkgICAgICAgICAgICA8LSB0b3ggZmlsZSB3aXRoIHNldHRpbmdzIGZvciBydW5uaW5nIHRveDsgc2VlIHRveC50ZXN0cnVuLm9yZwoKCi0tLS0tLS0tCgo8cD48c21hbGw+UHJvamVjdCBiYXNlZCBvbiB0aGUgPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHBzOi8vZHJpdmVuZGF0YS5naXRodWIuaW8vY29va2llY3V0dGVyLWRhdGEtc2NpZW5jZS8iPmNvb2tpZWN1dHRlciBkYXRhIHNjaWVuY2UgcHJvamVjdCB0ZW1wbGF0ZTwvYT4uICNjb29raWVjdXR0ZXJkYXRhc2NpZW5jZTwvc21hbGw+PC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhcnQgPSAnMjAxNjAxMDEyMDAwMDAnCg==</text>
+        <text encoding="base64">Y29tbWFuZCA9IGYiZ3BzYmFiZWwgLXcgLXIgLXQgLWkga21sIC1mIEM6L1VzZXJzL2RpdGhvL0Rvd25sb2Fkcy9Mb2NhdGlvbkhpc3Rvcnkua21sIC14IHRyYWNrLHN0YXJ0PXtiZWdpbn0sIiBcCiAgICAgICAgICBmInN0b3A9e3N0b3B9IC1vIGdweCAtRiBDOi9Vc2Vycy9kaXRoby9Eb3dubG9hZHMvMjAxNl9tYXIuZ3B4Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBjb21tYW5kID0gZiJncHNiYWJlbCAtdyAtciAtdCAtaSBrbWwgLWYgQzovVXNlcnMvZGl0aG8vRG93bmxvYWRzL0xvY2F0aW9uSGlzdG9yeS5rbWwgLXggdHJhY2ssc3RhcnQ9e3N0YXJ0fSwiIFwKIyAgICAgICAgICAgZiJzdG9wPXtzdG9wfSAtbyBncHggLUYgQzovVXNlcnMvZGl0aG8vRG93bmxvYWRzLzIwMTZfbWFyLmdweCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnN0b3AgPSAyMDE3MDEwMTE5NTk1OQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIjIFRoaXMgCiAgICAgICAgICAgICAgICAiIyBUbyBjcmVhdGUgeW91ciBvd24sIGFkZCBhIG5ldyBzbmlwcGV0IGJsb2NrIHRvIHRoZSIsCiAgICAgICAgICAgICAgICAiIyBzbmlwcGV0cy5qc29uIGZpbGUgaW4geW91ciBqdXB5dGVyIGRhdGEgZGlyZWN0b3J5IHVuZGVyIG5iZXh0ZW5zaW9uczoiLAogICAgICAgICAgICAgICAgIiMgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucy9zbmlwcGV0cy9zbmlwcGV0cy5qc29uIiwKICAgICAgICAgICAgICAgICJpbXBvcnQgdGhpcyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIgCg==</text>
+        <text encoding="base64">c3RhcnQgPSAnMjAxNjAxMDEyMDAwMDAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/start/end/g</text>
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>filename</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>filename</last-pattern>
       <last-replace>end</last-replace>
       <last-substitute>start</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>start</entry>
         <entry>stop</entry>
+        <entry>filename</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
