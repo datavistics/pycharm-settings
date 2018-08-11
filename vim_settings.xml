@@ -3,137 +3,69 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4b06238-f788-47d7-a615-29082d057425/console.sql" timestamp="1516014172816">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
-        <mark key="[" line="0" column="81" />
-        <mark key="]" line="0" column="82" />
-        <mark key="." line="0" column="82" />
-        <mark key="^" line="0" column="74" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/data/get_data.py" timestamp="1516694166683">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" timestamp="1519987631580">
-        <mark key="'" line="504" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1517052552895">
-        <mark key="'" line="54" column="26" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="3" />
-        <mark key="^" line="94" column="3" />
-        <mark key="." line="94" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="6" />
-        <mark key="." line="27" column="6" />
-        <mark key="^" line="27" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/US-Bombings/Python/main.py" timestamp="1511202794406">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/final_predictions.csv" timestamp="1516950453496">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqlalchemy_declarative_cf.py" timestamp="1513169398682">
-        <mark key="[" line="8" column="72" />
-        <mark key="]" line="8" column="74" />
-        <mark key="^" line="8" column="74" />
-        <mark key="." line="8" column="74" />
-      </file>
-      <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1516020227885">
-        <mark key="'" line="1" column="24" />
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" timestamp="1516176211286">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="10" column="80" />
-        <mark key="^" line="10" column="80" />
-      </file>
-      <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
-        <mark key="[" line="1" column="56" />
-        <mark key="]" line="1" column="56" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="1" column="56" />
-      </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/features/build_features.py" timestamp="1512884391137">
+      <file name="$USER_HOME$/projects/NapkinML/requirements.txt" timestamp="1518415010072">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/data/make_dataframe.py" timestamp="1516724491158">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/.ipython/nbextensions/snippets/snippets.json" timestamp="1533486316934">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1518328859705">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="7" column="4" />
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e52baab-b461-4b44-9914-d9ef7abae794/console.sql" timestamp="1516176861086">
-        <mark key="[" line="0" column="83" />
-        <mark key="]" line="0" column="83" />
+      <file name="$USER_HOME$/Downloads/fet-5.35.2/derek_test.xml" timestamp="1519987714570">
+        <mark key="[" line="517" column="0" />
+        <mark key="]" line="530" column="29" />
+        <mark key="." line="517" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/fet-5.35.2/derek_test.fet" timestamp="1519987631580">
+        <mark key="'" line="504" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/README.md" timestamp="1516083193745">
+        <mark key="'" line="87" column="5" />
+        <mark key="[" line="27" column="99" />
+        <mark key="]" line="27" column="99" />
+        <mark key="." line="27" column="99" />
+        <mark key="^" line="27" column="99" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4b06238-f788-47d7-a615-29082d057425/console.sql" timestamp="1516014172816">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/authentication.json" timestamp="1515924418600">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/report.md" timestamp="1516950117222">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="1" column="111" />
+        <mark key="]" line="7" column="68" />
+        <mark key="." line="7" column="68" />
+        <mark key="^" line="7" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/data/SMSSpamCollection" timestamp="1516818541484">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="83" />
-      </file>
-      <file name="$USER_HOME$/projects/TravellersMap/data/ZeeMap-2787497.csv" timestamp="1511808126869">
-        <mark key="[" line="8" column="91" />
-        <mark key="]" line="8" column="91" />
-        <mark key="." line="8" column="91" />
-        <mark key="^" line="8" column="90" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/src/make_dataframe.py" timestamp="1516730010160">
         <mark key="'" line="53" column="24" />
@@ -142,55 +74,27 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/School_Schedule/.gitignore" timestamp="1520012883553">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/projects/School_Schedule/scheduler.py" timestamp="1519973900815">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/requirements.txt" timestamp="1516021262945">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/projects/InstantPot/src/features/build_features.py" timestamp="1512884391137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/authentication.json" timestamp="1515924418600">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+      <file name="$USER_HOME$/Projects/polititweet/src/data/get_data.py" timestamp="1533879422802">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="161" column="26" />
+        <mark key="]" line="161" column="40" />
+        <mark key="." line="161" column="40" />
+        <mark key="^" line="161" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/pages/Resume-backup.md" timestamp="1512742959994">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/leetcode/p0009.py" timestamp="1518940680964">
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-        <mark key="^" line="14" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1518331171378">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="49" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/leetcode/p0012.py" timestamp="1518893592978">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="16" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516695804873">
-        <mark key="'" line="68" column="16" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="81" column="86" />
-        <mark key="." line="81" column="86" />
+      <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="42" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/projects/School_Schedule/derek_test.fet" timestamp="1520014448668">
         <mark key="'" line="3834" column="23" />
@@ -199,45 +103,42 @@
         <mark key="." line="1630" column="29" />
         <mark key="^" line="1619" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/TravellersMap/node_modules/lrm-mapzen/examples/index.js" timestamp="1511886244193">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqlalchemy_declarative_cf.py" timestamp="1513169398682">
+        <mark key="[" line="8" column="72" />
+        <mark key="]" line="8" column="74" />
+        <mark key="^" line="8" column="74" />
+        <mark key="." line="8" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1516009821683">
-        <mark key="'" line="28" column="49" />
-        <mark key="[" line="39" column="43" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="43" />
-        <mark key="^" line="39" column="44" />
+      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1516007957303">
+        <mark key="'" line="2" column="60" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="89" column="18" />
+        <mark key="." line="57" column="35" />
+        <mark key="^" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" timestamp="1516703526591">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/add_regex.py" timestamp="1516176211286">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="10" column="80" />
+        <mark key="^" line="10" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_dataset.py" timestamp="1518345510915">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="44" />
+      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1517034444696">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1521189084967">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/projects/sms_spam/src/setup.py" timestamp="1516941366347">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/School_Schedule/scheduler.py" timestamp="1519973900815">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="260" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/projects/sms_spam/.gitignore" timestamp="1516944738316">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
@@ -245,35 +146,62 @@
         <mark key="." line="7" column="81" />
         <mark key="^" line="7" column="81" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bef9b620-6779-4d74-93f2-ad696736c5fe/console.sql" timestamp="1516133807603">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="100" />
-        <mark key="." line="0" column="100" />
-        <mark key="^" line="0" column="100" />
+      <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1518331171378">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="104" column="49" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/deep_learning.py" timestamp="1516914863672">
-        <mark key="'" line="82" column="37" />
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$USER_HOME$/AppData/Roaming/jupyter/nbextensions/snippets/snippets.json" timestamp="1533486832553">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="12" column="8" />
       </file>
-      <file name="C:/Program Files/Git/mingw64/etc/gitconfig" timestamp="1519715012924">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/leetcode/p0012.py" timestamp="1518893592978">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.md" timestamp="1512740048733">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="0" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4267379-d57a-4a3e-8105-0bbfd90b2b0c/console.sql" timestamp="1516656871380">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/projects/sms_spam/src/data/get_data.py" timestamp="1516694166683">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1517052552895">
+        <mark key="'" line="54" column="26" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="3" />
+        <mark key="^" line="94" column="3" />
+        <mark key="." line="94" column="3" />
+      </file>
+      <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1532916338767">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1518347717234">
+        <mark key="'" line="9" column="38" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/datavistics.github.io/scripts/google2md.py" timestamp="1533996520324">
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="16" column="52" />
+        <mark key="^" line="16" column="52" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" timestamp="1518347569404">
         <mark key="'" line="52" column="4" />
@@ -281,6 +209,25 @@
         <mark key="]" line="87" column="0" />
         <mark key="^" line="86" column="56" />
         <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/School_Schedule/.gitignore" timestamp="1520012883553">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1516020227885">
+        <mark key="'" line="1" column="24" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/leetcode/p0009.py" timestamp="1518940680964">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.log" timestamp="1518341819578">
         <mark key="'" line="2412" column="57" />
@@ -291,120 +238,25 @@
         <mark key="." line="18" column="51" />
         <mark key="^" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/FacebookUtilities/README.md" timestamp="1516083193745">
-        <mark key="'" line="87" column="5" />
-        <mark key="[" line="27" column="99" />
-        <mark key="]" line="27" column="99" />
-        <mark key="." line="27" column="99" />
-        <mark key="^" line="27" column="99" />
+      <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
+        <mark key="[" line="0" column="81" />
+        <mark key="]" line="0" column="82" />
+        <mark key="." line="0" column="82" />
+        <mark key="^" line="0" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516653370333">
+      <file name="$USER_HOME$/projects/sms_spam/src/data/make_dataframe.py" timestamp="1516724491158">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/data/raw/SMSSpamCollection" timestamp="1516703526591">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
-        <mark key="^" line="0" column="83" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/data/SMSSpamCollection" timestamp="1516818541484">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="64" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/report.md" timestamp="1516950117222">
-        <mark key="'" line="1" column="17" />
-        <mark key="[" line="1" column="111" />
-        <mark key="]" line="7" column="68" />
-        <mark key="." line="7" column="68" />
-        <mark key="^" line="7" column="68" />
-      </file>
-      <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
-        <mark key="[" line="116" column="17" />
-        <mark key="]" line="116" column="32" />
-        <mark key="." line="116" column="32" />
-        <mark key="^" line="116" column="32" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_12.json" timestamp="1518344882258">
-        <mark key="'" line="0" column="12396" />
-      </file>
-      <file name="/dummy.sql" timestamp="1516656918566">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/setup.py" timestamp="1516941366347">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1520058318323">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1530966350197">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/projects/NapkinML/requirements.txt" timestamp="1518415010072">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" timestamp="1516647926722">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/README.md" timestamp="1516013752298">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="99" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1518347717234">
-        <mark key="'" line="9" column="38" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.md" timestamp="1512740048733">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="11" column="77" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Downloads/fet-5.35.2/derek_test.xml" timestamp="1519987714570">
-        <mark key="[" line="517" column="0" />
-        <mark key="]" line="530" column="29" />
-        <mark key="." line="517" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/InstantPot/src/data/sqlalchemy_declarative.py" timestamp="1516007957303">
-        <mark key="'" line="2" column="60" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="89" column="18" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="87" column="0" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/dvr_facebook_group_analysis_and_visualization.ipynb-meta" timestamp="1511526131896">
         <mark key="[" line="5" column="9" />
@@ -412,48 +264,24 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/sms_spam/src/models/utilities.py" timestamp="1516723636531">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="6" column="52" />
-        <mark key="." line="5" column="5" />
+      <file name="$USER_HOME$/Projects/polititweet/gpsbabel_date_formatter.py" timestamp="1533822091051">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/US-Bombings/map/table.css" timestamp="1512647219558">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/TravellersMap/data/ZeeMap-2787497.csv" timestamp="1511808126869">
+        <mark key="[" line="8" column="91" />
+        <mark key="]" line="8" column="91" />
+        <mark key="." line="8" column="91" />
+        <mark key="^" line="8" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/features/prediction.py" timestamp="1516533189545">
-        <mark key="'" line="4" column="3" />
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="29" column="58" />
-        <mark key="." line="29" column="57" />
-        <mark key="^" line="29" column="56" />
-      </file>
-      <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
-        <mark key="[" line="189" column="13" />
-        <mark key="]" line="189" column="111" />
-        <mark key="." line="189" column="24" />
-        <mark key="^" line="189" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/requirements.txt" timestamp="1517034444696">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/.gitignore" timestamp="1516944738316">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/leetcode/p0014.py" timestamp="1518894515081">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="7" />
+      <file name="$USER_HOME$/projects/sms_spam/src/deep_learning.py" timestamp="1516914863672">
+        <mark key="'" line="82" column="37" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/make_database.py" timestamp="1516656301797">
         <mark key="'" line="43" column="15" />
@@ -462,11 +290,228 @@
         <mark key="^" line="26" column="67" />
         <mark key="." line="26" column="67" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bef9b620-6779-4d74-93f2-ad696736c5fe/console.sql" timestamp="1516133807603">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="100" />
+        <mark key="." line="0" column="100" />
+        <mark key="^" line="0" column="100" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4267379-d57a-4a3e-8105-0bbfd90b2b0c/console.sql" timestamp="1516656871380">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/data/raw/2018_01_12.json" timestamp="1518344882258">
+        <mark key="'" line="0" column="12396" />
+      </file>
+      <file name="/Python Console" timestamp="1521189084967">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="1" column="56" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/prediction.py" timestamp="1516533189545">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="29" column="58" />
+        <mark key="." line="29" column="57" />
+        <mark key="^" line="29" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/map/table.css" timestamp="1512647219558">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/yelp_cedar_rapids/src/data/data_cleaning.py" timestamp="1516647926722">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+      </file>
+      <file name="C:/Program Files/Git/mingw64/etc/gitconfig" timestamp="1519715012924">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbcd4473-c66e-4424-871c-61f7c8f87411/console.sql" timestamp="1516653370333">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="83" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
+        <mark key="[" line="189" column="13" />
+        <mark key="]" line="189" column="111" />
+        <mark key="." line="189" column="24" />
+        <mark key="^" line="189" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/Insight_DS/requirements.txt" timestamp="1515922079502">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/polititweet/README.md" timestamp="1533878937496">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+        <mark key="^" line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/get_comment_and_reaction_data.py" timestamp="1516009821683">
+        <mark key="'" line="28" column="49" />
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="44" />
+      </file>
+      <file name="/dummy.sql" timestamp="1516656918566">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/datavistics.github.io/requirements.txt" timestamp="1533996071077">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="99" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1533995993353">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1533995898217">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="260" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e52baab-b461-4b44-9914-d9ef7abae794/console.sql" timestamp="1516176861086">
+        <mark key="[" line="0" column="83" />
+        <mark key="]" line="0" column="83" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="83" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/src/models/utilities.py" timestamp="1516723636531">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="6" column="52" />
+        <mark key="." line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/requirements.txt" timestamp="1516021262945">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/leetcode/p0014.py" timestamp="1518894515081">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/polititweet/requirements.txt" timestamp="1533879040790">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516695804873">
+        <mark key="'" line="68" column="16" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="81" column="86" />
+        <mark key="." line="81" column="86" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/README.md" timestamp="1516013752298">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
+        <mark key="[" line="116" column="17" />
+        <mark key="]" line="116" column="32" />
+        <mark key="." line="116" column="32" />
+        <mark key="^" line="116" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/final_predictions.csv" timestamp="1516950453496">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1518328859705">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/datavistics.github.io/content/pages/Resume-backup.md" timestamp="1512742959994">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -589,8 +634,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
+      <register name="&quot;" type="4">
+        <text>f6207de3c7ab</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -631,7 +676,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>workspace</text>
+        <text>f6207de3c7ab</text>
       </register>
       <register name="/" type="4">
         <text>95</text>
@@ -681,76 +726,44 @@
     </search>
     <history>
       <history-search>
-        <entry>sample</entry>
-        <entry>np</entry>
-        <entry>use</entry>
-        <entry>doub</entry>
-        <entry>max_len</entry>
-        <entry>see</entry>
-        <entry>and</entry>
-        <entry>gitkeep</entry>
-        <entry>1200</entry>
-        <entry>list</entry>
-        <entry>edited</entry>
-        <entry>out</entry>
-        <entry>self</entry>
-        <entry>25</entry>
-        <entry>native</entry>
-        <entry>subg</entry>
-        <entry>teacher</entry>
-        <entry encoding="base64">PA==</entry>
-        <entry>PA 1</entry>
-        <entry>95</entry>
+        <entry>start</entry>
+        <entry>stop</entry>
+        <entry>filename</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorSelectWord</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR3VpRGVzaWduZXIuUXVpY2tKYXZhZG9j</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVwbGFjZQ==</entry>
-        <entry>so $MYVIMRC</entry>
-        <entry>source %</entry>
-        <entry>so %</entry>
-        <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYyA=</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU2F2ZUFsbA==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
-        <entry>action $SelectAll</entry>
-        <entry>action Find</entry>
-        <entry>nohl</entry>
-        <entry>709</entry>
-        <entry>action Replace</entry>
-        <entry>1629</entry>
-        <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
+        <entry>s/start/end/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
@@ -775,9 +788,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
