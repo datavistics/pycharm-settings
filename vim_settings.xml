@@ -74,9 +74,6 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/School_Schedule/scheduler.py" timestamp="1519973900815">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/datavistics.github.io/fabfile.py" timestamp="1533998141235">
         <mark key="[" line="24" column="114" />
         <mark key="]" line="24" column="114" />
@@ -409,7 +406,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/datavistics.github.io/requirements.txt" timestamp="1533998172789">
+      <file name="$USER_HOME$/Projects/datavistics.github.io/requirements.txt" timestamp="1534006643816">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="7" />
         <mark key="^" line="14" column="7" />
@@ -516,6 +513,11 @@
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/datavistics.github.io/.gitmodules" timestamp="1534006348054">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1518328859705">
         <mark key="[" line="7" column="5" />
@@ -650,8 +652,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 'readings'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -701,31 +703,31 @@
         <text encoding="base64">QVJUSUNMRV9QQVRIUyA9IFsnYXJ0aWNsZXMnLCAncmVhZGluZ3MnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
+        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rml4ZWQgY29uc3RyYWludHMgdG8gYmUgYmFjayB0byBiYWNrLgpDdXJyZW50IGVycm9yIHdpdGggQXJhYmljIHRlYWNoZXJzIEdyYWRlIDRLSkpKSgo=</text>
+        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
+        <text encoding="base64">Rml4ZWQgY29uc3RyYWludHMgdG8gYmUgYmFjayB0byBiYWNrLgpDdXJyZW50IGVycm9yIHdpdGggQXJhYmljIHRlYWNoZXJzIEdyYWRlIDRLSkpKSgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
+        <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VXBkYXRlZCBmb3IgLmlkZWEK</text>
+        <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SW5pdGlhbCBjb21taXRkZAo=</text>
+        <text encoding="base64">VXBkYXRlZCBmb3IgLmlkZWEK</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
