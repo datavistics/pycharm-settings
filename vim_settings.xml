@@ -77,6 +77,12 @@
       <file name="$USER_HOME$/projects/School_Schedule/scheduler.py" timestamp="1519973900815">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/datavistics.github.io/fabfile.py" timestamp="1533998141235">
+        <mark key="[" line="24" column="114" />
+        <mark key="]" line="24" column="114" />
+        <mark key="." line="24" column="114" />
+        <mark key="^" line="25" column="89" />
+      </file>
       <file name="$USER_HOME$/projects/InstantPot/src/features/build_features.py" timestamp="1512884391137">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -403,14 +409,24 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/datavistics.github.io/requirements.txt" timestamp="1533996071077">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/datavistics.github.io/requirements.txt" timestamp="1533998172789">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="99" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/datavistics.github.io/pelicanconf.py" timestamp="1533998362597">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1533995993353">
         <mark key="[" line="0" column="0" />
@@ -515,7 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="806" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="826" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="846" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="866" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -615,6 +630,7 @@
       <jump line="3834" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="24" column="16" filename="$USER_HOME$/projects/natural-language-processing/sandbox.py" />
       <jump line="4" column="10" filename="$USER_HOME$/projects/natural-language-processing/sandbox.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/datavistics.github.io/pelicanconf.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -635,7 +651,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f6207de3c7ab</text>
+        <text>, 'readings'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -676,13 +692,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f6207de3c7ab</text>
+        <text>, 'readings'</text>
       </register>
       <register name="/" type="4">
-        <text>95</text>
+        <text>readings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">QVJUSUNMRV9QQVRIUyA9IFsnYXJ0aWNsZXMnLCAncmVhZGluZ3MnXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
@@ -716,9 +732,9 @@
       </register>
     </registers>
     <search>
-      <last-search>95</last-search>
+      <last-search>readings</last-search>
       <last-offset />
-      <last-pattern>95</last-pattern>
+      <last-pattern>readings</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -729,6 +745,7 @@
         <entry>start</entry>
         <entry>stop</entry>
         <entry>filename</entry>
+        <entry>readings</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
