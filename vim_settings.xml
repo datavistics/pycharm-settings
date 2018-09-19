@@ -403,6 +403,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/retrofitting/.gitignore" timestamp="1537369698805">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="56" column="5" />
+        <mark key="^" line="56" column="5" />
+        <mark key="." line="56" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="99" />
@@ -416,7 +422,7 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535908028088">
+      <file name="/Dummy.txt" timestamp="1537369654926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="34" />
@@ -438,6 +444,12 @@
         <mark key="]" line="3" column="260" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/retrofitting/retrofit.py" timestamp="1537370204960">
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="34" />
+        <mark key="^" line="50" column="41" />
+        <mark key="." line="40" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9e52baab-b461-4b44-9914-d9ef7abae794/console.sql" timestamp="1516176861086">
         <mark key="[" line="0" column="83" />
@@ -643,8 +655,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
+      <register name="&quot;" type="4">
+        <text>iter</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -685,7 +697,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'readings'</text>
+        <text>iter</text>
       </register>
       <register name="/" type="4">
         <text>readings</text>
@@ -694,34 +706,34 @@
         <text encoding="base64">QVJUSUNMRV9QQVRIUyA9IFsnYXJ0aWNsZXMnLCAncmVhZGluZ3MnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
+        <text encoding="base64">JycnIFJlYWQgYWxsIHRoZSB3b3JkIHZlY3RvcnMgYW5kIG5vcm1hbGl6ZSB0aGVtICcnJwoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
+        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Rml4ZWQgY29uc3RyYWludHMgdG8gYmUgYmFjayB0byBiYWNrLgpDdXJyZW50IGVycm9yIHdpdGggQXJhYmljIHRlYWNoZXJzIEdyYWRlIDRLSkpKSgo=</text>
+        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
+        <text encoding="base64">Rml4ZWQgY29uc3RyYWludHMgdG8gYmUgYmFjayB0byBiYWNrLgpDdXJyZW50IGVycm9yIHdpdGggQXJhYmljIHRlYWNoZXJzIEdyYWRlIDRLSkpKSgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
+        <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VXBkYXRlZCBmb3IgLmlkZWEK</text>
+        <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>51</text>
       </register>
     </registers>
     <search>
@@ -743,6 +755,7 @@
       <history-cmd>
         <entry>w</entry>
         <entry>s/start/end/g</entry>
+        <entry>51</entry>
       </history-cmd>
       <history-expr />
       <history-input />
