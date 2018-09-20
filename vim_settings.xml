@@ -210,6 +210,12 @@
         <mark key="^" line="86" column="56" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/ideavimrc" timestamp="1537460720994">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/School_Schedule/.gitignore" timestamp="1520012883553">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="7" column="18" />
@@ -656,7 +662,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>iter</text>
+        <text>r</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -697,13 +703,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>iter</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>readings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVJUSUNMRV9QQVRIUyA9IFsnYXJ0aWNsZXMnLCAncmVhZGluZ3MnXQo=</text>
+        <text encoding="base64">aW1hcCBqaiA8RXNjPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JycnIFJlYWQgYWxsIHRoZSB3b3JkIHZlY3RvcnMgYW5kIG5vcm1hbGl6ZSB0aGVtICcnJwoKCg==</text>
@@ -733,7 +739,7 @@
         <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
       </register>
       <register name=":" type="4">
-        <text>51</text>
+        <text>so %</text>
       </register>
     </registers>
     <search>
@@ -756,6 +762,7 @@
         <entry>w</entry>
         <entry>s/start/end/g</entry>
         <entry>51</entry>
+        <entry>so %</entry>
       </history-cmd>
       <history-expr />
       <history-input />
