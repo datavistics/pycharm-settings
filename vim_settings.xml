@@ -210,11 +210,11 @@
         <mark key="^" line="86" column="56" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/ideavimrc" timestamp="1537460720994">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
+      <file name="$USER_HOME$/ideavimrc" timestamp="1537460875233">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/projects/School_Schedule/.gitignore" timestamp="1520012883553">
         <mark key="[" line="8" column="6" />
@@ -739,7 +739,7 @@
         <text encoding="base64">R3JhZGUgMyBpcyBjb21wbGV0ZWx5IGRvbmUuCkFsc28gYWRkZWQgUEUgcm9vbSBjb25zdHJhaW50cy4K</text>
       </register>
       <register name=":" type="4">
-        <text>so %</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -763,6 +763,10 @@
         <entry>s/start/end/g</entry>
         <entry>51</entry>
         <entry>so %</entry>
+        <entry>so ~/.ideavimrc</entry>
+        <entry>so ~/ideavimrc</entry>
+        <entry>action SaveAll</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
