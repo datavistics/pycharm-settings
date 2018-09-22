@@ -305,12 +305,6 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1521189084967">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
@@ -486,6 +480,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/retrofit/test.py" timestamp="1537631627161">
+        <mark key="[" line="1" column="105" />
+        <mark key="]" line="1" column="106" />
+        <mark key="^" line="1" column="104" />
+        <mark key="." line="1" column="106" />
       </file>
       <file name="$USER_HOME$/Projects/polititweet/requirements.txt" timestamp="1533879040790">
         <mark key="[" line="1" column="6" />
@@ -666,8 +666,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIiLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMi43JywK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -708,7 +708,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>readings</text>
@@ -744,7 +744,7 @@
         <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSelectWord</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -774,6 +774,7 @@
         <entry>action $SelectAll</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
