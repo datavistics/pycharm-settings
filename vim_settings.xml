@@ -64,6 +64,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/sms_spam/src/make_dataframe.py" timestamp="1516730010160">
         <mark key="'" line="53" column="24" />
         <mark key="[" line="6" column="37" />
@@ -422,10 +427,11 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/retrofit/setup.py" timestamp="1537516472801">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Projects/retrofit/setup.py" timestamp="1537633357554">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="43" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1537369654926">
         <mark key="[" line="0" column="0" />
@@ -481,11 +487,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/retrofit/test.py" timestamp="1537631627161">
-        <mark key="[" line="1" column="105" />
-        <mark key="]" line="1" column="106" />
-        <mark key="^" line="1" column="104" />
-        <mark key="." line="1" column="106" />
+      <file name="$USER_HOME$/Projects/retrofit/test.py" timestamp="1537633049556">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/polititweet/requirements.txt" timestamp="1533879040790">
         <mark key="[" line="1" column="6" />
@@ -666,8 +671,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIDIuNwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -717,31 +722,31 @@
         <text encoding="base64">aW1hcCBqaiA8RXNjPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIiLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMi43JywK</text>
+        <text encoding="base64">ICAtIDIuNwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JycnIFJlYWQgYWxsIHRoZSB3b3JkIHZlY3RvcnMgYW5kIG5vcm1hbGl6ZSB0aGVtICcnJwoKCg==</text>
+        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCo7cHJpbnQoIllvdXIgYW5zd2VyIGlzOiIscm91bmQobG9nKGludChpbnB1dCgiUGxlYXNlIGVudGVyIGEgbnVtYmVyIHRvIGdldCB0aGUgbG9nIG9mOiAiKSkpLDIpKQpmcm9tIG1hdGggaW1wb3J0KjtwcmludChmIllvdXIgYW5zd2VyIGlzOiB7bG9nKGludChpbnB1dCgnUGxlYXNlIGVudGVyIGEgbnVtYmVyIHRvIGdldCB0aGUgbG9nIG9mOiAnKSkpOi4zfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
+        <text encoding="base64">ICAgICAgICAiUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIiLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMi43JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
+        <text encoding="base64">JycnIFJlYWQgYWxsIHRoZSB3b3JkIHZlY3RvcnMgYW5kIG5vcm1hbGl6ZSB0aGVtICcnJwoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Rml4ZWQgY29uc3RyYWludHMgdG8gYmUgYmFjayB0byBiYWNrLgpDdXJyZW50IGVycm9yIHdpdGggQXJhYmljIHRlYWNoZXJzIEdyYWRlIDRLSkpKSgo=</text>
+        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VXBkYXRlZCBuYW1lcyBmb3IgQXJhYmljCg==</text>
+        <text encoding="base64">VXBkYXRlZCBmaWxlbmFtZSwgYWRkZWQgc2Nob29sIGluZm9ybWF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
