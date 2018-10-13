@@ -16,10 +16,10 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539418345919">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
+      <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
@@ -57,11 +57,12 @@
         <mark key="." line="7" column="81" />
         <mark key="^" line="7" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/pyGAT/gcn_utils.py" timestamp="1539423128378">
-        <mark key="[" line="52" column="18" />
-        <mark key="]" line="52" column="18" />
-        <mark key="^" line="49" column="27" />
-        <mark key="." line="52" column="18" />
+      <file name="$USER_HOME$/Projects/pyGAT/gcn_utils.py" timestamp="1539425941783">
+        <mark key="'" line="42" column="68" />
+        <mark key="[" line="49" column="78" />
+        <mark key="]" line="43" column="6" />
+        <mark key="^" line="43" column="6" />
+        <mark key="." line="43" column="6" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/populate_database.py" timestamp="1518331171378">
         <mark key="[" line="103" column="0" />
@@ -173,7 +174,7 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1539419961512">
+      <file name="/Python Console" timestamp="1539426018007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
@@ -272,12 +273,12 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/pyGAT/train.py" timestamp="1539422949648">
+      <file name="$USER_HOME$/Projects/pyGAT/train.py" timestamp="1539425791726">
         <mark key="'" line="53" column="54" />
         <mark key="[" line="28" column="52" />
         <mark key="]" line="28" column="52" />
         <mark key="." line="28" column="52" />
-        <mark key="^" line="14" column="3" />
+        <mark key="^" line="28" column="52" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
         <mark key="[" line="14" column="0" />
@@ -545,6 +546,13 @@
         <mark key="^" line="50" column="41" />
         <mark key="." line="40" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/text_gcn/utils.py" timestamp="1539424559323">
+        <mark key="'" line="140" column="18" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="138" column="18" />
+        <mark key="^" line="138" column="18" />
+        <mark key="." line="138" column="18" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="99" />
@@ -594,26 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="991" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1011" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1031" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1051" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1072" column="4" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1091" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1111" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1131" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1151" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1171" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="83" column="9" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="85" column="19" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="89" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="93" column="19" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="97" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="101" column="19" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="105" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="232" column="10" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="237" column="14" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="253" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="254" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="255" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="256" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -694,6 +682,26 @@
       <jump line="53" column="54" filename="$USER_HOME$/Projects/pyGAT/train.py" />
       <jump line="104" column="4" filename="$USER_HOME$/Projects/pyGAT/text_gcn_utils.py" />
       <jump line="44" column="22" filename="$USER_HOME$/Projects/pyGAT/train.py" />
+      <jump line="140" column="18" filename="$USER_HOME$/Projects/text_gcn/utils.py" />
+      <jump line="9" column="30" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="49" column="51" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="56" column="81" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="59" column="7" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="60" column="23" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="103" column="20" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="24" column="14" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="26" column="30" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="31" column="27" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="34" column="60" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="41" column="11" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
+      <jump line="42" column="68" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -714,7 +722,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -755,49 +763,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>prep</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdHMuYXBwZW5kKHBrbC5sb2FkKGYpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdHJhaW5fbWFzayA9IHNhbXBsZV9tYXNrKGlkeF90cmFpbiwgbGFiZWxzLnNoYXBlWzBdKQogICAgIyB2YWxfbWFzayA9IHNhbXBsZV9tYXNrKGlkeF92YWwsIGxhYmVscy5zaGFwZVswXSkKICAgICMgdGVzdF9tYXNrID0gc2FtcGxlX21hc2soaWR4X3Rlc3QsIGxhYmVscy5zaGFwZVswXSkKICAgICMKICAgICMgeV90cmFpbiA9IG5wLnplcm9zKGxhYmVscy5zaGFwZSkKICAgICMgeV92YWwgPSBucC56ZXJvcyhsYWJlbHMuc2hhcGUpCiAgICAjIHlfdGVzdCA9IG5wLnplcm9zKGxhYmVscy5zaGFwZSkKICAgICMgeV90cmFpblt0cmFpbl9tYXNrLCA6XSA9IGxhYmVsc1t0cmFpbl9tYXNrLCA6XQogICAgIyB5X3ZhbFt2YWxfbWFzaywgOl0gPSBsYWJlbHNbdmFsX21hc2ssIDpdCiAgICAjIHlfdGVzdFt0ZXN0X21hc2ssIDpdID0gbGFiZWxzW3Rlc3RfbWFzaywgOl0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdHMuYXBwZW5kKHBrbC5sb2FkKGYpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdHJhaW5pbmcgbm9kZXMgYXJlIHRyYWluaW5nIGRvY3MsIG5vIGluaXRpYWwgZmVhdHVyZXMKICAgICMgcHJpbnQoIng6ICIsIHgpCiAgICAjIHRlc3Qgbm9kZXMgYXJlIHRyYWluaW5nIGRvY3MsIG5vIGluaXRpYWwgZmVhdHVyZXMKICAgICMgcHJpbnQoInR4OiAiLCB0eCkKICAgICMgYm90aCBsYWJlbGVkIGFuZCB1bmxhYmVsZWQgdHJhaW5pbmcgaW5zdGFuY2VzIGFyZSB0cmFpbmluZyBkb2NzIGFuZCB3b3JkcwogICAgIyBwcmludCgiYWxseDogIiwgYWxseCkKICAgICMgdHJhaW5pbmcgbGFiZWxzIGFyZSB0cmFpbmluZyBkb2MgbGFiZWxzCiAgICAjIHByaW50KCJ5OiAiLCB5KQogICAgIyB0ZXN0IGxhYmVscyBhcmUgdGVzdCBkb2MgbGFiZWxzCiAgICAjIHByaW50KCJ0eTogIiwgdHkpCiAgICAjIGFsbHkgYXJlIGxhYmVscyBmb3IgbGFiZWxzIGZvciBhbGx4LCBzb21lIHdpbGwgbm90IGhhdmUgbGFiZWxzLCBpLmUuLCBhbGwgMAogICAgIyBwcmludCgiYWxseTogXG4iKQogICAgIyBmb3IgaSBpbiBhbGx5OgogICAgIyBpZihzdW0oaSkgPT0gMCk6CiAgICAjIHByaW50KGkpCiAgICAjIGdyYXBoIGVkZ2Ugd2VpZ2h0IGlzIHRoZSB3b3JkIGNvLW9jY3VyZW5jZSBvciBkb2Mgd29yZCBmcmVxdWVuY3kKICAgICMgbm8gbmVlZCB0byBidWlsZCBtYXAsIGRpcmVjdGx5IGJ1aWxkIGNzcl9tYXRyaXgKICAgICMgcHJpbnQoJ2dyYXBoIDogJywgZ3JhcGgpCgo=</text>
+        <text encoding="base64">ICAgICMgdHJhaW5fbWFzayA9IHNhbXBsZV9tYXNrKGlkeF90cmFpbiwgbGFiZWxzLnNoYXBlWzBdKQogICAgIyB2YWxfbWFzayA9IHNhbXBsZV9tYXNrKGlkeF92YWwsIGxhYmVscy5zaGFwZVswXSkKICAgICMgdGVzdF9tYXNrID0gc2FtcGxlX21hc2soaWR4X3Rlc3QsIGxhYmVscy5zaGFwZVswXSkKICAgICMKICAgICMgeV90cmFpbiA9IG5wLnplcm9zKGxhYmVscy5zaGFwZSkKICAgICMgeV92YWwgPSBucC56ZXJvcyhsYWJlbHMuc2hhcGUpCiAgICAjIHlfdGVzdCA9IG5wLnplcm9zKGxhYmVscy5zaGFwZSkKICAgICMgeV90cmFpblt0cmFpbl9tYXNrLCA6XSA9IGxhYmVsc1t0cmFpbl9tYXNrLCA6XQogICAgIyB5X3ZhbFt2YWxfbWFzaywgOl0gPSBsYWJlbHNbdmFsX21hc2ssIDpdCiAgICAjIHlfdGVzdFt0ZXN0X21hc2ssIDpdID0gbGFiZWxzW3Rlc3RfbWFzaywgOl0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICMgdHJhaW5pbmcgbm9kZXMgYXJlIHRyYWluaW5nIGRvY3MsIG5vIGluaXRpYWwgZmVhdHVyZXMKICAgICMgcHJpbnQoIng6ICIsIHgpCiAgICAjIHRlc3Qgbm9kZXMgYXJlIHRyYWluaW5nIGRvY3MsIG5vIGluaXRpYWwgZmVhdHVyZXMKICAgICMgcHJpbnQoInR4OiAiLCB0eCkKICAgICMgYm90aCBsYWJlbGVkIGFuZCB1bmxhYmVsZWQgdHJhaW5pbmcgaW5zdGFuY2VzIGFyZSB0cmFpbmluZyBkb2NzIGFuZCB3b3JkcwogICAgIyBwcmludCgiYWxseDogIiwgYWxseCkKICAgICMgdHJhaW5pbmcgbGFiZWxzIGFyZSB0cmFpbmluZyBkb2MgbGFiZWxzCiAgICAjIHByaW50KCJ5OiAiLCB5KQogICAgIyB0ZXN0IGxhYmVscyBhcmUgdGVzdCBkb2MgbGFiZWxzCiAgICAjIHByaW50KCJ0eTogIiwgdHkpCiAgICAjIGFsbHkgYXJlIGxhYmVscyBmb3IgbGFiZWxzIGZvciBhbGx4LCBzb21lIHdpbGwgbm90IGhhdmUgbGFiZWxzLCBpLmUuLCBhbGwgMAogICAgIyBwcmludCgiYWxseTogXG4iKQogICAgIyBmb3IgaSBpbiBhbGx5OgogICAgIyBpZihzdW0oaSkgPT0gMCk6CiAgICAjIHByaW50KGkpCiAgICAjIGdyYXBoIGVkZ2Ugd2VpZ2h0IGlzIHRoZSB3b3JkIGNvLW9jY3VyZW5jZSBvciBkb2Mgd29yZCBmcmVxdWVuY3kKICAgICMgbm8gbmVlZCB0byBidWlsZCBtYXAsIGRpcmVjdGx5IGJ1aWxkIGNzcl9tYXRyaXgKICAgICMgcHJpbnQoJ2dyYXBoIDogJywgZ3JhcGgpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkaiA9IHRvcmNoLkZsb2F0VGVuc29yKG5wLmFycmF5KGFkai50b2RlbnNlKCkpKQogICAgZmVhdHVyZXMgPSB0b3JjaC5GbG9hdFRlbnNvcihucC5hcnJheShmZWF0dXJlcy50b2RlbnNlKCkpKQogICAgbGFiZWxzID0gdG9yY2guTG9uZ1RlbnNvcihucC53aGVyZShsYWJlbHMpWzFdKQo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkaiA9IHRvcmNoLkZsb2F0VGVuc29yKG5wLmFycmF5KGFkai50b2RlbnNlKCkpKQogICAgZmVhdHVyZXMgPSB0b3JjaC5GbG9hdFRlbnNvcihucC5hcnJheShmZWF0dXJlcy50b2RlbnNlKCkpKQogICAgbGFiZWxzID0gdG9yY2guTG9uZ1RlbnNvcihucC53aGVyZShsYWJlbHMpWzFdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhZGosIGZlYXR1cmVzLCB5X3RyYWluLCB5X3ZhbCwgeV90ZXN0LCB0cmFpbl9tYXNrLCB2YWxfbWFzaywgdGVzdF9tYXNrCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhZGosIGZlYXR1cmVzLCB5X3RyYWluLCB5X3ZhbCwgeV90ZXN0LCB0cmFpbl9tYXNrLCB2YWxfbWFzaywgdGVzdF9tYXNrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIDIuNwo=</text>
+        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>prep</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>prep</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -811,6 +819,8 @@
         <entry>readings</entry>
         <entry>label</entry>
         <entry>prep</entry>
+        <entry>latin</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>s/start/end/g</entry>
