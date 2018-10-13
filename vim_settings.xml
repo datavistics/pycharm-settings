@@ -22,10 +22,10 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/pyGAT/utils.py" timestamp="1539273182614">
-        <mark key="'" line="71" column="31" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="44" />
+      <file name="$USER_HOME$/Projects/pyGAT/utils.py" timestamp="1539418393969">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="39" column="50" />
         <mark key="." line="28" column="44" />
         <mark key="^" line="28" column="44" />
       </file>
@@ -35,7 +35,6 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/pyGAT/models.py" timestamp="1539277276924" />
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/bomb.geojson" timestamp="1512637640422">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -66,10 +65,11 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539279464556">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="8" column="2" />
+      <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539418345919">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/report.md" timestamp="1516950117222">
         <mark key="'" line="1" column="17" />
@@ -182,6 +182,13 @@
         <mark key="]" line="104" column="49" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pyGAT/text_gcn_utils.py" timestamp="1539418489312">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="102" column="39" />
+        <mark key="]" line="103" column="3" />
+        <mark key="." line="103" column="3" />
+        <mark key="^" line="103" column="3" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/jupyter/nbextensions/snippets/snippets.json" timestamp="1533486832553">
         <mark key="[" line="3" column="22" />
@@ -538,6 +545,13 @@
         <mark key="." line="116" column="32" />
         <mark key="^" line="116" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/pyGAT/train.py" timestamp="1539418936674">
+        <mark key="'" line="53" column="54" />
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="53" column="54" />
+        <mark key="." line="53" column="54" />
+        <mark key="^" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -574,11 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="846" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="866" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="886" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="906" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="926" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="951" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="971" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="991" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -674,6 +683,11 @@
       <jump line="4" column="10" filename="$USER_HOME$/projects/natural-language-processing/sandbox.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/datavistics.github.io/pelicanconf.py" />
       <jump line="71" column="31" filename="$USER_HOME$/Projects/pyGAT/utils.py" />
+      <jump line="88" column="13" filename="$USER_HOME$/Projects/pyGAT/text_gcn_utils.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/Projects/pyGAT/text_gcn_utils.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Projects/pyGAT/text_gcn_utils.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/pyGAT/utils.py" />
+      <jump line="53" column="54" filename="$USER_HOME$/Projects/pyGAT/train.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -693,8 +707,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -735,49 +749,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSBhZGogKyA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>readings</text>
+        <text>label</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1hcCBqaiA8RXNjPgo=</text>
+        <text encoding="base64">aW1wb3J0IGdjbl91dGlscwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIDIuNwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhZGosIGZlYXR1cmVzLCB5X3RyYWluLCB5X3ZhbCwgeV90ZXN0LCB0cmFpbl9tYXNrLCB2YWxfbWFzaywgdGVzdF9tYXNrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCo7cHJpbnQoIllvdXIgYW5zd2VyIGlzOiIscm91bmQobG9nKGludChpbnB1dCgiUGxlYXNlIGVudGVyIGEgbnVtYmVyIHRvIGdldCB0aGUgbG9nIG9mOiAiKSkpLDIpKQpmcm9tIG1hdGggaW1wb3J0KjtwcmludChmIllvdXIgYW5zd2VyIGlzOiB7bG9nKGludChpbnB1dCgnUGxlYXNlIGVudGVyIGEgbnVtYmVyIHRvIGdldCB0aGUgbG9nIG9mOiAnKSkpOi4zfSIpCg==</text>
+        <text encoding="base64">ICAgIC0gc2NpcHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIiLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMi43JywK</text>
+        <text encoding="base64">ICAtIDIuNwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JycnIFJlYWQgYWxsIHRoZSB3b3JkIHZlY3RvcnMgYW5kIG5vcm1hbGl6ZSB0aGVtICcnJwoKCg==</text>
+        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCo7cHJpbnQoIllvdXIgYW5zd2VyIGlzOiIscm91bmQobG9nKGludChpbnB1dCgiUGxlYXNlIGVudGVyIGEgbnVtYmVyIHRvIGdldCB0aGUgbG9nIG9mOiAiKSkpLDIpKQpmcm9tIG1hdGggaW1wb3J0KjtwcmludChmIllvdXIgYW5zd2VyIGlzOiB7bG9nKGludChpbnB1dCgnUGxlYXNlIGVudGVyIGEgbnVtYmVyIHRvIGdldCB0aGUgbG9nIG9mOiAnKSkpOi4zfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
+        <text encoding="base64">ICAgICAgICAiUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDIiLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMi43JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
+        <text encoding="base64">JycnIFJlYWQgYWxsIHRoZSB3b3JkIHZlY3RvcnMgYW5kIG5vcm1hbGl6ZSB0aGVtICcnJwoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKcmFuZG9tLmNob2ljZXMoKQoKCg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAicGx1Z2lucy9pcHluYiJdCglwYXRoID0gcGx1Z2lucy9pcHluYgoJdXJsID0gZ2l0Oi8vZ2l0aHViLmNvbS9kYW5pZWxmcmcvcGVsaWNhbi1pcHluYi5naXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QmFsYW5jZWQgQXJhYmljIFRlYWNoZXIgbWlzbWF0Y2ghISEK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQoKdG90YWxfaGVhZHMgPSAwCnRvdGFsX3RhaWxzID0gMApsaXN0ID0gW11nZwpjb3VudCA9IDAKCgp3aGlsZSBjb3VudCA8IDEwMDoKCiAgICBjb2luID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKCiAgICBpZiBjb2luID09IDE6CiAgICAgICAgcHJpbnQoIkhlYWRzIVxuIikKICAgICAgICB0b3RhbF9oZWFkcyArPSAxCiAgICAgICAgY291bnQgKz0gMQoKICAgIGVsaWYgY29pbiA9PSAyOgogICAgICAgIHByaW50KCJUYWlscyFcbiIpCiAgICAgICAgdG90YWxfdGFpbHMgKz0gMQogICAgICAgIGNvdW50ICs9IDEK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>readings</last-search>
+      <last-search>label</last-search>
       <last-offset />
-      <last-pattern>readings</last-pattern>
+      <last-pattern>label</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -789,9 +803,9 @@
         <entry>stop</entry>
         <entry>filename</entry>
         <entry>readings</entry>
+        <entry>label</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>s/start/end/g</entry>
         <entry>51</entry>
         <entry>so %</entry>
@@ -801,8 +815,9 @@
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
         <entry>action $Paste</entry>
-        <entry>action SaveAll</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
