@@ -46,10 +46,10 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/text_gcn/build_graph.py" timestamp="1540044772010">
+      <file name="$USER_HOME$/Projects/text_gcn/build_graph.py" timestamp="1540049378714">
         <mark key="'" line="23" column="17" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="58" />
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="375" column="37" />
         <mark key="^" line="491" column="13" />
         <mark key="." line="491" column="13" />
       </file>
@@ -271,10 +271,11 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/text_gcn/build_graph_efficiently.py" timestamp="1540044623011">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/text_gcn/build_graph_efficiently.py" timestamp="1540049450170">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/requirements.txt" timestamp="1516021262945">
         <mark key="[" line="3" column="0" />
@@ -737,7 +738,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JkcyA9IGRvY193b3Jkcy5zcGxpdCgpCiAgICAgICAgbGVuZ3RoID0gbGVuKHdvcmRzKQogICAgICAgIGlmIGxlbmd0aCA8PSB3aW5kb3dfc2l6ZToKICAgICAgICAgICAgd2luZG93cy5hcHBlbmQod29yZHMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBwcmludChsZW5ndGgsIGxlbmd0aCAtIHdpbmRvd19zaXplICsgMSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKToKICAgICAgICAgICAgICAgIHdpbmRvdyA9IHdvcmRzW2o6IGogKyB3aW5kb3dfc2l6ZV0KICAgICAgICAgICAgICAgIHdpbmRvd3MuYXBwZW5kKHdpbmRvdykK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -784,7 +785,7 @@
         <text>open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JkcyA9IGRvY193b3Jkcy5zcGxpdCgpCiAgICAgICAgbGVuZ3RoID0gbGVuKHdvcmRzKQogICAgICAgIGlmIGxlbmd0aCA8PSB3aW5kb3dfc2l6ZToKICAgICAgICAgICAgd2luZG93cy5hcHBlbmQod29yZHMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBwcmludChsZW5ndGgsIGxlbmd0aCAtIHdpbmRvd19zaXplICsgMSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKToKICAgICAgICAgICAgICAgIHdpbmRvdyA9IHdvcmRzW2o6IGogKyB3aW5kb3dfc2l6ZV0KICAgICAgICAgICAgICAgIHdpbmRvd3MuYXBwZW5kKHdpbmRvdykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
