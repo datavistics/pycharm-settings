@@ -46,12 +46,12 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/text_gcn/build_graph.py" timestamp="1540037435650">
-        <mark key="'" line="502" column="17" />
-        <mark key="[" line="524" column="0" />
-        <mark key="]" line="499" column="13" />
-        <mark key="^" line="499" column="13" />
-        <mark key="." line="499" column="13" />
+      <file name="$USER_HOME$/Projects/text_gcn/build_graph.py" timestamp="1540044772010">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="58" />
+        <mark key="^" line="491" column="13" />
+        <mark key="." line="491" column="13" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/.gitignore" timestamp="1516944738316">
         <mark key="[" line="77" column="0" />
@@ -184,6 +184,9 @@
       <file name="/Python Console" timestamp="1540037389984">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.py" timestamp="1540045017669">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
@@ -268,8 +271,10 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/text_gcn/build_graph_efficiently.py" timestamp="1540037012672">
-        <mark key="[" line="10" column="59" />
+      <file name="$USER_HOME$/Projects/text_gcn/build_graph_efficiently.py" timestamp="1540044623011">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/requirements.txt" timestamp="1516021262945">
         <mark key="[" line="3" column="0" />
@@ -612,8 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="256" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="257" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="258" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="266" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -712,6 +715,8 @@
       <jump line="41" column="11" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="42" column="68" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="502" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
+      <jump line="485" column="41" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
+      <jump line="29" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -732,7 +737,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">SWdub3JlIHB5Y2hhcm0K</text>
+        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -773,49 +778,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>, header=None</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdHMuYXBwZW5kKHBrbC5sb2FkKGYpKQo=</text>
+        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SWdub3JlIHB5Y2hhcm0K</text>
+        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkaW5nIGRhdGEgZnJvbSBvdGhlciByZXBvCg==</text>
+        <text encoding="base64">cHJpbnQoZGZfaW5mby5oZWFkKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V2Vla2VuZCB1cGRhdGVzLiBTdGlsbCBubyBkZGQK</text>
+        <text encoding="base64">cHJpbnQoZGZfZGF0YS5oZWFkKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHlyZWcgYXMgY29weV9yZWcK</text>
+        <text encoding="base64">ZiA9IG9wZW4oJ2RhdGEvJyArIGRhdGFzZXQgKyAnLnR4dCcsICdyJykKZiA9IG9wZW4oJ2RhdGEvY29ycHVzLycgKyBkYXRhc2V0ICsgJy5jbGVhbi50eHQnLCAncicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdHMuYXBwZW5kKHBrbC5sb2FkKGYpKQo=</text>
+        <text encoding="base64">SWdub3JlIHB5Y2hhcm0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdHJhaW5fbWFzayA9IHNhbXBsZV9tYXNrKGlkeF90cmFpbiwgbGFiZWxzLnNoYXBlWzBdKQogICAgIyB2YWxfbWFzayA9IHNhbXBsZV9tYXNrKGlkeF92YWwsIGxhYmVscy5zaGFwZVswXSkKICAgICMgdGVzdF9tYXNrID0gc2FtcGxlX21hc2soaWR4X3Rlc3QsIGxhYmVscy5zaGFwZVswXSkKICAgICMKICAgICMgeV90cmFpbiA9IG5wLnplcm9zKGxhYmVscy5zaGFwZSkKICAgICMgeV92YWwgPSBucC56ZXJvcyhsYWJlbHMuc2hhcGUpCiAgICAjIHlfdGVzdCA9IG5wLnplcm9zKGxhYmVscy5zaGFwZSkKICAgICMgeV90cmFpblt0cmFpbl9tYXNrLCA6XSA9IGxhYmVsc1t0cmFpbl9tYXNrLCA6XQogICAgIyB5X3ZhbFt2YWxfbWFzaywgOl0gPSBsYWJlbHNbdmFsX21hc2ssIDpdCiAgICAjIHlfdGVzdFt0ZXN0X21hc2ssIDpdID0gbGFiZWxzW3Rlc3RfbWFzaywgOl0KCg==</text>
+        <text encoding="base64">QWRkaW5nIGRhdGEgZnJvbSBvdGhlciByZXBvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdHJhaW5pbmcgbm9kZXMgYXJlIHRyYWluaW5nIGRvY3MsIG5vIGluaXRpYWwgZmVhdHVyZXMKICAgICMgcHJpbnQoIng6ICIsIHgpCiAgICAjIHRlc3Qgbm9kZXMgYXJlIHRyYWluaW5nIGRvY3MsIG5vIGluaXRpYWwgZmVhdHVyZXMKICAgICMgcHJpbnQoInR4OiAiLCB0eCkKICAgICMgYm90aCBsYWJlbGVkIGFuZCB1bmxhYmVsZWQgdHJhaW5pbmcgaW5zdGFuY2VzIGFyZSB0cmFpbmluZyBkb2NzIGFuZCB3b3JkcwogICAgIyBwcmludCgiYWxseDogIiwgYWxseCkKICAgICMgdHJhaW5pbmcgbGFiZWxzIGFyZSB0cmFpbmluZyBkb2MgbGFiZWxzCiAgICAjIHByaW50KCJ5OiAiLCB5KQogICAgIyB0ZXN0IGxhYmVscyBhcmUgdGVzdCBkb2MgbGFiZWxzCiAgICAjIHByaW50KCJ0eTogIiwgdHkpCiAgICAjIGFsbHkgYXJlIGxhYmVscyBmb3IgbGFiZWxzIGZvciBhbGx4LCBzb21lIHdpbGwgbm90IGhhdmUgbGFiZWxzLCBpLmUuLCBhbGwgMAogICAgIyBwcmludCgiYWxseTogXG4iKQogICAgIyBmb3IgaSBpbiBhbGx5OgogICAgIyBpZihzdW0oaSkgPT0gMCk6CiAgICAjIHByaW50KGkpCiAgICAjIGdyYXBoIGVkZ2Ugd2VpZ2h0IGlzIHRoZSB3b3JkIGNvLW9jY3VyZW5jZSBvciBkb2Mgd29yZCBmcmVxdWVuY3kKICAgICMgbm8gbmVlZCB0byBidWlsZCBtYXAsIGRpcmVjdGx5IGJ1aWxkIGNzcl9tYXRyaXgKICAgICMgcHJpbnQoJ2dyYXBoIDogJywgZ3JhcGgpCgo=</text>
+        <text encoding="base64">V2Vla2VuZCB1cGRhdGVzLiBTdGlsbCBubyBkZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvcHlyZWcgYXMgY29weV9yZWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFkaiA9IHRvcmNoLkZsb2F0VGVuc29yKG5wLmFycmF5KGFkai50b2RlbnNlKCkpKQogICAgZmVhdHVyZXMgPSB0b3JjaC5GbG9hdFRlbnNvcihucC5hcnJheShmZWF0dXJlcy50b2RlbnNlKCkpKQogICAgbGFiZWxzID0gdG9yY2guTG9uZ1RlbnNvcihucC53aGVyZShsYWJlbHMpWzFdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdHMuYXBwZW5kKHBrbC5sb2FkKGYpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -831,6 +836,7 @@
         <entry>prep</entry>
         <entry>latin</entry>
         <entry>data</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry>s/start/end/g</entry>
