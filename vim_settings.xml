@@ -22,6 +22,12 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="E:/ssh.txt" timestamp="1540540344660">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -40,7 +46,6 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pytorch_geometric/README.md" timestamp="1540531922386" />
       <file name="$USER_HOME$/Projects/text_gcn/build_graph.py" timestamp="1540049378714">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="367" column="0" />
@@ -310,10 +315,23 @@
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="52" />
       </file>
+      <file name="E:/config.txt" timestamp="1540540178289">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="57" column="13" />
+        <mark key="." line="57" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/cmdline.txt" timestamp="1540540285444">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="142" />
+        <mark key="]" line="0" column="166" />
+        <mark key="^" line="0" column="166" />
+        <mark key="." line="0" column="166" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
         <mark key="[" line="6" column="0" />
@@ -619,7 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="258" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="266" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="267" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -719,6 +736,7 @@
       <jump line="502" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
       <jump line="485" column="41" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
       <jump line="29" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
+      <jump line="0" column="0" filename="E:/cmdline.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -739,7 +757,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpbmRvd3MgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -783,46 +801,46 @@
         <text>, header=None</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text>rootwait</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3b3JkcyA9IGRvY193b3Jkcy5zcGxpdCgpCiAgICAgICAgbGVuZ3RoID0gbGVuKHdvcmRzKQogICAgICAgIGlmIGxlbmd0aCA8PSB3aW5kb3dfc2l6ZToKICAgICAgICAgICAgd2luZG93cy5hcHBlbmQod29yZHMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBwcmludChsZW5ndGgsIGxlbmd0aCAtIHdpbmRvd19zaXplICsgMSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKToKICAgICAgICAgICAgICAgIHdpbmRvdyA9IHdvcmRzW2o6IGogKyB3aW5kb3dfc2l6ZV0KICAgICAgICAgICAgICAgIHdpbmRvd3MuYXBwZW5kKHdpbmRvdykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpbmRvd3MgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGxlbmd0aCwgbGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKQo=</text>
+        <text encoding="base64">ICAgIHdpbmRvd3MgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGxlbmd0aCwgbGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZGZfaW5mby5oZWFkKCkpCg==</text>
+        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZGZfZGF0YS5oZWFkKCkpCg==</text>
+        <text encoding="base64">cHJpbnQoZGZfaW5mby5oZWFkKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZiA9IG9wZW4oJ2RhdGEvJyArIGRhdGFzZXQgKyAnLnR4dCcsICdyJykKZiA9IG9wZW4oJ2RhdGEvY29ycHVzLycgKyBkYXRhc2V0ICsgJy5jbGVhbi50eHQnLCAncicpCg==</text>
+        <text encoding="base64">cHJpbnQoZGZfZGF0YS5oZWFkKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SWdub3JlIHB5Y2hhcm0K</text>
+        <text encoding="base64">ZiA9IG9wZW4oJ2RhdGEvJyArIGRhdGFzZXQgKyAnLnR4dCcsICdyJykKZiA9IG9wZW4oJ2RhdGEvY29ycHVzLycgKyBkYXRhc2V0ICsgJy5jbGVhbi50eHQnLCAncicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkaW5nIGRhdGEgZnJvbSBvdGhlciByZXBvCg==</text>
+        <text encoding="base64">SWdub3JlIHB5Y2hhcm0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V2Vla2VuZCB1cGRhdGVzLiBTdGlsbCBubyBkZGQK</text>
+        <text encoding="base64">QWRkaW5nIGRhdGEgZnJvbSBvdGhlciByZXBvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search>rootwait</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern>rootwait</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -834,18 +852,20 @@
         <entry>stop</entry>
         <entry>filename</entry>
         <entry>readings</entry>
+        <entry>root</entry>
+        <entry>rootwait</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>s/start/end/g</entry>
         <entry>51</entry>
         <entry>so %</entry>
         <entry>so ~/.ideavimrc</entry>
         <entry>so ~/ideavimrc</entry>
-        <entry>action SaveAll</entry>
         <entry>action $SelectAll</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
+        <entry>w</entry>
+        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
