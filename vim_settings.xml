@@ -315,23 +315,23 @@
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="52" />
       </file>
-      <file name="E:/config.txt" timestamp="1540540178289">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="57" column="13" />
-        <mark key="^" line="57" column="13" />
-        <mark key="." line="57" column="13" />
+      <file name="E:/config.txt" timestamp="1540547861745">
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="E:/cmdline.txt" timestamp="1540540285444">
+      <file name="E:/cmdline.txt" timestamp="1540547887574">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="142" />
-        <mark key="]" line="0" column="166" />
-        <mark key="^" line="0" column="166" />
-        <mark key="." line="0" column="166" />
+        <mark key="[" line="0" column="141" />
+        <mark key="]" line="0" column="141" />
+        <mark key="^" line="0" column="141" />
+        <mark key="." line="0" column="141" />
       </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
         <mark key="[" line="6" column="0" />
@@ -806,7 +806,7 @@
         <text>, header=None</text>
       </register>
       <register name="/" type="4">
-        <text>rootwait</text>
+        <text>wait</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3b3JkcyA9IGRvY193b3Jkcy5zcGxpdCgpCiAgICAgICAgbGVuZ3RoID0gbGVuKHdvcmRzKQogICAgICAgIGlmIGxlbmd0aCA8PSB3aW5kb3dfc2l6ZToKICAgICAgICAgICAgd2luZG93cy5hcHBlbmQod29yZHMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBwcmludChsZW5ndGgsIGxlbmd0aCAtIHdpbmRvd19zaXplICsgMSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKToKICAgICAgICAgICAgICAgIHdpbmRvdyA9IHdvcmRzW2o6IGogKyB3aW5kb3dfc2l6ZV0KICAgICAgICAgICAgICAgIHdpbmRvd3MuYXBwZW5kKHdpbmRvdykK</text>
@@ -839,13 +839,13 @@
         <text encoding="base64">SWdub3JlIHB5Y2hhcm0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>rootwait</last-search>
+      <last-search>wait</last-search>
       <last-offset />
-      <last-pattern>rootwait</last-pattern>
+      <last-pattern>wait</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -859,6 +859,7 @@
         <entry>readings</entry>
         <entry>root</entry>
         <entry>rootwait</entry>
+        <entry>wait</entry>
       </history-search>
       <history-cmd>
         <entry>s/start/end/g</entry>
@@ -869,10 +870,10 @@
         <entry>action $SelectAll</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
