@@ -488,6 +488,13 @@
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="52" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1540658415994">
+        <mark key="'" line="0" column="47" />
+        <mark key="[" line="0" column="2227" />
+        <mark key="]" line="0" column="2225" />
+        <mark key="^" line="0" column="2225" />
+        <mark key="." line="0" column="2225" />
+      </file>
       <file name="$USER_HOME$/ideavimrc" timestamp="1537460875233">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="15" />
@@ -643,10 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="266" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="267" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="268" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="528" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="533" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="538" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -743,6 +746,10 @@
       <jump line="485" column="41" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
       <jump line="29" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
       <jump line="0" column="0" filename="E:/cmdline.txt" />
+      <jump line="417" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="134" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="136" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="0" column="47" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -763,7 +770,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGlAcmFzcGJlcnJ5cGkubG9jYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -813,34 +820,34 @@
         <text encoding="base64">ICAgICAgICB3b3JkcyA9IGRvY193b3Jkcy5zcGxpdCgpCiAgICAgICAgbGVuZ3RoID0gbGVuKHdvcmRzKQogICAgICAgIGlmIGxlbmd0aCA8PSB3aW5kb3dfc2l6ZToKICAgICAgICAgICAgd2luZG93cy5hcHBlbmQod29yZHMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBwcmludChsZW5ndGgsIGxlbmd0aCAtIHdpbmRvd19zaXplICsgMSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKToKICAgICAgICAgICAgICAgIHdpbmRvdyA9IHdvcmRzW2o6IGogKyB3aW5kb3dfc2l6ZV0KICAgICAgICAgICAgICAgIHdpbmRvd3MuYXBwZW5kKHdpbmRvdykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGlAcmFzcGJlcnJ5cGkubG9jYWwK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">TmlyIFNvbG9tb24K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpbmRvd3MgPSBbXQo=</text>
+        <text encoding="base64">VmVyaWZpZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGxlbmd0aCwgbGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKQo=</text>
+        <text encoding="base64">VmVyaWZpZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
+        <text encoding="base64">VmVyaWZpZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZGZfaW5mby5oZWFkKCkpCg==</text>
+        <text encoding="base64">VmVyaWZpZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZGZfZGF0YS5oZWFkKCkpCg==</text>
+        <text encoding="base64">VmVyaWZpZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZiA9IG9wZW4oJ2RhdGEvJyArIGRhdGFzZXQgKyAnLnR4dCcsICdyJykKZiA9IG9wZW4oJ2RhdGEvY29ycHVzLycgKyBkYXRhc2V0ICsgJy5jbGVhbi50eHQnLCAncicpCg==</text>
+        <text encoding="base64">VmVyaWZpZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SWdub3JlIHB5Y2hhcm0K</text>
+        <text encoding="base64">bWFyeWpvbGVjZSdzIHByb2ZpbGUgcGljdHVyZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -873,8 +880,10 @@
         <entry>action EditorSelectWord</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
+        <entry>action Find</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
