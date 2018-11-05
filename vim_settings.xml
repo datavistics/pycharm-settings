@@ -480,11 +480,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1541436732283">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="27" column="118" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="34" column="28" />
+      <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1541442290172">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="27" />
+        <mark key="^" line="34" column="27" />
+        <mark key="." line="34" column="27" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/jupyter/nbextensions/snippets/snippets.json" timestamp="1533486832553">
         <mark key="[" line="3" column="22" />
@@ -791,8 +791,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJpZW5kX2xpc3QgPSBbJ2ZyaWVuZDEnLCAnZnJpZW5kMicsICdmcmllbmQzJ10K</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -833,7 +833,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>wait</text>
