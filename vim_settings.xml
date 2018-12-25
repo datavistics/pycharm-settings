@@ -186,7 +186,7 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1540531835555">
+      <file name="/Python Console" timestamp="1545727125949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1540045017669">
@@ -229,7 +229,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/semeval_2019_task7/README.md" timestamp="1545725197800" />
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
         <mark key="]" line="189" column="111" />
@@ -301,6 +300,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/semeval_2019_task7/preprocessing/help_prep_functions.py" timestamp="1545726417880">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/requirements.txt" timestamp="1516021262945">
         <mark key="[" line="3" column="0" />
@@ -475,6 +480,13 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/semeval_2019_task7/preprocessing/preprocessing_reddit.py" timestamp="1545727266894">
+        <mark key="'" line="153" column="12" />
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/sms_spam/src/setup.py" timestamp="1516941366347">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="0" />
@@ -600,7 +612,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539451527578">
+      <file name="/Dummy.txt" timestamp="1545726589023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -673,8 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="533" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="538" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="543" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="548" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -773,6 +783,8 @@
       <jump line="134" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="136" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="0" column="47" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="151" column="12" filename="$USER_HOME$/PycharmProjects/semeval_2019_task7/preprocessing/preprocessing_reddit.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/semeval_2019_task7/preprocessing/preprocessing_reddit.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -793,7 +805,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>SemEval2019/</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -834,7 +846,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>SemEval2019/</text>
       </register>
       <register name="/" type="4">
         <text>wait</text>
@@ -870,7 +882,7 @@
         <text encoding="base64">VmVyaWZpZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -903,10 +915,10 @@
         <entry>action EditorSelectWord</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -974,6 +986,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
