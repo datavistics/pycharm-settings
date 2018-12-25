@@ -186,7 +186,7 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1545727834882">
+      <file name="/Python Console" timestamp="1545733133341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1540045017669">
@@ -480,12 +480,12 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/semeval_2019_task7/preprocessing/preprocessing_reddit.py" timestamp="1545727815845">
-        <mark key="'" line="152" column="12" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="73" />
-        <mark key="." line="152" column="24" />
-        <mark key="^" line="152" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/semeval_2019_task7/preprocessing/preprocessing_reddit.py" timestamp="1545733113280">
+        <mark key="'" line="156" column="12" />
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/src/setup.py" timestamp="1516941366347">
         <mark key="[" line="31" column="0" />
@@ -505,9 +505,9 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/semeval_2019_task7/global_paths.py" timestamp="1545727717760">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="51" />
+      <file name="$USER_HOME$/PycharmProjects/semeval_2019_task7/global_paths.py" timestamp="1545733075538">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="53" />
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
@@ -618,7 +618,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545726589023">
+      <file name="/Dummy.txt" timestamp="1545733303833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -811,7 +811,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBzdHIocHJval9kaXIpKyIvcnVtb3VyZXZhbC0yMDE5LXRyYWluaW5nLWRhdGEvcmVkZGl0LWRldi1kYXRhIgo=</text>
+        <text encoding="base64">ZGF0YV9kaXIgPSBwcm9qX2RpciAvICdydW1vdXJldmFsLTIwMTktdHJhaW5pbmctZGF0YScK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -858,34 +858,34 @@
         <text>wait</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBzdHIocHJval9kaXIpKyIvcnVtb3VyZXZhbC0yMDE5LXRyYWluaW5nLWRhdGEvcmVkZGl0LWRldi1kYXRhIgo=</text>
+        <text encoding="base64">ZGF0YV9kaXIgPSBwcm9qX2RpciAvICdydW1vdXJldmFsLTIwMTktdHJhaW5pbmctZGF0YScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJval9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnRzCg==</text>
+        <text encoding="base64">ZnJvbSBnbG9iYWxfcGF0aHMgaW1wb3J0ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">cHJval9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJpZW5kX2xpc3QgPSBbJ2ZyaWVuZDEnLCAnZnJpZW5kMicsICdmcmllbmQzJ10K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW5zdGFfcGFzc3dvcmQgPSAnJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW5zdGFfdXNlcm5hbWUgPSAnJwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJpZW5kX2xpc3QgPSBbJ2ZyaWVuZDEnLCAnZnJpZW5kMicsICdmcmllbmQzJ10K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW5zdGFfcGFzc3dvcmQgPSAnJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW5zdGFfdXNlcm5hbWUgPSAnJwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">TmlyIFNvbG9tb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VmVyaWZpZWQK</text>
+        <text encoding="base64">TmlyIFNvbG9tb24K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
