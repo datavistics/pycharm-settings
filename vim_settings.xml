@@ -505,12 +505,12 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1547300348649">
+      <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1547302917204">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="80" column="52" />
-        <mark key="]" line="80" column="56" />
-        <mark key="^" line="80" column="56" />
-        <mark key="." line="80" column="56" />
+        <mark key="[" line="51" column="121" />
+        <mark key="]" line="51" column="104" />
+        <mark key="^" line="51" column="104" />
+        <mark key="." line="51" column="104" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/jupyter/nbextensions/snippets/snippets.json" timestamp="1533486832553">
         <mark key="[" line="3" column="22" />
