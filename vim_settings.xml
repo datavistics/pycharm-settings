@@ -198,6 +198,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
+      <file name="/Python Console" timestamp="1548347743219">
+        <mark key="[" line="0" column="3" />
+      </file>
+      <file name="/fragment.py" timestamp="1540045017669">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
@@ -835,8 +841,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -877,7 +883,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>wait</text>
