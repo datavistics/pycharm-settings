@@ -192,7 +192,7 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1547297998329">
+      <file name="/Python Console" timestamp="1548344116676">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1540045017669">
@@ -240,6 +240,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/PythonChallenge/requirements.txt" timestamp="1548344081985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
@@ -593,6 +599,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/PythonChallenge/.gitignore" timestamp="1548343960630">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InstaPy/docker_quickstart.py" timestamp="1541436772192">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -704,7 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="548" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="558" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="563" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="568" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -804,6 +814,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/semeval_2019_task7/preprocessing/preprocessing_reddit.py" />
       <jump line="62" column="4" filename="$USER_HOME$/Projects/InstaPy/quickstart.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/InstaPy/quickstart.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Projects/PythonChallenge/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -824,7 +835,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uc2V0X2NvZGRtbWVudHMoWydHcmVhdCBWaWRlbyEnXSwgbWVkaWE9J1ZpZGVvJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -874,34 +885,34 @@
         <text encoding="base64">ZGF0YV9kaXIgPSBwcm9qX2RpciAvICdydW1vdXJldmFsLTIwMTktdHJhaW5pbmctZGF0YScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uc2V0X2NvZGRtbWVudHMoWydHcmVhdCBWaWRlbyEnXSwgbWVkaWE9J1ZpZGVvJykK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24ubGlrZV9ieV90YWdzKFsibmF0Z2VvIiwgInBob3RvZ3JhcGh5Il0sIGFtb3VudD0xMDApCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhmaWxlbmFtZT0nbWFrZV9kYXRhc2V0LmxvZycsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJval9kaXIgPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnbG9iYWxfcGF0aHMgaW1wb3J0ICoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJval9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnRzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQojIyMgUHl0aG9uIHRlbXBsYXRlCiMgQnl0ZS1jb21waWxlZCAvIG9wdGltaXplZCAvIERMTCBmaWxlcwpfX3B5Y2FjaGVfXy8KKi5weVtjb2RdCiokcHkuY2xhc3MKCiMgQyBleHRlbnNpb25zCiouc28KCiMgRGlzdHJpYnV0aW9uIC8gcGFja2FnaW5nCi5QeXRob24KYnVpbGQvCmRldmVsb3AtZWdncy8KZGlzdC8KZG93bmxvYWRzLwplZ2dzLwouZWdncy8KbGliLwpsaWI2NC8KcGFydHMvCnNkaXN0Lwp2YXIvCndoZWVscy8KKi5lZ2ctaW5mby8KLmluc3RhbGxlZC5jZmcKKi5lZ2cKTUFOSUZFU1QKCiMgUHlJbnN0YWxsZXIKIyAgVXN1YWxseSB0aGVzZSBmaWxlcyBhcmUgd3JpdHRlbiBieSBhIHB5dGhvbiBzY3JpcHQgZnJvbSBhIHRlbXBsYXRlCiMgIGJlZm9yZSBQeUluc3RhbGxlciBidWlsZHMgdGhlIGV4ZSwgc28gYXMgdG8gaW5qZWN0IGRhdGUvb3RoZXIgaW5mb3MgaW50byBpdC4KKi5tYW5pZmVzdAoqLnNwZWMKCiMgSW5zdGFsbGVyIGxvZ3MKcGlwLWxvZy50eHQKcGlwLWRlbGV0ZS10aGlzLWRpcmVjdG9yeS50eHQKCiMgVW5pdCB0ZXN0IC8gY292ZXJhZ2UgcmVwb3J0cwpodG1sY292LwoudG94LwouY292ZXJhZ2UKLmNvdmVyYWdlLioKLmNhY2hlCm5vc2V0ZXN0cy54bWwKY292ZXJhZ2UueG1sCiouY292ZXIKLmh5cG90aGVzaXMvCi5weXRlc3RfY2FjaGUvCgojIFRyYW5zbGF0aW9ucwoqLm1vCioucG90CgojIERqYW5nbyBzdHVmZjoKKi5sb2cKbG9jYWxfc2V0dGluZ3MucHkKZGIuc3FsaXRlMwoKIyBGbGFzayBzdHVmZjoKaW5zdGFuY2UvCi53ZWJhc3NldHMtY2FjaGUKCiMgU2NyYXB5IHN0dWZmOgouc2NyYXB5CgojIFNwaGlueCBkb2N1bWVudGF0aW9uCmRvY3MvX2J1aWxkLwoKIyBQeUJ1aWxkZXIKdGFyZ2V0LwoKIyBKdXB5dGVyIE5vdGVib29rCi5pcHluYl9jaGVja3BvaW50cwoKIyBweWVudgoucHl0aG9uLXZlcnNpb24KCiMgY2VsZXJ5IGJlYXQgc2NoZWR1bGUgZmlsZQpjZWxlcnliZWF0LXNjaGVkdWxlCgojIFNhZ2VNYXRoIHBhcnNlZCBmaWxlcwoqLnNhZ2UucHkKCiMgRW52aXJvbm1lbnRzCi5lbnYKLnZlbnYKZW52Lwp2ZW52LwpFTlYvCmVudi5iYWsvCnZlbnYuYmFrLwoKIyBTcHlkZXIgcHJvamVjdCBzZXR0aW5ncwouc3B5ZGVycHJvamVjdAouc3B5cHJvamVjdAoKIyBSb3BlIHByb2plY3Qgc2V0dGluZ3MKLnJvcGVwcm9qZWN0CgojIG1rZG9jcyBkb2N1bWVudGF0aW9uCi9zaXRlCgojIG15cHkKLm15cHlfY2FjaGUvCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNlc3Npb24uc2V0X2NvZGRtbWVudHMoWydHcmVhdCBWaWRlbyEnXSwgbWVkaWE9J1ZpZGVvJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNlc3Npb24ubGlrZV9ieV90YWdzKFsibmF0Z2VvIiwgInBob3RvZ3JhcGh5Il0sIGFtb3VudD0xMDApCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhmaWxlbmFtZT0nbWFrZV9kYXRhc2V0LmxvZycsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJval9kaXIgPSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBnbG9iYWxfcGF0aHMgaW1wb3J0ICoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJval9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnRzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJpZW5kX2xpc3QgPSBbJ2ZyaWVuZDEnLCAnZnJpZW5kMicsICdmcmllbmQzJ10K</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -932,13 +943,13 @@
         <entry>action $SelectAll</entry>
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
         <entry>action Find</entry>
         <entry>action ParameterInfo</entry>
         <entry>action $Paste</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
