@@ -331,6 +331,11 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/PythonChallenge/test.html" timestamp="1548778242489">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
         <mark key="]" line="116" column="32" />
@@ -839,7 +844,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIuLi9zdHlsZS5jc3MiPgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -889,31 +894,31 @@
         <text>result = [k for k, g in groupby(t)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIuLi9zdHlsZS5jc3MiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CTxpbWcgc3JjPSJpbnRlZ3JpdHkuanBnIiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQ4MCIgYm9yZGVyPSIwIiB1c2VtYXA9IiNub3RpbnNlY3QiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0cl9vdXQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cl9vdXQgPSAnJy5qb2luKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciByIGluIHJlc3VsdDoK</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cl9vdXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVzID0gWzEwNSwgMTAsIDE2LCAxMDEsIDEwMywgMTQsIDEwNSwgMTYsIDEyMV0K</text>
+        <text encoding="base64">ICAgIHN0cl9vdXQgPSAnJy5qb2luKHJlc3VsdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciByIGluIHJlc3VsdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmluYWwgPSBbY2hyKHIpIGZvciByIGluIHJlXQo=</text>
+        <text encoding="base64">cmVzID0gWzEwNSwgMTAsIDE2LCAxMDEsIDEwMywgMTQsIDEwNSwgMTYsIDEyMV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W29yZChjKSBmb3IgYyBpbiBbayBmb3IgaywgZyBpbiBpdGVydG9vbHMuZ3JvdXBieShbMSwyLDIsMywyLDIsNF0pXV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
