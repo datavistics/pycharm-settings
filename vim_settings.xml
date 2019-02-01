@@ -421,12 +421,12 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/paper_implementation/readme.md" timestamp="1549014604821">
+      <file name="$USER_HOME$/Projects/paper_implementation/readme.md" timestamp="1549020503944">
         <mark key="'" line="93" column="26" />
-        <mark key="[" line="93" column="20" />
-        <mark key="]" line="93" column="24" />
-        <mark key="^" line="93" column="19" />
-        <mark key="." line="93" column="25" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/fet-5.35.2/derek_test.xml" timestamp="1519987714570">
         <mark key="[" line="517" column="0" />
@@ -545,11 +545,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/paper_implementation/requirements.txt" timestamp="1549014936695">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+      <file name="$USER_HOME$/Projects/paper_implementation/requirements.txt" timestamp="1549020230417">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1547819200192">
         <mark key="'" line="50" column="0" />
@@ -689,10 +689,10 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549014626889">
+      <file name="/Dummy.txt" timestamp="1549020556390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="12" />
+        <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
@@ -718,6 +718,13 @@
         <mark key="]" line="138" column="18" />
         <mark key="^" line="138" column="18" />
         <mark key="." line="138" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549020816334">
+        <mark key="'" line="66" column="43" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="32" column="42" />
+        <mark key="." line="28" column="32" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0014.py" timestamp="1518894515081">
         <mark key="'" line="13" column="13" />
@@ -762,7 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="598" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="603" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="608" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -862,6 +868,7 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
       <jump line="23" column="18" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
+      <jump line="65" column="43" filename="$USER_HOME$/Projects/paper_implementation/src/data_processing/cifar_10_helper.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -881,8 +888,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>batch_1_file</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -923,43 +930,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4096</text>
+        <text>batch_1_file</text>
       </register>
       <register name="/" type="4">
         <text>_2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZsYXRfMiA9IHRvcmNoLm5uLkxpbmVhcig0MDk2LCA0MDk2KQo=</text>
+        <text encoding="base64">ICAgIGJhdGNoXzEgPSBfX3VucGlja2xlKGRhdGFfZGlyLydjaWZhcl8xMCcvJ2RhdGFfYmF0Y2hfMS5wa2wnKQogICAgYmF0Y2hfMiA9IF9fdW5waWNrbGUoZGF0YV9kaXIvJ2NpZmFyXzEwJy8nZGF0YV9iYXRjaF8xLnBrbCcpCiAgICBiYXRjaF8zID0gX191bnBpY2tsZShkYXRhX2Rpci8nY2lmYXJfMTAnLydkYXRhX2JhdGNoXzEucGtsJykKICAgIGJhdGNoXzQgPSBfX3VucGlja2xlKGRhdGFfZGlyLydjaWZhcl8xMCcvJ2RhdGFfYmF0Y2hfMS5wa2wnKQogICAgYmF0Y2hfNSA9IF9fdW5waWNrbGUoZGF0YV9kaXIvJ2NpZmFyXzEwJy8nZGF0YV9iYXRjaF8xLnBrbCcpCiAgICB0ZXN0X2JhdGNoID0gX191bnBpY2tsZShkYXRhX2Rpci8nY2lmYXJfMTAnLyd0ZXN0X2JhdGNoLnBrbCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
+        <text encoding="base64">U3BlY2lmaXlpbmcgdmVyc2lvbgo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmFzaWMgaW1wbGVtZW50YXRpb24gLSBVbnRlc3RlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VlZCA9IDQyCg==</text>
+        <text encoding="base64">QWRkaW5nIHB5dG9yY2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnAucmFuZG9tLnNlZWQoc2VlZCkKdG9yY2gubWFudWFsX3NlZWQoc2VlZCkK</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnbG9iYWxfZnVuIGltcG9ydCAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvb2xfMyA9IHRvcmNoLm5uLk1heFBvb2wyZChrZXJuZWxfc2l6ZT0zLCBzdHJpZGU9MikK</text>
+        <text encoding="base64">c2VlZCA9IDQyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkaW5nIHJlYWRtZQo=</text>
+        <text encoding="base64">bnAucmFuZG9tLnNlZWQoc2VlZCkKdG9yY2gubWFudWFsX3NlZWQoc2VlZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBPdXIgc2xhY2sgY2hhbm5lbCBpcyBgI2RhdGFzY2ktcHJvamVjdG5hbWVgCg==</text>
+        <text encoding="base64">ZnJvbSBnbG9iYWxfZnVuIGltcG9ydCAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiBJZiB5b3UgaGF2ZW4ndCBqb2luZWQgdGhlIFNGIEJyaWdhZGUgU2xhY2ssIFt5b3UgY2FuIGRvIHRoYXQgaGVyZV0oaHR0cDovL2M0c2YubWUvc2xhY2spLiAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvb2xfMyA9IHRvcmNoLm5uLk1heFBvb2wyZChrZXJuZWxfc2l6ZT0zLCBzdHJpZGU9MikK</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -1000,6 +1026,7 @@
         <entry>action GotoLine</entry>
         <entry>action Find</entry>
         <entry>action $Paste</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
