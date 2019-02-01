@@ -16,6 +16,9 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="/a.dummy" timestamp="1549021333730">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
@@ -204,8 +207,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549021108701">
-        <mark key="[" line="18" column="22" />
+      <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549024758871">
+        <mark key="'" line="40" column="11" />
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="37" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
@@ -454,6 +461,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/research_paper_implementation/proj_paths.py" timestamp="1549024039568">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/authentication.json" timestamp="1515924418600">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="33" />
@@ -636,11 +649,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/utilities.py" timestamp="1549021231294">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/utilities.py" timestamp="1549024444805">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/map/table.css" timestamp="1512647219558">
         <mark key="[" line="0" column="0" />
@@ -778,12 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="603" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="608" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="613" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="618" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="623" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="628" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="638" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="643" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -878,6 +886,12 @@
       <jump line="23" column="18" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
       <jump line="65" column="43" filename="$USER_HOME$/Projects/paper_implementation/src/data_processing/cifar_10_helper.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" />
+      <jump line="29" column="11" filename="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" />
+      <jump line="0" column="57" filename="/Python Console" />
+      <jump line="7" column="32" filename="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/utilities.py" />
+      <jump line="9" column="24" filename="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/utilities.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -898,7 +912,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>batch_1_file</text>
+        <text>'/path/to/your/dir/'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -939,16 +953,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>batch_1_file</text>
+        <text>'/path/to/your/dir/'</text>
       </register>
       <register name="/" type="4">
-        <text>_2</text>
+        <text>out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhdGNoXzEgPSBfX3VucGlja2xlKGRhdGFfZGlyLydjaWZhcl8xMCcvJ2RhdGFfYmF0Y2hfMS5wa2wnKQogICAgYmF0Y2hfMiA9IF9fdW5waWNrbGUoZGF0YV9kaXIvJ2NpZmFyXzEwJy8nZGF0YV9iYXRjaF8xLnBrbCcpCiAgICBiYXRjaF8zID0gX191bnBpY2tsZShkYXRhX2Rpci8nY2lmYXJfMTAnLydkYXRhX2JhdGNoXzEucGtsJykKICAgIGJhdGNoXzQgPSBfX3VucGlja2xlKGRhdGFfZGlyLydjaWZhcl8xMCcvJ2RhdGFfYmF0Y2hfMS5wa2wnKQogICAgYmF0Y2hfNSA9IF9fdW5waWNrbGUoZGF0YV9kaXIvJ2NpZmFyXzEwJy8nZGF0YV9iYXRjaF8xLnBrbCcpCiAgICB0ZXN0X2JhdGNoID0gX191bnBpY2tsZShkYXRhX2Rpci8nY2lmYXJfMTAnLyd0ZXN0X2JhdGNoLnBrbCcpCg==</text>
+        <text encoding="base64">ICAgIG1vZHVsZV9sb2dnZXIuaW5mbyhmJ0Rvd25sb2FkaW5nIGZyb206IHt0YXJfdXJsfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U3BlY2lmaXlpbmcgdmVyc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -970,37 +984,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QmFzaWMgaW1wbGVtZW50YXRpb24gLSBVbnRlc3RlZAo=</text>
+        <text encoding="base64">c2h1dGlsLnJtdHJlZSgnL3BhdGgvdG8veW91ci9kaXIvJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkaW5nIHB5dG9yY2gK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZSBpbiBmLmdldG5hbWVzKCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmLmxpc3QoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmLmV4dHJhY3RhbGwocGF0aD1jaWZhcl8xMF9kaXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VlZCA9IDQyCg==</text>
+        <text encoding="base64">ICAgIHRlbXBfZmlsZSA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bnAucmFuZG9tLnNlZWQoc2VlZCkKdG9yY2gubWFudWFsX3NlZWQoc2VlZCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGRvIHdoYXRldmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBnbG9iYWxfZnVuIGltcG9ydCAqCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBvb2xfMyA9IHRvcmNoLm5uLk1heFBvb2wyZChrZXJuZWxfc2l6ZT0zLCBzdHJpZGU9MikK</text>
+        <text encoding="base64">aW1wb3J0IGlvCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
       </register>
     </registers>
     <search>
-      <last-search>_2</last-search>
+      <last-search>out</last-search>
       <last-offset />
-      <last-pattern>_2</last-pattern>
+      <last-pattern>out</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -1017,6 +1031,8 @@
         <entry>wait</entry>
         <entry>1</entry>
         <entry>_2</entry>
+        <entry>cif</entry>
+        <entry>out</entry>
       </history-search>
       <history-cmd>
         <entry>s/start/end/g</entry>
