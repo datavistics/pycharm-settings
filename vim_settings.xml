@@ -639,11 +639,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" timestamp="1549016650701">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="52" />
-        <mark key="^" line="18" column="52" />
-        <mark key="." line="18" column="52" />
+      <file name="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" timestamp="1549018258676">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/PythonChallenge/.gitignore" timestamp="1548343960630">
         <mark key="[" line="0" column="0" />
@@ -761,11 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="568" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="573" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="578" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="583" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="588" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="598" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="603" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -861,6 +857,11 @@
       <jump line="50" column="0" filename="$USER_HOME$/Projects/InstaPy/quickstart.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Projects/PythonChallenge/.gitignore" />
       <jump line="93" column="26" filename="$USER_HOME$/Projects/paper_implementation/readme.md" />
+      <jump line="19" column="7" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
+      <jump line="20" column="43" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
+      <jump line="23" column="18" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/paper_implementation/src/paper/alex_net/alex_net.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -880,8 +881,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -922,49 +923,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>4096</text>
       </register>
       <register name="/" type="4">
-        <text>wait</text>
+        <text>_2</text>
       </register>
-      <register name="0" type="4">
-        <text>_Special Thanks for this(https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md) Readme Template_</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZsYXRfMiA9IHRvcmNoLm5uLkxpbmVhcig0MDk2LCA0MDk2KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkaW5nIHJlYWRtZQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5hdXRvZ3JhZCBpbXBvcnQgVmFyaWFibGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiBPdXIgc2xhY2sgY2hhbm5lbCBpcyBgI2RhdGFzY2ktcHJvamVjdG5hbWVgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">KiBJZiB5b3UgaGF2ZW4ndCBqb2luZWQgdGhlIFNGIEJyaWdhZGUgU2xhY2ssIFt5b3UgY2FuIGRvIHRoYXQgaGVyZV0oaHR0cDovL2M0c2YubWUvc2xhY2spLiAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiMjIEZlYXR1cmVkIE5vdGVib29rcy9BbmFseXNpcy9EZWxpdmVyYWJsZXMKKiBbTm90ZWJvb2svTWFya2Rvd24vU2xpZGUgRGVjayBUaXRsZV0obGluaykKKiBbTm90ZWJvb2svTWFya2Rvd24vU2xpZGUgRGVja1RpdGxlXShsaW5rKQoqIFtCbG9nIFBvc3RdKGxpbmspCgoKIyMgQ29udHJpYnV0aW5nIERTV0cgTWVtYmVycwoKKipUZWFtIExlYWRzIChDb250YWN0cykgOiBbRnVsbCBOYW1lXShodHRwczovL2dpdGh1Yi5jb20vW2dpdGh1YiBoYW5kbGVdKShAc2xhY2tIYW5kbGUpKioKCiMjIyMgT3RoZXIgTWVtYmVyczoKCnxOYW1lICAgICB8ICBTbGFjayBIYW5kbGUgICB8IAp8LS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tfAp8W0Z1bGwgTmFtZV0oaHR0cHM6Ly9naXRodWIuY29tL1tnaXRodWIgaGFuZGxlXSl8IEBqb2huRG9lICAgICAgICB8CnxbRnVsbCBOYW1lXShodHRwczovL2dpdGh1Yi5jb20vW2dpdGh1YiBoYW5kbGVdKSB8ICAgICBAamFuZURvZSAgICB8Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">MS4gRm9sbG93IHNldHVwIFtpbnN0cnVjdGlvbnNdKExpbmsgdG8gZmlsZSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2VlZCA9IDQyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bnAucmFuZG9tLnNlZWQoc2VlZCkKdG9yY2gubWFudWFsX3NlZWQoc2VlZCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBnbG9iYWxfZnVuIGltcG9ydCAqCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvb2xfMyA9IHRvcmNoLm5uLk1heFBvb2wyZChrZXJuZWxfc2l6ZT0zLCBzdHJpZGU9MikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QWRkaW5nIHJlYWRtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">My4gRGF0YSBwcm9jZXNzaW5nL3RyYW5zZm9ybWF0aW9uIHNjcmlwdHMgYXJlIGJlaW5nIGtlcHQgW2hlcmVdKFJlcG8gZm9sZGVyIGNvbnRhaW5pbmcgZGF0YSBwcm9jZXNzaW5nIHNjcmlwdHMvbm90ZWJvb2tzKQo0LiBldGMuLi4KCipJZiB5b3VyIHByb2plY3QgaXMgd2VsbCB1bmRlcndheSBhbmQgc2V0dXAgaXMgZmFpcmx5IGNvbXBsaWNhdGVkIChpZS4gcmVxdWlyZXMgaW5zdGFsbGF0aW9uIG9mIG1hbnkgcGFja2FnZXMpIGNyZWF0ZSBhbm90aGVyICJzZXR1cC5tZCIgZmlsZSBhbmQgbGluayB0byBpdCBoZXJlKiAgCg==</text>
+        <text encoding="base64">KiBPdXIgc2xhY2sgY2hhbm5lbCBpcyBgI2RhdGFzY2ktcHJvamVjdG5hbWVgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICpJZiB1c2luZyBvZmZsaW5lIGRhdGEgbWVudGlvbiB0aGF0IGFuZCBob3cgdGhleSBtYXkgb2J0YWluIHRoZSBkYXRhIGZyb20gdGhlIGZyb3VwKSoK</text>
+        <text encoding="base64">KiBJZiB5b3UgaGF2ZW4ndCBqb2luZWQgdGhlIFNGIEJyaWdhZGUgU2xhY2ssIFt5b3UgY2FuIGRvIHRoYXQgaGVyZV0oaHR0cDovL2M0c2YubWUvc2xhY2spLiAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
       </register>
     </registers>
     <search>
-      <last-search>wait</last-search>
+      <last-search>_2</last-search>
       <last-offset />
-      <last-pattern>wait</last-pattern>
+      <last-pattern>_2</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -979,6 +980,8 @@
         <entry>root</entry>
         <entry>rootwait</entry>
         <entry>wait</entry>
+        <entry>1</entry>
+        <entry>_2</entry>
       </history-search>
       <history-cmd>
         <entry>s/start/end/g</entry>
