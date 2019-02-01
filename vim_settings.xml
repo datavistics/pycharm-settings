@@ -712,10 +712,10 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549020556390">
+      <file name="/Dummy.txt" timestamp="1549027375927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="18" />
+        <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
@@ -911,8 +911,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'/path/to/your/dir/'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkaW5nIGRhdGEgaGVscGVyIGZvciBhbGV4IG5ldAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -962,7 +962,7 @@
         <text encoding="base64">ICAgIG1vZHVsZV9sb2dnZXIuaW5mbyhmJ0Rvd25sb2FkaW5nIGZyb206IHt0YXJfdXJsfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">QWRkaW5nIGRhdGEgaGVscGVyIGZvciBhbGV4IG5ldAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -984,28 +984,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2h1dGlsLnJtdHJlZSgnL3BhdGgvdG8veW91ci9kaXIvJykK</text>
+        <text encoding="base64">QWRkaW5nIGRhdGEgaGVscGVyIGZvciBhbGV4IG5ldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmlsZSBpbiBmLmdldG5hbWVzKCk6Cg==</text>
+        <text encoding="base64">QWRkaW5nIGRhdGEgaGVscGVyIGZvciBhbGV4IG5ldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmLmxpc3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmLmV4dHJhY3RhbGwocGF0aD1jaWZhcl8xMF9kaXIpCg==</text>
+        <text encoding="base64">c2h1dGlsLnJtdHJlZSgnL3BhdGgvdG8veW91ci9kaXIvJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlbXBfZmlsZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZSBpbiBmLmdldG5hbWVzKCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvIHdoYXRldmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmLmxpc3QoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBmLmV4dHJhY3RhbGwocGF0aD1jaWZhcl8xMF9kaXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvCg==</text>
+        <text encoding="base64">ICAgIHRlbXBfZmlsZSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
