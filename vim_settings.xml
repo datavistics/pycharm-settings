@@ -231,10 +231,7 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/requirements.txt" timestamp="1549805768883">
-        <mark key="[" line="2" column="5" />
-      </file>
-      <file name="/Python Console" timestamp="1549807759736">
+      <file name="/Python Console" timestamp="1549814630457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549807154353">
@@ -743,11 +740,11 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549809892488">
+      <file name="/Dummy.txt" timestamp="1549814558120">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
         <mark key="[" line="0" column="0" />
@@ -949,8 +946,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QWRkaW5nIGRvY3NkZAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1000,7 +997,7 @@
         <text encoding="base64">ICAgZGF0YV9wcm9jZXNzaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkaW5nIGRvY3NkZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1022,28 +1019,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyaXRlcmlvbiA9IG5uLkNyb3NzRW50cm9weUxvc3MoKQogICAgICAgIHNlbGYub3B0aW1pemVyID0gb3B0aW0uU0dEKHNlbGYucGFyYW1ldGVycygpLCBscj0wLjAwMSwgbW9tZW50dW09MC45KQo=</text>
+        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmFpbihzZWxmKToKICAgICAgICBmb3IgZXBvY2ggaW4gcmFuZ2UoMik6ICAjIGxvb3Agb3ZlciB0aGUgZGF0YXNldCBtdWx0aXBsZSB0aW1lcwoKICAgICAgICAgICAgcnVubmluZ19sb3NzID0gMC4wCiAgICAgICAgICAgIGZvciBpLCBkYXRhIGluIGVudW1lcmF0ZSh0cmFpbmxvYWRlciwgMCk6CiAgICAgICAgICAgICAgICAjIGdldCB0aGUgaW5wdXRzCiAgICAgICAgICAgICAgICBpbnB1dHMsIGxhYmVscyA9IGRhdGEKCiAgICAgICAgICAgICAgICAjIHplcm8gdGhlIHBhcmFtZXRlciBncmFkaWVudHMKICAgICAgICAgICAgICAgIHNlbGYub3B0aW1pemVyLnplcm9fZ3JhZCgpCgogICAgICAgICAgICAgICAgIyBmb3J3YXJkICsgYmFja3dhcmQgKyBvcHRpbWl6ZQogICAgICAgICAgICAgICAgb3V0cHV0cyA9IG5ldChpbnB1dHMpCiAgICAgICAgICAgICAgICBsb3NzID0gc2VsZi5jcml0ZXJpb24ob3V0cHV0cywgbGFiZWxzKQogICAgICAgICAgICAgICAgbG9zcy5iYWNrd2FyZCgpCiAgICAgICAgICAgICAgICBzZWxmLm9wdGltaXplci5zdGVwKCkKCiAgICAgICAgICAgICAgICAjIHByaW50IHN0YXRpc3RpY3MKICAgICAgICAgICAgICAgIHJ1bm5pbmdfbG9zcyArPSBsb3NzLml0ZW0oKQogICAgICAgICAgICAgICAgaWYgaSAlIDIwMDAgPT0gMTk5OTogICMgcHJpbnQgZXZlcnkgMjAwMCBtaW5pLWJhdGNoZXMKICAgICAgICAgICAgICAgICAgICBwcmludCgnWyVkLCAlNWRdIGxvc3M6ICUuM2YnICUKICAgICAgICAgICAgICAgICAgICAgICAgICAoZXBvY2ggKyAxLCBpICsgMSwgcnVubmluZ19sb3NzIC8gMjAwMCkpCiAgICAgICAgICAgICAgICAgICAgcnVubmluZ19sb3NzID0gMC4wCgogICAgICAgIHByaW50KCdGaW5pc2hlZCBUcmFpbmluZycpCg==</text>
+        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIgPSBvcHRpbS5TR0QobmV0LnBhcmFtZXRlcnMoKSwgbHI9MC4wMDEsIG1vbWVudHVtPTAuOSkK</text>
+        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RGF0YSBQcm9jZXNzaW5nCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QWRkaW5nIGRhdGEgaGVscGVyIGZvciBhbGV4IG5ldAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAKICAgICAgICA6cGFyYW0gc2VlZDogUmFuZG9tIFNlZWQgZm9yIHRvcmNoIGFuZCBudW1weQogICAgICAgIDp0eXBlIHNlZWQ6IGludAogICAgICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
