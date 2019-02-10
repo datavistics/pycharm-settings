@@ -19,11 +19,12 @@
       <file name="/a.dummy" timestamp="1549021333730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1549808597572">
-        <mark key="[" line="77" column="29" />
-        <mark key="]" line="77" column="28" />
-        <mark key="." line="77" column="28" />
-        <mark key="^" line="77" column="28" />
+      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1549817916180">
+        <mark key="'" line="100" column="25" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="79" column="58" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
@@ -231,15 +232,18 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1549814630457">
+      <file name="$USER_HOME$/Projects/research_paper_implementation/requirements.txt" timestamp="1549816496541">
+        <mark key="[" line="4" column="16" />
+      </file>
+      <file name="/Python Console" timestamp="1549817920109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549807154353">
-        <mark key="'" line="49" column="11" />
-        <mark key="[" line="54" column="7" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549816250519">
+        <mark key="'" line="54" column="74" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="111" column="49" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
@@ -827,10 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="658" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="663" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="673" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="678" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="683" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="688" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="669" column="10" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -927,6 +927,10 @@
       <jump line="87" column="29" filename="$USER_HOME$/Projects/research_paper_implementation/docs/source/conf.py" />
       <jump line="6" column="79" filename="$USER_HOME$/Projects/research_paper_implementation/docs/source/data_processing.rst" />
       <jump line="75" column="21" filename="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" />
+      <jump line="7" column="60" filename="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" />
+      <jump line="94" column="33" filename="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" />
+      <jump line="53" column="74" filename="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" />
+      <jump line="103" column="25" filename="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -947,7 +951,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3NkZAo=</text>
+        <text encoding="base64">ICAgIFhfdHJhaW4sIHlfdHJhaW4sIFhfdGVzdCwgeV90ZXN0ID0gcmVhZF9jaWZhcl8xMCgyMjcsIDIyNywgZGV2aWNlPWN1ZGEpCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -988,16 +992,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>zip(X_train, y_train)</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgZGF0YV9wcm9jZXNzaW5nCg==</text>
+        <text encoding="base64">QGxvZ3NwZWVkKG1vZHVsZV9sb2dnZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3NkZAo=</text>
+        <text encoding="base64">ICAgIFhfdHJhaW4sIHlfdHJhaW4sIFhfdGVzdCwgeV90ZXN0ID0gcmVhZF9jaWZhcl8xMCgyMjcsIDIyNywgZGV2aWNlPWN1ZGEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1019,28 +1023,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+        <text encoding="base64">ICAgIGltcG9ydCB0b3JjaC5vcHRpbSBhcyBvcHRpbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+        <text encoding="base64">ICAgICMgY3VkYSA9IHRvcmNoLmRldmljZSgnY3VkYScpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+        <text encoding="base64">IyBpbXBvcnQgdG9yY2gubm4gYXMgbm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+        <text encoding="base64">ICAgIG1vZHVsZV9sb2dnZXIuaW5mbyhyZWFkaW5nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkaW5nIGRhdGEgaGVscGVyIGZvciBhbGV4IG5ldAo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaCBpbXBvcnQgZGV2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkaW5nIGRvY3NkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
