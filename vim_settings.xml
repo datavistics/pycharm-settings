@@ -19,12 +19,12 @@
       <file name="/a.dummy" timestamp="1549021333730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1550210802067">
-        <mark key="'" line="84" column="55" />
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="56" column="27" />
-        <mark key="^" line="56" column="27" />
-        <mark key="." line="56" column="27" />
+      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1550212709099">
+        <mark key="'" line="67" column="55" />
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="29" />
+        <mark key="^" line="50" column="29" />
+        <mark key="." line="50" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
@@ -971,7 +971,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>module_logging</text>
+        <text>features</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1012,7 +1012,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>module_logging</text>
+        <text>features</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
@@ -1021,7 +1021,7 @@
         <text encoding="base64">QGxvZ3NwZWVkKG1vZHVsZV9sb2dnZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TW9yZSBpZ25vcmVzIGZvciBzcGhpbngK</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KHguc2l6ZSgwKSwgLTEpCgogICAgICAgIHggPSBzZWxmLmRyb3BvdXQoRi5yZWx1KHNlbGYuZmxhdF8xKHgpKSkKCiAgICAgICAgeCA9IEYuc29mdG1heChzZWxmLmZsYXRfMSh4KSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1043,28 +1043,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWxsb3dpbmcgaWdub3JlIGZvciBkb2N0cmVlcwo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8xKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMSh4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8yKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMih4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8zKHgpKQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl80KHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfNCh4KQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVtb3ZpbmcgdGVtcGxhdGUgY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VHVybiBvZmYgamVreWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnZfMSA9IHRvcmNoLm5uLkNvbnYyZCgzLDY0LCBrZXJuZWxfc2l6ZT0xMSwgc3RyaWRlPTQsIHBhZGRpbmc9MCkKICAgICAgICBzZWxmLnBvb2xfMSA9IHRvcmNoLm5uLk1heFBvb2wyZChrZXJuZWxfc2l6ZT0yLCBzdHJpZGU9MikKCiAgICAgICAgc2VsZi5jb252XzIgPSB0b3JjaC5ubi5Db252MmQoNjQsMTkyLCBrZXJuZWxfc2l6ZT01LCBzdHJpZGU9MSwgcGFkZGluZz0yKQogICAgICAgIHNlbGYucG9vbF8yID0gdG9yY2gubm4uTWF4UG9vbDJkKGtlcm5lbF9zaXplPTIsIHN0cmlkZT0yKQoKICAgICAgICBzZWxmLmNvbnZfMyA9IHRvcmNoLm5uLkNvbnYyZCgxOTIsIDM4NCwga2VybmVsX3NpemU9Mywgc3RyaWRlPTEsIHBhZGRpbmc9MSkKCiAgICAgICAgc2VsZi5jb252XzQgPSB0b3JjaC5ubi5Db252MmQoMzg0LCAyNTYsIGtlcm5lbF9zaXplPTMsIHN0cmlkZT0xLCBwYWRkaW5nPTEpCiAgICAgICAgc2VsZi5wb29sXzQgPSB0b3JjaC5ubi5NYXhQb29sMmQoa2VybmVsX3NpemU9Miwgc3RyaWRlPTIpCgogICAgICAgIHNlbGYuZmxhdF8xID0gdG9yY2gubm4uTGluZWFyKDI1NiwgbnVtX29mX2NsYXNzZXMpCgogICAgICAgIHNlbGYuZHJvcG91dCA9IHRvcmNoLm5uLkRyb3BvdXQoMC41KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGhpcyBwcm9qZWN0IGlzIGEgcGFydCBvZiB0aGUgW0RhdGEgU2NpZW5jZSBXb3JraW5nIEdyb3VwXShodHRwOi8vZGF0YXNjaWVuY2UuY29kZWZvcnNhbmZyYW5jaXNjby5vcmcpIGF0IFtDb2RlIGZvciBTYW4gRnJhbmNpc2NvXShodHRwOi8vd3d3LmNvZGVmb3JzYW5mcmFuY2lzY28ub3JnKS4gIE90aGVyIERTV0cgcHJvamVjdHMgY2FuIGJlIGZvdW5kIGF0IHRoZSBbbWFpbiBHaXRIdWIgcmVwb10oaHR0cHM6Ly9naXRodWIuY29tL3NmYnJpZ2FkZS9kYXRhLXNjaWVuY2Utd2cpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TW92aW5nIGluZGV4IGZvciBnaCBwYWdlcwo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl80KHgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVidWdnZWQgdHJhaW5pbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnZfNCA9IHRvcmNoLm5uLkNvbnYyZCgzODQsIDM4NCwga2VybmVsX3NpemU9Mywgc3RyaWRlPTEsIHBhZGRpbmc9MSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QWRkaW5nIGRvY3MK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5kcm9wb3V0KEYucmVsdShzZWxmLmZsYXRfMih4KSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
