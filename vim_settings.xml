@@ -19,11 +19,12 @@
       <file name="/a.dummy" timestamp="1549021333730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1550217649664">
-        <mark key="'" line="107" column="4" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="16" />
-        <mark key="." line="100" column="16" />
+      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1550338373531">
+        <mark key="'" line="111" column="4" />
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
@@ -966,8 +967,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>alex_net_cifar_10.png</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1008,16 +1009,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.state_dict()</text>
+        <text>alex_net_cifar_10.png</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2pfZGlyLydtb2RlbHMnLydhbGV4X25ldF9jaWZhcl8xMC5vbm54JywK</text>
+        <text encoding="base64">ICAgIDp0eXBlIHNlZWQ6IGludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBSYW5kb20gU2VlZCBmb3IgdG9yY2ggYW5kIG51bXB5Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1039,31 +1040,31 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAgPT0gMToK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>output = torch_onnx.export(model, 
                           dummy_input, 
                           model_onnx_path, 
                           verbose=False)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KHguc2l6ZSgwKSwgLTEpCgogICAgICAgIHggPSBzZWxmLmRyb3BvdXQoRi5yZWx1KHNlbGYuZmxhdF8xKHgpKSkKCiAgICAgICAgeCA9IEYuc29mdG1heChzZWxmLmZsYXRfMSh4KSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8xKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMSh4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8yKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMih4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8zKHgpKQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl80KHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfNCh4KQoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnZfMSA9IHRvcmNoLm5uLkNvbnYyZCgzLDY0LCBrZXJuZWxfc2l6ZT0xMSwgc3RyaWRlPTQsIHBhZGRpbmc9MCkKICAgICAgICBzZWxmLnBvb2xfMSA9IHRvcmNoLm5uLk1heFBvb2wyZChrZXJuZWxfc2l6ZT0yLCBzdHJpZGU9MikKCiAgICAgICAgc2VsZi5jb252XzIgPSB0b3JjaC5ubi5Db252MmQoNjQsMTkyLCBrZXJuZWxfc2l6ZT01LCBzdHJpZGU9MSwgcGFkZGluZz0yKQogICAgICAgIHNlbGYucG9vbF8yID0gdG9yY2gubm4uTWF4UG9vbDJkKGtlcm5lbF9zaXplPTIsIHN0cmlkZT0yKQoKICAgICAgICBzZWxmLmNvbnZfMyA9IHRvcmNoLm5uLkNvbnYyZCgxOTIsIDM4NCwga2VybmVsX3NpemU9Mywgc3RyaWRlPTEsIHBhZGRpbmc9MSkKCiAgICAgICAgc2VsZi5jb252XzQgPSB0b3JjaC5ubi5Db252MmQoMzg0LCAyNTYsIGtlcm5lbF9zaXplPTMsIHN0cmlkZT0xLCBwYWRkaW5nPTEpCiAgICAgICAgc2VsZi5wb29sXzQgPSB0b3JjaC5ubi5NYXhQb29sMmQoa2VybmVsX3NpemU9Miwgc3RyaWRlPTIpCgogICAgICAgIHNlbGYuZmxhdF8xID0gdG9yY2gubm4uTGluZWFyKDI1NiwgbnVtX29mX2NsYXNzZXMpCgogICAgICAgIHNlbGYuZHJvcG91dCA9IHRvcmNoLm5uLkRyb3BvdXQoMC41KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl80KHgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
