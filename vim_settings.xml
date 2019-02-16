@@ -19,13 +19,6 @@
       <file name="/a.dummy" timestamp="1549021333730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1550339561964">
-        <mark key="'" line="113" column="4" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
@@ -761,7 +754,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549828406734">
+      <file name="/Dummy.txt" timestamp="1550342228326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="22" />
