@@ -19,12 +19,12 @@
       <file name="/a.dummy" timestamp="1549021333730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1550338373531">
-        <mark key="'" line="111" column="4" />
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
+      <file name="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" timestamp="1550339561964">
+        <mark key="'" line="113" column="4" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
@@ -968,7 +968,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>alex_net_cifar_10.png</text>
+        <text>C:\Users\ditho\Projects\research_paper_implementation\src\papers\alex_net\alex_net_cifar_10.png</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1009,7 +1009,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>alex_net_cifar_10.png</text>
+        <text>C:\Users\ditho\Projects\research_paper_implementation\src\papers\alex_net\alex_net_cifar_10.png</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
