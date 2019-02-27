@@ -31,6 +31,7 @@
         <mark key="." line="3" column="63" />
         <mark key="^" line="3" column="63" />
       </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/build_LDA.py" timestamp="1551283439343" />
       <file name="E:/ssh.txt" timestamp="1540541719378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -251,9 +252,10 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1551274644706">
+      <file name="/Python Console" timestamp="1551281704596">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work projects/science-knowledge-graph/src/builders/build_mlos.py" timestamp="1551283989196" />
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
@@ -303,11 +305,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/build_graph.py" timestamp="1551280124211">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="24" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/build_graph.py" timestamp="1551281693012">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="2" column="81" />
+        <mark key="." line="2" column="81" />
+        <mark key="^" line="2" column="81" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
@@ -327,12 +329,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" timestamp="1551277939442">
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" timestamp="1551282671221">
         <mark key="'" line="13" column="14" />
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="50" column="8" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="50" column="16" />
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -400,12 +402,12 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" timestamp="1551280958242">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" timestamp="1551284329306">
+        <mark key="'" line="2" column="24" />
+        <mark key="[" line="60" column="74" />
+        <mark key="]" line="60" column="74" />
+        <mark key="." line="60" column="74" />
+        <mark key="^" line="59" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/text_gcn/build_graph_efficiently.py" timestamp="1540056161053">
         <mark key="[" line="21" column="0" />
@@ -629,9 +631,9 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_features.py" timestamp="1551278787612">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="72" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_features.py" timestamp="1551282666274">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
         <mark key="." line="70" column="58" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqlalchemy_declarative_cf.py" timestamp="1513169398682">
@@ -914,12 +916,14 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/__init__.py" timestamp="1551274453211" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/__init__.py" timestamp="1551281212627">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="716" column="4" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="700" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="699" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="1630" column="39" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="1868" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="1869" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -1017,6 +1021,9 @@
       <jump line="97" column="54" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" />
       <jump line="13" column="14" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" />
       <jump line="12" column="0" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
+      <jump line="18" column="44" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
+      <jump line="45" column="23" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1036,8 +1043,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmYWtlbmV3c2NoYWxsZW5nZS5zcmMuZmVhdHVyZV9jYWxjdWxhdGlvbiBpbXBvcnQgKgo=</text>
+      <register name="&quot;" type="4">
+        <text>, ucl_dist=float(train_feature[-1]))</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1078,16 +1085,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>feature_classes: list</text>
+        <text>, ucl_dist=float(train_feature[-1]))</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmYWtlbmV3c2NoYWxsZW5nZS5zcmMuZmVhdHVyZV9jYWxjdWxhdGlvbiBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbCA9IFJlbGF0aW9uc2hpcChoZWFkLCAiY29ubmVjdGlvbiIsIGJvZHksIHN0YW5jZT1zdGFuY2UsIHVjbF9kaXN0PWZsb2F0KHRyYWluX2ZlYXR1cmVbLTFdKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmVhdHVyZV9jbGFzc2VzID0gW1VDTFN0b2NrRmVhdHVyZXMsXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1109,31 +1116,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZiJDb21taXR0aW5nIHtsZW4oc2VsZi50cmFpbl9zZXQpfSB0cmFpbmluZyBmZWF0dXJlcy4uLiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtzKHRyYWluaW5nX3JlbHMsIDUwMCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHRyYWluX2JvZHlfbm9kZXMsIHRyYWluX2hlYWRfbm9kZXMsIHRlc3RfYm9keV9ub2RlcywgdGVzdF9oZWFkX25vZGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmVhdGUoY2h1bmspCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZiJGaW5pc2hlZCB3cml0aW5nIHtzZWxmLmRlc2N9IHJlbGF0aW9uc2hpcHMiKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbmluZ19yZWxzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2hlZXQgaW4gc2VsZi5zaGVldHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNodW5rIGluIGNodQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZiJGaW5pc2hlZCB3cml0aW5nIHtzZWxmLmRlc2N9IHJlbGF0aW9uc2hpcHMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2hlZXQgaW4gc2VsZi5zaGVldHM6CiAgICAgICAgICAgIHNlbGYucnVuX2NyZWF0ZShzaGVldCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZSh0cmFpbmluZ19yZWxzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNoZWV0cyA9IFtdCg==</text>
+        <text encoding="base64">ZnJvbSBmYWtlbmV3c2NoYWxsZW5nZS5zcmMuZmVhdHVyZV9jYWxjdWxhdGlvbi5mZWF0dXJlX3JlbGF0aW9uc2hpcHMgaW1wb3J0IEJhc2VGZWF0dXJlcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -1177,9 +1184,9 @@
         <entry>q</entry>
         <entry>action SaveAll</entry>
         <entry>w</entry>
-        <entry>action $Paste</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
