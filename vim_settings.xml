@@ -286,6 +286,12 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/build_graph.py" timestamp="1551256835868">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
         <mark key="]" line="189" column="111" />
@@ -532,6 +538,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/requirements.txt" timestamp="1551257543387">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/paper_implementation/.gitignore" timestamp="1549013073573">
         <mark key="[" line="0" column="0" />
@@ -960,8 +971,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>C:\Users\ditho\Projects\research_paper_implementation\src\papers\alex_net\alex_net_cifar_10.png</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d21kCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1002,7 +1013,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>C:\Users\ditho\Projects\research_paper_implementation\src\papers\alex_net\alex_net_cifar_10.png</text>
+        <text>**args</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
@@ -1011,7 +1022,7 @@
         <text encoding="base64">ICAgIDp0eXBlIHNlZWQ6IGludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBSYW5kb20gU2VlZCBmb3IgdG9yY2ggYW5kIG51bXB5Cg==</text>
+        <text encoding="base64">d21kCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1033,31 +1044,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkX28gPSBidWlsZCgqKmFyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGFyZ3MgPSBkaWN0KGdyYXBoPWdyYXBoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBSYW5kb20gU2VlZCBmb3IgdG9yY2ggYW5kIG51bXB5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAgPT0gMToK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>output = torch_onnx.export(model, 
                           dummy_input, 
                           model_onnx_path, 
                           verbose=False)</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KHguc2l6ZSgwKSwgLTEpCgogICAgICAgIHggPSBzZWxmLmRyb3BvdXQoRi5yZWx1KHNlbGYuZmxhdF8xKHgpKSkKCiAgICAgICAgeCA9IEYuc29mdG1heChzZWxmLmZsYXRfMSh4KSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8xKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMSh4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8yKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMih4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8zKHgpKQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl80KHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfNCh4KQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnZfMSA9IHRvcmNoLm5uLkNvbnYyZCgzLDY0LCBrZXJuZWxfc2l6ZT0xMSwgc3RyaWRlPTQsIHBhZGRpbmc9MCkKICAgICAgICBzZWxmLnBvb2xfMSA9IHRvcmNoLm5uLk1heFBvb2wyZChrZXJuZWxfc2l6ZT0yLCBzdHJpZGU9MikKCiAgICAgICAgc2VsZi5jb252XzIgPSB0b3JjaC5ubi5Db252MmQoNjQsMTkyLCBrZXJuZWxfc2l6ZT01LCBzdHJpZGU9MSwgcGFkZGluZz0yKQogICAgICAgIHNlbGYucG9vbF8yID0gdG9yY2gubm4uTWF4UG9vbDJkKGtlcm5lbF9zaXplPTIsIHN0cmlkZT0yKQoKICAgICAgICBzZWxmLmNvbnZfMyA9IHRvcmNoLm5uLkNvbnYyZCgxOTIsIDM4NCwga2VybmVsX3NpemU9Mywgc3RyaWRlPTEsIHBhZGRpbmc9MSkKCiAgICAgICAgc2VsZi5jb252XzQgPSB0b3JjaC5ubi5Db252MmQoMzg0LCAyNTYsIGtlcm5lbF9zaXplPTMsIHN0cmlkZT0xLCBwYWRkaW5nPTEpCiAgICAgICAgc2VsZi5wb29sXzQgPSB0b3JjaC5ubi5NYXhQb29sMmQoa2VybmVsX3NpemU9Miwgc3RyaWRlPTIpCgogICAgICAgIHNlbGYuZmxhdF8xID0gdG9yY2gubm4uTGluZWFyKDI1NiwgbnVtX29mX2NsYXNzZXMpCgogICAgICAgIHNlbGYuZHJvcG91dCA9IHRvcmNoLm5uLkRyb3BvdXQoMC41KQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8xKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMSh4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8yKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMih4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8zKHgpKQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl80KHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfNCh4KQoK</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
