@@ -16,7 +16,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/a.dummy" timestamp="1549021333730">
+      <file name="/a.dummy" timestamp="1551279797946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
@@ -24,6 +24,12 @@
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/get_nodes.py" timestamp="1551279792677">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="63" />
+        <mark key="." line="3" column="63" />
+        <mark key="^" line="3" column="63" />
       </file>
       <file name="E:/ssh.txt" timestamp="1540541719378">
         <mark key="[" line="0" column="0" />
@@ -65,6 +71,12 @@
         <mark key="]" line="89" column="18" />
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/head_article.py" timestamp="1551280851042">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/text_gcn/build_graph.py" timestamp="1540049378714">
         <mark key="'" line="23" column="17" />
@@ -129,10 +141,10 @@
         <mark key="." line="109" column="51" />
         <mark key="^" line="109" column="51" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/base_builder.py" timestamp="1551261826942">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/base_builder.py" timestamp="1551279688511">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/InstaPy/instapy/settings.py" timestamp="1540745759334">
         <mark key="[" line="18" column="34" />
@@ -242,9 +254,6 @@
       <file name="/Python Console" timestamp="1551274644706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549816250519">
-        <mark key="^" line="132" column="49" />
-      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
@@ -294,11 +303,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/build_graph.py" timestamp="1551261364687">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="5" column="39" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/build_graph.py" timestamp="1551280124211">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
@@ -312,10 +321,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work projects/science-knowledge-graph/src/builders/base_builder.py" timestamp="1551261766054">
+      <file name="$USER_HOME$/work projects/science-knowledge-graph/src/builders/base_builder.py" timestamp="1551279510555">
         <mark key="'" line="45" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="45" column="23" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" timestamp="1551277939442">
         <mark key="'" line="13" column="14" />
@@ -341,7 +351,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/ucl_stock_features.py" timestamp="1551274538744">
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/ucl_stock_features.py" timestamp="1551280978109">
         <mark key="[" line="190" column="0" />
         <mark key="]" line="190" column="0" />
         <mark key="^" line="7" column="4" />
@@ -390,6 +400,13 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" timestamp="1551280958242">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/text_gcn/build_graph_efficiently.py" timestamp="1540056161053">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -412,6 +429,12 @@
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/proj_paths.py" timestamp="1551278439042">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/PythonChallenge/test.html" timestamp="1548778242489">
         <mark key="[" line="4" column="0" />
@@ -490,6 +513,10 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/torch_pred_modular.py" timestamp="1551280911542">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/.ipython/nbextensions/snippets/snippets.json" timestamp="1533486316934">
         <mark key="[" line="10" column="0" />
@@ -601,6 +628,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_features.py" timestamp="1551278787612">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="72" />
+        <mark key="." line="70" column="58" />
       </file>
       <file name="$USER_HOME$/projects/InstantPot/src/data_condensed_format/sqlalchemy_declarative_cf.py" timestamp="1513169398682">
         <mark key="[" line="8" column="72" />
@@ -797,7 +829,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551276494675">
+      <file name="/Dummy.txt" timestamp="1551280170212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="22" />
@@ -885,7 +917,6 @@
       <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/__init__.py" timestamp="1551274453211" />
     </filemarks>
     <jumps>
-      <jump line="715" column="9" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="716" column="4" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="700" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="699" column="13" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -985,6 +1016,7 @@
       <jump line="45" column="8" filename="$USER_HOME$/work projects/science-knowledge-graph/src/builders/base_builder.py" />
       <jump line="97" column="54" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" />
       <jump line="13" column="14" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1004,8 +1036,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>UCLStockFeatures</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBmYWtlbmV3c2NoYWxsZW5nZS5zcmMuZmVhdHVyZV9jYWxjdWxhdGlvbiBpbXBvcnQgKgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1046,16 +1078,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UCLStockFeatures</text>
+        <text>feature_classes: list</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWluX2ZlYXR1cmVzID0gdHJhaW5faWRzCg==</text>
+        <text encoding="base64">ZnJvbSBmYWtlbmV3c2NoYWxsZW5nZS5zcmMuZmVhdHVyZV9jYWxjdWxhdGlvbiBpbXBvcnQgKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9oZWFkX3RyYWNrID0ge30KICAgICAgICB0ZXN0X2hlYWRfdHJhY2sgPSB7fQogICAgICAgIAo=</text>
+        <text encoding="base64">ZmVhdHVyZV9jbGFzc2VzID0gW1VDTFN0b2NrRmVhdHVyZXMsXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1077,31 +1109,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi53cml0ZV9zdGFuY2VzID0gVHJ1ZQoKICAgICAgICBzZWxmLnN0b3Bfd29yZHMgPSBbImEiLCAiYWJvdXQiLCAiYWJvdmUiLCAiYWNyb3NzIiwgImFmdGVyIiwgImFmdGVyd2FyZHMiLCAiYWdhaW4iLCAiYWdhaW5zdCIsICJhbGwiLCAiYWxtb3N0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImFsb25lIiwgImFsb25nIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImFscmVhZHkiLCAiYWxzbyIsICJhbHRob3VnaCIsICJhbHdheXMiLCAiYW0iLCAiYW1vbmciLCAiYW1vbmdzdCIsICJhbW91bmdzdCIsICJhbW91bnQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiYW4iLCAiYW5kIiwgImFub3RoZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiYW55IiwgImFueWhvdyIsICJhbnlvbmUiLCAiYW55dGhpbmciLCAiYW55d2F5IiwgImFueXdoZXJlIiwgImFyZSIsICJhcm91bmQiLCAiYXMiLCAiYXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiYmFjayIsICJiZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJiZWNhbWUiLCAiYmVjYXVzZSIsICJiZWNvbWUiLCAiYmVjb21lcyIsICJiZWNvbWluZyIsICJiZWVuIiwgImJlZm9yZSIsICJiZWZvcmVoYW5kIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImJlaGluZCIsICJiZWluZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJiZWxvdyIsICJiZXNpZGUiLCAiYmVzaWRlcyIsICJiZXR3ZWVuIiwgImJleW9uZCIsICJiaWxsIiwgImJvdGgiLCAiYm90dG9tIiwgImJ1dCIsICJieSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJjYWxsIiwgImNhbiIsICJjbyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb24iLCAiY291bGQiLCAiY3J5IiwgImRlIiwgImRlc2NyaWJlIiwgImRldGFpbCIsICJkbyIsICJkb25lIiwgImRvd24iLCAiZHVlIiwgImR1cmluZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJlYWNoIiwgImVnIiwgImVpZ2h0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImVpdGhlciIsICJlbGV2ZW4iLCAiZWxzZSIsICJlbHNld2hlcmUiLCAiZW1wdHkiLCAiZW5vdWdoIiwgImV0YyIsICJldmVuIiwgImV2ZXIiLCAiZXZlcnkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZlcnlvbmUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZlcnl0aGluZyIsICJldmVyeXdoZXJlIiwgImV4Y2VwdCIsICJmZXciLCAiZmlmdGVlbiIsICJmaWZ0eSIsICJmaWxsIiwgImZpbmQiLCAiZmlyZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJmaXJzdCIsICJmaXZlIiwgImZvciIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJmb3JtZXIiLCAiZm9ybWVybHkiLCAiZm9ydHkiLCAiZm91bmQiLCAiZm91ciIsICJmcm9tIiwgImZyb250IiwgImZ1bGwiLCAiZnVydGhlciIsICJnZXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiZ2l2ZSIsICJnbyIsICJoYWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiaGFzIiwgImhhdmUiLCAiaGUiLCAiaGVuY2UiLCAiaGVyIiwgImhlcmUiLCAiaGVyZWFmdGVyIiwgImhlcmVieSIsICJoZXJlaW4iLCAiaGVyZXVwb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiaGVycyIsICJoZXJzZWxmIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImhpbSIsICJoaW1zZWxmIiwgImhpcyIsICJob3ciLCAiaG93ZXZlciIsICJodW5kcmVkIiwgImkiLCAiaWUiLCAiaWYiLCAiaW4iLCAiaW5jIiwgImluZGVlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbnRlcmVzdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbnRvIiwgImlzIiwgIml0IiwgIml0cyIsICJpdHNlbGYiLCAia2VlcCIsICJsYXN0IiwgImxhdHRlciIsICJsYXR0ZXJseSIsICJsZWFzdCIsICJsZXNzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImx0ZCIsICJtYWRlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1hbnkiLCAibWF5IiwgIm1lIiwgIm1lYW53aGlsZSIsICJtaWdodCIsICJtaWxsIiwgIm1pbmUiLCAibW9yZSIsICJtb3Jlb3ZlciIsICJtb3N0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1vc3RseSIsICJtb3ZlIiwgIm11Y2giLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibXVzdCIsICJteSIsICJteXNlbGYiLCAibmFtZSIsICJuYW1lbHkiLCAibmVpdGhlciIsICJuZXZlcnRoZWxlc3MiLCAibmV4dCIsICJuaW5lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vYm9keSIsICJub3ciLCAibm93aGVyZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJvZiIsICJvZmYiLCAib2Z0ZW4iLCAib24iLCAib25jZSIsICJvbmUiLCAib25seSIsICJvbnRvIiwgIm9yIiwgIm90aGVyIiwgIm90aGVycyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJvdGhlcndpc2UiLCAib3VyIiwgIm91cnMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAib3Vyc2VsdmVzIiwgIm91dCIsICJvdmVyIiwgIm93biIsICJwYXJ0IiwgInBlciIsICJwZXJoYXBzIiwgInBsZWFzZSIsICJwdXQiLCAicmF0aGVyIiwgInJlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInNhbWUiLCAic2VlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInNlcmlvdXMiLCAic2V2ZXJhbCIsICJzaGUiLCAic2hvdWxkIiwgInNob3ciLCAic2lkZSIsICJzaW5jZSIsICJzaW5jZXJlIiwgInNpeCIsICJzaXh0eSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJzbyIsICJzb21lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInNvbWVob3ciLCAic29tZW9uZSIsICJzb21ldGhpbmciLCAic29tZXRpbWUiLCAic29tZXRpbWVzIiwgInNvbWV3aGVyZSIsICJzdGlsbCIsICJzdWNoIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInN5c3RlbSIsICJ0YWtlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInRlbiIsICJ0aGFuIiwgInRoYXQiLCAidGhlIiwgInRoZWlyIiwgInRoZW0iLCAidGhlbXNlbHZlcyIsICJ0aGVuIiwgInRoZW5jZSIsICJ0aGVyZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aGVyZWFmdGVyIiwgInRoZXJlYnkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAidGhlcmVmb3JlIiwgInRoZXJlaW4iLCAidGhlcmV1cG9uIiwgInRoZXNlIiwgInRoZXkiLCAidGhpY2siLCAidGhpbiIsICJ0aGlyZCIsICJ0aGlzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInRob3NlIiwgInRob3VnaCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aHJlZSIsICJ0aHJvdWdoIiwgInRocm91Z2hvdXQiLCAidGhydSIsICJ0aHVzIiwgInRvIiwgInRvZ2V0aGVyIiwgInRvbyIsICJ0b3AiLCAidG93YXJkIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInRvd2FyZHMiLCAidHdlbHZlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInR3ZW50eSIsICJ0d28iLCAidW4iLCAidW5kZXIiLCAidW50aWwiLCAidXAiLCAidXBvbiIsICJ1cyIsICJ2ZXJ5IiwgInZpYSIsICJ3YXMiLCAid2UiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2VsbCIsICJ3ZXJlIiwgIndoYXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hhdGV2ZXIiLCAid2hlbiIsICJ3aGVuY2UiLCAid2hlbmV2ZXIiLCAid2hlcmUiLCAid2hlcmVhZnRlciIsICJ3aGVyZWFzIiwgIndoZXJlYnkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hlcmVpbiIsICJ3aGVyZXVwb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hlcmV2ZXIiLCAid2hldGhlciIsICJ3aGljaCIsICJ3aGlsZSIsICJ3aGl0aGVyIiwgIndobyIsICJ3aG9ldmVyIiwgIndob2xlIiwgIndob20iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hvc2UiLCAid2h5IiwgIndpbGwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2l0aCIsICJ3aXRoaW4iLCAid2l0aG91dCIsICJ3b3VsZCIsICJ5ZXQiLCAieW91IiwgInlvdXIiLCAieW91cnMiLCAieW91cnNlbGYiLCAieW91cnNlbHZlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgXQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHRyYWluX2JvZHlfbm9kZXMsIHRyYWluX2hlYWRfbm9kZXMsIHRlc3RfYm9keV9ub2RlcywgdGVzdF9oZWFkX25vZGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWluX2ZpbGUgPSBmbmNfZmVhdHVyZXNfZGlyIC8gJ3VjbF9zdG9ja190cmFpbl9mZWF0dXJlcy5ucHknCiAgICAgICAgc2VsZi50ZXN0X2ZpbGUgPSBmbmNfZmVhdHVyZXNfZGlyIC8gJ3VjbF9zdG9ja190ZXN0X2ZlYXR1cmVzLm5weScKCiAgICAgICAgc2VsZi53cml0ZV9zdGFuY2VzID0gVHJ1ZQoKICAgICAgICBzZWxmLnN0b3Bfd29yZHMgPSBbImEiLCAiYWJvdXQiLCAiYWJvdmUiLCAiYWNyb3NzIiwgImFmdGVyIiwgImFmdGVyd2FyZHMiLCAiYWdhaW4iLCAiYWdhaW5zdCIsICJhbGwiLCAiYWxtb3N0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImFsb25lIiwgImFsb25nIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImFscmVhZHkiLCAiYWxzbyIsICJhbHRob3VnaCIsICJhbHdheXMiLCAiYW0iLCAiYW1vbmciLCAiYW1vbmdzdCIsICJhbW91bmdzdCIsICJhbW91bnQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiYW4iLCAiYW5kIiwgImFub3RoZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiYW55IiwgImFueWhvdyIsICJhbnlvbmUiLCAiYW55dGhpbmciLCAiYW55d2F5IiwgImFueXdoZXJlIiwgImFyZSIsICJhcm91bmQiLCAiYXMiLCAiYXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiYmFjayIsICJiZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJiZWNhbWUiLCAiYmVjYXVzZSIsICJiZWNvbWUiLCAiYmVjb21lcyIsICJiZWNvbWluZyIsICJiZWVuIiwgImJlZm9yZSIsICJiZWZvcmVoYW5kIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImJlaGluZCIsICJiZWluZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJiZWxvdyIsICJiZXNpZGUiLCAiYmVzaWRlcyIsICJiZXR3ZWVuIiwgImJleW9uZCIsICJiaWxsIiwgImJvdGgiLCAiYm90dG9tIiwgImJ1dCIsICJieSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJjYWxsIiwgImNhbiIsICJjbyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb24iLCAiY291bGQiLCAiY3J5IiwgImRlIiwgImRlc2NyaWJlIiwgImRldGFpbCIsICJkbyIsICJkb25lIiwgImRvd24iLCAiZHVlIiwgImR1cmluZyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJlYWNoIiwgImVnIiwgImVpZ2h0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImVpdGhlciIsICJlbGV2ZW4iLCAiZWxzZSIsICJlbHNld2hlcmUiLCAiZW1wdHkiLCAiZW5vdWdoIiwgImV0YyIsICJldmVuIiwgImV2ZXIiLCAiZXZlcnkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZlcnlvbmUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiZXZlcnl0aGluZyIsICJldmVyeXdoZXJlIiwgImV4Y2VwdCIsICJmZXciLCAiZmlmdGVlbiIsICJmaWZ0eSIsICJmaWxsIiwgImZpbmQiLCAiZmlyZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJmaXJzdCIsICJmaXZlIiwgImZvciIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJmb3JtZXIiLCAiZm9ybWVybHkiLCAiZm9ydHkiLCAiZm91bmQiLCAiZm91ciIsICJmcm9tIiwgImZyb250IiwgImZ1bGwiLCAiZnVydGhlciIsICJnZXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiZ2l2ZSIsICJnbyIsICJoYWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiaGFzIiwgImhhdmUiLCAiaGUiLCAiaGVuY2UiLCAiaGVyIiwgImhlcmUiLCAiaGVyZWFmdGVyIiwgImhlcmVieSIsICJoZXJlaW4iLCAiaGVyZXVwb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAiaGVycyIsICJoZXJzZWxmIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImhpbSIsICJoaW1zZWxmIiwgImhpcyIsICJob3ciLCAiaG93ZXZlciIsICJodW5kcmVkIiwgImkiLCAiaWUiLCAiaWYiLCAiaW4iLCAiaW5jIiwgImluZGVlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbnRlcmVzdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJpbnRvIiwgImlzIiwgIml0IiwgIml0cyIsICJpdHNlbGYiLCAia2VlcCIsICJsYXN0IiwgImxhdHRlciIsICJsYXR0ZXJseSIsICJsZWFzdCIsICJsZXNzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgImx0ZCIsICJtYWRlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1hbnkiLCAibWF5IiwgIm1lIiwgIm1lYW53aGlsZSIsICJtaWdodCIsICJtaWxsIiwgIm1pbmUiLCAibW9yZSIsICJtb3Jlb3ZlciIsICJtb3N0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm1vc3RseSIsICJtb3ZlIiwgIm11Y2giLAogICAgICAgICAgICAgICAgICAgICAgICAgICAibXVzdCIsICJteSIsICJteXNlbGYiLCAibmFtZSIsICJuYW1lbHkiLCAibmVpdGhlciIsICJuZXZlcnRoZWxlc3MiLCAibmV4dCIsICJuaW5lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5vYm9keSIsICJub3ciLCAibm93aGVyZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJvZiIsICJvZmYiLCAib2Z0ZW4iLCAib24iLCAib25jZSIsICJvbmUiLCAib25seSIsICJvbnRvIiwgIm9yIiwgIm90aGVyIiwgIm90aGVycyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJvdGhlcndpc2UiLCAib3VyIiwgIm91cnMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAib3Vyc2VsdmVzIiwgIm91dCIsICJvdmVyIiwgIm93biIsICJwYXJ0IiwgInBlciIsICJwZXJoYXBzIiwgInBsZWFzZSIsICJwdXQiLCAicmF0aGVyIiwgInJlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInNhbWUiLCAic2VlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInNlcmlvdXMiLCAic2V2ZXJhbCIsICJzaGUiLCAic2hvdWxkIiwgInNob3ciLCAic2lkZSIsICJzaW5jZSIsICJzaW5jZXJlIiwgInNpeCIsICJzaXh0eSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJzbyIsICJzb21lIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInNvbWVob3ciLCAic29tZW9uZSIsICJzb21ldGhpbmciLCAic29tZXRpbWUiLCAic29tZXRpbWVzIiwgInNvbWV3aGVyZSIsICJzdGlsbCIsICJzdWNoIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInN5c3RlbSIsICJ0YWtlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInRlbiIsICJ0aGFuIiwgInRoYXQiLCAidGhlIiwgInRoZWlyIiwgInRoZW0iLCAidGhlbXNlbHZlcyIsICJ0aGVuIiwgInRoZW5jZSIsICJ0aGVyZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aGVyZWFmdGVyIiwgInRoZXJlYnkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAidGhlcmVmb3JlIiwgInRoZXJlaW4iLCAidGhlcmV1cG9uIiwgInRoZXNlIiwgInRoZXkiLCAidGhpY2siLCAidGhpbiIsICJ0aGlyZCIsICJ0aGlzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInRob3NlIiwgInRob3VnaCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0aHJlZSIsICJ0aHJvdWdoIiwgInRocm91Z2hvdXQiLCAidGhydSIsICJ0aHVzIiwgInRvIiwgInRvZ2V0aGVyIiwgInRvbyIsICJ0b3AiLCAidG93YXJkIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInRvd2FyZHMiLCAidHdlbHZlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgInR3ZW50eSIsICJ0d28iLCAidW4iLCAidW5kZXIiLCAidW50aWwiLCAidXAiLCAidXBvbiIsICJ1cyIsICJ2ZXJ5IiwgInZpYSIsICJ3YXMiLCAid2UiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2VsbCIsICJ3ZXJlIiwgIndoYXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hhdGV2ZXIiLCAid2hlbiIsICJ3aGVuY2UiLCAid2hlbmV2ZXIiLCAid2hlcmUiLCAid2hlcmVhZnRlciIsICJ3aGVyZWFzIiwgIndoZXJlYnkiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hlcmVpbiIsICJ3aGVyZXVwb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hlcmV2ZXIiLCAid2hldGhlciIsICJ3aGljaCIsICJ3aGlsZSIsICJ3aGl0aGVyIiwgIndobyIsICJ3aG9ldmVyIiwgIndob2xlIiwgIndob20iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2hvc2UiLCAid2h5IiwgIndpbGwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAid2l0aCIsICJ3aXRoaW4iLCAid2l0aG91dCIsICJ3b3VsZCIsICJ5ZXQiLCAieW91IiwgInlvdXIiLCAieW91cnMiLCAieW91cnNlbGYiLCAieW91cnNlbHZlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZiJGaW5pc2hlZCB3cml0aW5nIHtzZWxmLmRlc2N9IHJlbGF0aW9uc2hpcHMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpbV91bmlncmFtID0gNTAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2hlZXQgaW4gc2VsZi5zaGVldHM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYWluX2ZlYXR1cmVzID0gW10KICAgICAgICBzZWxmLnRyYWluX3N0YW5jZXMgPSBbXQogICAgICAgIHNlbGYudGVzdF9mZWF0dXJlcyA9IFtdCiAgICAgICAgc2VsZi50ZXN0X3N0YW5jZXMgPSBbXQogICAgICAgIHNlbGYudGVzdF9zdGFuY2VzID0gW10KICAgICAgICBzZWxmLmJvd192ZWN0b3JpemVyID0gTm9uZQogICAgICAgIHNlbGYudGZyZXFfdmVjdG9yaXplciA9IE5vbmUKICAgICAgICBzZWxmLnRmaWRmX3ZlY3Rvcml6ZXIgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZiJGaW5pc2hlZCB3cml0aW5nIHtzZWxmLmRlc2N9IHJlbGF0aW9uc2hpcHMiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2hlZXQgaW4gc2VsZi5zaGVldHM6CiAgICAgICAgICAgIHNlbGYucnVuX2NyZWF0ZShzaGVldCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNoZWV0cyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -1140,14 +1172,14 @@
         <entry>action ParameterInfo</entry>
         <entry>wq</entry>
         <entry>action GotoLine</entry>
-        <entry>action Find</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>q</entry>
-        <entry>action Replace</entry>
         <entry>action SaveAll</entry>
         <entry>w</entry>
         <entry>action $Paste</entry>
+        <entry>action Find</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
