@@ -331,6 +331,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/ucl_stock_features.py" timestamp="1551267457429">
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="99" />
