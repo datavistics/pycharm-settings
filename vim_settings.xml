@@ -129,6 +129,11 @@
         <mark key="." line="109" column="51" />
         <mark key="^" line="109" column="51" />
       </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/base_builder.py" timestamp="1551261826942">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InstaPy/instapy/settings.py" timestamp="1540745759334">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="35" />
@@ -286,11 +291,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/build_graph.py" timestamp="1551256835868">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/build_graph.py" timestamp="1551261364687">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/output/uploads/2017/12/us_afghan_bombings.html" timestamp="1512740333906">
         <mark key="[" line="189" column="13" />
@@ -303,6 +308,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/work projects/science-knowledge-graph/src/builders/base_builder.py" timestamp="1551261766054">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
@@ -852,8 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="711" column="17" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="712" column="16" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="713" column="15" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="714" column="21" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="715" column="9" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -952,6 +960,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/research_paper_implementation/docs/index.html" />
       <jump line="84" column="55" filename="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" />
       <jump line="105" column="4" filename="$USER_HOME$/Projects/research_paper_implementation/src/papers/alex_net/alex_net.py" />
+      <jump line="0" column="25" filename="$USER_HOME$/work projects/science-knowledge-graph/src/builders/base_builder.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/work projects/science-knowledge-graph/src/builders/base_builder.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -972,7 +982,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">d21kCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfd29ya3NoZWV0KCkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1013,16 +1023,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>**args</text>
+        <text>science_db</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDp0eXBlIHNlZWQ6IGludAo=</text>
+        <text encoding="base64">ZnJvbSBnbG9iYWxfcGF0aHMgaW1wb3J0ICoKCm1vZHVsZV9sb2dnZXIgPSBtb2R1bGVfbG9nZ2luZyhfX2ZpbGVfXywgRmFsc2UpCgoKY2xhc3MgQmFzZUJ1aWxkZXI6CiAgICAiIiIKICAgIEEgYmFzZSBjbGFzcyBmb3IgYnVpbGRpbmcgcGFydHMgb2YgdGhlIGdyYXBoIHBlciBnb29nbGUgc2hlZXQKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBnYywgZ3JhcGgpOgogICAgICAgIHNlbGYud2tzID0gTm9uZQogICAgICAgIHNlbGYud2tzX2tleSA9ICcnCiAgICAgICAgc2VsZi5nYyA9IGdjCiAgICAgICAgc2VsZi5ncmFwaCA9IGdyYXBoCiAgICAgICAgc2VsZi5kZXNjID0gJycKICAgICAgICBzZWxmLnR4ID0gTm9uZQogICAgICAgIHNlbGYubWF0Y2hlciA9IE5vbmUKICAgICAgICBzZWxmLm5vZGVfZmFpbCA9IFtdCiAgICAgICAgc2VsZi5yZWxfZmFpbCA9IFtdCiAgICAgICAgc2VsZi5zaGVldHMgPSBbXQoKICAgIGRlZiBjcmVhdGUoc2VsZiwgY3JlYXRlX2xpc3QsIGNyZWF0ZV90eXBlLCBncmFkZSk6CiAgICAgICAgbW9kdWxlX2xvZ2dlci5pbmZvKGYiQ3JlYXRpbmcge2xlbihjcmVhdGVfbGlzdCl9IHtzZWxmLmRlc2N9IHtjcmVhdGVfdHlwZX0gZm9yIGdyYWRlIHtncmFkZX0iKQogICAgICAgIGZvciBpdGVtIGluIGNyZWF0ZV9saXN0OgogICAgICAgICAgICBzZWxmLnR4LmNyZWF0ZShpdGVtKQogICAgICAgIG1vZHVsZV9sb2dnZXIuaW5mbyhmIkZpbmlzaGVkIGNyZWF0aW5nIHtzZWxmLmRlc2N9IHtjcmVhdGVfdHlwZX0iKQoKICAgIGRlZiBydW5fYnVpbGQoc2VsZik6CiAgICAgICAgc2VsZi50eCA9IHNlbGYuZ3JhcGguYmVnaW4oKQogICAgICAgIGZvciBzaGVldCBpbiBzZWxmLnNoZWV0czoKICAgICAgICAgICAgc2VsZi5ydW5fY3JlYXRlKHNoZWV0KQogICAgICAgIG1vZHVsZV9sb2dnZXIuaW5mbyhmIkZpbmlzaGVkIHdyaXRpbmcge3NlbGYuZGVzY30gcmVsYXRpb25zaGlwcyIpCiAgICAgICAgc2VsZi50eC5jb21taXQoKQoKICAgIGRlZiBydW5fY3JlYXRlKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBkZWYgbG9hZF93b3Jrc2hlZXQoc2VsZik6CiAgICAgICAgbW9kdWxlX2xvZ2dlci5pbmZvKGYnTG9hZGluZyB7c2VsZi5kZXNjfSBXb3Jrc2hlZXQuLi4nKQogICAgICAgIHNlbGYud2tzID0gc2VsZi5nYy5vcGVuX2J5X2tleShzZWxmLndrc19rZXkpCiAgICAgICAgbW9kdWxlX2xvZ2dlci5pbmZvKGYnRmluaXNoZWQgTG9hZGluZyB7c2VsZi5kZXNjfSBXb3Jrc2hlZXQuLi4nKQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgc2VsZi5sb2FkX3dvcmtzaGVldCgpCiAgICAgICAgc2VsZi5ydW5fYnVpbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d21kCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfd29ya3NoZWV0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1044,31 +1054,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkX28gPSBidWlsZCgqKmFyZ3MpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkX3dvcmtzaGVldChzZWxmKToKICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZidMb2FkaW5nIHtzZWxmLmRlc2N9IFdvcmtzaGVldC4uLicpCiAgICAgICAgc2VsZi53a3MgPSBzZWxmLmdjLm9wZW5fYnlfa2V5KHNlbGYud2tzX2tleSkKICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZidGaW5pc2hlZCBMb2FkaW5nIHtzZWxmLmRlc2N9IFdvcmtzaGVldC4uLicpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBkaWN0KGdyYXBoPWdyYXBoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndrc19rZXkgPSAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBSYW5kb20gU2VlZCBmb3IgdG9yY2ggYW5kIG51bXB5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndrcyA9IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
+        <text encoding="base64">d21kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAgPT0gMToK</text>
+        <text encoding="base64">ICAgIGJ1aWxkX28gPSBidWlsZCgqKmFyZ3MpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>output = torch_onnx.export(model, 
-                          dummy_input, 
-                          model_onnx_path, 
-                          verbose=False)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFyZ3MgPSBkaWN0KGdyYXBoPWdyYXBoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KHguc2l6ZSgwKSwgLTEpCgogICAgICAgIHggPSBzZWxmLmRyb3BvdXQoRi5yZWx1KHNlbGYuZmxhdF8xKHgpKSkKCiAgICAgICAgeCA9IEYuc29mdG1heChzZWxmLmZsYXRfMSh4KSkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBSYW5kb20gU2VlZCBmb3IgdG9yY2ggYW5kIG51bXB5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8xKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMSh4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8yKHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfMih4KQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl8zKHgpKQoKICAgICAgICB4ID0gRi5yZWx1KHNlbGYuY29udl80KHgpKQogICAgICAgIHggPSBzZWxmLnBvb2xfNCh4KQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
