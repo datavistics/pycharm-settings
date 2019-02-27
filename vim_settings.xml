@@ -239,6 +239,9 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="/Python Console" timestamp="1551274644706">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/research_paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549816250519">
         <mark key="^" line="132" column="49" />
       </file>
@@ -314,7 +317,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" timestamp="1551268486472" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" timestamp="1551275188449">
+        <mark key="[" line="96" column="41" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="13" column="0" />
@@ -332,11 +339,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/ucl_stock_features.py" timestamp="1551267966911">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="11" />
-        <mark key="^" line="21" column="11" />
-        <mark key="." line="21" column="11" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/ucl_stock_features.py" timestamp="1551274538744">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d910079-ec3b-4112-b5a5-3742baf8e489/console.sql" timestamp="1516175671199">
         <mark key="[" line="0" column="0" />
@@ -556,8 +563,8 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/requirements.txt" timestamp="1551257543387">
-        <mark key="[" line="4" column="5" />
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/requirements.txt" timestamp="1551273744451">
+        <mark key="[" line="15" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -667,6 +674,12 @@
         <mark key="]" line="16" column="52" />
         <mark key="." line="16" column="52" />
         <mark key="^" line="16" column="52" />
+      </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/global_paths.py" timestamp="1551273733191">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="14" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1540744722680">
         <mark key="'" line="0" column="47" />
@@ -782,7 +795,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550342228326">
+      <file name="/Dummy.txt" timestamp="1551273258868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="22" />
@@ -867,6 +880,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/__init__.py" timestamp="1551274453211" />
     </filemarks>
     <jumps>
       <jump line="713" column="15" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -989,7 +1003,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfd29ya3NoZWV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIEluaXRpYWxpc2UKICAgICAgICBoZWFkc190cmFjayA9IHt9CiAgICAgICAgYm9kaWVzX3RyYWNrID0ge30KICAgICAgICBjb3NfdHJhY2sgPSB7fQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1039,7 +1053,7 @@
         <text encoding="base64">ZnJvbSBnbG9iYWxfcGF0aHMgaW1wb3J0ICoKCm1vZHVsZV9sb2dnZXIgPSBtb2R1bGVfbG9nZ2luZyhfX2ZpbGVfXywgRmFsc2UpCgoKY2xhc3MgQmFzZUJ1aWxkZXI6CiAgICAiIiIKICAgIEEgYmFzZSBjbGFzcyBmb3IgYnVpbGRpbmcgcGFydHMgb2YgdGhlIGdyYXBoIHBlciBnb29nbGUgc2hlZXQKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBnYywgZ3JhcGgpOgogICAgICAgIHNlbGYud2tzID0gTm9uZQogICAgICAgIHNlbGYud2tzX2tleSA9ICcnCiAgICAgICAgc2VsZi5nYyA9IGdjCiAgICAgICAgc2VsZi5ncmFwaCA9IGdyYXBoCiAgICAgICAgc2VsZi5kZXNjID0gJycKICAgICAgICBzZWxmLnR4ID0gTm9uZQogICAgICAgIHNlbGYubWF0Y2hlciA9IE5vbmUKICAgICAgICBzZWxmLm5vZGVfZmFpbCA9IFtdCiAgICAgICAgc2VsZi5yZWxfZmFpbCA9IFtdCiAgICAgICAgc2VsZi5zaGVldHMgPSBbXQoKICAgIGRlZiBjcmVhdGUoc2VsZiwgY3JlYXRlX2xpc3QsIGNyZWF0ZV90eXBlLCBncmFkZSk6CiAgICAgICAgbW9kdWxlX2xvZ2dlci5pbmZvKGYiQ3JlYXRpbmcge2xlbihjcmVhdGVfbGlzdCl9IHtzZWxmLmRlc2N9IHtjcmVhdGVfdHlwZX0gZm9yIGdyYWRlIHtncmFkZX0iKQogICAgICAgIGZvciBpdGVtIGluIGNyZWF0ZV9saXN0OgogICAgICAgICAgICBzZWxmLnR4LmNyZWF0ZShpdGVtKQogICAgICAgIG1vZHVsZV9sb2dnZXIuaW5mbyhmIkZpbmlzaGVkIGNyZWF0aW5nIHtzZWxmLmRlc2N9IHtjcmVhdGVfdHlwZX0iKQoKICAgIGRlZiBydW5fYnVpbGQoc2VsZik6CiAgICAgICAgc2VsZi50eCA9IHNlbGYuZ3JhcGguYmVnaW4oKQogICAgICAgIGZvciBzaGVldCBpbiBzZWxmLnNoZWV0czoKICAgICAgICAgICAgc2VsZi5ydW5fY3JlYXRlKHNoZWV0KQogICAgICAgIG1vZHVsZV9sb2dnZXIuaW5mbyhmIkZpbmlzaGVkIHdyaXRpbmcge3NlbGYuZGVzY30gcmVsYXRpb25zaGlwcyIpCiAgICAgICAgc2VsZi50eC5jb21taXQoKQoKICAgIGRlZiBydW5fY3JlYXRlKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBkZWYgbG9hZF93b3Jrc2hlZXQoc2VsZik6CiAgICAgICAgbW9kdWxlX2xvZ2dlci5pbmZvKGYnTG9hZGluZyB7c2VsZi5kZXNjfSBXb3Jrc2hlZXQuLi4nKQogICAgICAgIHNlbGYud2tzID0gc2VsZi5nYy5vcGVuX2J5X2tleShzZWxmLndrc19rZXkpCiAgICAgICAgbW9kdWxlX2xvZ2dlci5pbmZvKGYnRmluaXNoZWQgTG9hZGluZyB7c2VsZi5kZXNjfSBXb3Jrc2hlZXQuLi4nKQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgc2VsZi5sb2FkX3dvcmtzaGVldCgpCiAgICAgICAgc2VsZi5ydW5fYnVpbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfd29ya3NoZWV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIEluaXRpYWxpc2UKICAgICAgICBoZWFkc190cmFjayA9IHt9CiAgICAgICAgYm9kaWVzX3RyYWNrID0ge30KICAgICAgICBjb3NfdHJhY2sgPSB7fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1061,28 +1075,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkX3dvcmtzaGVldChzZWxmKToKICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZidMb2FkaW5nIHtzZWxmLmRlc2N9IFdvcmtzaGVldC4uLicpCiAgICAgICAgc2VsZi53a3MgPSBzZWxmLmdjLm9wZW5fYnlfa2V5KHNlbGYud2tzX2tleSkKICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZidGaW5pc2hlZCBMb2FkaW5nIHtzZWxmLmRlc2N9IFdvcmtzaGVldC4uLicpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZF90ZiA9IHRmcmVxW3NlbGYuaWRfcmVmW2hlYWRdXS5yZXNoYXBlKDEsIC0xKQogICAgICAgICAgICBib2R5X3RmID0gdGZyZXFbc2VsZi5pZF9yZWZbYm9keV9pZF1dLnJlc2hhcGUoMSwgLTEpCiAgICAgICAgICAgIGlmIGhlYWQgbm90IGluIGhlYWRfdGZpZGZfdHJhY2s6CiAgICAgICAgICAgICAgICBoZWFkX3RmaWRmID0gc2VsZi50ZmlkZl92ZWN0b3JpemVyLnRyYW5zZm9ybShbaGVhZF0pLnRvYXJyYXkoKQogICAgICAgICAgICAgICAgaGVhZF90ZmlkZl90cmFja1toZWFkXSA9IGhlYWRfdGZpZGYKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGhlYWRfdGZpZGYgPSBoZWFkX3RmaWRmX3RyYWNrW2hlYWRdCiAgICAgICAgICAgIGlmIGJvZHlfaWQgbm90IGluIGJvZHlfdGZpZGZfdHJhY2s6CiAgICAgICAgICAgICAgICBib2R5X3RmaWRmID0gc2VsZi50ZmlkZl92ZWN0b3JpemVyLnRyYW5zZm9ybShbc2VsZi5yYXdfdHJhaW5fZGF0YS5ib2RpZXNbYm9keV9pZF1dKS50b2FycmF5KCkKICAgICAgICAgICAgICAgIGJvZHlfdGZpZGZfdHJhY2tbYm9keV9pZF0gPSBib2R5X3RmaWRmCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBib2R5X3RmaWRmID0gYm9keV90ZmlkZl90cmFja1tib2R5X2lkXQogICAgICAgICAgICBpZiAoaGVhZCwgYm9keV9pZCkgbm90IGluIGNvc190cmFjazoKICAgICAgICAgICAgICAgIHRmaWRmX2NvcyA9IGNvc2luZV9zaW1pbGFyaXR5KGhlYWRfdGZpZGYsIGJvZHlfdGZpZGYpWzBdLnJlc2hhcGUoMSwgMSkKICAgICAgICAgICAgICAgIGNvc190cmFja1soaGVhZCwgYm9keV9pZCldID0gdGZpZGZfY29zCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB0ZmlkZl9jb3MgPSBjb3NfdHJhY2tbKGhlYWQsIGJvZHlfaWQpXQogICAgICAgICAgICBmZWF0X3ZlYyA9IG5wLnNxdWVlemUobnAuY19baGVhZF90ZiwgYm9keV90ZiwgdGZpZGZfY29zXSkKICAgICAgICAgICAgc2VsZi50cmFpbl9mZWF0dXJlcy5hcHBlbmQoZmVhdF92ZWMpCiAgICAgICAgICAgIHNlbGYudHJhaW5fc3RhbmNlcy5hcHBlbmQoc2VsZi5sYWJlbF9yZWZbaW5zdGFuY2VbJ1N0YW5jZSddXSkKCiAgICAgICAgc2VsZi50cmFpbl9mZWF0dXJlcyA9IG5wLmFycmF5KHNlbGYudHJhaW5fZmVhdHVyZXMsIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgc2VsZi50cmFpbl9zdGFuY2VzID0gbnAuYXJyYXkoc2VsZi50cmFpbl9zdGFuY2VzLCBkdHlwZT1ucC5sb25nKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndrc19rZXkgPSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZiJDYWxjdWxhdGluZyBVQ0wgU3RvY2sgRmVhdHVyZXMiKQogICAgICAgIHNlbGYuYm93X3ZlY3Rvcml6ZXIgPSBDb3VudFZlY3Rvcml6ZXIobWF4X2ZlYXR1cmVzPXNlbGYubGltX3VuaWdyYW0sIHN0b3Bfd29yZHM9c2VsZi5zdG9wX3dvcmRzKQogICAgICAgIGJvdyA9IHNlbGYuYm93X3ZlY3Rvcml6ZXIuZml0X3RyYW5zZm9ybShzZWxmLmhlYWRzICsgc2VsZi5ib2RpZXMpICAjIFRyYWluIHNldCBvbmx5CgogICAgICAgIHNlbGYudGZyZXFfdmVjdG9yaXplciA9IFRmaWRmVHJhbnNmb3JtZXIodXNlX2lkZj1GYWxzZSkuZml0KGJvdykKICAgICAgICB0ZnJlcSA9IHNlbGYudGZyZXFfdmVjdG9yaXplci50cmFuc2Zvcm0oYm93KS50b2FycmF5KCkgICMgVHJhaW4gc2V0IG9ubHkKCiAgICAgICAgc2VsZi50ZmlkZl92ZWN0b3JpemVyID0gVGZpZGZWZWN0b3JpemVyKG1heF9mZWF0dXJlcz1zZWxmLmxpbV91bmlncmFtLCBzdG9wX3dvcmRzPXNlbGYuc3RvcF93b3JkcykuIFwKICAgICAgICAgICAgZml0KHNlbGYuaGVhZHMgKyBzZWxmLmJvZGllcyArIHNlbGYudGVzdF9oZWFkcyArIHNlbGYudGVzdF9ib2RpZXMpICAjIFRyYWluIGFuZCB0ZXN0IHNldHMKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndrcyA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIG0uY2FsY3VsYXRlX2ZlYXR1cmVzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d21kCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfd29ya3NoZWV0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkX28gPSBidWlsZCgqKmFyZ3MpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkX3dvcmtzaGVldChzZWxmKToKICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZidMb2FkaW5nIHtzZWxmLmRlc2N9IFdvcmtzaGVldC4uLicpCiAgICAgICAgc2VsZi53a3MgPSBzZWxmLmdjLm9wZW5fYnlfa2V5KHNlbGYud2tzX2tleSkKICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZidGaW5pc2hlZCBMb2FkaW5nIHtzZWxmLmRlc2N9IFdvcmtzaGVldC4uLicpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBkaWN0KGdyYXBoPWdyYXBoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndrc19rZXkgPSAnJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZWVkOiBSYW5kb20gU2VlZCBmb3IgdG9yY2ggYW5kIG51bXB5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndrcyA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDIwMDAwID09IDE6Cg==</text>
+        <text encoding="base64">d21kCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
