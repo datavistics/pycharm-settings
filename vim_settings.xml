@@ -672,12 +672,12 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1547819200192">
+      <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1552927010123">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="19" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/jupyter/nbextensions/snippets/snippets.json" timestamp="1533486832553">
         <mark key="[" line="3" column="22" />
@@ -1138,7 +1138,7 @@
         <text encoding="base64">ZnJvbSBmYWtlbmV3c2NoYWxsZW5nZS5zcmMuZmVhdHVyZV9jYWxjdWxhdGlvbi5mZWF0dXJlX3JlbGF0aW9uc2hpcHMgaW1wb3J0IEJhc2VGZWF0dXJlcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -1180,11 +1180,11 @@
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>q</entry>
-        <entry>action SaveAll</entry>
         <entry>w</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
