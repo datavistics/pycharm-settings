@@ -19,6 +19,13 @@
       <file name="/a.dummy" timestamp="1551279797946">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/microblog/app/templates/base.html" timestamp="1553001990670">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
@@ -47,6 +54,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/microblog/app/templates/login.html" timestamp="1553002200528">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/datavistics.github.io/fabfile.py" timestamp="1533998141235">
         <mark key="[" line="24" column="114" />
@@ -197,12 +209,11 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1516020227885">
-        <mark key="'" line="1" column="24" />
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1552999316692">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0009.py" timestamp="1518940680964">
         <mark key="[" line="14" column="50" />
@@ -320,12 +331,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/work projects/science-knowledge-graph/src/builders/base_builder.py" timestamp="1551279510555">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/feature_calculation/base_graph.py" timestamp="1551282671221">
         <mark key="'" line="13" column="14" />
@@ -490,10 +495,11 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/microblog/app/routes.py" timestamp="1552995353905">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/microblog/app/routes.py" timestamp="1553001847863">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1518328859705">
         <mark key="[" line="7" column="5" />
@@ -518,10 +524,6 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/torch_pred_modular.py" timestamp="1551280911542">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/.ipython/nbextensions/snippets/snippets.json" timestamp="1533486316934">
         <mark key="[" line="10" column="0" />
@@ -802,6 +804,9 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/microblog/.gitignore" timestamp="1553000050971">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="27" column="8" />
@@ -834,7 +839,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552995375002">
+      <file name="/Dummy.txt" timestamp="1553000069075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="22" />
@@ -864,6 +869,11 @@
         <mark key="^" line="138" column="18" />
         <mark key="." line="138" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/microblog/app/__init__.py" timestamp="1553000530516">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/paper_implementation/src/data_processing/cifar_10_helper.py" timestamp="1549020816334">
         <mark key="'" line="66" column="43" />
         <mark key="[" line="16" column="39" />
@@ -887,6 +897,11 @@
         <mark key="[" line="1" column="6" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/microblog/app/templates/index.html" timestamp="1552999436344">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516695804873">
         <mark key="'" line="68" column="16" />
@@ -914,6 +929,11 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/dotfiles/ideavimrc" timestamp="1552999317603">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/datavistics.github.io/.gitmodules" timestamp="1534006348054">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -927,18 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1630" column="39" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1868" column="8" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1869" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1886" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1903" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="1920" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="3110" column="9" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="3661" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="3662" column="49" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="3671" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="3696" column="17" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="3727" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3738" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3749" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3760" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -1027,6 +1035,18 @@
       <jump line="18" column="44" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
       <jump line="45" column="23" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
       <jump line="2" column="24" filename="$USER_HOME$/work projects/saal-datascience-stance-detection/fakenewschallenge/src/graph/feature_relationships.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/microblog/app/routes.py" />
+      <jump line="11" column="6" filename="$USER_HOME$/Projects/microblog/app/templates/index.html" />
+      <jump line="0" column="12" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="4" column="16" filename="$USER_HOME$/Projects/microblog/app/templates/base.html" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/microblog/app/templates/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/microblog/app/templates/index.html" />
+      <jump line="0" column="23" filename="$USER_HOME$/Projects/microblog/app/__init__.py" />
+      <jump line="0" column="18" filename="$USER_HOME$/Projects/microblog/app/routes.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/microblog/app/routes.py" />
+      <jump line="9" column="12" filename="$USER_HOME$/Projects/microblog/app/templates/base.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/microblog/app/templates/base.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/microblog/app/templates/login.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1047,7 +1067,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwcAoKQGFwcC5yb3V0ZSgnLycpCkBhcHAucm91dGUoJy9pbmRleCcpCmRlZiBpbmRleCgpOgogICAgcmV0dXJuICJIZWxsbywgV29ybGQhIgo=</text>
+        <text encoding="base64">eyUgZXh0ZW5kcyAiYmFzZS5odG1sIiAlfQoKeyUgYmxvY2sgY29udGVudCAlfQogICAgPGgxPlNpZ24gSW48L2gxPgogICAgPGZvcm0gYWN0aW9uPSIiIG1ldGhvZD0icG9zdCIgbm92YWxpZGF0ZT4KICAgICAgICB7eyBmb3JtLmhpZGRlbl90YWcoKSB9fQogICAgICAgIDxwPgogICAgICAgICAgICB7eyBmb3JtLnVzZXJuYW1lLmxhYmVsIH19PGJyPgogICAgICAgICAgICB7eyBmb3JtLnVzZXJuYW1lKHNpemU9MzIpIH19CiAgICAgICAgPC9wPgogICAgICAgIDxwPgogICAgICAgICAgICB7eyBmb3JtLnBhc3N3b3JkLmxhYmVsIH19PGJyPgogICAgICAgICAgICB7eyBmb3JtLnBhc3N3b3JkKHNpemU9MzIpIH19CiAgICAgICAgPC9wPgogICAgICAgIDxwPnt7IGZvcm0ucmVtZW1iZXJfbWUoKSB9fSB7eyBmb3JtLnJlbWVtYmVyX21lLmxhYmVsIH19PC9wPgogICAgICAgIDxwPnt7IGZvcm0uc3VibWl0KCkgfX08L3A+CiAgICA8L2Zvcm0+CnslIGVuZGJsb2NrICV9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1088,16 +1108,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, ucl_dist=float(train_feature[-1]))</text>
+        <text>Paste</text>
       </register>
       <register name="/" type="4">
         <text>optimizer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbCA9IFJlbGF0aW9uc2hpcChoZWFkLCAiY29ubmVjdGlvbiIsIGJvZHksIHN0YW5jZT1zdGFuY2UsIHVjbF9kaXN0PWZsb2F0KHRyYWluX2ZlYXR1cmVbLTFdKSkK</text>
+        <text encoding="base64">CkBhcHAucm91dGUoJy9sb2dpbicpCmRlZiBsb2dpbigpOgogICAgZm9ybSA9IExvZ2luRm9ybSgpCiAgICByZXR1cm4gcmVuZGVyX3RlbXBsYXRlKCdsb2dpbi5odG1sJywgdGl0bGU9J1NpZ24gSW4nLCBmb3JtPWZvcm0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwcAoKQGFwcC5yb3V0ZSgnLycpCkBhcHAucm91dGUoJy9pbmRleCcpCmRlZiBpbmRleCgpOgogICAgcmV0dXJuICJIZWxsbywgV29ybGQhIgo=</text>
+        <text encoding="base64">eyUgZXh0ZW5kcyAiYmFzZS5odG1sIiAlfQoKeyUgYmxvY2sgY29udGVudCAlfQogICAgPGgxPlNpZ24gSW48L2gxPgogICAgPGZvcm0gYWN0aW9uPSIiIG1ldGhvZD0icG9zdCIgbm92YWxpZGF0ZT4KICAgICAgICB7eyBmb3JtLmhpZGRlbl90YWcoKSB9fQogICAgICAgIDxwPgogICAgICAgICAgICB7eyBmb3JtLnVzZXJuYW1lLmxhYmVsIH19PGJyPgogICAgICAgICAgICB7eyBmb3JtLnVzZXJuYW1lKHNpemU9MzIpIH19CiAgICAgICAgPC9wPgogICAgICAgIDxwPgogICAgICAgICAgICB7eyBmb3JtLnBhc3N3b3JkLmxhYmVsIH19PGJyPgogICAgICAgICAgICB7eyBmb3JtLnBhc3N3b3JkKHNpemU9MzIpIH19CiAgICAgICAgPC9wPgogICAgICAgIDxwPnt7IGZvcm0ucmVtZW1iZXJfbWUoKSB9fSB7eyBmb3JtLnJlbWVtYmVyX21lLmxhYmVsIH19PC9wPgogICAgICAgIDxwPnt7IGZvcm0uc3VibWl0KCkgfX08L3A+CiAgICA8L2Zvcm0+CnslIGVuZGJsb2NrICV9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1119,28 +1139,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwcAo=</text>
+        <text encoding="base64">PGh0bWw+CiAgICA8aGVhZD4KICAgICAgeyUgaWYgdGl0bGUgJX0KICAgICAgPHRpdGxlPnt7IHRpdGxlIH19IC0gTWljcm9ibG9nPC90aXRsZT4KICAgICAgeyUgZWxzZSAlfQogICAgICA8dGl0bGU+V2VsY29tZSB0byBNaWNyb2Jsb2c8L3RpdGxlPgogICAgICB7JSBlbmRpZiAlfQogICAgPC9oZWFkPgogICAgPGJvZHk+CiAgICAgICAgPGRpdj4KICAgICAgICAgICAgTWljcm9ibG9nOgogICAgICAgICAgICA8YSBocmVmPSIvaW5kZXgiPkhvbWU8L2E+CiAgICAgICAgICAgIDxhIGhyZWY9Ii9sb2dpbiI+TG9naW48L2E+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGhyPgogICAgICAgIHslIGJsb2NrIGNvbnRlbnQgJX17JSBlbmRibG9jayAlfQogICAgPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL2xvZ2luJykKZGVmIGxvZ2luKCk6CiAgICBmb3JtID0gTG9naW5Gb3JtKCkKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2xvZ2luLmh0bWwnLCB0aXRsZT0nU2lnbiBJbicsIGZvcm09Zm9ybSkKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2R1bGVfbG9nZ2VyLmluZm8oZiJDb21taXR0aW5nIHtsZW4oc2VsZi50cmFpbl9zZXQpfSB0cmFpbmluZyBmZWF0dXJlcy4uLiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtzKHRyYWluaW5nX3JlbHMsIDUwMCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmVhdGUoY2h1bmspCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pk1pY3JvYmxvZzogPGEgaHJlZj0iL2luZGV4Ij5Ib21lPC9hPjwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbmluZ19yZWxzID0gW10K</text>
+        <text encoding="base64">PGh0bWw+CiAgICA8aGVhZD4KICAgICAgeyUgaWYgdGl0bGUgJX0KICAgICAgPHRpdGxlPnt7IHRpdGxlIH19IC0gTWljcm9ibG9nPC90aXRsZT4KICAgICAgeyUgZWxzZSAlfQogICAgICA8dGl0bGU+V2VsY29tZSB0byBNaWNyb2Jsb2c8L3RpdGxlPgogICAgICB7JSBlbmRpZiAlfQogICAgPC9oZWFkPgogICAgPGJvZHk+CiAgICAgICAgPGRpdj5NaWNyb2Jsb2c6IDxhIGhyZWY9Ii9pbmRleCI+SG9tZTwvYT48L2Rpdj4KICAgICAgICA8aHI+CiAgICAgICAgeyUgYmxvY2sgY29udGVudCAlfXslIGVuZGJsb2NrICV9CiAgICA8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNodW5rIGluIGNodQo=</text>
+        <text encoding="base64">IyAuLi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgcmVuZGVyX3RlbXBsYXRlCmZyb20gYXBwIGltcG9ydCBhcHAKCkBhcHAucm91dGUoJy8nKQpAYXBwLnJvdXRlKCcvaW5kZXgnKQpkZWYgaW5kZXgoKToKICAgIHVzZXIgPSB7J3VzZXJuYW1lJzogJ01pZ3VlbCd9CiAgICBwb3N0cyA9IFsKICAgICAgICB7CiAgICAgICAgICAgICdhdXRob3InOiB7J3VzZXJuYW1lJzogJ0pvaG4nfSwKICAgICAgICAgICAgJ2JvZHknOiAnQmVhdXRpZnVsIGRheSBpbiBQb3J0bGFuZCEnCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICdhdXRob3InOiB7J3VzZXJuYW1lJzogJ1N1c2FuJ30sCiAgICAgICAgICAgICdib2R5JzogJ1RoZSBBdmVuZ2VycyBtb3ZpZSB3YXMgc28gY29vbCEnCiAgICAgICAgfQogICAgXQogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgnaW5kZXguaHRtbCcsIHRpdGxlPSdIb21lJywgdXNlcj11c2VyLCBwb3N0cz1wb3N0cykK</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
@@ -1187,6 +1207,7 @@
         <entry>w</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
