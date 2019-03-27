@@ -387,7 +387,6 @@
         <mark key="." line="43" column="29" />
         <mark key="^" line="43" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pytorch_geometric/setup.py" timestamp="1553659932696" />
       <file name="$USER_HOME$/projects/FacebookUtilities/user_data.py" timestamp="1516046351968">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="260" />
@@ -954,7 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3749" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3760" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3771" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3782" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -1054,6 +1052,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/microblog/app/templates/base.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/microblog/app/templates/login.html" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/microblog/app/__init__.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/Projects/pytorch_geometric/setup.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
