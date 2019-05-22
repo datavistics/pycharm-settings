@@ -142,12 +142,12 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1516020227885">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1558530580526">
         <mark key="'" line="1" column="24" />
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="8" column="0" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0009.py" timestamp="1518940680964">
         <mark key="[" line="14" column="50" />
@@ -404,6 +404,12 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/map.py" timestamp="1558531115384">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4b06238-f788-47d7-a615-29082d057425/console.sql" timestamp="1516014172816">
         <mark key="[" line="0" column="0" />
@@ -753,8 +759,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">amtrampramtqawo=</text>
+      <register name="&quot;" type="4">
+        <text>self.total = self.width + self.height</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -795,43 +801,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>self.total = self.width + self.height</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JkcyA9IGRvY193b3Jkcy5zcGxpdCgpCiAgICAgICAgbGVuZ3RoID0gbGVuKHdvcmRzKQogICAgICAgIGlmIGxlbmd0aCA8PSB3aW5kb3dfc2l6ZToKICAgICAgICAgICAgd2luZG93cy5hcHBlbmQod29yZHMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyBwcmludChsZW5ndGgsIGxlbmd0aCAtIHdpbmRvd19zaXplICsgMSkKICAgICAgICAgICAgZm9yIGogaW4gcmFuZ2UobGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKToKICAgICAgICAgICAgICAgIHdpbmRvdyA9IHdvcmRzW2o6IGogKyB3aW5kb3dfc2l6ZV0KICAgICAgICAgICAgICAgIHdpbmRvd3MuYXBwZW5kKHdpbmRvdykK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogaW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amtrampramtqawo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1hcCBrayA8RXNjPgo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG0gPSBNYXAoMSwxLDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Z6aG91ODQyL2dlbmprZXJhbHMuaW8tUmVwbGF5LVV0aWxzLmdpdAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnRvdGFsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpbmRvd3MgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB3aWR0aCwgaGVpZ2h0LCB0ZWFtcyk6CiAgICAgICAgc2VsZi53aWR0aCA9IHdpZHRoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGxlbmd0aCwgbGVuZ3RoIC0gd2luZG93X3NpemUgKyAxKQo=</text>
+        <text encoding="base64">aW1hcCBrayA8RXNjPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZGYuaGVhZCgpKQo=</text>
+        <text encoding="base64">amtrampramtqawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZGZfaW5mby5oZWFkKCkpCg==</text>
+        <text encoding="base64">aW1hcCBrayA8RXNjPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZGZfZGF0YS5oZWFkKCkpCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3Z6aG91ODQyL2dlbmprZXJhbHMuaW8tUmVwbGF5LVV0aWxzLmdpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZiA9IG9wZW4oJ2RhdGEvJyArIGRhdGFzZXQgKyAnLnR4dCcsICdyJykKZiA9IG9wZW4oJ2RhdGEvY29ycHVzLycgKyBkYXRhc2V0ICsgJy5jbGVhbi50eHQnLCAncicpCg==</text>
+        <text encoding="base64">ICAgIHdpbmRvd3MgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -864,13 +870,13 @@
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
         <entry>nohl</entry>
-        <entry>w</entry>
         <entry>action $SelectAll</entry>
         <entry>action Find</entry>
-        <entry>action $Paste</entry>
         <entry>edit ~/.ideavimrc</entry>
         <entry>q</entry>
         <entry>action SaveAll</entry>
+        <entry>w</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
