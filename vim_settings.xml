@@ -405,11 +405,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/map.py" timestamp="1558548229367">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/map.py" timestamp="1558582898529">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e4b06238-f788-47d7-a615-29082d057425/console.sql" timestamp="1516014172816">
         <mark key="[" line="0" column="0" />
@@ -760,7 +760,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -801,7 +801,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TILE_EMPTY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
@@ -810,31 +810,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl9tYXAgPSBbW1RJTEVfRU1QVFkgZm9yIHggaW4gcmFuZ2Uoc2VsZi53aWR0aCldIGZvciB5IGluIHJhbmdlKHNlbGYuaGVpZ2h0KV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByb3cgPSBbVElMRV9FTVBUWV0gKiBzZWxmLndpZHRoCg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLmhlaWdodCk6CiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKHNlbGYud2lkdGgpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNpemUgPSBzZWxmLndpZHRoICogc2VsZi5oZWlnaHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG0gPSBNYXAoMSwxLDEpCg==</text>
+        <text encoding="base64">ICAgICAgICByb3cgPSBbVElMRV9FTVBUWV0gKiBzZWxmLndpZHRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnRvdGFsKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLmhlaWdodCk6CiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKHNlbGYud2lkdGgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB3aWR0aCwgaGVpZ2h0LCB0ZWFtcyk6CiAgICAgICAgc2VsZi53aWR0aCA9IHdpZHRoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1hcCBrayA8RXNjPgo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG0gPSBNYXAoMSwxLDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">amtrampramtqawo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnRvdGFsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
