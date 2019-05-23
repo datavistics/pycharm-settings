@@ -202,12 +202,12 @@
       <file name="/fragment.py" timestamp="1540045017669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558630823793">
-        <mark key="'" line="201" column="0" />
-        <mark key="[" line="126" column="25" />
-        <mark key="]" line="126" column="28" />
-        <mark key="." line="126" column="28" />
-        <mark key="^" line="126" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558633122063">
+        <mark key="'" line="217" column="26" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
@@ -540,7 +540,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" timestamp="1558629682917" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" timestamp="1558633014854" />
       <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="27" column="8" />
@@ -654,8 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="267" column="40" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="268" column="36" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="528" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="533" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -754,6 +752,8 @@
       <jump line="29" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
       <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="198" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="1" column="31" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="214" column="26" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -773,8 +773,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2NvcmVzLnNvcnQoZnVuY3Rpb24oYSwgYikKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmICFiLmRlYWQpIHJldHVybiAxCiAgICAgICAgIyAgICAgaWYgKGIuZGVhZCAmJiAhYS5kZWFkKSByZXR1cm4gLTEKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmIGIuZGVhZCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1tiLmldKSAtIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1thLmldKQogICAgICAgICMKICAgICAgICAjICAgICBpZiAoYi50b3RhbCA9PT0gYS50b3RhbCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIGIudGlsZXMgLSBhLnRpbGVzCiAgICAgICAgIyAgICAgcmV0dXJuIGIudG90YWwgLSBhLnRvdGFsCiAgICAgICAgIyApCg==</text>
+      <register name="&quot;" type="4">
+        <text>generals</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -815,53 +815,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>generals</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IC0gc2VsZi5kZWF0aHMuaW5kZXhfb2Yoc2VsZi5zb2NrZXRzW2EuaV0p</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVyYWxzID0gW10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2NvcmVzLnNvcnQoZnVuY3Rpb24oYSwgYikKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmICFiLmRlYWQpIHJldHVybiAxCiAgICAgICAgIyAgICAgaWYgKGIuZGVhZCAmJiAhYS5kZWFkKSByZXR1cm4gLTEKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmIGIuZGVhZCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1tiLmldKSAtIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1thLmldKQogICAgICAgICMKICAgICAgICAjICAgICBpZiAoYi50b3RhbCA9PT0gYS50b3RhbCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIGIudGlsZXMgLSBhLnRpbGVzCiAgICAgICAgIyAgICAgcmV0dXJuIGIudG90YWwgLSBhLnRvdGFsCiAgICAgICAgIyApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zY29yZXMuYXBwZSh0b3RhbD0xLCB0aWxlcz0xKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRvZG8gZmlndXJlIHRoaXMgb3V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIF9fbGVuX18oc2VsZik6CiAgICAgICAgbGVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdG9kbyBmaWd1cmUgdGhpcyBvdXQKICAgICMgc29ja2V0cyA9IGdhbWVfcmVwbGF5LmdlbmVyYWxzLm1hcChmdW5jdGlvbihnLCBpKQogICAgIyByZXR1cm4KICAgICMgZW1pdDogZnVuY3Rpb24oKSwKICAgICMgZ2lvX3VzZXJuYW1lOiBnYW1lX3JlcGxheS51c2VybmFtZXNbaV0sCiAgICAjIGdpb19zdGFyczogZ2FtZV9yZXBsYXkuc3RhcnMgPyAoZ2FtZV9yZXBsYXkuc3RhcnNbaV0gfCB8IDApOiAnJywKICAgICMKICAgICMgKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2NvcmVzLnNvcnQoZnVuY3Rpb24oYSwgYikKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmICFiLmRlYWQpIHJldHVybiAxCiAgICAgICAgIyAgICAgaWYgKGIuZGVhZCAmJiAhYS5kZWFkKSByZXR1cm4gLTEKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmIGIuZGVhZCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1tiLmldKSAtIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1thLmldKQogICAgICAgICMKICAgICAgICAjICAgICBpZiAoYi50b3RhbCA9PT0gYS50b3RhbCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIGIudGlsZXMgLSBhLnRpbGVzCiAgICAgICAgIyAgICAgcmV0dXJuIGIudG90YWwgLSBhLnRvdGFsCiAgICAgICAgIyApCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFycyA9IGlmIGdhbWVfcmVwbGF5LnN0YXJzW2ldCg==</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIF9fbGVuX18oc2VsZik6CiAgICAgICAgbGVuKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgdG9kbyBmaWd1cmUgdGhpcyBvdXQKICAgICMgc29ja2V0cyA9IGdhbWVfcmVwbGF5LmdlbmVyYWxzLm1hcChmdW5jdGlvbihnLCBpKQogICAgIyByZXR1cm4KICAgICMgZW1pdDogZnVuY3Rpb24oKSwKICAgICMgZ2lvX3VzZXJuYW1lOiBnYW1lX3JlcGxheS51c2VybmFtZXNbaV0sCiAgICAjIGdpb19zdGFyczogZ2FtZV9yZXBsYXkuc3RhcnMgPyAoZ2FtZV9yZXBsYXkuc3RhcnNbaV0gfCB8IDApOiAnJywKICAgICMKICAgICMgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiFbUGFyc2VyIFRvbmd1ZV0oaHR0cHM6Ly9naXRodWIuY29tL3Z6aG91ODQyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFycyA9IGlmIGdhbWVfcmVwbGF5LnN0YXJzW2ldCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -874,6 +874,7 @@
         <entry>latin</entry>
         <entry>data</entry>
         <entry>open</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/start/end/g</entry>
@@ -890,8 +891,9 @@
         <entry>action GotoLine</entry>
         <entry>w</entry>
         <entry>action $Paste</entry>
-        <entry>action SaveAll</entry>
         <entry>196</entry>
+        <entry>action Replace</entry>
+        <entry>action SaveAll</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />
@@ -960,6 +962,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
