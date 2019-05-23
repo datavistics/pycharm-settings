@@ -28,6 +28,12 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" timestamp="1558637654268">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -181,11 +187,11 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitignore" timestamp="1558626246273">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitignore" timestamp="1558638001907">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/dvr_facebook_group_analysis_and_visualization.ipynb-meta" timestamp="1511526131896">
         <mark key="[" line="5" column="9" />
@@ -199,15 +205,16 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/example.gioreplay" timestamp="1558636508711" />
       <file name="/fragment.py" timestamp="1540045017669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558634573886">
-        <mark key="'" line="138" column="40" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558638249379">
+        <mark key="'" line="221" column="93" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="30" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
@@ -573,8 +580,11 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558628091861">
+      <file name="/Dummy.txt" timestamp="1558638004411">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="78" />
+        <mark key="^" line="0" column="78" />
+        <mark key="." line="0" column="78" />
       </file>
       <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
         <mark key="[" line="0" column="0" />
@@ -652,17 +662,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/simulator.js" timestamp="1558637225320">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="60" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="543" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="548" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="558" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="563" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="568" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="573" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="578" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="583" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="588" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="598" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="603" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -750,10 +756,19 @@
       <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="198" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="1" column="31" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
-      <jump line="214" column="26" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="108" column="36" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="122" column="52" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="136" column="40" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="214" column="17" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="213" column="27" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="13" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
+      <jump line="19" column="30" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
+      <jump line="110" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/simulator.js" />
+      <jump line="41" column="10" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
+      <jump line="217" column="19" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="218" column="21" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="221" column="93" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -773,8 +788,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_of</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHNlbGYuc29ja2V0cykpCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -815,43 +830,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_of</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>_of</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVyYWxzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHNlbGYuc29ja2V0cykpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjb3JlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIGxlbihzZWxmLmdpb191c2VybmFtZSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zY29yZXMuYXBwZSh0b3RhbD0xLCB0aWxlcz0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvZG8gZmlndXJlIHRoaXMgb3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1lX3JlcGxheVtpXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRpbmcgcGFyc2VyIHRvbmd1ZSBwaWMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2NvcmVzLnNvcnQoZnVuY3Rpb24oYSwgYikKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmICFiLmRlYWQpIHJldHVybiAxCiAgICAgICAgIyAgICAgaWYgKGIuZGVhZCAmJiAhYS5kZWFkKSByZXR1cm4gLTEKICAgICAgICAjICAgICBpZiAoYS5kZWFkICYmIGIuZGVhZCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1tiLmldKSAtIHNlbGYuZGVhdGhzLmluZGV4X29mKHNlbGYuc29ja2V0c1thLmldKQogICAgICAgICMKICAgICAgICAjICAgICBpZiAoYi50b3RhbCA9PT0gYS50b3RhbCkKICAgICAgICAjICAgICAgICAgcmV0dXJuIGIudGlsZXMgLSBhLnRpbGVzCiAgICAgICAgIyAgICAgcmV0dXJuIGIudG90YWwgLSBhLnRvdGFsCiAgICAgICAgIyApCg==</text>
+        <text encoding="base64">cHJpbnQoZGlycykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIF9fbGVuX18oc2VsZik6CiAgICAgICAgbGVuKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdG9kbyBmaWd1cmUgdGhpcyBvdXQKICAgICMgc29ja2V0cyA9IGdhbWVfcmVwbGF5LmdlbmVyYWxzLm1hcChmdW5jdGlvbihnLCBpKQogICAgIyByZXR1cm4KICAgICMgZW1pdDogZnVuY3Rpb24oKSwKICAgICMgZ2lvX3VzZXJuYW1lOiBnYW1lX3JlcGxheS51c2VybmFtZXNbaV0sCiAgICAjIGdpb19zdGFyczogZ2FtZV9yZXBsYXkuc3RhcnMgPyAoZ2FtZV9yZXBsYXkuc3RhcnNbaV0gfCB8IDApOiAnJywKICAgICMKICAgICMgKQo=</text>
+        <text encoding="base64">CSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -861,7 +879,7 @@
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -886,16 +904,17 @@
         <entry>action GuiDesigner.QuickJavadoc</entry>
         <entry>action EditorSelectWord</entry>
         <entry>nohl</entry>
-        <entry>action $SelectAll</entry>
         <entry>edit ~/.ideavimrc</entry>
-        <entry>q</entry>
         <entry>action GotoLine</entry>
         <entry>w</entry>
-        <entry>action $Paste</entry>
         <entry>196</entry>
-        <entry>action Replace</entry>
-        <entry>action SaveAll</entry>
+        <entry>nohlsearch</entry>
+        <entry>action $SelectAll</entry>
+        <entry>q</entry>
         <entry>action Find</entry>
+        <entry>action Replace</entry>
+        <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
