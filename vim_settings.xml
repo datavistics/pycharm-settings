@@ -209,12 +209,12 @@
       <file name="/fragment.py" timestamp="1540045017669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558668398358">
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558791695797">
         <mark key="'" line="175" column="70" />
-        <mark key="[" line="141" column="53" />
-        <mark key="]" line="142" column="18" />
-        <mark key="." line="142" column="18" />
-        <mark key="^" line="142" column="18" />
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="41" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
@@ -791,8 +791,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZ2FtZS5pc19vdmVyKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -833,7 +833,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>_of</text>
@@ -872,7 +872,7 @@
         <text encoding="base64">cHJpbnQoZGlycykK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -916,8 +916,8 @@
         <entry>q</entry>
         <entry>action Replace</entry>
         <entry>action $Paste</entry>
-        <entry>action SaveAll</entry>
         <entry>action Find</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
