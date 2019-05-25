@@ -28,11 +28,11 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" timestamp="1558668178424">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" timestamp="1558793543808">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="67" />
+        <mark key="." line="49" column="67" />
+        <mark key="^" line="49" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
         <mark key="[" line="7" column="0" />
@@ -209,12 +209,12 @@
       <file name="/fragment.py" timestamp="1540045017669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558791695797">
-        <mark key="'" line="175" column="70" />
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="28" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558793615980">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="155" column="51" />
+        <mark key="]" line="155" column="51" />
+        <mark key="." line="155" column="51" />
+        <mark key="^" line="143" column="65" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
@@ -547,7 +547,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" timestamp="1558668307693" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" timestamp="1558793608926">
+        <mark key="'" line="187" column="64" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/output.gioreplay" timestamp="1558668647506">
         <mark key="'" line="0" column="57" />
       </file>
@@ -672,8 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="603" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="608" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="613" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="618" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="623" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -772,6 +772,8 @@
       <jump line="221" column="93" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="175" column="70" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="0" column="57" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/output.gioreplay" />
+      <jump line="23" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="187" column="64" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -792,7 +794,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>, attack_index</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -833,56 +835,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>, attack_index</text>
       </register>
       <register name="/" type="4">
-        <text>_of</text>
+        <text encoding="base64">XDxhdHRhY2tJbmRleFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIHByaW50KGdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZ2FtZS5pc19vdmVyKCkpCg==</text>
+        <text encoding="base64">a2pkZAo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdsb29wJykK</text>
+      <register name="2" type="4">
+        <text>(self.sockets[i])</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNvY2tldHMpCg==</text>
+        <text encoding="base64">cHJpbnQoZ2FtZS5pc19vdmVyKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHNlbGYuc29ja2V0cykpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdsb29wJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIGxlbihzZWxmLmdpb191c2VybmFtZSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNvY2tldHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHNlbGYuc29ja2V0cykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnYW1lX3JlcGxheVtpXSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIGxlbihzZWxmLmdpb191c2VybmFtZSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VXBkYXRpbmcgcGFyc2VyIHRvbmd1ZSBwaWMK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZGlycykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnYW1lX3JlcGxheVtpXSkK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>_of</last-search>
+      <last-search encoding="base64">XDxhdHRhY2tJbmRleFw+</last-search>
       <last-offset />
-      <last-pattern>_of</last-pattern>
+      <last-pattern encoding="base64">XDxhdHRhY2tJbmRleFw+</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -897,6 +899,7 @@
         <entry>open</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>_of</entry>
+        <entry encoding="base64">XDxhdHRhY2tJbmRleFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/start/end/g</entry>
@@ -911,11 +914,11 @@
         <entry>action GotoLine</entry>
         <entry>w</entry>
         <entry>196</entry>
-        <entry>nohlsearch</entry>
         <entry>action $SelectAll</entry>
         <entry>q</entry>
         <entry>action Replace</entry>
         <entry>action $Paste</entry>
+        <entry>nohlsearch</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
