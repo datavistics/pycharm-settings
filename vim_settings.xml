@@ -103,6 +103,10 @@
         <mark key="^" line="11" column="77" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="C:/ProgramData/Miniconda3/envs/generals_io_simulator/Lib/site-packages/lzstring/__init__.py" timestamp="1558803761481">
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="87" />
+      </file>
       <file name="$USER_HOME$/projects/sms_spam/src/utilities.py" timestamp="1517052552895">
         <mark key="'" line="54" column="26" />
         <mark key="[" line="94" column="0" />
@@ -206,6 +210,12 @@
         <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/example.gioreplay" timestamp="1558636508711" />
+      <file name="/Python Console" timestamp="1558803617993">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="/fragment.py" timestamp="1540045017669">
         <mark key="[" line="0" column="0" />
       </file>
@@ -239,6 +249,10 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/converter.js" timestamp="1558802331965" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/requirements.txt" timestamp="1558801356478">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/test.R" timestamp="1512632236955">
         <mark key="[" line="76" column="0" />
@@ -382,6 +396,13 @@
         <mark key="[" line="517" column="0" />
         <mark key="]" line="530" column="29" />
         <mark key="." line="517" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" timestamp="1558804028370">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+        <mark key="^" line="27" column="33" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/README.md" timestamp="1516083193745">
         <mark key="'" line="87" column="5" />
@@ -674,11 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="613" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="618" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="623" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="628" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
-      <jump line="638" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="643" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="648" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="653" column="0" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -774,6 +790,11 @@
       <jump line="0" column="57" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/output.gioreplay" />
       <jump line="23" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="187" column="64" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="31" column="3" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -793,8 +814,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>output</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBsb2Fkcwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -835,46 +856,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>output</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2tJbmRleFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gX2RlY29tcHJlc3MobGVuKGNvbXByZXNzZWQpLCAzMjc2OCwgbGFtYmRhIGluZGV4OiBvcmQoY29tcHJlc3NlZFtpbmRleF0pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNjb3JlcykK</text>
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBsb2Fkcwo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">a2pkZAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRlcykK</text>
       </register>
-      <register name="3" type="4">
-        <text>(self.sockets[i])</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHIgPSBsei5kZWNvbXByZXNzKGJ1ZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZ2FtZS5pc19vdmVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpLCBsZW4oYnVmKSkKICAgICAgICBwcmludChjb21wcmVzc2VkWzIqaV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdsb29wJykK</text>
+        <text encoding="base64">ICAgIGx6ID0gTFpTdHJpbmcoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNvY2tldHMpCg==</text>
+        <text encoding="base64">ICAgcmV0dXJuIGJ1Zgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHNlbGYuc29ja2V0cykpCg==</text>
+        <text encoding="base64">ZGVjb21wcmVzc0Zyb21VaW50OEFycmF5OmZ1bmN0aW9uIChjb21wcmVzc2VkKSB7Cn0gZWxzZSB7CnZhciBidWY9bmV3IEFycmF5KGNvbXByZXNzZWQubGVuZ3RoLzIpOyAvLyAyIGJ5dGVzIHBlciBjaGFyYWN0ZXIKZm9yICh2YXIgaT0wLCBUb3RhbExlbj1idWYubGVuZ3RoOyBpPFRvdGFsTGVuOyBpKyspIHsKICAgIGJ1ZltpXT1jb21wcmVzc2VkW2kqMl0qMjU2K2NvbXByZXNzZWRbaSoyKzFdOwp9Cgp2YXIgcmVzdWx0ID0gW107CmJ1Zi5mb3JFYWNoKGZ1bmN0aW9uIChjKSB7CiAgICByZXN1bHQucHVzaChmKGMpKTsKfSk7CnJldHVybiBMWlN0cmluZy5kZWNvbXByZXNzKHJlc3VsdC5qb2luKCcnKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIGxlbihzZWxmLmdpb191c2VybmFtZSkKCg==</text>
+        <text encoding="base64">aWYgKGNvbXByZXNzZWQ9PT1udWxsIHx8IGNvbXByZXNzZWQ9PT11bmRlZmluZWQpewpyZXR1cm4gTFpTdHJpbmcuZGVjb21wcmVzcyhjb21wcmVzc2VkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSkK</text>
+        <text encoding="base64">ICAgIGlmIGNvbXByZXNzZWRQCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -916,12 +937,12 @@
         <entry>196</entry>
         <entry>action $SelectAll</entry>
         <entry>q</entry>
-        <entry>action $Paste</entry>
         <entry>nohlsearch</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
         <entry>action Find</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
