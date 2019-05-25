@@ -28,11 +28,11 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" timestamp="1558793543808">
-        <mark key="[" line="49" column="66" />
-        <mark key="]" line="49" column="67" />
-        <mark key="." line="49" column="67" />
-        <mark key="^" line="49" column="65" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" timestamp="1558795006448">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
         <mark key="[" line="7" column="0" />
@@ -209,12 +209,12 @@
       <file name="/fragment.py" timestamp="1540045017669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558793615980">
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558794807734">
         <mark key="'" line="23" column="13" />
-        <mark key="[" line="155" column="51" />
-        <mark key="]" line="155" column="51" />
-        <mark key="." line="155" column="51" />
-        <mark key="^" line="143" column="65" />
+        <mark key="[" line="194" column="92" />
+        <mark key="]" line="194" column="92" />
+        <mark key="." line="194" column="92" />
+        <mark key="^" line="194" column="80" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/user_data.json" timestamp="1516044908890">
         <mark key="[" line="1" column="56" />
@@ -794,7 +794,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, attack_index</text>
+        <text>example</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -835,7 +835,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, attack_index</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2tJbmRleFw+</text>
@@ -916,9 +916,10 @@
         <entry>196</entry>
         <entry>action $SelectAll</entry>
         <entry>q</entry>
-        <entry>action Replace</entry>
         <entry>action $Paste</entry>
         <entry>nohlsearch</entry>
+        <entry>action FileChooser.NewFolder</entry>
+        <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
