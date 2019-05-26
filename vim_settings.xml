@@ -606,11 +606,11 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558838139273">
+      <file name="/Dummy.txt" timestamp="1558891613005">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="78" />
-        <mark key="^" line="0" column="78" />
-        <mark key="." line="0" column="78" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="50" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
         <mark key="[" line="0" column="0" />
@@ -815,7 +815,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcGxheSA9IGNvbnZlcnRfZGVuc2VfdG9fc3BhcnNlKGpzb24ubG9hZHMoZGVzKSkK</text>
+        <text encoding="base64">TWFqb3IgdXBkYXRlcywgbmVlZCB0byB2ZXJpZnkgbG9hZGluZyBvZiByZXBsYXlzLi4uCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -865,31 +865,31 @@
         <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlLCAncmInKSBhcyBmOgogICAgICAgIHNlciA9IGYucmVhZCgpCgogICAgZGVzID0gZGVzZXJpYWxpemUoc2VyKQogICAgcmVwbGF5ID0gY29udmVydF9kZW5zZV90b19zcGFyc2UoanNvbi5sb2FkcyhkZXMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcGxheSA9IGNvbnZlcnRfZGVuc2VfdG9fc3BhcnNlKGpzb24ubG9hZHMoZGVzKSkK</text>
+        <text encoding="base64">TWFqb3IgdXBkYXRlcywgbmVlZCB0byB2ZXJpZnkgbG9hZGluZyBvZiByZXBsYXlzLi4uCg==</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlLCAncmInKSBhcyBmOgogICAgICAgIHNlciA9IGYucmVhZCgpCgogICAgZGVzID0gZGVzZXJpYWxpemUoc2VyKQo=</text>
+        <text encoding="base64">ICAgIHJlcGxheSA9IGNvbnZlcnRfZGVuc2VfdG9fc3BhcnNlKGpzb24ubG9hZHMoZGVzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBwcmludChyZXBsYXkpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlLCAncmInKSBhcyBmOgogICAgICAgIHNlciA9IGYucmVhZCgpCgogICAgZGVzID0gZGVzZXJpYWxpemUoc2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgIHBwcmludChyZXBsYXkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBwcmludChhZmtzKQo=</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBwcmludChtb3ZlcykK</text>
+        <text encoding="base64">ICAgIHBwcmludChhZmtzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHBwcmludChtb3ZlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQo=</text>
