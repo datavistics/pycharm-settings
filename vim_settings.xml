@@ -397,12 +397,12 @@
         <mark key="]" line="530" column="29" />
         <mark key="." line="517" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" timestamp="1558838118189">
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" timestamp="1558889892081">
         <mark key="'" line="37" column="16" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="38" column="15" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="12" />
       </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/README.md" timestamp="1516083193745">
         <mark key="'" line="87" column="5" />
@@ -815,7 +815,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBwcmludChyZXBsYXkpCg==</text>
+        <text encoding="base64">ICAgIHJlcGxheSA9IGNvbnZlcnRfZGVuc2VfdG9fc3BhcnNlKGpzb24ubG9hZHMoZGVzKSkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -856,43 +856,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>[]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQogICAgZm9yIGFmayBpbiBhZmtzOgogICAgICAgcmV0X2Fma3MuYXBwZW5kKGRpY3QoemlwKGtleXMsIGFmaykpKQogICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlLCAncmInKSBhcyBmOgogICAgICAgIHNlciA9IGYucmVhZCgpCgogICAgZGVzID0gZGVzZXJpYWxpemUoc2VyKQogICAgcmVwbGF5ID0gY29udmVydF9kZW5zZV90b19zcGFyc2UoanNvbi5sb2FkcyhkZXMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBwcmludChyZXBsYXkpCg==</text>
+        <text encoding="base64">ICAgIHJlcGxheSA9IGNvbnZlcnRfZGVuc2VfdG9fc3BhcnNlKGpzb24ubG9hZHMoZGVzKSkK</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmaWxlLCAncmInKSBhcyBmOgogICAgICAgIHNlciA9IGYucmVhZCgpCgogICAgZGVzID0gZGVzZXJpYWxpemUoc2VyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBwcmludChhZmtzKQo=</text>
+        <text encoding="base64">ICAgIHBwcmludChyZXBsYXkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBwcmludChtb3ZlcykK</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHBwcmludChhZmtzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQo=</text>
+        <text encoding="base64">ICAgIHBwcmludChtb3ZlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ld19yZXBsYXkK</text>
+        <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCBsb2Fkcwo=</text>
+        <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
