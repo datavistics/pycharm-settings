@@ -506,7 +506,7 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/README.md" timestamp="1558628082580">
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/README.md" timestamp="1558967438669">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
@@ -895,7 +895,7 @@
         <text encoding="base64">ICAgIGtleXMgPSBbJ2luZGV4JywgJ3R1cm4nXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -905,7 +905,7 @@
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -941,11 +941,11 @@
         <entry>action $SelectAll</entry>
         <entry>q</entry>
         <entry>action FileChooser.NewFolder</entry>
-        <entry>action $Paste</entry>
-        <entry>nohlsearch</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
+        <entry>nohlsearch</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
