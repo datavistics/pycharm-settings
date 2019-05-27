@@ -321,12 +321,12 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="83" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" timestamp="1558970597619">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" timestamp="1558970748394">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/src/models/utilities.py" timestamp="1516723636531">
         <mark key="[" line="5" column="5" />
@@ -823,7 +823,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>step=</text>
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -864,7 +864,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>step=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
@@ -873,37 +873,37 @@
         <text encoding="base64">aHR0cDovL2dlbmVyYWxzLmlvL2FwaS9yZXBsYXlzRm9yVXNlcm5hbWU/dT1TcHJhZ2V0Jm9mZnNldD0wJmNvdW50PTEwMAogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBwcmludChpZHMpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBwcmludChpZHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlX2xvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcuY29uZmlnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">bW9kdWxlX2xvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24ucHJval9wYXRocyBpbXBvcnQgZGlycwo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcuY29uZmlnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZ2VfY291bnQgPSBjb3VudC8vcGFnZV9zaXplICsgMQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -955,8 +955,8 @@
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
         <entry>nohlsearch</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
