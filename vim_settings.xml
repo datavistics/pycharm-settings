@@ -38,11 +38,21 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.git/config" timestamp="1559062440530">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" timestamp="1558798426662">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/datavistics.github.io/fabfile.py" timestamp="1533998141235">
         <mark key="[" line="24" column="114" />
@@ -57,11 +67,12 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/converter.py" timestamp="1558979692405">
-        <mark key="'" line="86" column="32" />
-        <mark key="[" line="84" column="42" />
-        <mark key="]" line="84" column="42" />
-        <mark key="." line="84" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/converter.py" timestamp="1559062059211">
+        <mark key="'" line="85" column="32" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="84" column="21" />
+        <mark key="." line="84" column="21" />
+        <mark key="^" line="84" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/text_gcn/build_graph.py" timestamp="1540049378714">
         <mark key="'" line="23" column="17" />
@@ -69,6 +80,11 @@
         <mark key="]" line="375" column="37" />
         <mark key="^" line="491" column="13" />
         <mark key="." line="491" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/sms_spam/.gitignore" timestamp="1516944738316">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
@@ -204,11 +220,11 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitignore" timestamp="1558638001907">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitignore" timestamp="1559062913155">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/dvr_facebook_group_analysis_and_visualization.ipynb-meta" timestamp="1511526131896">
         <mark key="[" line="5" column="9" />
@@ -258,7 +274,18 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
+      <file name="C:/Program Files/Git/mingw64/etc/gitconfig" timestamp="1519715012924">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/converter.js" timestamp="1558804282895" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitmodules" timestamp="1559062401780">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/requirements.txt" timestamp="1558974443008">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="2" column="3" />
@@ -295,12 +322,22 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/polititweet/README.md" timestamp="1533878937496">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/datavistics.github.io/pelicanconf.py" timestamp="1533998362597">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="27" />
         <mark key="]" line="28" column="27" />
         <mark key="." line="28" column="27" />
         <mark key="^" line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/constants.py" timestamp="1558530488258">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/retrofit/setup.py" timestamp="1537633357554">
         <mark key="[" line="43" column="24" />
@@ -359,17 +396,22 @@
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_giors.py" timestamp="1558978812848">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_giors.py" timestamp="1559061714393">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="49" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1518328859705">
         <mark key="[" line="7" column="5" />
@@ -400,6 +442,11 @@
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
         <mark key="^" line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/Downloads/fet-5.35.2/derek_test.xml" timestamp="1519987714570">
+        <mark key="[" line="517" column="0" />
+        <mark key="]" line="530" column="29" />
+        <mark key="." line="517" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" timestamp="1558889892081">
         <mark key="'" line="37" column="16" />
@@ -510,10 +557,10 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/README.md" timestamp="1558967438669">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/README.md" timestamp="1559062430223">
+        <mark key="[" line="6" column="84" />
+        <mark key="]" line="6" column="113" />
+        <mark key="." line="6" column="84" />
         <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/AppData/Roaming/jupyter/nbextensions/snippets/snippets.json" timestamp="1533486832553">
@@ -575,9 +622,6 @@
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" timestamp="1558890894852">
         <mark key="'" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/output.gioreplay" timestamp="1558668647506">
-        <mark key="'" line="0" column="57" />
-      </file>
       <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="27" column="8" />
@@ -610,10 +654,15 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558974470842">
+      <file name="/Dummy.txt" timestamp="1559062900600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1537368907253">
@@ -648,6 +697,16 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/retrofit/test.py" timestamp="1537633049556">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/polititweet/requirements.txt" timestamp="1533879040790">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516695804873">
         <mark key="'" line="68" column="16" />
         <mark key="[" line="9" column="0" />
@@ -667,14 +726,18 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/simulator.js" timestamp="1558637225320">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="60" column="32" />
+      <file name="$USER_HOME$/Projects/dotfiles/ideavimrc" timestamp="1558530399506">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/datavistics.github.io/.gitmodules" timestamp="1534006348054">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3793" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3804" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3814" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
       <jump line="3824" column="23" filename="$USER_HOME$/projects/School_Schedule/derek_test.fet" />
@@ -774,6 +837,7 @@
       <jump line="0" column="22" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_giors.py" />
       <jump line="20" column="22" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_giors.py" />
       <jump line="86" column="32" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/converter.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitmodules" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -793,8 +857,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>glob('.gior')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ki5naW9yCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -835,46 +899,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>glob('.gior')</text>
+        <text>bot</text>
       </register>
       <register name="/" type="4">
         <text>get_re</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgpkZWYgZ2lvcl90b19yZXBsYXkoZmlsZSk6CiAgICB3aXRoIG9wZW4oZmlsZSwgJ3JiJykgYXMgZjoKICAgICAgICBzZXIgPSBmLnJlYWQoKQoKICAgIGRlcyA9IGRlc2VyaWFsaXplKHNlcikKICAgIHJlcGxheSA9IGNvbnZlcnRfZGVuc2VfdG9fc3BhcnNlKGpzb24ubG9hZHMoZGVzKSkKICAgIHJldHVybiByZXBsYXkK</text>
+        <text encoding="base64">Ki5naW9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZpbGVzKQo=</text>
+        <text encoding="base64">QWRkaW5nIGdldF9yZXBsYXlzIGZvciBjb252ZW5pZW5jZQo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBwcmludChyZXBsYXkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcGxheSA9IGdpb3JfdG9fcmVwbGF5KGZpbGUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXBsYXkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">QWRkaW5nIGdldF9yZXBsYXlzIGZvciBjb252ZW5pZW5jZQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">QWRkaW5nIGdldF9yZXBsYXlzIGZvciBjb252ZW5pZW5jZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">W3N1Ym1vZHVsZSAiZ2VuZXJhbHMuaW8tUmVwbGF5LVV0aWxzIl0KCXVybCA9IGh0dHBzOi8vZ2l0aHViLmNvbS92emhvdTg0Mi9nZW5lcmFscy5pby1SZXBsYXktVXRpbHMuZ2l0CglhY3RpdmUgPSB0cnVlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QWRkaW5nIGdldF9yZXBsYXlzIGZvciBjb252ZW5pZW5jZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">W3N1Ym1vZHVsZSAiZ2VuZXJhbHMuaW8tUmVwbGF5LVV0aWxzIl0KCXBhdGggPSBnZW5lcmFscy5pby1SZXBsYXktVXRpbHMKCXVybCA9IGh0dHBzOi8vZ2l0aHViLmNvbS92emhvdTg0Mi9nZW5lcmFscy5pby1SZXBsYXktVXRpbHMuZ2l0Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpZCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGZpbGVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdhbWVfaWRzX2NsZWFuZWRbMF0pCg==</text>
+        <text encoding="base64">ICAgIHBwcmludChyZXBsYXkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdhbWVfaWRzX2NsZWFuZWQpCg==</text>
+        <text encoding="base64">ICAgIHJlcGxheSA9IGdpb3JfdG9fcmVwbGF5KGZpbGUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -909,8 +973,6 @@
         <entry>get_re</entry>
       </history-search>
       <history-cmd>
-        <entry>s/start/end/g</entry>
-        <entry>51</entry>
         <entry>so %</entry>
         <entry>so ~/.ideavimrc</entry>
         <entry>so ~/ideavimrc</entry>
@@ -927,8 +989,10 @@
         <entry>action Replace</entry>
         <entry>nohlsearch</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>edit ../.git/config</entry>
+        <entry>wq</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
