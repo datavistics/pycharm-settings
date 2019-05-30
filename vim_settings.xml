@@ -323,12 +323,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" timestamp="1559147788292">
-        <mark key="'" line="6" column="48" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="249" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" timestamp="1559233995160">
+        <mark key="'" line="215" column="0" />
+        <mark key="[" line="241" column="57" />
+        <mark key="]" line="241" column="58" />
+        <mark key="." line="241" column="58" />
+        <mark key="^" line="265" column="14" />
       </file>
       <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
         <mark key="[" line="0" column="0" />
@@ -764,7 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="54" filename="$USER_HOME$/Projects/pyGAT/train.py" />
       <jump line="104" column="4" filename="$USER_HOME$/Projects/pyGAT/text_gcn_utils.py" />
       <jump line="44" column="22" filename="$USER_HOME$/Projects/pyGAT/train.py" />
       <jump line="140" column="18" filename="$USER_HOME$/Projects/text_gcn/utils.py" />
@@ -864,6 +863,7 @@
       <jump line="244" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
       <jump line="6" column="48" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
       <jump line="136" column="17" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="215" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -884,7 +884,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>map.</text>
+        <text>game_replay['teams']</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -925,46 +925,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>map.</text>
+        <text>game_replay['teams']</text>
       </register>
       <register name="/" type="4">
         <text>get_re</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBfZmlsZXMgPSBsaXN0KGdhbWVfZGlyLmdsb2IoJyouZ2lvcmVwbGF5JykpCiAgICAgICAgbWFwX2ZpbGUgPSByYW5kb20uY2hvaWNlKG1hcF9maWxlcykKICAgICAgICBwcmludChtYXBfZmlsZSkKICAgICAgICBtYXBfZGljdCA9IGdpb3JfdG9fbWFwKG1hcF9maWxlKQogICAgICAgIG9iaiA9IGNscyhtYXBfZGljdFsnbWFwV2lkdGgnXSwgbWFwX2RpY3RbJ21hcEhlaWdodCddLCB0ZWFtcykK</text>
+        <text encoding="base64">ICAgIHNvY2tldHMgPSBbXQogICAgZm9yIGksIGcgaW4gZW51bWVyYXRlKGdhbWVfcmVwbGF5WydnZW5lcmFscyddKToKICAgICAgICBzb2NrZXRzLmFwcGVuZChTb2NrZXQoZ2lvX3VzZXJuYW1lPWdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSwgZ2lvX3N0YXJzPShnYW1lX3JlcGxheVsnc3RhcnMnXVtpXSBvciAwKSkpCgogICAgZ2FtZSA9IEdhbWUoc29ja2V0cz1zb2NrZXRzLCB0ZWFtcz1nYW1lX3JlcGxheVsndGVhbXMnXSkKCiAgICAjIEluaXQgdGhlIGdhbWUgbWFwIGZyb20gdGhlIHJlcGxheS4KICAgIGdhbWUubWFwID0gTWFwKGdhbWVfcmVwbGF5WydtYXBXaWR0aCddLCBnYW1lX3JlcGxheVsibWFwSGVpZ2h0Il0sIGdhbWVfcmVwbGF5WyJ0ZWFtcyJdKQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbWVfcmVwbGF5Wydtb3VudGFpbnMnXSkpOgogICAgICAgIGdhbWUuYWRkX21vdW50YWluKGdhbWVfcmVwbGF5Wydtb3VudGFpbnMnXVtpXSkKCiAgICBmb3IgaSBpbiByYW5nZShsZW4oZ2FtZV9yZXBsYXlbJ2NpdGllcyddKSk6CiAgICAgICAgZ2FtZS5hZGRfY2l0eShnYW1lX3JlcGxheVsnY2l0aWVzJ11baV0sIGdhbWVfcmVwbGF5WydjaXR5QXJtaWVzJ11baV0pCgogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbWVfcmVwbGF5WydnZW5lcmFscyddKSk6CiAgICAgICAgZ2FtZS5hZGRfZ2VuZXJhbChnYW1lX3JlcGxheVsnZ2VuZXJhbHMnXVtpXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRfbW91bnRhaW4oc2VsZiwgaW5kZXgpOgogICAgICAgIHNlbGYubWFwLnNldF90aWxlKGluZGV4LCBUSUxFX01PVU5UQUlOKQoKICAgIGRlZiBhZGRfY2l0eShzZWxmLCBpbmRleCwgYXJteSk6CiAgICAgICAgc2VsZi5jaXRpZXMuYXBwZW5kKGluZGV4KQogICAgICAgIHNlbGYubWFwLnNldF9hcm15KGluZGV4LCBhcm15KQoKICAgIGRlZiBhZGRfZ2VuZXJhbChzZWxmLCBpbmRleCk6CiAgICAgICAgc2VsZi5nZW5lcmFscy5hcHBlbmQoaW5kZXgpCiAgICAgICAgc2VsZi5tYXAuc2V0X3RpbGUoaW5kZXgsIGxlbihzZWxmLmdlbmVyYWxzKSAtIDEpCiAgICAgICAgc2VsZi5tYXAuc2V0X2FybXkoaW5kZXgsIDEpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcF9maWxlcyA9IGxpc3QoZ2FtZV9kaXIuZ2xvYignKi5naW9yZXBsYXknKSkKICAgIG1hcF9maWxlID0gcmFuZG9tLmNob2ljZShtYXBfZmlsZXMpCiAgICBwcmludChmJ1VzaW5nOiB7bWFwX2ZpbGUuc3RlbX0nKQogICAgbWFwX2RpY3QgPSBnaW9yX3RvX21hcChtYXBfZmlsZSkK</text>
+      <register name="2" type="4">
+        <text>(game_replay['stars'][i] or 0)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGdhbWUubWFwID0gTWFwKGdhbWVfcmVwbGF5WydtYXBXaWR0aCddLCBnYW1lX3JlcGxheVsibWFwSGVpZ2h0Il0sIGdhbWVfcmVwbGF5WyJ0ZWFtcyJdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdtYXAgPSBNYXAoZ2FtZV9yZXBsYXlbJ21hcFdpZHRoJ10sIGdhbWVfcmVwbGF5WydtYXBIZWlnaHQnXSwgdGVhbXM9WzAsIDFdLCBmaWxlPW1hcF9maWxlLnN0ZW0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfbW91bnRhaW4oc2VsZiwgaW5kZXgpOgogICAgICAgIHNlbGYubWFwLnNldF90aWxlKGluZGV4LCBUSUxFX01PVU5UQUlOKQoKICAgIGRlZiBhZGRfY2l0eShzZWxmLCBpbmRleCwgYXJteSk6CiAgICAgICAgc2VsZi5jaXRpZXMuYXBwZW5kKGluZGV4KQogICAgICAgIHNlbGYubWFwLnNldF9hcm15KGluZGV4LCBhcm15KQoKICAgIGRlZiBhZGRfZ2VuZXJhbChzZWxmLCBpbmRleCk6CiAgICAgICAgc2VsZi5nZW5lcmFscy5hcHBlbmQoaW5kZXgpCiAgICAgICAgc2VsZi5tYXAuc2V0X3RpbGUoaW5kZXgsIGxlbihzZWxmLmdlbmVyYWxzKSAtIDEpCiAgICAgICAgc2VsZi5tYXAuc2V0X2FybXkoaW5kZXgsIDEpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvYmoK</text>
+        <text encoding="base64">ICAgIG1hcF9maWxlcyA9IGxpc3QoZ2FtZV9kaXIuZ2xvYignKi5naW9yZXBsYXknKSkKICAgIG1hcF9maWxlID0gcmFuZG9tLmNob2ljZShtYXBfZmlsZXMpCiAgICBwcmludChmJ1VzaW5nOiB7bWFwX2ZpbGUuc3RlbX0nKQogICAgbWFwX2RpY3QgPSBnaW9yX3RvX21hcChtYXBfZmlsZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgIHBwcmludChyZXBsYXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlcyA9IGRlc2VyaWFsaXplKHNlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -1010,7 +1010,6 @@
         <entry>action $SelectAll</entry>
         <entry>q</entry>
         <entry>action FileChooser.NewFolder</entry>
-        <entry>action Replace</entry>
         <entry>edit ../.git/config</entry>
         <entry>wq</entry>
         <entry>action SaveAll</entry>
@@ -1019,6 +1018,7 @@
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
         <entry>action Find</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
