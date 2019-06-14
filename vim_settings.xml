@@ -240,7 +240,6 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/example.gioreplay" timestamp="1558636508711" />
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/common/proj_paths.py" timestamp="1558973402791">
         <mark key="[" line="19" column="69" />
         <mark key="]" line="19" column="86" />
@@ -287,7 +286,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/converter.js" timestamp="1558804282895" />
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitmodules" timestamp="1559062401780">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -428,7 +426,6 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replays/gioreplays/Spraget/H5FPm915V.gioreplay" timestamp="1559146456719" />
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator.py" timestamp="1559234856840">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -648,7 +645,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replays/gioreplays/Spraget/B5DHgsknN.gioreplay" timestamp="1559145204366" />
       <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="27" column="8" />
@@ -680,12 +676,6 @@
         <mark key="]" line="56" column="5" />
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559148397306">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
         <mark key="[" line="0" column="0" />
@@ -885,7 +875,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">QWRkaW5nIHJ1bnRpbWUgZGF0YQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -926,7 +916,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>get_re</text>
@@ -935,34 +925,34 @@
         <text encoding="base64">ICAgIHNvY2tldHMgPSBbXQogICAgZm9yIGksIGcgaW4gZW51bWVyYXRlKGdhbWVfcmVwbGF5WydnZW5lcmFscyddKToKICAgICAgICBzb2NrZXRzLmFwcGVuZChTb2NrZXQoZ2lvX3VzZXJuYW1lPWdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSwgZ2lvX3N0YXJzPShnYW1lX3JlcGxheVsnc3RhcnMnXVtpXSBvciAwKSkpCgogICAgZ2FtZSA9IEdhbWUoc29ja2V0cz1zb2NrZXRzLCB0ZWFtcz1nYW1lX3JlcGxheVsndGVhbXMnXSkKCiAgICAjIEluaXQgdGhlIGdhbWUgbWFwIGZyb20gdGhlIHJlcGxheS4KICAgIGdhbWUubWFwID0gTWFwKGdhbWVfcmVwbGF5WydtYXBXaWR0aCddLCBnYW1lX3JlcGxheVsibWFwSGVpZ2h0Il0sIGdhbWVfcmVwbGF5WyJ0ZWFtcyJdKQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbWVfcmVwbGF5Wydtb3VudGFpbnMnXSkpOgogICAgICAgIGdhbWUuYWRkX21vdW50YWluKGdhbWVfcmVwbGF5Wydtb3VudGFpbnMnXVtpXSkKCiAgICBmb3IgaSBpbiByYW5nZShsZW4oZ2FtZV9yZXBsYXlbJ2NpdGllcyddKSk6CiAgICAgICAgZ2FtZS5hZGRfY2l0eShnYW1lX3JlcGxheVsnY2l0aWVzJ11baV0sIGdhbWVfcmVwbGF5WydjaXR5QXJtaWVzJ11baV0pCgogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbWVfcmVwbGF5WydnZW5lcmFscyddKSk6CiAgICAgICAgZ2FtZS5hZGRfZ2VuZXJhbChnYW1lX3JlcGxheVsnZ2VuZXJhbHMnXVtpXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">QWRkaW5nIHJ1bnRpbWUgZGF0YQo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IHN0cgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX3Bvc3RfaW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IHN0cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgQ2hlY2sgZm9yIEFGS3MuCiAgICB3aGlsZSBsZW4ocmVwbGF5WydhZmtzJ10pID4gY3VycmVudF9hZmtfaW5kZXggYW5kIHJlcGxheVsnYWZrcyddW2N1cnJlbnRfYWZrX2luZGV4XVsndHVybiddIDw9IGdhbWUudHVybjoKICAgICAgICBhZmsgPSByZXBsYXlbJ2Fma3MnXVtjdXJyZW50X2Fma19pbmRleF0KICAgICAgICBjdXJyZW50X2Fma19pbmRleCArPSAxCiAgICAgICAgaW5kZXggPSBhZmtbJ2luZGV4J10KCiAgICAgICAgIyBJZiBhbHJlYWR5IGRlYWQsIG1hcmsgYXMgZGVhZCBnZW5lcmFsIGFuZCBuZXV0cmFsaXplIGlmIG5lZWRlZC4KICAgICAgICBpZiBnYW1lLnNvY2tldHNbaW5kZXhdIGluIGdhbWUuZGVhdGhzOgogICAgICAgICAgICBnYW1lLnRyeV9uZXV0cmFsaXplX3BsYXllcihpbmRleCkKCiAgICAgICAgIyBNYXJrIGFzIEFGSyBpZiBub3QgYWxyZWFkeSBkZWFkLgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGdhbWUuZGVhdGhzLmFwcGVuZChnYW1lLnNvY2tldHNbaW5kZXhdKQogICAgICAgICAgICBnYW1lLmFsaXZlX3BsYXllcnMgLT0gMQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgQ2hlY2sgZm9yIEFGS3MuCiAgICB3aGlsZSBsZW4ocmVwbGF5WydhZmtzJ10pID4gY3VycmVudF9hZmtfaW5kZXggYW5kIHJlcGxheVsnYWZrcyddW2N1cnJlbnRfYWZrX2luZGV4XVsndHVybiddIDw9IGdhbWUudHVybjoKICAgICAgICBhZmsgPSByZXBsYXlbJ2Fma3MnXVtjdXJyZW50X2Fma19pbmRleF0KICAgICAgICBjdXJyZW50X2Fma19pbmRleCArPSAxCiAgICAgICAgaW5kZXggPSBhZmtbJ2luZGV4J10KCiAgICAgICAgIyBJZiBhbHJlYWR5IGRlYWQsIG1hcmsgYXMgZGVhZCBnZW5lcmFsIGFuZCBuZXV0cmFsaXplIGlmIG5lZWRlZC4KICAgICAgICBpZiBnYW1lLnNvY2tldHNbaW5kZXhdIGluIGdhbWUuZGVhdGhzOgogICAgICAgICAgICBnYW1lLnRyeV9uZXV0cmFsaXplX3BsYXllcihpbmRleCkKCiAgICAgICAgIyBNYXJrIGFzIEFGSyBpZiBub3QgYWxyZWFkeSBkZWFkLgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGdhbWUuZGVhdGhzLmFwcGVuZChnYW1lLnNvY2tldHNbaW5kZXhdKQogICAgICAgICAgICBnYW1lLmFsaXZlX3BsYXllcnMgLT0gMQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>(game_replay['stars'][i] or 0)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGdhbWUubWFwID0gTWFwKGdhbWVfcmVwbGF5WydtYXBXaWR0aCddLCBnYW1lX3JlcGxheVsibWFwSGVpZ2h0Il0sIGdhbWVfcmVwbGF5WyJ0ZWFtcyJdKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGdtYXAgPSBNYXAoZ2FtZV9yZXBsYXlbJ21hcFdpZHRoJ10sIGdhbWVfcmVwbGF5WydtYXBIZWlnaHQnXSwgdGVhbXM9WzAsIDFdLCBmaWxlPW1hcF9maWxlLnN0ZW0pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRfbW91bnRhaW4oc2VsZiwgaW5kZXgpOgogICAgICAgIHNlbGYubWFwLnNldF90aWxlKGluZGV4LCBUSUxFX01PVU5UQUlOKQoKICAgIGRlZiBhZGRfY2l0eShzZWxmLCBpbmRleCwgYXJteSk6CiAgICAgICAgc2VsZi5jaXRpZXMuYXBwZW5kKGluZGV4KQogICAgICAgIHNlbGYubWFwLnNldF9hcm15KGluZGV4LCBhcm15KQoKICAgIGRlZiBhZGRfZ2VuZXJhbChzZWxmLCBpbmRleCk6CiAgICAgICAgc2VsZi5nZW5lcmFscy5hcHBlbmQoaW5kZXgpCiAgICAgICAgc2VsZi5tYXAuc2V0X3RpbGUoaW5kZXgsIGxlbihzZWxmLmdlbmVyYWxzKSAtIDEpCiAgICAgICAgc2VsZi5tYXAuc2V0X2FybXkoaW5kZXgsIDEpCgo=</text>
+        <text encoding="base64">ICAgIGdtYXAgPSBNYXAoZ2FtZV9yZXBsYXlbJ21hcFdpZHRoJ10sIGdhbWVfcmVwbGF5WydtYXBIZWlnaHQnXSwgdGVhbXM9WzAsIDFdLCBmaWxlPW1hcF9maWxlLnN0ZW0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
