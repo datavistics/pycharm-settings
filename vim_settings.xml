@@ -637,6 +637,12 @@
         <mark key="." line="18" column="51" />
         <mark key="^" line="18" column="51" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/index.html" timestamp="1563384256054">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="52" />
+        <mark key="^" line="0" column="52" />
+        <mark key="." line="0" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/TravellersMap/data/ZeeMap-2787497.csv" timestamp="1511808126869">
         <mark key="[" line="8" column="91" />
         <mark key="]" line="8" column="91" />
@@ -700,7 +706,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563381396444">
+      <file name="/Dummy.txt" timestamp="1563384261576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1537368907253">
@@ -896,7 +902,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>http://example.com/</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -937,7 +943,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>http://example.com/</text>
       </register>
       <register name="/" type="4">
         <text>get_re</text>
@@ -976,7 +982,7 @@
         <text encoding="base64">QWRkaW5nIHJ1bnRpbWUgZGF0YQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -986,7 +992,7 @@
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1027,10 +1033,10 @@
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
         <entry>nohlsearch</entry>
         <entry>action $SelectAll</entry>
+        <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
-        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
