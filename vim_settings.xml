@@ -135,10 +135,10 @@
         <mark key="^" line="94" column="3" />
         <mark key="." line="94" column="3" />
       </file>
-      <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1532916338767">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/.jupyter/custom/custom.js" timestamp="1563371802047">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
         <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/features/add_time_features.py" timestamp="1518347717234">
@@ -764,7 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="30" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="49" column="51" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="56" column="81" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="59" column="7" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
@@ -864,6 +863,7 @@
       <jump line="2128" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="5" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/reddit_pullup_survey/requirements.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -964,7 +964,7 @@
         <text encoding="base64">QWRkaW5nIHJ1bnRpbWUgZGF0YQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -1013,12 +1013,12 @@
         <entry>wq</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
-        <entry>action SaveAll</entry>
         <entry>nohlsearch</entry>
         <entry>action $SelectAll</entry>
         <entry>action Replace</entry>
         <entry>action Find</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
