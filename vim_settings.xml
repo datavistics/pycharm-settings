@@ -700,7 +700,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563378786414">
+      <file name="/Dummy.txt" timestamp="1563381396444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1537368907253">
@@ -976,7 +976,7 @@
         <text encoding="base64">QWRkaW5nIHJ1bnRpbWUgZGF0YQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1028,9 +1028,9 @@
         <entry>nohlsearch</entry>
         <entry>action $SelectAll</entry>
         <entry>action Replace</entry>
-        <entry>action Find</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
