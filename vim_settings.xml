@@ -57,6 +57,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/nbconvert_altair_hidecode.tpl" timestamp="1563379039738">
+        <mark key="'" line="70" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/datavistics.github.io/fabfile.py" timestamp="1533998141235">
         <mark key="[" line="24" column="114" />
         <mark key="]" line="24" column="114" />
@@ -332,11 +335,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/requirements.txt" timestamp="1563373317156">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="6" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/requirements.txt" timestamp="1563379587518">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
         <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/polititweet/README.md" timestamp="1533878937496">
         <mark key="[" line="4" column="0" />
@@ -495,6 +498,12 @@
         <mark key="]" line="4" column="33" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/.gitignore" timestamp="1563378826176">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/projects/sms_spam/report.md" timestamp="1516950117222">
         <mark key="'" line="1" column="17" />
@@ -691,6 +700,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1563378786414">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/code.py" timestamp="1537368907253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -764,7 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="51" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="56" column="81" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="59" column="7" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
       <jump line="60" column="23" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
@@ -864,6 +875,7 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="5" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/reddit_pullup_survey/requirements.txt" />
+      <jump line="70" column="28" filename="$USER_HOME$/PycharmProjects/reddit_pullup_survey/nbconvert_altair_hidecode.tpl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -883,8 +895,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJcbiIqMTUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -925,7 +937,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2h0dHBzOi8vd3d3LmJsYWNrdG93aGl0ZS5uZXQvc2VhcmNoLzQyNzk5ODQvP3E9d2lmZSZvPXJlbGV2YW5jZQ==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>get_re</text>
