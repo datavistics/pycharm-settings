@@ -678,7 +678,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pytorch_geometric/torch_geometric/nn/conv/ngcn_conv.py" timestamp="1564746879104" />
+      <file name="$USER_HOME$/Projects/pytorch_geometric/torch_geometric/nn/conv/ngcn_conv.py" timestamp="1564748690517">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
         <mark key="'" line="0" column="12" />
         <mark key="[" line="27" column="8" />
