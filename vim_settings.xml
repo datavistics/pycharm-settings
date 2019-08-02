@@ -41,21 +41,11 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.git/config" timestamp="1559062440530">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" timestamp="1558798426662">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/retrofit/.travis.yml" timestamp="1537633230457">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/nbconvert_altair_hidecode.tpl" timestamp="1563379039738">
         <mark key="'" line="70" column="28" />
@@ -73,6 +63,7 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/MixHop-and-N-GCN/src/trainer_and_networks.py" timestamp="1564749778053" />
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/converter.py" timestamp="1559146582015">
         <mark key="'" line="85" column="32" />
         <mark key="[" line="78" column="0" />
@@ -86,11 +77,6 @@
         <mark key="]" line="375" column="37" />
         <mark key="^" line="491" column="13" />
         <mark key="." line="491" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/sms_spam/.gitignore" timestamp="1516944738316">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/projects/datavistics.github.io/content/articles/us_afghan_bombings-meta.html" timestamp="1512739023296">
         <mark key="[" line="26" column="47" />
@@ -281,11 +267,6 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="C:/Program Files/Git/mingw64/etc/gitconfig" timestamp="1519715012924">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitmodules" timestamp="1559062401780">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -338,11 +319,6 @@
       <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/requirements.txt" timestamp="1563519979908">
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/polititweet/README.md" timestamp="1533878937496">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1561519907131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -355,11 +331,6 @@
         <mark key="]" line="28" column="27" />
         <mark key="." line="28" column="27" />
         <mark key="^" line="27" column="1" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/constants.py" timestamp="1558530488258">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/retrofit/setup.py" timestamp="1537633357554">
         <mark key="[" line="43" column="24" />
@@ -418,11 +389,6 @@
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/reddit_prediction/src/features/utilities.py" timestamp="1518355738796">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="38" />
@@ -470,11 +436,6 @@
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
         <mark key="^" line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/Downloads/fet-5.35.2/derek_test.xml" timestamp="1519987714570">
-        <mark key="[" line="517" column="0" />
-        <mark key="]" line="530" column="29" />
-        <mark key="." line="517" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" timestamp="1558889892081">
         <mark key="'" line="37" column="16" />
@@ -585,6 +546,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/MixHop-and-N-GCN/src/layers.py" timestamp="1564749812957" />
       <file name="$USER_HOME$/projects/sms_spam/src/setup.py" timestamp="1516941366347">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="0" />
@@ -678,10 +640,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pytorch_geometric/torch_geometric/nn/conv/ngcn_conv.py" timestamp="1564748690517">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
+      <file name="$USER_HOME$/Projects/pytorch_geometric/torch_geometric/nn/conv/ngcn_conv.py" timestamp="1564750273109">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="22" />
+        <mark key="." line="60" column="22" />
+        <mark key="^" line="62" column="37" />
       </file>
       <file name="$USER_HOME$/projects/leetcode/p0006.py" timestamp="1518889370356">
         <mark key="'" line="0" column="12" />
@@ -715,13 +678,11 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/natural-language-processing/sandbox.py" timestamp="1520584768039">
+      <file name="/Dummy.txt" timestamp="1564749257224">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563535830087">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="/code.py" timestamp="1537368907253">
         <mark key="[" line="0" column="0" />
@@ -755,16 +716,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/retrofit/test.py" timestamp="1537633049556">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/polititweet/requirements.txt" timestamp="1533879040790">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/FacebookUtilities/src/download_query.py" timestamp="1516695804873">
         <mark key="'" line="68" column="16" />
         <mark key="[" line="9" column="0" />
@@ -783,16 +734,6 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/dotfiles/ideavimrc" timestamp="1558530399506">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/datavistics.github.io/.gitmodules" timestamp="1534006348054">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -916,7 +857,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -957,13 +898,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>get_re</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNvY2tldHMgPSBbXQogICAgZm9yIGksIGcgaW4gZW51bWVyYXRlKGdhbWVfcmVwbGF5WydnZW5lcmFscyddKToKICAgICAgICBzb2NrZXRzLmFwcGVuZChTb2NrZXQoZ2lvX3VzZXJuYW1lPWdhbWVfcmVwbGF5Wyd1c2VybmFtZXMnXVtpXSwgZ2lvX3N0YXJzPShnYW1lX3JlcGxheVsnc3RhcnMnXVtpXSBvciAwKSkpCgogICAgZ2FtZSA9IEdhbWUoc29ja2V0cz1zb2NrZXRzLCB0ZWFtcz1nYW1lX3JlcGxheVsndGVhbXMnXSkKCiAgICAjIEluaXQgdGhlIGdhbWUgbWFwIGZyb20gdGhlIHJlcGxheS4KICAgIGdhbWUubWFwID0gTWFwKGdhbWVfcmVwbGF5WydtYXBXaWR0aCddLCBnYW1lX3JlcGxheVsibWFwSGVpZ2h0Il0sIGdhbWVfcmVwbGF5WyJ0ZWFtcyJdKQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbWVfcmVwbGF5Wydtb3VudGFpbnMnXSkpOgogICAgICAgIGdhbWUuYWRkX21vdW50YWluKGdhbWVfcmVwbGF5Wydtb3VudGFpbnMnXVtpXSkKCiAgICBmb3IgaSBpbiByYW5nZShsZW4oZ2FtZV9yZXBsYXlbJ2NpdGllcyddKSk6CiAgICAgICAgZ2FtZS5hZGRfY2l0eShnYW1lX3JlcGxheVsnY2l0aWVzJ11baV0sIGdhbWVfcmVwbGF5WydjaXR5QXJtaWVzJ11baV0pCgogICAgZm9yIGkgaW4gcmFuZ2UobGVuKGdhbWVfcmVwbGF5WydnZW5lcmFscyddKSk6CiAgICAgICAgZ2FtZS5hZGRfZ2VuZXJhbChnYW1lX3JlcGxheVsnZ2VuZXJhbHMnXVtpXSkK</text>
+        <text encoding="base64">ICAgICAgICBlZGdlX2F0dHJfTiA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">SG9wZWZ1bGx5IGZpbmFsIHVwZGF0ZXMuCg==</text>
