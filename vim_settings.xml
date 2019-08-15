@@ -142,6 +142,9 @@
         <mark key="^" line="102" column="8" />
         <mark key="." line="102" column="8" />
       </file>
+      <file name="/scratch_1" timestamp="1565879889643">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/reddit_prediction/src/data/json_to_feather.py" timestamp="1518347569404">
         <mark key="'" line="52" column="4" />
         <mark key="[" line="87" column="0" />
@@ -375,11 +378,11 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1565812095777">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1565879706152">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="$USER_HOME$/projects/US-Bombings/notebooks/Leaflet.timeline.html" timestamp="1512628045181">
         <mark key="[" line="116" column="17" />
@@ -861,7 +864,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>43.3667</text>
+        <text>orignal</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -902,13 +905,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>43.3667</text>
+        <text>orignal</text>
       </register>
       <register name="/" type="4">
         <text>get_re</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVnXzEgPSA1NCArIDI3LzYwICsgNDQvMzYwMAo=</text>
+        <text encoding="base64">ICAgIGggPSAuNSAqIGJhc2UgKiBtYXRoLnRhbihhbmdsZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoeCkK</text>
@@ -941,7 +944,7 @@
         <text encoding="base64">ICAgICAgICBlZGdlX2F0dHJfayA9IHRvcmNoLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -991,11 +994,11 @@
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
         <entry>nohlsearch</entry>
-        <entry>action $SelectAll</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
