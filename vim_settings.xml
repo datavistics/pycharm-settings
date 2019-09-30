@@ -590,12 +590,11 @@
         <mark key="[" line="58" column="25" />
         <mark key="." line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" timestamp="1569824429998">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" timestamp="1569825321795">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1563629009606">
         <mark key="[" line="13" column="12" />
@@ -794,11 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="31" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
-      <jump line="108" column="36" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
-      <jump line="122" column="52" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
-      <jump line="136" column="40" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
-      <jump line="214" column="17" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="213" column="27" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="13" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
       <jump line="19" column="30" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
@@ -894,6 +888,11 @@
       <jump line="2" column="16" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
       <jump line="3" column="28" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="22" column="10" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="37" column="36" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="1" column="23" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -914,7 +913,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBUaGlzIG5lZWRzIHRvIGNoYW5nZSB1cCBhIGJpdC4gQnV0IEkgbG92ZSB0aGUgY29sb3JzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGZvbGRlci9qc29uX2ZpbGUpCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -955,46 +954,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>namedtuple</text>
+        <text>end2end_neural_el\</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgicHJvY2Vzc2luZyBmaWxlOiAiLCBmaWxlcGF0aCkKICAgICAgICAjdGhlIG5hbWUgb2YgdGhlIGRhdGFzZXQuIGp1c3QgZXh0cmFjdCB0aGUgbGFzdCBwYXJ0IG9mIHBhdGgKICAgICAgICBmaWxlbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUob3MucGF0aC5ub3JtcGF0aChmaWxlcGF0aCkpWzotNF0gICMgb21pdCB0aGUgJy50eHQnCiAgICAgICAgb3V0cHV0X2ZvbGRlciA9IGNvbmZpZy5iYXNlX2ZvbGRlcisiZGF0YS90ZnJlY29yZHMvIithcmdzLmV4cGVyaW1lbnRfbmFtZSsiLyIKICAgICAgICBvdXRwdXRfZm9sZGVyICs9ICJnbW9ubHkvIiBpZiBzZWxmLmlzX2dtb25seV9tb2RlKCkgZWxzZSAiYWxsc3BhbnMvIgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZm9sZGVyKToKICAgICAgICAgICAgb3MubWFrZWRpcnMob3V0cHV0X2ZvbGRlcikKICAgICAgICB3cml0ZXIgPSB0Zi5weXRob25faW8uVEZSZWNvcmRXcml0ZXIob3V0cHV0X2ZvbGRlcitmaWxlbmFtZSkKICAgICAgICByZWNvcmRzX2NudCA9IDAKICAgICAgICBmb3Igc2FtcGxlIGluIHNlbGYuX2dlbmVyYXRvci5wcm9jZXNzKGZpbGVwYXRoKToKICAgICAgICAgICAgI3ByaW50KHNhbXBsZSkKICAgICAgICAgICAgc2VxdWVuY2VfZXhhbXBsZSA9IHNlbGYuX3RvX3NlcXVlbmNlX2V4YW1wbGUoc2FtcGxlKQogICAgICAgICAgICAjIHdyaXRlIGl0IHRvIGZpbGUKICAgICAgICAgICAgaWYgc2VxdWVuY2VfZXhhbXBsZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShzZXF1ZW5jZV9leGFtcGxlLlNlcmlhbGl6ZVRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICByZWNvcmRzX2NudCArPSAxCiAgICAgICAgd3JpdGVyLmNsb3NlKCkKICAgICAgICBwcmludCgicmVjb3Jkc19jbnQgPSAiLCByZWNvcmRzX2NudCkK</text>
+      <register name="0" type="4">
+        <text>data = json.load(open(json_file))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUaGlzIG5lZWRzIHRvIGNoYW5nZSB1cCBhIGJpdC4gQnV0IEkgbG92ZSB0aGUgY29sb3JzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGZvbGRlci9qc29uX2ZpbGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBqc29uLmxvYWQob3Blbihqc29uX2ZpbGUpKQogICAgcHJpbnQobGVuKGRhdGEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShzZXF1ZW5jZV9leGFtcGxlLlNlcmlhbGl6ZVRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">IGRlZiBfX2xlbl9fKHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VxdWVuY2VfZXhhbXBsZSA9IHNlbGYuX3RvX3NlcXVlbmNlX2V4YW1wbGUoc2FtcGxlKQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50KHNhbXBsZSkK</text>
+        <text encoding="base64">ZnJvbSB0b3JjaHRleHQuZGF0YSBpbXBvcnQgRmllbGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIgPSB0Zi5weXRob25faW8uVEZSZWNvcmRXcml0ZXIob3V0cHV0X2ZvbGRlcitmaWxlbmFtZSkK</text>
+        <text encoding="base64">IyBUaGlzIG5lZWRzIHRvIGNoYW5nZSB1cCBhIGJpdC4gQnV0IEkgbG92ZSB0aGUgY29sb3JzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
@@ -1047,9 +1046,9 @@
         <entry>action $SelectAll</entry>
         <entry>636</entry>
         <entry>nohlsearch</entry>
+        <entry>action Find</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
-        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
