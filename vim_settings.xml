@@ -994,7 +994,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -1047,9 +1047,9 @@
         <entry>action $SelectAll</entry>
         <entry>636</entry>
         <entry>nohlsearch</entry>
-        <entry>action Find</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
