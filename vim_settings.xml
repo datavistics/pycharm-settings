@@ -195,6 +195,9 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="38" column="35" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1569835554615">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/Insight_DS/data/nonconformant_rows.csv" timestamp="1515517513935">
         <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="82" />
@@ -788,7 +791,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_util.py" timestamp="1569833958736">
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_util.py" timestamp="1569835636533">
         <mark key="'" line="533" column="47" />
         <mark key="[" line="650" column="42" />
         <mark key="]" line="650" column="42" />
