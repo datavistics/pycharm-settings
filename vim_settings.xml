@@ -22,6 +22,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" timestamp="1569820425881">
+        <mark key="'" line="76" column="9" />
+        <mark key="[" line="76" column="71" />
+        <mark key="]" line="361" column="108" />
+        <mark key="^" line="361" column="108" />
+        <mark key="." line="76" column="86" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/player.py" timestamp="1559234906024">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -46,9 +53,6 @@
         <mark key="]" line="14" column="21" />
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/reddit_pullup_survey/nbconvert_altair_hidecode.tpl" timestamp="1563379039738">
-        <mark key="'" line="70" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/datavistics.github.io/fabfile.py" timestamp="1533998141235">
         <mark key="[" line="24" column="114" />
@@ -184,6 +188,12 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1561520430733">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_game_ids.py" timestamp="1558972591854">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="38" column="20" />
@@ -241,8 +251,11 @@
         <mark key="^" line="19" column="86" />
         <mark key="." line="19" column="86" />
       </file>
-      <file name="/Python Console" timestamp="1569818743419">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1569819474131">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558890843541">
         <mark key="'" line="45" column="13" />
@@ -270,6 +283,12 @@
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitmodules" timestamp="1559062401780">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/requirements.txt" timestamp="1558974443008">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="2" column="3" />
@@ -294,7 +313,13 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_other_datasets.py" timestamp="1569818800033" />
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_other_datasets.py" timestamp="1569819579938">
+        <mark key="'" line="29" column="46" />
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="45" />
+        <mark key="^" line="29" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/US-Bombings/R/bombings.R" timestamp="1511178300605">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="13" column="0" />
@@ -577,6 +602,12 @@
         <mark key="[" line="58" column="25" />
         <mark key="." line="58" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" timestamp="1569821707829">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1563629009606">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="20" />
@@ -702,7 +733,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569818684493">
+      <file name="/Dummy.txt" timestamp="1569819722376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -766,19 +797,14 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_util.py" timestamp="1569821631919">
+        <mark key="[" line="650" column="42" />
+        <mark key="]" line="650" column="42" />
+        <mark key="^" line="324" column="19" />
+        <mark key="." line="650" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="27" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="32" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="34" column="60" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="35" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="37" column="8" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="41" column="11" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="42" column="68" filename="$USER_HOME$/Projects/pyGAT/gcn_utils.py" />
-      <jump line="502" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
-      <jump line="485" column="41" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
-      <jump line="29" column="17" filename="$USER_HOME$/Projects/text_gcn/build_graph.py" />
       <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="198" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="1" column="31" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
@@ -868,6 +894,17 @@
       <jump line="638" column="29" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
       <jump line="0" column="10" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
       <jump line="644" column="41" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
+      <jump line="29" column="46" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_other_datasets.py" />
+      <jump line="118" column="58" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="97" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="114" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="135" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="361" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="20" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="31" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="50" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="76" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -888,7 +925,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sequence</text>
+        <text>namedtuple</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -929,52 +966,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sequence</text>
+        <text>namedtuple</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text>open</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgicHJvY2Vzc2luZyBmaWxlOiAiLCBmaWxlcGF0aCkKICAgICAgICAjdGhlIG5hbWUgb2YgdGhlIGRhdGFzZXQuIGp1c3QgZXh0cmFjdCB0aGUgbGFzdCBwYXJ0IG9mIHBhdGgKICAgICAgICBmaWxlbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUob3MucGF0aC5ub3JtcGF0aChmaWxlcGF0aCkpWzotNF0gICMgb21pdCB0aGUgJy50eHQnCiAgICAgICAgb3V0cHV0X2ZvbGRlciA9IGNvbmZpZy5iYXNlX2ZvbGRlcisiZGF0YS90ZnJlY29yZHMvIithcmdzLmV4cGVyaW1lbnRfbmFtZSsiLyIKICAgICAgICBvdXRwdXRfZm9sZGVyICs9ICJnbW9ubHkvIiBpZiBzZWxmLmlzX2dtb25seV9tb2RlKCkgZWxzZSAiYWxsc3BhbnMvIgogICAgICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvdXRwdXRfZm9sZGVyKToKICAgICAgICAgICAgb3MubWFrZWRpcnMob3V0cHV0X2ZvbGRlcikKICAgICAgICB3cml0ZXIgPSB0Zi5weXRob25faW8uVEZSZWNvcmRXcml0ZXIob3V0cHV0X2ZvbGRlcitmaWxlbmFtZSkKICAgICAgICByZWNvcmRzX2NudCA9IDAKICAgICAgICBmb3Igc2FtcGxlIGluIHNlbGYuX2dlbmVyYXRvci5wcm9jZXNzKGZpbGVwYXRoKToKICAgICAgICAgICAgI3ByaW50KHNhbXBsZSkKICAgICAgICAgICAgc2VxdWVuY2VfZXhhbXBsZSA9IHNlbGYuX3RvX3NlcXVlbmNlX2V4YW1wbGUoc2FtcGxlKQogICAgICAgICAgICAjIHdyaXRlIGl0IHRvIGZpbGUKICAgICAgICAgICAgaWYgc2VxdWVuY2VfZXhhbXBsZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShzZXF1ZW5jZV9leGFtcGxlLlNlcmlhbGl6ZVRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICByZWNvcmRzX2NudCArPSAxCiAgICAgICAgd3JpdGVyLmNsb3NlKCkKICAgICAgICBwcmludCgicmVjb3Jkc19jbnQgPSAiLCByZWNvcmRzX2NudCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShzZXF1ZW5jZV9leGFtcGxlLlNlcmlhbGl6ZVRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VxdWVuY2VfZXhhbXBsZSA9IHNlbGYuX3RvX3NlcXVlbmNlX2V4YW1wbGUoc2FtcGxlKQo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuY2xvc2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50KHNhbXBsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZShzZXF1ZW5jZV9leGFtcGxlLlNlcmlhbGl6ZVRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIgPSB0Zi5weXRob25faW8uVEZSZWNvcmRXcml0ZXIob3V0cHV0X2ZvbGRlcitmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VxdWVuY2VfZXhhbXBsZSA9IHNlbGYuX3RvX3NlcXVlbmNlX2V4YW1wbGUoc2FtcGxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50KHNhbXBsZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoeCkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIgPSB0Zi5weXRob25faW8uVEZSZWNvcmRXcml0ZXIob3V0cHV0X2ZvbGRlcitmaWxlbmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQobWF0aC50YW4odGhldGFfMSkpCgpwcmludChucC5tYXRtdWwoQSx4KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoMS8zKQo=</text>
+        <text encoding="base64">cHJpbnQoeCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
@@ -990,7 +1027,6 @@
         <entry>prep</entry>
         <entry>latin</entry>
         <entry>data</entry>
-        <entry>open</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>_of</entry>
         <entry encoding="base64">XDxhdHRhY2tJbmRleFw+</entry>
@@ -1002,6 +1038,7 @@
         <entry>count</entry>
         <entry>get_re</entry>
         <entry>process</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry>action GuiDesigner.QuickJavadoc</entry>
@@ -1017,13 +1054,13 @@
         <entry>wq</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
-        <entry>nohlsearch</entry>
-        <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action $SelectAll</entry>
         <entry>636</entry>
+        <entry>nohlsearch</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
