@@ -188,12 +188,6 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1561520430733">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_game_ids.py" timestamp="1558972591854">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="38" column="20" />
@@ -282,12 +276,6 @@
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitmodules" timestamp="1559062401780">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/requirements.txt" timestamp="1558974443008">
         <mark key="[" line="1" column="8" />
@@ -602,11 +590,11 @@
         <mark key="[" line="58" column="25" />
         <mark key="." line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" timestamp="1569821707829">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" timestamp="1569823275158">
+        <mark key="'" line="3" column="28" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/InstaPy/quickstart.py" timestamp="1563629009606">
         <mark key="[" line="13" column="12" />
@@ -805,7 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="198" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="1" column="31" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="108" column="36" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
@@ -905,6 +892,7 @@
       <jump line="50" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
       <jump line="76" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
       <jump line="2" column="16" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="3" column="28" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
