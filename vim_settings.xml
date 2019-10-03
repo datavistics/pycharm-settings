@@ -410,7 +410,6 @@
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/end2end_neural_el/requirements.txt" timestamp="1569817703355" />
       <file name="$USER_HOME$/projects/EqualAreaCartogram/AUTHORS.rst" timestamp="1511080850069">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="38" />
@@ -727,7 +726,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569841048091">
+      <file name="/Dummy.txt" timestamp="1570123394729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -1010,7 +1009,7 @@
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
