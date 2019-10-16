@@ -189,6 +189,12 @@
         <mark key="^" line="14" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1571144519931" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator_ai.py" timestamp="1571233124663">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_game_ids.py" timestamp="1558972591854">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="38" column="20" />
@@ -249,7 +255,7 @@
         <mark key="^" line="19" column="86" />
         <mark key="." line="19" column="86" />
       </file>
-      <file name="/Python Console" timestamp="1571141004771">
+      <file name="/Python Console" timestamp="1571232914198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -318,12 +324,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" timestamp="1559233995160">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="241" column="57" />
-        <mark key="]" line="241" column="58" />
-        <mark key="." line="241" column="58" />
-        <mark key="^" line="265" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" timestamp="1571232664613">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="268" column="27" />
+        <mark key="]" line="268" column="27" />
+        <mark key="." line="268" column="27" />
+        <mark key="^" line="269" column="78" />
       </file>
       <file name="$USER_HOME$/projects/education_budgets/README.md" timestamp="1513077102126">
         <mark key="[" line="0" column="0" />
@@ -423,11 +429,12 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator.py" timestamp="1559234856840">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="13" column="56" />
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator.py" timestamp="1571232860015">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/projects/reddit_prediction/requirements.txt" timestamp="1518328859705">
         <mark key="[" line="7" column="5" />
@@ -800,9 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="30" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
-      <jump line="110" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/simulator.js" />
       <jump line="41" column="10" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
       <jump line="217" column="19" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="218" column="21" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
@@ -861,7 +865,6 @@
       <jump line="7" column="48" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
       <jump line="131" column="42" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
       <jump line="238" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
-      <jump line="0" column="12" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
       <jump line="244" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
       <jump line="6" column="48" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
       <jump line="136" column="17" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
@@ -900,6 +903,10 @@
       <jump line="1" column="23" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
       <jump line="533" column="47" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_util.py" />
       <jump line="182" column="59" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="268" column="39" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="270" column="20" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -920,7 +927,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>prepro_util</text>
+        <text>replays</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -961,10 +968,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prepro_util</text>
+        <text>replays</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text encoding="base64">XDxyZXBsYXlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>data = json.load(open(json_file))</text>
@@ -1000,21 +1007,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search encoding="base64">XDxyZXBsYXlcPg==</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBsYXlcPg==</last-pattern>
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>stop</entry>
         <entry>filename</entry>
         <entry>readings</entry>
@@ -1034,6 +1040,7 @@
         <entry>get_re</entry>
         <entry>process</entry>
         <entry>open</entry>
+        <entry encoding="base64">XDxyZXBsYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GuiDesigner.QuickJavadoc</entry>
@@ -1054,8 +1061,8 @@
         <entry>636</entry>
         <entry>nohlsearch</entry>
         <entry>action Find</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
