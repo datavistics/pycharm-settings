@@ -42,6 +42,12 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1572361830328">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pyGAT/environment.yml" timestamp="1539426044811">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
@@ -254,12 +260,6 @@
         <mark key="]" line="19" column="86" />
         <mark key="^" line="19" column="86" />
         <mark key="." line="19" column="86" />
-      </file>
-      <file name="/Python Console" timestamp="1571232914198">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" timestamp="1558890843541">
         <mark key="'" line="45" column="13" />
@@ -926,8 +926,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>replays</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFB5RGljdGlvbmFyeQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -968,7 +968,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>replays</text>
+        <text>ec evaavjr vr pvgo va rjy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYXlcPg==</text>
@@ -977,37 +977,37 @@
         <text>data = json.load(open(json_file))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZvbGRlci9qc29uX2ZpbGUpCg==</text>
+        <text encoding="base64">aW1wb3J0IFB5RGljdGlvbmFyeQo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">YWIgPSAiYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXoiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBqc29uLmxvYWQob3Blbihqc29uX2ZpbGUpKQogICAgcHJpbnQobGVuKGRhdGEpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGZvbGRlci9qc29uX2ZpbGUpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IGRlZiBfX2xlbl9fKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBqc29uLmxvYWQob3Blbihqc29uX2ZpbGUpKQogICAgcHJpbnQobGVuKGRhdGEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaHRleHQuZGF0YSBpbXBvcnQgRmllbGQK</text>
+        <text encoding="base64">IGRlZiBfX2xlbl9fKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUaGlzIG5lZWRzIHRvIGNoYW5nZSB1cCBhIGJpdC4gQnV0IEkgbG92ZSB0aGUgY29sb3JzCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWxsX2d0X21pc3NlcyArPSBndF9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtX21pc3NlcyArPSBnbV9taXNzZXMKICAgICAgICAgICAgICAgIHNlbGYuYWxsX2dtICs9IGdtX3RoaXNfZmlsZQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaHRleHQuZGF0YSBpbXBvcnQgRmllbGQK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action $Paste</text>
       </register>
     </registers>
     <search>
@@ -1061,8 +1061,8 @@
         <entry>636</entry>
         <entry>nohlsearch</entry>
         <entry>action Find</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
