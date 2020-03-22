@@ -8,6 +8,7 @@
       <mapping ext="ipynb-meta" type="Markdown" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="daa" type="PLAIN_TEXT" />
       <mapping pattern="Your Brain's API" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
