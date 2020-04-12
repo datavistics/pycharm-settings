@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>filename</entry>
+        <entry>readings</entry>
+        <entry>label</entry>
+        <entry>prep</entry>
+        <entry>latin</entry>
+        <entry>data</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>_of</entry>
+        <entry encoding="base64">XDxhdHRhY2tJbmRleFw+</entry>
+        <entry>[]</entry>
+        <entry encoding="base64">XDxNYXBcPg==</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry>tz</entry>
+        <entry>ts</entry>
+        <entry>count</entry>
+        <entry>get_re</entry>
+        <entry>process</entry>
+        <entry>open</entry>
+        <entry encoding="base64">XDxyZXBsYXlcPg==</entry>
+        <entry encoding="base64">XDxidWlsZF9pZFw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>nohl</entry>
+        <entry>edit ~/.ideavimrc</entry>
+        <entry>action GotoLine</entry>
+        <entry>196</entry>
+        <entry>action FileChooser.NewFolder</entry>
+        <entry>edit ../.git/config</entry>
+        <entry>wq</entry>
+        <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget</entry>
+        <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
+        <entry>action Replace</entry>
+        <entry>636</entry>
+        <entry>nohlsearch</entry>
+        <entry>action $SelectAll</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJFNlbGVjdEFsbA==</entry>
+        <entry>action Find</entry>
+        <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
+        <entry>w</entry>
+        <entry>set easymotion</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -71,8 +123,339 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed SEMICOLON</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed SEMICOLON</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1585305985112">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/bilingualtransformers/temp/GameFiles/index.html" timestamp="1582820503761">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+        <mark key="^" line="26" column="28" />
+      </file>
+      <file name="/Python Console" timestamp="1582444011743">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/qdice/Dockerfile" timestamp="1584895554016">
+        <mark key="'" line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/qdice/.env" timestamp="1585065910556">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/bilingualtransformers/README.md" timestamp="1582445499896">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/qdice_ai/requirements.txt" timestamp="1584982762463">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1570542822897">
+        <mark key="[" line="0" column="27460" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/bilingualtransformers/src/models/attention.py" timestamp="1582445349485">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/bilingualtransformers/requirements.txt" timestamp="1582445186364">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" timestamp="1571232664613">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="268" column="27" />
+        <mark key="]" line="268" column="27" />
+        <mark key="." line="268" column="27" />
+        <mark key="^" line="269" column="78" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1572361830328">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1586705482633">
+        <mark key="'" line="31" column="30" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1575738696965">
+        <mark key="[" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator_ai.py" timestamp="1571233124663">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator.py" timestamp="1571232860015">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_util.py" timestamp="1569841617389">
+        <mark key="'" line="533" column="47" />
+        <mark key="[" line="650" column="42" />
+        <mark key="]" line="650" column="42" />
+        <mark key="^" line="324" column="19" />
+        <mark key="." line="650" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/qdice_ai/server/game.py" timestamp="1586705518862">
+        <mark key="'" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/bilingualtransformers/temp/index.html" timestamp="1582819770578">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="24" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="31" column="30" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="32" column="31" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="34" column="27" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="35" column="28" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="36" column="32" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="38" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="37" column="16" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
+      <jump line="6" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="45" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
+      <jump line="198" column="11" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="203" column="26" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="207" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="244" column="79" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="247" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="248" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="2" column="21" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="30" column="28" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="35" column="9" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="40" column="9" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="41" column="9" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
+      <jump line="3" column="76" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="18" column="104" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="0" column="2" filename="/Python Console" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="17" column="98" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="5" column="30" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="26" column="37" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_game_ids.py" />
+      <jump line="34" column="15" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_game_ids.py" />
+      <jump line="7" column="33" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_game_ids.py" />
+      <jump line="19" column="7" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_giors.py" />
+      <jump line="0" column="22" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_giors.py" />
+      <jump line="20" column="22" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/get_giors.py" />
+      <jump line="86" column="32" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/replay_handling/converter.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/.gitmodules" />
+      <jump line="199" column="75" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="130" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="5" column="36" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="7" column="48" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="131" column="42" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="244" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="6" column="48" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="136" column="17" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
+      <jump line="215" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="2128" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="5" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/PycharmProjects/reddit_pullup_survey/requirements.txt" />
+      <jump line="70" column="28" filename="$USER_HOME$/PycharmProjects/reddit_pullup_survey/nbconvert_altair_hidecode.tpl" />
+      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="6" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="11" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="1" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="15" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="31" column="38" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/torchtext/TabularDatasetFromList.py" />
+      <jump line="638" column="29" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
+      <jump line="644" column="41" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
+      <jump line="29" column="46" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_other_datasets.py" />
+      <jump line="118" column="58" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="97" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="114" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="135" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="361" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="20" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="31" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="50" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="76" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="3" column="28" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="22" column="10" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="37" column="36" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="1" column="23" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
+      <jump line="533" column="47" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_util.py" />
+      <jump line="182" column="59" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
+      <jump line="268" column="39" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="270" column="20" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/simulator.py" />
+      <jump line="0" column="9" filename="$USER_HOME$/PycharmProjects/bilingualtransformers/src/models/attention.py" />
+      <jump line="3" column="8" filename="$USER_HOME$/PycharmProjects/bilingualtransformers/requirements.txt" />
+      <jump line="5" column="17" filename="$USER_HOME$/PycharmProjects/bilingualtransformers/README.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/bilingualtransformers/README.md" />
+      <jump line="52" column="0" filename="$USER_HOME$/PycharmProjects/bilingualtransformers/README.md" />
+      <jump line="1" column="4" filename="$USER_HOME$/Projects/qdice/Dockerfile" />
+      <jump line="52" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="19" column="14" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="30" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="31" column="30" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="0" column="7" filename="$USER_HOME$/Projects/qdice_ai/server/game.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>data-postgres</text>
+      </register>
+      <register name="d" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>data-postgres</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxidWlsZF9pZFw+</text>
+      </register>
+      <register name="0" type="4">
+        <text>data = json.load(open(json_file))</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>g@i`[wg@a`['hx%</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmcy5leHRyYWN0KCIuL0dhbWUgRmlsZXMiKS50aGVuKGZ1bmN0aW9uICgpIHsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgogcwo8L2JvZHk+CjwvaHRtbD4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">UHJvamVjdCBPcmdhbml6YXRpb24KLS0tLS0tLS0tLS0tCgogICAgPz8/IExJQ0VOU0UKICAgID8/PyBNYWtlZmlsZSAgICAgICAgICAgPC0gTWFrZWZpbGUgd2l0aCBjb21tYW5kcyBsaWtlIGBtYWtlIGRhdGFgIG9yIGBtYWtlIHRyYWluYAogICAgPz8/IFJFQURNRS5tZCAgICAgICAgICA8LSBUaGUgdG9wLWxldmVsIFJFQURNRSBmb3IgZGV2ZWxvcGVycyB1c2luZyB0aGlzIHByb2plY3QuCiAgICA/Pz8gZGF0YQogICAgP6CgID8/PyBleHRlcm5hbCAgICAgICA8LSBEYXRhIGZyb20gdGhpcmQgcGFydHkgc291cmNlcy4KICAgID+goCA/Pz8gaW50ZXJpbSAgICAgICAgPC0gSW50ZXJtZWRpYXRlIGRhdGEgdGhhdCBoYXMgYmVlbiB0cmFuc2Zvcm1lZC4KICAgID+goCA/Pz8gcHJvY2Vzc2VkICAgICAgPC0gVGhlIGZpbmFsLCBjYW5vbmljYWwgZGF0YSBzZXRzIGZvciBtb2RlbGluZy4KICAgID+goCA/Pz8gcmF3ICAgICAgICAgICAgPC0gVGhlIG9yaWdpbmFsLCBpbW11dGFibGUgZGF0YSBkdW1wLgogICAgPwogICAgPz8/IGRvY3MgICAgICAgICAgICAgICA8LSBBIGRlZmF1bHQgU3BoaW54IHByb2plY3Q7IHNlZSBzcGhpbngtZG9jLm9yZyBmb3IgZGV0YWlscwogICAgPwogICAgPz8/IG1vZGVscyAgICAgICAgICAgICA8LSBUcmFpbmVkIGFuZCBzZXJpYWxpemVkIG1vZGVscywgbW9kZWwgcHJlZGljdGlvbnMsIG9yIG1vZGVsIHN1bW1hcmllcwogICAgPwogICAgPz8/IG5vdGVib29rcyAgICAgICAgICA8LSBKdXB5dGVyIG5vdGVib29rcy4gTmFtaW5nIGNvbnZlbnRpb24gaXMgYSBudW1iZXIgKGZvciBvcmRlcmluZyksCiAgICA/ICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBjcmVhdG9yJ3MgaW5pdGlhbHMsIGFuZCBhIHNob3J0IGAtYCBkZWxpbWl0ZWQgZGVzY3JpcHRpb24sIGUuZy4KICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgYDEuMC1qcXAtaW5pdGlhbC1kYXRhLWV4cGxvcmF0aW9uYC4KICAgID8KICAgID8/PyByZWZlcmVuY2VzICAgICAgICAgPC0gRGF0YSBkaWN0aW9uYXJpZXMsIG1hbnVhbHMsIGFuZCBhbGwgb3RoZXIgZXhwbGFuYXRvcnkgbWF0ZXJpYWxzLgogICAgPwogICAgPz8/IHJlcG9ydHMgICAgICAgICAgICA8LSBHZW5lcmF0ZWQgYW5hbHlzaXMgYXMgSFRNTCwgUERGLCBMYVRlWCwgZXRjLgogICAgP6CgID8/PyBmaWd1cmVzICAgICAgICA8LSBHZW5lcmF0ZWQgZ3JhcGhpY3MgYW5kIGZpZ3VyZXMgdG8gYmUgdXNlZCBpbiByZXBvcnRpbmcKICAgID8KICAgID8/PyByZXF1aXJlbWVudHMudHh0ICAgPC0gVGhlIHJlcXVpcmVtZW50cyBmaWxlIGZvciByZXByb2R1Y2luZyB0aGUgYW5hbHlzaXMgZW52aXJvbm1lbnQsIGUuZy4KICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZXJhdGVkIHdpdGggYHBpcCBmcmVlemUgPiByZXF1aXJlbWVudHMudHh0YAogICAgPwogICAgPz8/IHNldHVwLnB5ICAgICAgICAgICA8LSBtYWtlcyBwcm9qZWN0IHBpcCBpbnN0YWxsYWJsZSAocGlwIGluc3RhbGwgLWUgLikgc28gc3JjIGNhbiBiZSBpbXBvcnRlZAogICAgPz8/IHNyYyAgICAgICAgICAgICAgICA8LSBTb3VyY2UgY29kZSBmb3IgdXNlIGluIHRoaXMgcHJvamVjdC4KICAgID+goCA/Pz8gX19pbml0X18ucHkgICAgPC0gTWFrZXMgc3JjIGEgUHl0aG9uIG1vZHVsZQogICAgPyAgID8KICAgID+goCA/Pz8gZGF0YSAgICAgICAgICAgPC0gU2NyaXB0cyB0byBkb3dubG9hZCBvciBnZW5lcmF0ZSBkYXRhCiAgICA/oKAgP6CgID8/PyBtYWtlX2RhdGFzZXQucHkKICAgID8gICA/CiAgICA/oKAgPz8/IGZlYXR1cmVzICAgICAgIDwtIFNjcmlwdHMgdG8gdHVybiByYXcgZGF0YSBpbnRvIGZlYXR1cmVzIGZvciBtb2RlbGluZwogICAgP6CgID+goCA/Pz8gYnVpbGRfZmVhdHVyZXMucHkKICAgID8gICA/CiAgICA/oKAgPz8/IG1vZGVscyAgICAgICAgIDwtIFNjcmlwdHMgdG8gdHJhaW4gbW9kZWxzIGFuZCB0aGVuIHVzZSB0cmFpbmVkIG1vZGVscyB0byBtYWtlCiAgICA/ICAgPyAgID8gICAgICAgICAgICAgICAgIHByZWRpY3Rpb25zCiAgICA/oKAgP6CgID8/PyBwcmVkaWN0X21vZGVsLnB5CiAgICA/oKAgP6CgID8/PyB0cmFpbl9tb2RlbC5weQogICAgPyAgID8KICAgID+goCA/Pz8gdmlzdWFsaXphdGlvbiAgPC0gU2NyaXB0cyB0byBjcmVhdGUgZXhwbG9yYXRvcnkgYW5kIHJlc3VsdHMgb3JpZW50ZWQgdmlzdWFsaXphdGlvbnMKICAgID+goCAgICAgPz8/IHZpc3VhbGl6ZS5weQogICAgPwogICAgPz8/IHRveC5pbmkgICAgICAgICAgICA8LSB0b3ggZmlsZSB3aXRoIHNldHRpbmdzIGZvciBydW5uaW5nIHRveDsgc2VlIHRveC50ZXN0cnVuLm9yZwoKCi0tLS0tLS0tCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YXdzY2xpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgojIGJhY2t3YXJkcyBjb21wYXRpYmlsaXR5CnBhdGhsaWIyCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IFB5RGljdGlvbmFyeQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxidWlsZF9pZFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxidWlsZF9pZFw+</last-pattern>
+      <last-replace>haha</last-replace>
+      <last-substitute>like</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
