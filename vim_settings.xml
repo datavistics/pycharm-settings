@@ -231,11 +231,11 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/0002_echo.py" timestamp="1587800451036">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/0002_echo.py" timestamp="1587801177078">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -360,8 +360,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cyA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -402,7 +402,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;hoge\nhage\n\nhige&quot;</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZF9pZFw+</text>
