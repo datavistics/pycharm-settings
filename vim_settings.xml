@@ -152,6 +152,12 @@
       <file name="$USER_HOME$/Projects/qdice/Dockerfile" timestamp="1584895554016">
         <mark key="'" line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587902997961">
+        <mark key="[" line="3" column="82" />
+        <mark key="]" line="3" column="83" />
+        <mark key="." line="3" column="82" />
+        <mark key="^" line="3" column="83" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/1_hello_world.py" timestamp="1587798941191">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -354,7 +360,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -395,7 +401,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZF9pZFw+</text>
@@ -404,36 +410,36 @@
         <text>data = json.load(open(json_file))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cyA9IAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGMgaW4gczoKICAgIHByaW50KG9yZChjKS0xMDEpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dD0nZ2VcbicK</text>
+        <text encoding="base64">ICAgIHZhciUyMHNjcmlwdD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgIHNjcmlwdC50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOwogICAgc2NyaXB0LnNyYz0naHR0cDovL215d2Vic2l0ZS5jb20vc2NyaXB0LmpzJzsKICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF0uYXBwZW5kQ2hpbGQoc2NyaXB0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text>import sys
-for i in sys.argv: print(i)</text>
+        <text encoding="base64">cyA9IAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Zm9yIGMgaW4gczoKICAgIHByaW50KG9yZChjKS0xMDEpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dD0nZ2VcbicK</text>
+      </register>
+      <register name="7" type="2">
         <text>import sys
 for i in sys.argv: print(i)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcy5leHRyYWN0KCIuL0dhbWUgRmlsZXMiKS50aGVuKGZ1bmN0aW9uICgpIHsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgogcwo8L2JvZHk+CjwvaHRtbD4=</text>
+        <text>import sys
+for i in sys.argv: print(i)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHJvamVjdCBPcmdhbml6YXRpb24KLS0tLS0tLS0tLS0tCgogICAgPz8/IExJQ0VOU0UKICAgID8/PyBNYWtlZmlsZSAgICAgICAgICAgPC0gTWFrZWZpbGUgd2l0aCBjb21tYW5kcyBsaWtlIGBtYWtlIGRhdGFgIG9yIGBtYWtlIHRyYWluYAogICAgPz8/IFJFQURNRS5tZCAgICAgICAgICA8LSBUaGUgdG9wLWxldmVsIFJFQURNRSBmb3IgZGV2ZWxvcGVycyB1c2luZyB0aGlzIHByb2plY3QuCiAgICA/Pz8gZGF0YQogICAgP6CgID8/PyBleHRlcm5hbCAgICAgICA8LSBEYXRhIGZyb20gdGhpcmQgcGFydHkgc291cmNlcy4KICAgID+goCA/Pz8gaW50ZXJpbSAgICAgICAgPC0gSW50ZXJtZWRpYXRlIGRhdGEgdGhhdCBoYXMgYmVlbiB0cmFuc2Zvcm1lZC4KICAgID+goCA/Pz8gcHJvY2Vzc2VkICAgICAgPC0gVGhlIGZpbmFsLCBjYW5vbmljYWwgZGF0YSBzZXRzIGZvciBtb2RlbGluZy4KICAgID+goCA/Pz8gcmF3ICAgICAgICAgICAgPC0gVGhlIG9yaWdpbmFsLCBpbW11dGFibGUgZGF0YSBkdW1wLgogICAgPwogICAgPz8/IGRvY3MgICAgICAgICAgICAgICA8LSBBIGRlZmF1bHQgU3BoaW54IHByb2plY3Q7IHNlZSBzcGhpbngtZG9jLm9yZyBmb3IgZGV0YWlscwogICAgPwogICAgPz8/IG1vZGVscyAgICAgICAgICAgICA8LSBUcmFpbmVkIGFuZCBzZXJpYWxpemVkIG1vZGVscywgbW9kZWwgcHJlZGljdGlvbnMsIG9yIG1vZGVsIHN1bW1hcmllcwogICAgPwogICAgPz8/IG5vdGVib29rcyAgICAgICAgICA8LSBKdXB5dGVyIG5vdGVib29rcy4gTmFtaW5nIGNvbnZlbnRpb24gaXMgYSBudW1iZXIgKGZvciBvcmRlcmluZyksCiAgICA/ICAgICAgICAgICAgICAgICAgICAgICAgIHRoZSBjcmVhdG9yJ3MgaW5pdGlhbHMsIGFuZCBhIHNob3J0IGAtYCBkZWxpbWl0ZWQgZGVzY3JpcHRpb24sIGUuZy4KICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgYDEuMC1qcXAtaW5pdGlhbC1kYXRhLWV4cGxvcmF0aW9uYC4KICAgID8KICAgID8/PyByZWZlcmVuY2VzICAgICAgICAgPC0gRGF0YSBkaWN0aW9uYXJpZXMsIG1hbnVhbHMsIGFuZCBhbGwgb3RoZXIgZXhwbGFuYXRvcnkgbWF0ZXJpYWxzLgogICAgPwogICAgPz8/IHJlcG9ydHMgICAgICAgICAgICA8LSBHZW5lcmF0ZWQgYW5hbHlzaXMgYXMgSFRNTCwgUERGLCBMYVRlWCwgZXRjLgogICAgP6CgID8/PyBmaWd1cmVzICAgICAgICA8LSBHZW5lcmF0ZWQgZ3JhcGhpY3MgYW5kIGZpZ3VyZXMgdG8gYmUgdXNlZCBpbiByZXBvcnRpbmcKICAgID8KICAgID8/PyByZXF1aXJlbWVudHMudHh0ICAgPC0gVGhlIHJlcXVpcmVtZW50cyBmaWxlIGZvciByZXByb2R1Y2luZyB0aGUgYW5hbHlzaXMgZW52aXJvbm1lbnQsIGUuZy4KICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZXJhdGVkIHdpdGggYHBpcCBmcmVlemUgPiByZXF1aXJlbWVudHMudHh0YAogICAgPwogICAgPz8/IHNldHVwLnB5ICAgICAgICAgICA8LSBtYWtlcyBwcm9qZWN0IHBpcCBpbnN0YWxsYWJsZSAocGlwIGluc3RhbGwgLWUgLikgc28gc3JjIGNhbiBiZSBpbXBvcnRlZAogICAgPz8/IHNyYyAgICAgICAgICAgICAgICA8LSBTb3VyY2UgY29kZSBmb3IgdXNlIGluIHRoaXMgcHJvamVjdC4KICAgID+goCA/Pz8gX19pbml0X18ucHkgICAgPC0gTWFrZXMgc3JjIGEgUHl0aG9uIG1vZHVsZQogICAgPyAgID8KICAgID+goCA/Pz8gZGF0YSAgICAgICAgICAgPC0gU2NyaXB0cyB0byBkb3dubG9hZCBvciBnZW5lcmF0ZSBkYXRhCiAgICA/oKAgP6CgID8/PyBtYWtlX2RhdGFzZXQucHkKICAgID8gICA/CiAgICA/oKAgPz8/IGZlYXR1cmVzICAgICAgIDwtIFNjcmlwdHMgdG8gdHVybiByYXcgZGF0YSBpbnRvIGZlYXR1cmVzIGZvciBtb2RlbGluZwogICAgP6CgID+goCA/Pz8gYnVpbGRfZmVhdHVyZXMucHkKICAgID8gICA/CiAgICA/oKAgPz8/IG1vZGVscyAgICAgICAgIDwtIFNjcmlwdHMgdG8gdHJhaW4gbW9kZWxzIGFuZCB0aGVuIHVzZSB0cmFpbmVkIG1vZGVscyB0byBtYWtlCiAgICA/ICAgPyAgID8gICAgICAgICAgICAgICAgIHByZWRpY3Rpb25zCiAgICA/oKAgP6CgID8/PyBwcmVkaWN0X21vZGVsLnB5CiAgICA/oKAgP6CgID8/PyB0cmFpbl9tb2RlbC5weQogICAgPyAgID8KICAgID+goCA/Pz8gdmlzdWFsaXphdGlvbiAgPC0gU2NyaXB0cyB0byBjcmVhdGUgZXhwbG9yYXRvcnkgYW5kIHJlc3VsdHMgb3JpZW50ZWQgdmlzdWFsaXphdGlvbnMKICAgID+goCAgICAgPz8/IHZpc3VhbGl6ZS5weQogICAgPwogICAgPz8/IHRveC5pbmkgICAgICAgICAgICA8LSB0b3ggZmlsZSB3aXRoIHNldHRpbmdzIGZvciBydW5uaW5nIHRveDsgc2VlIHRveC50ZXN0cnVuLm9yZwoKCi0tLS0tLS0tCgo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
