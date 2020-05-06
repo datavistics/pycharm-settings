@@ -43,10 +43,10 @@
         <entry>set easymotion</entry>
         <entry>q</entry>
         <entry>action SaveAll</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $SelectAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,12 +152,12 @@
       <file name="$USER_HOME$/Projects/qdice/Dockerfile" timestamp="1584895554016">
         <mark key="'" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937409180">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="63" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937639665">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/1_hello_world.py" timestamp="1587798941191">
         <mark key="[" line="0" column="6" />
@@ -362,7 +362,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>slide</text>
+        <text>src</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -403,13 +403,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>slide</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZF9pZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>xfmgThumbnail-image</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBteVJlID0gL1wvKFxkKyktLyA7CiAgICBhbGVydChgaHR0cHM6Ly93d3cuYmxhY2t0b3doaXRlLm5ldC9tZWRpYS8ke2VzY2FwZSh0LmFsdCl9LiR7bXlSZS5leGVjKHQuc3JjKX1gKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
@@ -444,7 +444,7 @@ for i in sys.argv: print(i)</text>
         <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</text>
       </register>
     </registers>
   </component>
