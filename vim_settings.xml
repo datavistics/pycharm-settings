@@ -210,8 +210,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="96" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1586705482633">
-        <mark key="'" line="31" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/env_template" timestamp="1590837950310">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/requirements.txt" timestamp="1590837299927">
         <mark key="[" line="1" column="6" />
@@ -358,7 +360,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>pandas</text>
+        <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -408,31 +410,31 @@
         <text>pandas</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICBlbnRyeXBvaW50OiBiYXNoIC1jICJjZCAvbW50ICYmIGp1cHl0ZXIgbm90ZWJvb2sgLS1Ob3RlYm9va0FwcC50b2tlbj0nJyAtLWlwPTAuMC4wLjAgLS1hbGxvdy1yb290ICYmIC9iaW4vYmFzaCIK</text>
+        <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIAo=</text>
+        <text encoding="base64">IyAgICBlbnRyeXBvaW50OiBiYXNoIC1jICJjZCAvbW50ICYmIGp1cHl0ZXIgbm90ZWJvb2sgLS1Ob3RlYm9va0FwcC50b2tlbj0nJyAtLWlwPTAuMC4wLjAgLS1hbGxvdy1yb290ICYmIC9iaW4vYmFzaCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2ggLWV4dQo=</text>
+        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3BpcCBpbnN0YWxsIC0tdXBncmFkZSBqdXB5dGVyCg==</text>
+        <text encoding="base64">IyEvYmluL2Jhc2ggLWV4dQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS11c2VyCg==</text>
+        <text encoding="base64">I3BpcCBpbnN0YWxsIC0tdXBncmFkZSBqdXB5dGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS11c2VyCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">IyEvYmluL2Jhc2gK</text>
