@@ -31,7 +31,6 @@
         <entry>196</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>edit ../.git/config</entry>
-        <entry>wq</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
         <entry>action Replace</entry>
@@ -39,7 +38,6 @@
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFNlbGVjdEFsbA==</entry>
         <entry>action Find</entry>
-        <entry>w</entry>
         <entry>set easymotion</entry>
         <entry>q</entry>
         <entry>action SaveAll</entry>
@@ -47,6 +45,8 @@
         <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $SelectAll</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -168,6 +168,9 @@
       <file name="/a.dummy" timestamp="1587799110923">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/1.0-dt-eda.ipynb" timestamp="1590817031336">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/qdice/.env" timestamp="1585065910556">
         <mark key="[" line="10" column="57" />
         <mark key="]" line="10" column="55" />
@@ -200,12 +203,6 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1572361830328">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1586705482633">
         <mark key="'" line="31" column="30" />
       </file>
@@ -229,6 +226,12 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/requirements.txt" timestamp="1590817196726">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -353,8 +356,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXdzY2xpCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -404,38 +407,37 @@
         <text encoding="base64">ICAgIHZhciBteVJlID0gL1wvKFxkKyktLyA7CiAgICBhbGVydChgaHR0cHM6Ly93d3cuYmxhY2t0b3doaXRlLm5ldC9tZWRpYS8ke2VzY2FwZSh0LmFsdCl9LiR7bXlSZS5leGVjKHQuc3JjKX1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdCA9ICJwcmludCgiCg==</text>
+        <text encoding="base64">YXdzY2xpCg==</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBodG1sCmltcG9ydCByZXF1ZXN0cwppbXBvcnQgcmUKCmRlZiBnZXRfcGFnZXModXJsKToKICAgIHBhZ2UgPSByZXF1ZXN0cy5nZXQodXJsKQogICAgdHJlZSA9IGh0bWwuZnJvbXN0cmluZyhwYWdlLmNvbnRlbnQpCiAgICBoY2xhc3MgPSB0cmVlLnhwYXRoKCcvLypbY29udGFpbnMoQGNsYXNzLCJ4Zm1nVGh1bWJuYWlsLWltYWdlIildJykKICAgIGZvciBjIGluIGhjbGFzczoKICAgICAgICBpZCA9IHJlLnNlYXJjaChyJy4qLyhcZCspLScsIGMuYXR0cmliWydzcmMnXSkuZ3JvdXAoMSkKICAgICAgICBhbHQgPSBjLmF0dHJpYlsnYWx0J10KICAgICAgICBwcmludChmJ2h0dHBzOi8vd3d3LmJsYWNrdG93aGl0ZS5uZXQvbWVkaWEve2FsdH0ue2lkfS8nKQoKd2hpbGUgVHJ1ZToKICAgIHByaW50KCJcbiIqMTUpCiAgICB1cmwgPSBpbnB1dCgiV2hhdCBVUkw/ICIpCiAgICBnZXRfcGFnZXModXJsKQo=</text>
+        <text>requiremente</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dGVzdCA9ICJwcmludCgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZnJvbSBseG1sIGltcG9ydCBodG1sCmltcG9ydCByZXF1ZXN0cwppbXBvcnQgcmUKCmRlZiBnZXRfcGFnZXModXJsKToKICAgIHBhZ2UgPSByZXF1ZXN0cy5nZXQodXJsKQogICAgdHJlZSA9IGh0bWwuZnJvbXN0cmluZyhwYWdlLmNvbnRlbnQpCiAgICBoY2xhc3MgPSB0cmVlLnhwYXRoKCcvLypbY29udGFpbnMoQGNsYXNzLCJ4Zm1nVGh1bWJuYWlsLWltYWdlIildJykKICAgIGZvciBjIGluIGhjbGFzczoKICAgICAgICBpZCA9IHJlLnNlYXJjaChyJy4qLyhcZCspLScsIGMuYXR0cmliWydzcmMnXSkuZ3JvdXAoMSkKICAgICAgICBhbHQgPSBjLmF0dHJpYlsnYWx0J10KICAgICAgICBwcmludChmJ2h0dHBzOi8vd3d3LmJsYWNrdG93aGl0ZS5uZXQvbWVkaWEve2FsdH0ue2lkfS8nKQoKd2hpbGUgVHJ1ZToKICAgIHByaW50KCJcbiIqMTUpCiAgICB1cmwgPSBpbnB1dCgiV2hhdCBVUkw/ICIpCiAgICBnZXRfcGFnZXModXJsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciUyMHNjcmlwdD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgIHNjcmlwdC50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOwogICAgc2NyaXB0LnNyYz0naHR0cDovL215d2Vic2l0ZS5jb20vc2NyaXB0LmpzJzsKICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF0uYXBwZW5kQ2hpbGQoc2NyaXB0KTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cyA9IAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGMgaW4gczoKICAgIHByaW50KG9yZChjKS0xMDEpCg==</text>
+        <text encoding="base64">ICAgIHZhciUyMHNjcmlwdD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgIHNjcmlwdC50eXBlPSd0ZXh0L2phdmFzY3JpcHQnOwogICAgc2NyaXB0LnNyYz0naHR0cDovL215d2Vic2l0ZS5jb20vc2NyaXB0LmpzJzsKICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF0uYXBwZW5kQ2hpbGQoc2NyaXB0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dD0nZ2VcbicK</text>
+        <text encoding="base64">cyA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text>import sys
-for i in sys.argv: print(i)</text>
+        <text encoding="base64">Zm9yIGMgaW4gczoKICAgIHByaW50KG9yZChjKS0xMDEpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action $SelectAll</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
