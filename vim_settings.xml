@@ -27,7 +27,6 @@
         <entry>network</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoLine</entry>
         <entry>196</entry>
         <entry>action FileChooser.NewFolder</entry>
         <entry>edit ../.git/config</entry>
@@ -42,8 +41,9 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
-        <entry>action $SelectAll</entry>
         <entry>w</entry>
+        <entry>action ImplementMethods</entry>
+        <entry>action $SelectAll</entry>
         <entry>wq</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
@@ -140,24 +140,22 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1590830418429">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1590837034255">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="10" column="69" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="10" column="9" />
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="74" />
+        <mark key="^" line="11" column="75" />
       </file>
       <file name="/Python Console" timestamp="1590825617414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/qdice/Dockerfile" timestamp="1584895554016">
-        <mark key="'" line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" timestamp="1590830644851">
-        <mark key="'" line="7" column="49" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" timestamp="1590834595129">
+        <mark key="'" line="8" column="49" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937639665">
         <mark key="'" line="9" column="0" />
@@ -166,6 +164,7 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/dotfiles/.dotfilesrc" timestamp="1590833996457" />
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/1_hello_world.py" timestamp="1587798941191">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -184,16 +183,10 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/qdice/.env" timestamp="1585065910556">
-        <mark key="[" line="10" column="57" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/Projects/qdice_ai/requirements.txt" timestamp="1584982762463">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dotfiles/custom.js" timestamp="1590835618961">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/Makefile" timestamp="1590823787136">
         <mark key="[" line="3" column="36" />
@@ -204,19 +197,27 @@
       <file name="/a.sql" timestamp="1588698544488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/Dockerfile" timestamp="1590826095454">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/Dockerfile" timestamp="1590836808489">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" timestamp="1590836554959">
+        <mark key="'" line="2" column="42" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="96" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1586705482633">
         <mark key="'" line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/requirements.txt" timestamp="1590829038689">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/requirements.txt" timestamp="1590837299927">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/qdice_ai/server/game.py" timestamp="1586705518862">
         <mark key="'" line="0" column="7" />
@@ -235,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="28" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
-      <jump line="36" column="32" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
       <jump line="38" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
       <jump line="37" column="16" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
       <jump line="6" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
@@ -335,6 +334,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" />
       <jump line="6" column="49" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" />
+      <jump line="2" column="42" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" />
+      <jump line="12" column="42" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -357,7 +358,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS1zeXN0ZW0K</text>
+        <text>pandas</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -398,43 +399,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICBuYW1lOiBkYV9jYW1wYWlnbl9odV9kZWZhdWx0Cg==</text>
+        <text>pandas</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS1zeXN0ZW0K</text>
+        <text encoding="base64">IyAgICBlbnRyeXBvaW50OiBiYXNoIC1jICJjZCAvbW50ICYmIGp1cHl0ZXIgbm90ZWJvb2sgLS1Ob3RlYm9va0FwcC50b2tlbj0nJyAtLWlwPTAuMC4wLjAgLS1hbGxvdy1yb290ICYmIC9iaW4vYmFzaCIK</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICBkYV9jYW1wYWlnbl9odV9kZWZhdWx0OiBudWxsCg==</text>
+        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICBkYV9jYW1wYWlnbl9odV9kZWZhdWx0OiBudWxsCiAgICBlbnZfZmlsZToK</text>
+        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmV0d29ya3M6CiAgZGFfY2FtcGFpZ25faHVfZGVmYXVsdDoKICAgIG5hbWU6IGRhX2NhbXBhaWduX2h1X2RlZmF1bHQK</text>
+        <text encoding="base64">IyEvYmluL2Jhc2ggLWV4dQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICBkYV9jYW1wYWlnbl9odV9kZWZhdWx0OiBudWxsCg==</text>
+        <text encoding="base64">I3BpcCBpbnN0YWxsIC0tdXBncmFkZSBqdXB5dGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICBkYV9jYW1wYWlnbl9odV9kZWZhdWx0OiBudWxsCg==</text>
+        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS11c2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA6Cg==</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RVhQT1NFIDg4ODgK</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
@@ -449,7 +450,7 @@
       <last-replace>haha</last-replace>
       <last-substitute>like</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
