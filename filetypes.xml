@@ -6,22 +6,21 @@
       <mapping ext="gioreplay" type="JSON" />
       <mapping pattern="Good Models vs Good Results.md" type="Markdown" />
       <mapping ext="ipynb-meta" type="Markdown" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="blah" type="PLAIN_TEXT" />
-      <mapping pattern="index" type="PLAIN_TEXT" />
-      <mapping pattern="Your Brain's API" type="PLAIN_TEXT" />
-      <mapping pattern="2017-09-15--23-57-42" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="daa" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="daa" type="PLAIN_TEXT" />
+      <mapping pattern="Your Brain's API" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="blah" type="PLAIN_TEXT" />
+      <mapping pattern="2017-09-15--23-57-42" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
-      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="gior" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="allx" type="PLAIN_TEXT" />
       <mapping ext="fet" type="XML" />
