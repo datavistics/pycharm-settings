@@ -40,13 +40,13 @@
         <entry>action Find</entry>
         <entry>set easymotion</entry>
         <entry>q</entry>
-        <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>action $SelectAll</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,6 +146,7 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="28" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1590823673465" />
       <file name="/Python Console" timestamp="1590339908718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,6 +172,12 @@
       <file name="/1.0-dt-eda.ipynb" timestamp="1590817031336">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1590469272968">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/qdice/.env" timestamp="1585065910556">
         <mark key="[" line="10" column="57" />
         <mark key="]" line="10" column="55" />
@@ -187,30 +194,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/Makefile" timestamp="1590823787136">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="48" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="48" />
+      </file>
       <file name="/a.sql" timestamp="1588698544488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/bilingualtransformers/src/models/attention.py" timestamp="1582445349485">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="27" />
-        <mark key="^" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/bilingualtransformers/requirements.txt" timestamp="1582445186364">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1586705482633">
         <mark key="'" line="31" column="30" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1590469272968">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/qdice_ai/server/game.py" timestamp="1586705518862">
         <mark key="'" line="0" column="7" />
@@ -356,8 +350,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXdzY2xpCg==</text>
+      <register name="&quot;" type="4">
+        <text>${USER}</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -398,7 +392,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>${USER}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZF9pZFw+</text>
@@ -437,7 +431,7 @@
         <text encoding="base64">Zm9yIGMgaW4gczoKICAgIHByaW50KG9yZChjKS0xMDEpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
   </component>
