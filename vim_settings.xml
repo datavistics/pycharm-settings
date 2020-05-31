@@ -45,8 +45,8 @@
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry>wq</entry>
-        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,7 +134,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1590825617414">
+      <file name="/Python Console" timestamp="1590905754011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" timestamp="1590834595129">
@@ -144,6 +144,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/interactive-coding-challenges/requirements.txt" timestamp="1590905810929">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937639665">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="5" column="23" />
@@ -152,12 +158,6 @@
         <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/dotfiles/.dotfilesrc" timestamp="1590833996457" />
-      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/1_hello_world.py" timestamp="1587798941191">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="/a.dummy" timestamp="1587799110923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -443,7 +443,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gK</text>
       </register>
       <register name=":" type="4">
-        <text>action $Paste</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
   </component>
