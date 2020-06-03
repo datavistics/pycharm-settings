@@ -43,9 +43,9 @@
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry>wq</entry>
-        <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>q</entry>
+        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
@@ -208,23 +208,23 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" timestamp="1590836554959">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" timestamp="1591201501332">
         <mark key="'" line="2" column="42" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="96" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/env_template" timestamp="1590837950310">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/requirements.txt" timestamp="1590837299927">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/requirements.txt" timestamp="1591201073130">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/0002_echo.py" timestamp="1587801177078">
         <mark key="[" line="0" column="17" />
