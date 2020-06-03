@@ -134,6 +134,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1588698526809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1591196750896">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="74" />
+        <mark key="^" line="11" column="75" />
+      </file>
       <file name="/Python Console" timestamp="1590905754011">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,9 +170,28 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/dotfiles/.dotfilesrc" timestamp="1590833996457" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/cleaning/campaign.py" timestamp="1590845916865">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="/a.dummy" timestamp="1587799110923">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/1.0-dt-eda.ipynb" timestamp="1590817031336">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1590469272968">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/dotfiles/custom.js" timestamp="1590835618961">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/Makefile" timestamp="1590823787136">
         <mark key="[" line="3" column="36" />
@@ -183,6 +215,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="96" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/env_template" timestamp="1590837950310">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/requirements.txt" timestamp="1590837299927">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="16" />
@@ -200,44 +237,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588698526809">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1590837034255">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="74" />
-        <mark key="]" line="11" column="75" />
-        <mark key="." line="11" column="74" />
-        <mark key="^" line="11" column="75" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/cleaning/campaign.py" timestamp="1590845916865">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="/1.0-dt-eda.ipynb" timestamp="1590817031336">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1590469272968">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/dotfiles/custom.js" timestamp="1590835618961">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/env_template" timestamp="1590837950310">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
