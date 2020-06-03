@@ -40,13 +40,13 @@
         <entry>set easymotion</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>w</entry>
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry>wq</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,10 +140,10 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1591196750896">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1591197301948">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="74" />
-        <mark key="]" line="11" column="75" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="22" />
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="75" />
       </file>
@@ -361,8 +361,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
+      <register name="&quot;" type="4">
+        <text>0.0.0.0:32788</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -408,8 +408,8 @@
       <register name="/" type="4">
         <text>network</text>
       </register>
-      <register name="0" type="2">
-        <text>pandas</text>
+      <register name="0" type="4">
+        <text>0.0.0.0:32788</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
@@ -442,7 +442,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</text>
       </register>
     </registers>
   </component>
