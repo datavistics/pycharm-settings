@@ -38,15 +38,15 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFNlbGVjdEFsbA==</entry>
         <entry>action Find</entry>
         <entry>set easymotion</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>w</entry>
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry>wq</entry>
         <entry>action $Paste</entry>
-        <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry>q</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -170,11 +170,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/cleaning/campaign.py" timestamp="1590845916865">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/cleaning/campaign.py" timestamp="1591198232763">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1587799110923">
         <mark key="[" line="0" column="0" />
@@ -442,7 +442,7 @@
         <text encoding="base64">IyEvYmluL2Jhc2gK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
   </component>
