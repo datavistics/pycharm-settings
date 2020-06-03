@@ -208,12 +208,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" timestamp="1591201501332">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" timestamp="1591201990437">
         <mark key="'" line="2" column="42" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/env_template" timestamp="1590837950310">
         <mark key="[" line="3" column="0" />
@@ -362,7 +362,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0.0.0.0:32788</text>
+        <text>qgrid</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -403,13 +403,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>qgrid</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
       </register>
-      <register name="0" type="4">
-        <text>0.0.0.0:32788</text>
+      <register name="0" type="2">
+        <text encoding="base64">anVweXRlciBuYmV4dGVuc2lvbiBlbmFibGUgLS1weSAtLXN5cy1wcmVmaXggcWdyaWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
