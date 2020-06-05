@@ -27,8 +27,6 @@
         <entry>network</entry>
       </history-search>
       <history-cmd>
-        <entry>196</entry>
-        <entry>action FileChooser.NewFolder</entry>
         <entry>edit ../.git/config</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget</entry>
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
@@ -43,10 +41,12 @@
         <entry>action ImplementMethods</entry>
         <entry>action $SelectAll</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>q</entry>
-        <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJEN1dA==</entry>
+        <entry>action $Paste</entry>
+        <entry>action $Copy</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -163,6 +163,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1591361717117" />
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937639665">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="5" column="23" />
@@ -361,8 +362,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>qgrid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MTMyNTQ3Njk4MAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -403,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qgrid</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
@@ -412,37 +413,37 @@
         <text encoding="base64">anVweXRlciBuYmV4dGVuc2lvbiBlbmFibGUgLS1weSAtLXN5cy1wcmVmaXggcWdyaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
+        <text encoding="base64">MTMyNTQ3Njk4MAo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBlbnRyeXBvaW50OiBiYXNoIC1jICJjZCAvbW50ICYmIGp1cHl0ZXIgbm90ZWJvb2sgLS1Ob3RlYm9va0FwcC50b2tlbj0nJyAtLWlwPTAuMC4wLjAgLS1hbGxvdy1yb290ICYmIC9iaW4vYmFzaCIK</text>
+        <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIAo=</text>
+        <text encoding="base64">IyAgICBlbnRyeXBvaW50OiBiYXNoIC1jICJjZCAvbW50ICYmIGp1cHl0ZXIgbm90ZWJvb2sgLS1Ob3RlYm9va0FwcC50b2tlbj0nJyAtLWlwPTAuMC4wLjAgLS1hbGxvdy1yb290ICYmIC9iaW4vYmFzaCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2ggLWV4dQo=</text>
+        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3BpcCBpbnN0YWxsIC0tdXBncmFkZSBqdXB5dGVyCg==</text>
+        <text encoding="base64">IyEvYmluL2Jhc2ggLWV4dQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS11c2VyCg==</text>
+        <text encoding="base64">I3BpcCBpbnN0YWxsIC0tdXBncmFkZSBqdXB5dGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS11c2VyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</text>
       </register>
     </registers>
   </component>
