@@ -147,8 +147,8 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="/Python Console" timestamp="1590905754011">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1591455889573">
+        <mark key="[" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" timestamp="1590834595129">
         <mark key="'" line="8" column="49" />
@@ -163,10 +163,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1591451586312">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1591455865339">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937639665">
@@ -246,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
-      <jump line="37" column="16" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/converter.py" />
       <jump line="6" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="45" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="198" column="11" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
@@ -264,7 +262,6 @@
       <jump line="3" column="76" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
       <jump line="18" column="104" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
       <jump line="2" column="24" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
-      <jump line="0" column="2" filename="/Python Console" />
       <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
       <jump line="17" column="98" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
       <jump line="5" column="30" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/get_replays.py" />
@@ -346,6 +343,9 @@
       <jump line="6" column="49" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" />
       <jump line="2" column="42" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" />
       <jump line="12" column="42" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" />
+      <jump line="0" column="0" filename="/Python Console" />
+      <jump line="3" column="13" filename="/Python Console" />
+      <jump line="5" column="0" filename="/Python Console" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -367,8 +367,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YSBkYW1uZWQgbWVzc2FnZQo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -409,43 +409,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YSBkYW1uZWQgbWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXQgKz0gZ3JvdXBbLTFdICsgJycuam9pbihncm91cFs6LTFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTMyNTQ3Njk4MAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXQgKz0gJycuam9pbihncm91cCkK</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TEFORz1lbl9VUy5VVEYtOApMQ19BTEw9ZW5fVVMuVVRGLTgK</text>
+        <text encoding="base64">ICAgIGVsaWYgaSAlIDA6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBlbnRyeXBvaW50OiBiYXNoIC1jICJjZCAvbW50ICYmIGp1cHl0ZXIgbm90ZWJvb2sgLS1Ob3RlYm9va0FwcC50b2tlbj0nJyAtLWlwPTAuMC4wLjAgLS1hbGxvdy1yb290ICYmIC9iaW4vYmFzaCIK</text>
+        <text>print(''.join(out))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIAo=</text>
+        <text encoding="base64">ICAgIGlmIGklNCA9PSAwIGFuZCBpID4gMDoKICAgICAgICB0W2ldLCB0W2ktMl0gPSB0W2ktMl0sIHRbaV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2QgJChqdXB5dGVyIC0tZGF0YS1kaXIpL25iZXh0ZW5zaW9ucwo=</text>
+        <text>t = [c for c in temp]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2ggLWV4dQo=</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3BpcCBpbnN0YWxsIC0tdXBncmFkZSBqdXB5dGVyCg==</text>
+        <text>t.join('')</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">anVweXRlciBjb250cmliIG5iZXh0ZW5zaW9uIGluc3RhbGwgLS11c2VyCg==</text>
+        <text encoding="base64">MTMyNTQ3Njk4MAo=</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
