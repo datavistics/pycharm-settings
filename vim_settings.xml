@@ -163,11 +163,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1591443987692">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1591445536500">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937639665">
         <mark key="'" line="9" column="0" />
@@ -368,7 +368,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">MTMyNTQ3Njk4MAo=</text>
+        <text encoding="base64">YSBkYW1uZWQgbWVzc2FnZQo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -415,7 +415,7 @@
         <text>network</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">anVweXRlciBuYmV4dGVuc2lvbiBlbmFibGUgLS1weSAtLXN5cy1wcmVmaXggcWdyaWQK</text>
+        <text encoding="base64">YSBkYW1uZWQgbWVzc2FnZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MTMyNTQ3Njk4MAo=</text>
