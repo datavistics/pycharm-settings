@@ -39,13 +39,13 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>w</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action $SelectAll</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>action SaveAll</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJEN1dA==</entry>
         <entry>action $Copy</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry>action $SelectAll</entry>
+        <entry>action SaveAll</entry>
         <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
@@ -147,8 +147,11 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="/Python Console" timestamp="1591805459722">
+      <file name="/Python Console" timestamp="1591811320153">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" timestamp="1590834595129">
         <mark key="'" line="8" column="49" />
@@ -169,18 +172,14 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/blacktowhite.js" timestamp="1587937639665">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="26" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/cleaning/campaign.py" timestamp="1591198232763">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1591811608180">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/a.py" timestamp="1591805312945">
         <mark key="[" line="0" column="0" />
@@ -217,6 +216,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/game_solver.py" timestamp="1591811312671">
+        <mark key="'" line="39" column="24" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" timestamp="1591201990437">
         <mark key="'" line="2" column="42" />
         <mark key="[" line="8" column="27" />
@@ -235,12 +241,6 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/anarchy_golf/0002_echo.py" timestamp="1587801177078">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/requirements.txt" timestamp="1590817196726">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -249,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="198" column="11" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
       <jump line="203" column="26" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
       <jump line="207" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
@@ -349,6 +348,7 @@
       <jump line="3" column="13" filename="/Python Console" />
       <jump line="5" column="0" filename="/Python Console" />
       <jump line="1" column="4" filename="/Python Console" />
+      <jump line="37" column="24" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/src/game_solver.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -371,7 +371,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ord(c_out) - ord(c_in)</text>
+        <text>s_in.replace()</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -412,7 +412,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ord(c_out) - ord(c_in)</text>
+        <text>s_in.replace()</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
@@ -421,34 +421,34 @@
         <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgKz0gJycuam9pbihncm91cCkK</text>
+        <text encoding="base64">c19vdXQgPSAienp6enp6enp6emJ6enpwIgo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsaWYgaSAlIDA6Cg==</text>
+        <text encoding="base64">ICAgIGEgPSAnIGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text>print(''.join(out))</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGklNCA9PSAwIGFuZCBpID4gMDoKICAgICAgICB0W2ldLCB0W2ktMl0gPSB0W2ktMl0sIHRbaV0K</text>
+        <text encoding="base64">CiAgZGFtbmVkIG1lc3NhZ2UKZGVtbmVkIG1lc3NhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXQgKz0gJycuam9pbihncm91cCkK</text>
       </register>
       <register name="6" type="2">
-        <text>t = [c for c in temp]</text>
+        <text encoding="base64">ICAgIGVsaWYgaSAlIDA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text />
+        <text>print(''.join(out))</text>
       </register>
       <register name="8" type="2">
-        <text>t.join('')</text>
+        <text encoding="base64">ICAgIGlmIGklNCA9PSAwIGFuZCBpID4gMDoKICAgICAgICB0W2ldLCB0W2ktMl0gPSB0W2ktMl0sIHRbaV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTMyNTQ3Njk4MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
