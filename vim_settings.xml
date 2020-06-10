@@ -147,8 +147,8 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="/Python Console" timestamp="1591455889573">
-        <mark key="[" line="0" column="10" />
+      <file name="/Python Console" timestamp="1591805459722">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_vim.sh" timestamp="1590834595129">
         <mark key="'" line="8" column="49" />
@@ -182,8 +182,11 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1587799110923">
+      <file name="/a.py" timestamp="1591805312945">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/1.0-dt-eda.ipynb" timestamp="1590817031336">
         <mark key="[" line="0" column="0" />
@@ -246,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="29" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="45" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/game.py" />
       <jump line="198" column="11" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
       <jump line="203" column="26" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
@@ -346,6 +348,7 @@
       <jump line="0" column="0" filename="/Python Console" />
       <jump line="3" column="13" filename="/Python Console" />
       <jump line="5" column="0" filename="/Python Console" />
+      <jump line="1" column="4" filename="/Python Console" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,7 +371,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>ord(c_out) - ord(c_in)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -409,13 +412,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>ord(c_out) - ord(c_in)</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgKz0gZ3JvdXBbLTFdICsgJycuam9pbihncm91cFs6LTFdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBvdXQgKz0gJycuam9pbihncm91cCkK</text>
