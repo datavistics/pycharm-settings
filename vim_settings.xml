@@ -179,6 +179,12 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="45" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/madden.py" timestamp="1592675075756">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="33" />
+      </file>
       <file name="/a.dummy" timestamp="1591811608180">
         <mark key="[" line="0" column="1" />
       </file>
@@ -207,9 +213,6 @@
         <mark key="]" line="3" column="48" />
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="48" />
-      </file>
-      <file name="/a.sql" timestamp="1588698544488">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/Dockerfile" timestamp="1590836808489">
         <mark key="[" line="1" column="0" />
@@ -250,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="26" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
       <jump line="207" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
       <jump line="244" column="79" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
       <jump line="247" column="13" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals.io-Replay-Utils/Game.js" />
@@ -350,6 +352,7 @@
       <jump line="1" column="4" filename="/Python Console" />
       <jump line="37" column="24" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/src/game_solver.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/src/onion.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/da_campaign_hu/src/madden.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -371,8 +374,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGwsIGksIGosIGxbaV0sIGxbal0pCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJldHVybiBp</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -413,7 +416,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IHJldHVybiBp</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
@@ -422,34 +425,34 @@
         <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGwsIGksIGosIGxbaV0sIGxbal0pCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZV9pbmRleCA9IDAK</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBjIGluIHJldmVyc2VkKHMpOgo=</text>
+        <text encoding="base64">ICAgIGlmIGRvdWJsZV9pbmRleDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c19vdXQgPSAienp6enp6enp6emJ6enpwIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEgPSAnIGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6Jwo=</text>
+        <text encoding="base64">ICAgIGRlZiBmaW5kX2RvdWJsZShzKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGkgPSBmaW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZGFtbmVkIG1lc3NhZ2UKZGVtbmVkIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIGlmIGZpbmRfZG91YmxlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgKz0gJycuam9pbihncm91cCkK</text>
+        <text encoding="base64">CmRlZiBkZV9vbmlvbihzKToKICAgIGwgPSBsaXN0KHMpCiAgICBpID0gbGVuKGwpIC0gMgogICAgd2hpbGUgaSA+PSAwOgogICAgICAgIGogPSBpICsgMQogICAgICAgIHdoaWxlIGogPCBsZW4obCk6CiAgICAgICAgICAgIGlmIGxbal0gPT0gbFtpXToKICAgICAgICAgICAgICAgIHByaW50KGwsIGksIGosIGxbaV0sIGxbal0pCiAgICAgICAgICAgICAgICBsID0gcmV2ZXJzZV9zdWJsaXN0KGwsIGksIGogKyAxKQogICAgICAgICAgICAgICAgYnJlYWsKCiAgICAgICAgICAgIGogKz0gMQogICAgICAgIGkgLT0gMQogICAgcmV0dXJuICIiLmpvaW4obCkKCgpwcmludChkZV9vbmlvbihzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsaWYgaSAlIDA6Cg==</text>
+        <text encoding="base64">ZGVmIHJldmVyc2Vfc3VibGlzdChsc3Qsc3RhcnQsZW5kKToKICAgIGxzdFtzdGFydDplbmRdID0gbHN0W3N0YXJ0OmVuZF1bOjotMV0KICAgIHJldHVybiBsc3QK</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
