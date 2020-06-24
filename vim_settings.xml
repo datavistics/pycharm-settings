@@ -45,8 +45,8 @@
         <entry>action $SelectAll</entry>
         <entry>action ImplementMethods</entry>
         <entry>action SaveAll</entry>
-        <entry>action $Paste</entry>
         <entry>nohlsearch</entry>
+        <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -203,12 +203,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1593023311132">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1593023401582">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="4" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="24" column="4" />
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/Makefile" timestamp="1590823787136">
         <mark key="[" line="3" column="36" />
@@ -457,7 +457,7 @@
         <text encoding="base64">ICAgICAgICBwcmludChvdXQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>action $Paste</text>
       </register>
     </registers>
   </component>
