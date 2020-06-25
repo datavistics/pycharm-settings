@@ -203,12 +203,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1593023401582">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1593024082555">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="38" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="6" />
+        <mark key="." line="27" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/Makefile" timestamp="1590823787136">
         <mark key="[" line="3" column="36" />
@@ -376,8 +376,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihzdGVwMSksIDIpOgo=</text>
+      <register name="&quot;" type="4">
+        <text>'a DaMnED mEssAge'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -418,43 +418,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>:action $</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cyA9ICdhIGRhbW5lZCBtZXNzYWdlJwo=</text>
+      <register name="0" type="4">
+        <text>'a DaMnED mEssAge'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihzdGVwMSksIDIpOgo=</text>
+        <text encoding="base64">cHJpbnQoc3dpc3MocykpCg==</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGVwMQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihzdGVwMSksIDIpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text>print(sorted('a A'))</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGVwMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2pQCg==</text>
+        <text>print(sorted('a A'))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2pQCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobWFkZGVuKHMpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQobWFkZGVuKHMpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYWRkZW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChtYWRkZW4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
