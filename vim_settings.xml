@@ -35,7 +35,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFNlbGVjdEFsbA==</entry>
         <entry>action Find</entry>
         <entry>set easymotion</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
@@ -46,6 +45,7 @@
         <entry>action ImplementMethods</entry>
         <entry>action SaveAll</entry>
         <entry>nohlsearch</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry>action $Paste</entry>
       </history-cmd>
       <history-expr />
@@ -186,6 +186,12 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/tricky.py" timestamp="1594051505051">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="21" column="17" />
+      </file>
       <file name="/a.dummy" timestamp="1591811608180">
         <mark key="[" line="0" column="1" />
       </file>
@@ -194,9 +200,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/1.0-dt-eda.ipynb" timestamp="1590817031336">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dotfiles/custom.js" timestamp="1590835618961">
         <mark key="[" line="5" column="23" />
@@ -377,7 +380,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'a DaMnED mEssAge'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -418,43 +421,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:action $</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>network</text>
       </register>
-      <register name="0" type="4">
-        <text>'a DaMnED mEssAge'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3V0ICs9ICcnLmpvaW4oW2NbMl0sIGNbMF0sIGNbMV1dKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc3dpc3MocykpCg==</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihzdGVwMSksIDIpOgo=</text>
+        <text encoding="base64">cHJpbnQoc3dpc3MocykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGVwMQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIGxlbihzdGVwMSksIDIpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text>print(sorted('a A'))</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGVwMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2pQCg==</text>
+        <text>print(sorted('a A'))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2pQCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQobWFkZGVuKHMpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQobWFkZGVuKHMpKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtYWRkZW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action $Paste</text>
