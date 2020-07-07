@@ -206,12 +206,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1593024082555">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1594130118181">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="6" />
-        <mark key="." line="27" column="11" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="10" />
+        <mark key="^" line="31" column="9" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/Makefile" timestamp="1590823787136">
         <mark key="[" line="3" column="36" />
@@ -379,8 +379,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>123231312123231312123231312123</text>
+      <register name="&quot;" type="2">
+        <text>'aD MaEND'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -427,7 +427,7 @@
         <text>network</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0ICs9ICcnLmpvaW4oW2NbMl0sIGNbMF0sIGNbMV1dKQo=</text>
+        <text>'aD MaEND'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IAo=</text>
