@@ -134,7 +134,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1591197301948">
+      <file name="/Dummy.txt" timestamp="1594372581489">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1594372906917">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="22" />
@@ -206,12 +209,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1594132836382">
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/swiss.py" timestamp="1594133031377">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="34" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="0" />
         <mark key="^" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/Makefile" timestamp="1590823787136">
         <mark key="[" line="3" column="36" />
@@ -249,12 +252,6 @@
         <mark key="]" line="2" column="5" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/requirements.txt" timestamp="1590817196726">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
