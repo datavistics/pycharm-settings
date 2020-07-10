@@ -42,11 +42,11 @@
         <entry>action $Copy</entry>
         <entry>action $SelectAll</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action SaveAll</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
-        <entry>action $Paste</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry>action $Paste</entry>
+        <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -169,11 +169,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/cleaning/campaign.py" timestamp="1591198232763">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/cleaning/campaign.py" timestamp="1594384090217">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/onion.py" timestamp="1591863455507">
         <mark key="'" line="10" column="0" />
@@ -457,7 +457,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
   </component>
