@@ -58,6 +58,14 @@
           <option name="url" value="https://github.com/donnemartin/interactive-coding-challenges.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/thiswillbeyourgithub/pdf2anki.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="datavistics" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ditho\Projects" />
