@@ -44,9 +44,9 @@
         <entry>action ImplementMethods</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
+        <entry>nohlsearch</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
-        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,12 +143,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pdf2anki/pdf2anki.py" timestamp="1594994166475">
+      <file name="$USER_HOME$/Projects/pdf2anki/pdf2anki.py" timestamp="1594998922214">
         <mark key="'" line="32" column="2" />
-        <mark key="[" line="115" column="26" />
-        <mark key="]" line="115" column="26" />
-        <mark key="^" line="115" column="7" />
-        <mark key="." line="115" column="26" />
+        <mark key="[" line="134" column="8" />
+        <mark key="]" line="134" column="18" />
+        <mark key="^" line="134" column="18" />
+        <mark key="." line="134" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/docker-compose.yml" timestamp="1594372906917">
         <mark key="'" line="1" column="0" />
@@ -380,7 +380,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>print</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -421,7 +421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpXD4=</text>
@@ -460,7 +460,7 @@
         <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>action SaveAll</text>
       </register>
     </registers>
   </component>
