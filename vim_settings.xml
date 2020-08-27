@@ -40,12 +40,12 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJEN1dA==</entry>
         <entry>action $Copy</entry>
-        <entry>action $SelectAll</entry>
         <entry>action ImplementMethods</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>nohlsearch</entry>
         <entry>action $Paste</entry>
+        <entry>action $SelectAll</entry>
         <entry>action SaveAll</entry>
       </history-cmd>
       <history-expr />
@@ -137,7 +137,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594998936458">
+      <file name="/Dummy.txt" timestamp="1598546281305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -157,7 +157,7 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="/Python Console" timestamp="1593022551273">
+      <file name="/Python Console" timestamp="1598546138949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="30" />
@@ -226,6 +226,13 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1598547045899">
+        <mark key="'" line="19" column="46" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="19" column="47" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/src/game_solver.py" timestamp="1591811312671">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="20" column="24" />
@@ -245,11 +252,6 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/env_template" timestamp="1590837950310">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/docker/requirements.txt" timestamp="1591201073130">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="2" column="5" />
@@ -258,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="48" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
-      <jump line="131" column="42" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/map.py" />
       <jump line="238" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
       <jump line="244" column="0" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
       <jump line="6" column="48" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/generals_io_replay_utils/game.py" />
@@ -358,6 +358,8 @@
       <jump line="129" column="38" filename="$USER_HOME$/Projects/pdf2anki/pdf2anki.py" />
       <jump line="115" column="4" filename="$USER_HOME$/Projects/pdf2anki/pdf2anki.py" />
       <jump line="32" column="2" filename="$USER_HOME$/Projects/pdf2anki/pdf2anki.py" />
+      <jump line="8" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="19" column="46" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -430,34 +432,34 @@
         <text encoding="base64">IyMgUHl0aG9uIGluc3RhbGxhdGlvbgpgcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dGAK</text>
       </register>
       <register name="1" type="2">
-        <text>Add pip install instructions</text>
+        <text encoding="base64">dCA9bGlzdCgpCnByaW50KHQpCg==</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bj1sZW4ocGF0aHMpCg==</text>
+        <text encoding="base64">ZnJvbSBQeURpY3Rpb25hcnkgaW1wb3J0IFB5RGljdGlvbmFyeQoKZGljdGlvbmFyeT1QeURpY3Rpb25hcnkoKQppbl9zID0gImVjIGV2YWF2anIgdnIgcHZnbyB2YSByankgZW96b3BjIHlqIGFmenN2c28gbGZ5IHlqIHlrenZzbyBkcnEgeWogcWogbXZ5ayBhamVvIgpmb3IgaSBpbiByYW5nZSgyNik6CiAgICBvdXQgPSAiIgogICAgZm9yIHdvcmQgaW4gaW5fcy5zcGxpdCgnICcpOgogICAgICAgIGZvciBsZXR0ZXIgaW4gd29yZDoKICAgICAgICAgICAgYW5jaG9yZWQgPSBvcmQobGV0dGVyKSAtIDI3CiAgICAgICAgICAgIGFuY2hvcmVkICs9IGkKICAgICAgICAgICAgYW5jaG9yZWQgJT0gMjYKICAgICAgICAgICAgYW5jaG9yZWQgKz0gOTcKICAgICAgICAgICAgb3V0ICs9IGNocihhbmNob3JlZCkKICAgICAgICBvdXQgKz0gJyAnCiAgICBwcmludChpLCBvdXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIFN0ZXAgOiAiLGksIi8iLG4sLCIgICgiLHN0cihpbnQoaSkvaW50KG4pKjEwMCkgIiUpICMiKQo=</text>
+        <text>Add pip install instructions</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpPWkrMQo=</text>
+        <text encoding="base64">bj1sZW4ocGF0aHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aT0wCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIFN0ZXAgOiAiLGksIi8iLG4sLCIgICgiLHN0cihpbnQoaSkvaW50KG4pKjEwMCkgIiUpICMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvcGRmMmFua2kuaW1sCg==</text>
+        <text encoding="base64">ICAgICAgICBpPWkrMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
+        <text encoding="base64">aT0wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWEvbWlzYy54bWwK</text>
+        <text encoding="base64">LmlkZWEvcGRmMmFua2kuaW1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzLwo=</text>
+        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveAll</text>
