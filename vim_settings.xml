@@ -32,7 +32,6 @@
         <entry>edit C:\Users\ditho\PycharmProjects\generals_io_simulator\replays\gioreplays\Spraget\H5FPm915V.gioreplay</entry>
         <entry>636</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJFNlbGVjdEFsbA==</entry>
-        <entry>action Find</entry>
         <entry>set easymotion</entry>
         <entry>w</entry>
         <entry>wq</entry>
@@ -47,6 +46,7 @@
         <entry>q</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -239,12 +239,12 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" timestamp="1598549802809">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="16" />
-        <mark key="^" line="55" column="16" />
-        <mark key="." line="55" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" timestamp="1598551507280">
+        <mark key="'" line="17" column="16" />
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/da_campaign_hu/scripts/jupyter_setup.sh" timestamp="1591201990437">
         <mark key="'" line="2" column="42" />
@@ -260,20 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="10" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
-      <jump line="644" column="41" filename="$USER_HOME$/Projects/end2end_neural_el/code/preprocessing/prepro_util.py" />
-      <jump line="29" column="46" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/prepro_other_datasets.py" />
-      <jump line="118" column="58" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="97" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="114" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="135" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="361" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="20" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="31" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="50" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="76" column="9" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/util.py" />
-      <jump line="2" column="16" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
-      <jump line="3" column="28" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
       <jump line="22" column="10" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
       <jump line="32" column="11" filename="$USER_HOME$/Projects/end2end_neural_el/src/preprocessing/torchtext/prepro_tt.py" />
@@ -347,19 +333,33 @@
       <jump line="28" column="16" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="44" column="15" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="49" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="71" column="14" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="46" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
       <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="67" column="19" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="19" column="10" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="0" column="27" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
+      <jump line="17" column="16" filename="$USER_HOME$/PycharmProjects/QEWASD/as_and_bs.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -382,7 +382,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>, total=5 ** rep)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -423,46 +423,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>, total=5 ** rep)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtYXRoLnByb2QodmFsdWVzKSA+PSBiZXN0OgogICAgICAgICAgICBiZXN0ID0gbWF0aC5wcm9kKHZhbHVlcykKICAgICAgICAgICAgYmVzdF9zZXEgPSBzZXEsIHZhbHVlcwoKICAgIHRxZG0ud3JpdGUoZid7bWF4X3JlcH0sIHtiZXN0X3NlcX0sIHtiZXN0fScpCg==</text>
+      <register name="0" type="4">
+        <text>product(range(5), repeat=rep), total=5 ** rep</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEEgPSAwCiAgICBCID0gMAogICAgY2xpY2tpbmNvbWUgPSAxCiAgICBsMWNvc3QgPSA1CiAgICBsMmNvc3QgPSA3CiAgICBsM2Nvc3QgPSAxMQo=</text>
+        <text encoding="base64">ZGVmIGYoc2VxKToK</text>
       </register>
       <register name="q" type="4">
         <text>g@i`[wg@a`['hx%</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmKHNlcSk6CiAgICAgICAgYWIgPSBBQigpCiAgICAgICAgZm9yIGFjdGlvbiBpbiBzZXE6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIGFiLmlkeF90b19hY3Rpb24oYWN0aW9uKQogICAgICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
+        <text encoding="base64">ZGVmIGYoc2VxKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
+        <text encoding="base64">ZGVmIGYoc2VxKToKICAgIGJlc3QsIHJlcCA9IDAsIDkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dCA9bGlzdCgpCnByaW50KHQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBQeURpY3Rpb25hcnkgaW1wb3J0IFB5RGljdGlvbmFyeQoKZGljdGlvbmFyeT1QeURpY3Rpb25hcnkoKQppbl9zID0gImVjIGV2YWF2anIgdnIgcHZnbyB2YSByankgZW96b3BjIHlqIGFmenN2c28gbGZ5IHlqIHlrenZzbyBkcnEgeWogcWogbXZ5ayBhamVvIgpmb3IgaSBpbiByYW5nZSgyNik6CiAgICBvdXQgPSAiIgogICAgZm9yIHdvcmQgaW4gaW5fcy5zcGxpdCgnICcpOgogICAgICAgIGZvciBsZXR0ZXIgaW4gd29yZDoKICAgICAgICAgICAgYW5jaG9yZWQgPSBvcmQobGV0dGVyKSAtIDI3CiAgICAgICAgICAgIGFuY2hvcmVkICs9IGkKICAgICAgICAgICAgYW5jaG9yZWQgJT0gMjYKICAgICAgICAgICAgYW5jaG9yZWQgKz0gOTcKICAgICAgICAgICAgb3V0ICs9IGNocihhbmNob3JlZCkKICAgICAgICBvdXQgKz0gJyAnCiAgICBwcmludChpLCBvdXQpCg==</text>
+        <text encoding="base64">ICAgIEEgPSAwCiAgICBCID0gMAogICAgY2xpY2tpbmNvbWUgPSAxCiAgICBsMWNvc3QgPSA1CiAgICBsMmNvc3QgPSA3CiAgICBsM2Nvc3QgPSAxMQo=</text>
       </register>
       <register name="7" type="2">
-        <text>Add pip install instructions</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bj1sZW4ocGF0aHMpCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIFN0ZXAgOiAiLGksIi8iLG4sLCIgICgiLHN0cihpbnQoaSkvaW50KG4pKjEwMCkgIiUpICMiKQo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text>action Find</text>
       </register>
     </registers>
   </component>
