@@ -38,7 +38,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gJEN1dA==</entry>
         <entry>action $Copy</entry>
         <entry>action ImplementMethods</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gJENvcHk=</entry>
         <entry>nohlsearch</entry>
         <entry>action Replace</entry>
@@ -47,6 +46,7 @@
         <entry>action Find</entry>
         <entry>action $Paste</entry>
         <entry>action SaveAll</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -157,11 +157,11 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/nlp_js/docker/Dockerfile" timestamp="1599289430734">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/nlp_js/docker/Dockerfile" timestamp="1599290075012">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
         <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="39" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="/Python Console" timestamp="1598546138949">
         <mark key="[" line="0" column="0" />
@@ -380,7 +380,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.gitignore</text>
+        <text encoding="base64">cHVsbCA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -421,7 +421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.gitignore</text>
+        <text encoding="base64">cHVsbCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpXD4=</text>
@@ -460,7 +460,7 @@
         <text encoding="base64">ZGVmIGYoc2VxKToKICAgIGJlc3QsIHJlcCA9IDAsIDkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveAll</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gJFBhc3Rl</text>
       </register>
     </registers>
   </component>
