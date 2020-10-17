@@ -23,6 +23,7 @@
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="gior" type="PLAIN_TEXT" />
+      <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="allx" type="PLAIN_TEXT" />
       <mapping ext="fet" type="XML" />
       <removed_mapping ext="gioreplay" approved="true" type="PLAIN_TEXT" />
