@@ -9,8 +9,8 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="daa" type="PLAIN_TEXT" />
       <mapping pattern="blah" type="PLAIN_TEXT" />
-      <mapping pattern="2017-09-15--23-57-42" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="2017-09-15--23-57-42" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="Your Brain's API" type="PLAIN_TEXT" />
