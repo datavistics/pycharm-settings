@@ -24,6 +24,7 @@
       <mapping ext="sprouse" type="PLAIN_TEXT" />
       <mapping ext="gior" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
+      <mapping ext="t2v" type="PLAIN_TEXT" />
       <mapping ext="allx" type="PLAIN_TEXT" />
       <mapping ext="fet" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
