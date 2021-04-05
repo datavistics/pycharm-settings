@@ -1,0 +1,13 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="f8fd29e3-8307-4c0d-a1bc-d817feeb26c5" name="datavistics">
+      <server host="github.com" />
+    </account>
+    <account id="3be4f4af-586c-49d9-9b70-43d5e2c863ae" name="datavistics">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>

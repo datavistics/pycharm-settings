@@ -1,0 +1,38 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern=".gioreplay" type="JSON" />
+      <mapping ext="gioreplay" type="JSON" />
+      <mapping ext="geojson" type="JSON" />
+      <mapping pattern="Good Models vs Good Results.md" type="Markdown" />
+      <mapping ext="ipynb-meta" type="Markdown" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="daa" type="PLAIN_TEXT" />
+      <mapping pattern="blah" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="2017-09-15--23-57-42" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="Your Brain's API" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="graph" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="sprouse" type="PLAIN_TEXT" />
+      <mapping ext="gior" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="xcf" type="PLAIN_TEXT" />
+      <mapping ext="t2v" type="PLAIN_TEXT" />
+      <mapping ext="allx" type="PLAIN_TEXT" />
+      <mapping ext="fet" type="XML" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="gioreplay" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
