@@ -118,6 +118,14 @@
           <option name="url" value="http://analytics.coda.ae&quot;" />
           <option name="userName" value="dthomas@coda.ae" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.200.11.21:8929/gitlab/adoc/machine-learning/language-identification" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.200.11.21:8929" />
+          <option name="userName" value="dthomas@coda.ae" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects" />
