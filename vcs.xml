@@ -106,9 +106,37 @@
           <option name="url" value="https://analytics.coda.ae/gitlab/adoc/machine-learning/sentiment/production/stance-modeling" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@10.200.11.21:2289/adoc/machine-learning/ner/multilingual-ner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://analytics.coda.ae/gitlab/adoc/machine-learning/sentiment/english-twitter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://analytics.coda.ae&quot;" />
+          <option name="userName" value="dthomas@coda.ae" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.200.11.21:8929/gitlab/adoc/machine-learning/language-identification" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.200.11.21:8929" />
+          <option name="userName" value="dthomas@coda.ae" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.200.11.21:8929/gitlab/adoc/machine-learning/ner/english-ner" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@10.200.11.21:2289/adoc/machine-learning/sentiment/multilingual-twitter-sentiment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
