@@ -134,6 +134,10 @@
           <option name="url" value="ssh://git@10.200.11.21:2289/adoc/machine-learning/sentiment/multilingual-twitter-sentiment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@10.200.11.21:2289/dthomas/geoparsing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
