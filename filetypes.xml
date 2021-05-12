@@ -20,6 +20,7 @@
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="graph" type="PLAIN_TEXT" />
+      <mapping ext="onnx" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
