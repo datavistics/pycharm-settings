@@ -810,6 +810,12 @@
         <mark key="^" line="324" column="19" />
         <mark key="." line="650" column="42" />
       </file>
+      <file name="$USER_HOME$/Downloads/lastpass_export.csv" timestamp="1622310405085">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="41" column="10" filename="$USER_HOME$/PycharmProjects/generals_io_simulator/hand_crafted/simulator.py" />
