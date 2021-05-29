@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:20}" host="10.71.1.86" id="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" keyPath="$USER_HOME$/.ssh/coda-dev-02112021.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</application>
