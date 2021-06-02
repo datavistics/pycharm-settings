@@ -1,22 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="712f8dcd-4023-4c72-91d0-66900de05da1" name="ubuntu@10.71.1.86:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="10.71.1.86" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@10.71.1.86:22 key" keyPair="true">
+      <webServer id="712f8dcd-4023-4c72-91d0-66900de05da1" name="rec-twitter" url="http:///">
+        <fileTransfer accessType="SFTP" host="rec-twitter" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@rec-twitter:22 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="20000" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="0779e4fa-4998-4269-a641-0f1e92eaa142" name="ubuntu@10.71.1.86:22 key">
-        <fileTransfer accessType="SFTP" host="10.71.1.86" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@10.71.1.86:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" host="rec-twitter" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@rec-twitter:22 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="20000" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="913e0348-3484-43b4-bf41-11595ed42de3" name="ubuntu@10.71.1.86:22 key (1)">
-        <fileTransfer accessType="SFTP" host="10.71.1.86" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@10.71.1.86:22 key" keyPair="true">
+        <fileTransfer accessType="SFTP" host="rec-twitter" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@rec-twitter:22 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="20000" />
           </advancedOptions>
