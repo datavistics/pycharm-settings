@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:20}" host="rec-twitter" id="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:20}" host="reddit-rec" id="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
     </configs>
   </component>
 </application>
