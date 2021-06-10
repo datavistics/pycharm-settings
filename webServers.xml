@@ -2,9 +2,9 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="712f8dcd-4023-4c72-91d0-66900de05da1" name="rec-twitter" url="http:///">
-        <fileTransfer accessType="SFTP" host="reddit-rec" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@reddit-rec:22 agent" authAgent="true">
+        <fileTransfer accessType="SFTP" host="twitter-rec" port="22" sshConfigId="82bd0bba-ef09-4e1e-a5f1-7e0f4bb60ddc" sshConfig="ubuntu@twitter-rec:22 agent" authAgent="true">
           <advancedOptions>
-            <advancedOptions keepAliveTimeout="20000" />
+            <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
