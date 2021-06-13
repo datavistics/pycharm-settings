@@ -29,6 +29,7 @@
       <mapping ext="gior" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="t2v" type="PLAIN_TEXT" />
       <mapping ext="allx" type="PLAIN_TEXT" />
