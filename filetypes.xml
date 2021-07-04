@@ -26,6 +26,7 @@
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="sprouse" type="PLAIN_TEXT" />
       <mapping ext="gior" type="PLAIN_TEXT" />
+      <mapping ext="numbers" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
