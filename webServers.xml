@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="712f8dcd-4023-4c72-91d0-66900de05da1" name="rec-twitter" url="http:///">
+        <fileTransfer accessType="SFTP" sshConfigId="82bd0bba-ef09-4e1e-a5f1-7e0f4bb60ddc" sshConfig="ubuntu@twitter-rec:22 agent">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0779e4fa-4998-4269-a641-0f1e92eaa142" name="ubuntu@10.71.1.86:22 key">
+        <fileTransfer accessType="SFTP" host="gpu" port="22" sshConfigId="13eb0ef9-5758-49ae-83f0-a006b5852221" sshConfig="ubuntu@gpu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="913e0348-3484-43b4-bf41-11595ed42de3" name="ubuntu@10.71.1.86:22 key (1)">
+        <fileTransfer accessType="SFTP" host="reddit-rec" port="22" sshConfigId="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" sshConfig="ubuntu@reddit-rec:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="20000" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

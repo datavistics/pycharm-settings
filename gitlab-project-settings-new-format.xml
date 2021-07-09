@@ -1,0 +1,19 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="MtqPRobp5sLDmEkJfWPh" />
+          <option name="apiUrl" value="https://analytics.coda.ae/gitlab/" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="analytics.coda.ae" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="WqUczHyxDSZuX7Bj3yG3" />
+          <option name="apiUrl" value="https://analytics.coda.ae/gitlab" />
+          <option name="repositoryUrl" value="analytics.coda.ae" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
