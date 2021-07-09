@@ -182,21 +182,12 @@
           <option name="url" value="ssh://git@10.200.11.21:2289/adoc/engineering/aws-recreation/socialgist-collector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/datavistics/LeetCode" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+    <option name="cloneParentDir" value="C:\Users\ditho\projects" />
   </component>
 </application>
