@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="7aca6f66-0c70-4b6e-937e-df7bbb0741f8" name="ec2-user@34.220.178.90:22 key">
-        <fileTransfer accessType="SFTP" host="34.220.178.90" port="22" sshConfigId="6839d8fd-939b-4e14-a49e-5f1302643c0f" sshConfig="ec2-user@34.220.178.90:22 key" keyPair="true" />
-      </webServer>
-    </option>
-  </component>
-</application>
