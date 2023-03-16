@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:20}" host="reddit-rec" id="0bfd8a1d-e9d8-4313-b6b8-a142de5fab4d" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="34.220.178.90" id="6839d8fd-939b-4e14-a49e-5f1302643c0f" keyPath="C:\Users\ditho\.ssh\toptal.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
